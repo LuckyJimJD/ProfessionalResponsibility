@@ -1,0 +1,190 @@
+.post-header {
+    margin-bottom: $vertical-spacing-unit;
+}
+.post-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        border-bottom: 1px solid $light-gray;
+        padding-bottom: $space-3;
+        padding-top: $space-3;
+    }
+}
+.post-title {
+    font-size: 2.5rem;
+    color: $dark_red;
+    line-height: 1;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.post-content {
+    h2 {
+        font-size: 2rem;
+        color: $dark_red;
+    }
+    h3 {
+        font-size: 1.6rem;
+    }
+    h4 {
+        font-size: 1.25rem;
+    }
+    h2 + h3,
+    h2 + h4,
+    h3 + h4 {
+        margin-top: 0.8125rem;
+    }
+}
+.post-meta {
+    color: $grey-color;
+    font-size: $small-font-size;
+    margin-bottom: 0px;
+}
+.post-link {
+    display: block;
+    font-size: 42px;
+}
+
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1rem;
+}
+
+ul li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.syllabus {
+    font-family: 'Cormorant Garamond',serif;
+}
+
+.syllabus p {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 1.2rem;
+}
+
+.syllabus h1 {
+    counter-reset: h2;
+    font-size: 2rem;
+    margin-top: 3.2rem;
+    margin-bottom: 1.3rem;
+    padding: 0;
+    color: $dark_red;
+}
+
+.syllabus h2 {
+    counter-reset: h3;
+    font-size: 1.6rem;
+    margin-top: 2.6rem;
+    margin-bottom: 0.8125rem;
+}
+
+.syllabus h3 {
+    counter-reset: h4;
+    font-size: 1.25rem;
+    margin-top: 2.4rem;
+    margin-bottom: 0.8125rem;
+}
+
+.syllabus h4 {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 2rem;
+    margin-bottom: 0.8125rem;
+}
+
+.syllabus h5 {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 1.6rem;
+    font-style: italic;
+    margin-top: 1.625rem;
+    margin-bottom: 3rem;
+}
+
+.syllabus h6 {
+    font-family: 'Proza Libre', Helvetica, sans-serif;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1;
+}
+
+
+.syllabus h1 + h2 {
+    margin-top: 1.625rem;
+}
+
+.syllabus h1 + h3 {
+    margin-top: 1rem;
+}
+
+.syllabus h1 + h4 {
+    margin-top: 1.2rem;
+}
+
+.syllabus h1 + h5 {
+    margin-top: 1rem;
+}
+
+.syllabus h2 + h3,
+.syllabus h2 + h4,
+.syllabus h3 + h4 {
+    margin-top: 0.8125rem;
+}
+
+.syllabus h2:before {counter-increment: h2; content: counter(h2) ". "}
+ 
+.syllabus h3:before {counter-increment: h3; content: counter(h2) "." counter(h3) ". "}
+
+.syllabus h2.nocount:before, h3.nocount:before { content: ""; counter-increment: none } 
+
+.syllabus ul li {
+    font-size: 1rem;
+}
+
+@media only screen
+and (max-device-width:576px){
+    .post-title {
+        font-size: 2rem;
+    }
+    .post-content {
+        h2 {
+            font-size: 1.2rem;
+        }
+        h3 {
+            font-size: 1rem;
+        }
+        h4 {
+            font-size: .875rem;
+        }
+    }
+    ul {
+        font-size: .8rem;
+    }
+    .syllabus p {
+        font-size: 1rem;
+    }
+    .syllabus h1 {
+        font-size: 1.5rem;
+    }
+    .syllabus h2 {
+        font-size: 1.2rem;
+    }
+    .syllabus h3 {
+        font-size: 1rem;
+    }
+    .syllabus h4 {
+        font-size: 1rem;
+    }
+    .syllabus h5 {
+        font-size: 1rem;
+    }
+    .syllabus h6 {
+        font-size: .8rem;
+        line-height: .8;
+    }
+}
