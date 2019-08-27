@@ -1,6 +1,6 @@
 ---
-url: https://emfink.net # the base hostname & protocol for your site
-baseurl: /ProfessionalResponsibility # the subpath of your site, e.g. /blog/
+url: https://professionalresponsibility.emfink.net # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 title: Professional Responsibility 
 description:  # leave blank if you don't want to display a description 
 last_updated: 26 August 2019 # leave blank if you don't want to display last updated
