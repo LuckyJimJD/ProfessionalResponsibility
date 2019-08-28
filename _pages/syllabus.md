@@ -37,13 +37,15 @@ The course website, [`emfink.net/ProfessionalResponsibility`](http://emfink.net/
 
 # Policies 
 
-##### Grading
+#### Grading
 
-Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%). The in-class performance component depends on your preparation before class,[^2] regular and prompt class attendance, and constructive engagement during class. The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam. 
+Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%). 
 
-[^2]: Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam. 
 
-##### Attendance 
+The in-class performance component depends on your preparation before class, regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+
+#### Attendance 
 
 Elon Law School has adopted the following attendance policy for all courses: 
 
@@ -57,7 +59,7 @@ Excessive absences (more than 2 classes) may result in a reduction of your grade
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
 
-##### Honor Code 
+#### Honor Code 
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations. 
 
@@ -97,7 +99,7 @@ The Law School honor code applies to all activities related to your law school s
 - Casebook: Chapters 19-24
 - ABA Model Rules: 
 
-####  Quiz 1: Maintaining an Ethical Law Practice
+#####  Quiz 1: Maintaining an Ethical Law Practice
 
 
 ## Duties to Clients 
@@ -137,7 +139,7 @@ The Law School honor code applies to all activities related to your law school s
 - Casebook: Chapters 41 & 42
 - ABA Model Rules: 
 
-#### Quiz 2: Duties to Clients
+##### Quiz 2: Duties to Clients
 
 
 ## Limits on Zealous Advocacy
@@ -162,4 +164,4 @@ The Law School honor code applies to all activities related to your law school s
 - Casebook: Chapters 51-54 
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-#### Quiz 3: Limits on Zealous Advocacy
+##### Quiz 3: Limits on Zealous Advocacy
