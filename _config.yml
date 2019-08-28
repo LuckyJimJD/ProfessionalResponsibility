@@ -27,6 +27,7 @@ footer_text: >
 
 # Build settings
 markdown: kramdown
+remote_theme: luckyjimjd/CourseTheme
 
 # Includes & excludes
 include: ['_pages']
