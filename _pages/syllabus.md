@@ -1,16 +1,15 @@
 ---
-layout: page 
-
-date: 2019-04-12
-
-title: 'Professional Responsibility'
-
-author: 'Eric M. Fink'
-affiliation: 'Elon Law School'
-email: 'efink@elon.edu'
-phone: '336.279.9334'
-
-term: 'Fall 2019'  
+layout: syllabus
+permalink: /syllabus/
+title: Syllabus
+author: Eric M. Fink
+affiliation: Elon Law School
+email: efink@elon.edu
+phone: 336-279-9334
+address1: 201 North Greene Street
+address2: Greensboro, North Carolina 27401
+course: 'Professional Responsibility'
+term: 'Fall 2019' 
 days: 'Monday & Wednesday, 3:00 - 4:15 pm'
 room: Room 204
 
