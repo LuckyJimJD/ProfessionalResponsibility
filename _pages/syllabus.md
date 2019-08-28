@@ -1,46 +1,50 @@
 ---
-layout: syllabus
-permalink: /syllabus/
-title: Syllabus
-author: Eric M. Fink
-affiliation: Elon Law School
-email: efink@elon.edu
-phone: 336-279-9334
-address1: 201 North Greene Street
-address2: Greensboro, North Carolina 27401
-course: 'Civil Procedure'
-term: 'Fall 2019'
-days: 'Mondays, Wednesdays, & Fridays, 9:00 – 10:45 am'
-room: 'Room 207'
+layout: page 
 
-output: 
+date: 2019-04-12
+
+title: 'Professional Responsibility'
+
+author: 'Eric M. Fink'
+affiliation: 'Elon Law School'
+email: 'efink@elon.edu'
+phone: '336.279.9334'
+
+term: 'Fall 2019'  
+days: 'Monday & Wednesday, 3:00 - 4:15 pm'
+room: Room 204
+
+output:
   pdf_document:
     latex_engine: xelatex
     template: syllabus.latex
-  
+
 ---
 
 # Description
 
-In this course, you will learn about the procedures for civil suits. You will also learn how to understand and use primary legal texts (constitutions, statutes, rules, & judicial opinions) as tools for analyzing legal problems. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
+This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to ethical issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
 
-Topics to be covered include the selection of an appropriate forum, the scope of a lawsuit, the presentation of claims and defenses, disposition without a trial, the choice of applicable law, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. 
+# Course Material
+
+Leah Christensen & Brooks Holland, Learning Professional Responsibility (2d ed., West Academic 2018) ("Casebook")
+    
+ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents.html) and various print editions)
+
+Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015) 
+
+The course website, [`emfink.net/ProfessionalResponsibility`](http://emfink.net/ProfessionalResponsibility/), has links to legal authorities, subject outlines, and study aids.
+
 
 # Policies 
 
-#### Grading
+##### Grading
 
-Your final grade for the term will be based on four quizzes (5% each; 20% total), a final exam (70%), and in-class performance (10%). 
+Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%). The in-class performance component depends on your preparation before class,[^2] regular and prompt class attendance, and constructive engagement during class. The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam. 
 
-The quizzes will consist of multiple choice questions. These will be given in class and will be open-book/open-notes. Dates for the quizzes will be announced at least one week in advance. 
+[^2]: Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
-The final exam will consist of essay and short-answer questions. It will be given during the final exam period and will be closed-book/closed-notes. 
-
-The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing simulation problems), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
-
-[^1]: 
-
-#### Attendance 
+##### Attendance 
 
 Elon Law School has adopted the following attendance policy for all courses: 
 
@@ -50,165 +54,109 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 Excessive absences (more than 2 classes) may result in a reduction of your grade.
 
-#### Disability Accommodations 
+##### Honor Code 
 
-For disability accommodation requests, contact the Law School [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
+The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations. 
 
-#### Honor Code 
+# Topical Outline & Reading Assignments
 
-The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
+## Law as a Regulated Profession 
 
-# Materials
+### Professional Gatekeeping & Regulation 
 
-Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
+- Casebook: Chapters 1-4
+- ABA Model Rules: Preamble & Scope 
 
-The course website, [`emfink.net/CivilProcedure`](http://emfink.net/CivilProcedure), has links to the FRCP and federal statutes, subject outlines, visual aids, and practice problems. 
+### Professional Discipline
 
+- Casebook: Chapters 5-7
+- ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
 
-# Reading Assignments & Schedule
+## Maintaining an Ethical Law Practice 
 
-## Introduction & Overview
+### Advertising & Solicitation
 
-- Casebook, Chapter 1
+- Casebook: Chapters 8-13
+- ABA Model Rules: 7.1-7.6
 
-## Personal Jurisdiction
+### The Attorney-Client Relationship 
 
-- Casebook, Chapter 2
+- Casebook: Chapters 15 & 16
+- ABA Model Rules: 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3 
 
-### Foundations of Personal Jurisdiction 
+### Attorney Fees & Client Property
 
-- U.S. Constitution, Amendments 5 & 14
-- FRCP Rule 12(b)(2)
-- Casebook, 23-36
+- Casebook: Chapters 17 & 18
+- ABA Model Rules: 1.5, 1.8, 1.15
 
-### Specific Jurisdiction 
+### Law Firms 
 
-- Casebook, 36-79; 96-106
+- Casebook: Chapters 19-24
+- ABA Model Rules: 
 
-### General Jurisdiction 
+####  Quiz 1: Maintaining an Ethical Law Practice
 
-- Casebook, 79-95
 
-##### Quiz 1: Personal Jurisdiction
+## Duties to Clients 
 
-## Subject Matter Jurisdiction 
+### Scope of Representation & Authority 
 
-- Casebook, Chapter 4
+- Casebook: Chapters 26 & 26
+- ABA Model Rules:
 
-### Introduction of Subject Matter Jurisdiction 
+### Competence & Diligence 
 
-- U.S. Constitution, Art. III, § 2
-- FRCP Rule 12(b)(1)
-- Casebook, 153-57
+- Casebook: Chapters 28 & 29 
+- ABA Model Rules: 1.1, 1.3, 1.14, 2.1
 
-### Diversity Jurisdiction 
+### Communicating with Clients
 
-- 28 U.S.C. § 1332
-- Casebook, 157-80
+- Casebook: Chapters 30 & 31 
+- ABA Model Rules: 1.2, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
 
-### Federal Question Jurisdiction 
+### Confidentiality & Privileges 
 
-- 28 U.S.C. § 1331
-- Casebook, 180-205
+- Casebook: Chapters 32 & 33
+- ABA Model Rules: 1.6, 1.9(c), 1.13, 1.18, 4.4(b)
 
-### Supplemental Jurisdiction 
+### Conflicts of Interest
 
-- 28 U.S.C. § 1367
-- Casebook, 205-17
+- Casebook: Chapters 34-38
+- ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5 
 
-### Removal 
+### Special Client Issues: Diminished Capacity & Organizations 
 
-- 28 U.S.C. §§ 1441, 1446, 1447, 1448
-- Casebook, 217-18
+- Casebook: Chapters 39-40
+- ABA Model Rules: 
 
-## Choice of Law 
+### Special Lawyer Roles: Evaluation & Third-Party Neutral 
 
-- Casebook, Chapter 6 
+- Casebook: Chapters 41 & 42
+- ABA Model Rules: 
 
-### Vertical Choice of Law: Rules of Decision Act 
+#### Quiz 2: Duties to Clients
 
-- 28 U.S.C. § 1652
-- Casebook, 266-77
 
-### Vertical Choice of Law: Rules Enabling Act 
+## Limits on Zealous Advocacy
 
-- 28 U.S.C. §§ 2072, 2073, 2074
-- Casebook, 277-311
+### Good Faith in Litigation 
 
-### Horizontal Choice of Law 
+- Casebook: Chapters 43, 44, & 46
+- ABA Model Rules: 3.1-3.9
 
-- Casebook, 311-25
+### Maintaining the Integrity of the Tribunal 
 
-##### Quiz 2: Subject Matter Jurisdiction & Choice of Law
+- Casebook: Chapters 45, 47, & 48
+- ABA Model Rules: 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
 
+### Special Lawyer Roles: Witnesses & Prosecutors 
 
-## Pleading 
+- Casebook: Chapters 49 & 50
+- ABA Model Rules:
 
-- Casebook, Chapter 7
+### Interactions with Non-Clients 
 
-### Introduction to Pleadings 
+- Casebook: Chapters 51-54 
+- ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-- FRCP Rules 7-10
-- Casebook, 327-30
-
-### Complaints 
-
-- FRCP Rules 8(a), 9(b), 12(b)(6)
-- Casebook, 330-63
-
-### Answers & Defenses 
-
-- FRCP Rule 8(b) & (c)
-- Casebook, 363-70
-
-### Amended Pleadings 
-
-- FRCP Rule 15
-- Casebook, 370-86
-
-### Truthfulness & Good Faith in Pleadings 
-
-- FRCP Rule 11
-- Casebook, 386-401
-
-## Joinder
-
-- Casebook, Chapter 8
-
-### Introduction to Joinder 
-
-- FRCP Rules 13, 14, 18, 19, 20
-- Casebook, 403-08
-
-### Joinder of Claims 
-
-- FRCP Rules 13, 18
-- Casebook, 408-22
-
-### Joinder of Parties 
-
-- FRCP Rules 14, 20 
-- Casebook, 422-45
-
-##### Quiz 3: Pleadings & Joinder
-
-## Summary Judgment
-
-- FRCP Rules 12(d) & 56
-- Casebook, 609-35
-
-## Preclusion
-
-- Casebook, Chapter 13
-
-### Claim Preclusion
-
-- Casebook, 761-82
-
-### Issue Preclusion 
-
-- Casebook, 782-807
-
-##### Quiz 4: Summary Judgment & Preclusion
-
-
+#### Quiz 3: Limits on Zealous Advocacy
