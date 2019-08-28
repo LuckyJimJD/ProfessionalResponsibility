@@ -54,6 +54,10 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 Excessive absences (more than 2 classes) may result in a reduction of your grade.
 
+#### Disability Accommodations 
+
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
+
 ##### Honor Code 
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations. 
