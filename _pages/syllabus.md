@@ -63,7 +63,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations. 
 
-# Topical Outline & Reading Assignments
+# Outline & Assignments
 
 ## Law as a Regulated Profession 
 
