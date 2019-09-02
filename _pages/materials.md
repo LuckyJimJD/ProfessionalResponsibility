@@ -8,7 +8,7 @@ title: Materials
 
 [Outline]({{ site.baseurl }}/assets/materials/LegalProfession/LegalProfession.pdf)
 
-Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MCBYA7HMzt0N--aDc)
+Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MCBYA7HMzt0N--aDc target="_blank)
 
 
 ## Advertising & Solicitation 
@@ -46,10 +46,10 @@ Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MC
 
 ## Limits on Zealous Advocacy 
 
-[Fairness & Zealous Advocacy]({{ site.baseurl }}/assets/assets/materials/Fairness/Fairness.pdf)
+[Outline]({{ site.baseurl }}/assets/assets/materials/Fairness/Fairness.pdf)
 
-[Candor & Fairness]({{ site.baseurl }}/assets/assets/materials/FairnessAdvocacy/FairnessProblems.pdf)
+[Problems]({{ site.baseurl }}/assets/assets/materials/FairnessAdvocacy/FairnessProblems.pdf)
 
-Video: [Communication with Adverse Party](https://drive.google.com/open?id=1Ig7s0p3aee82rIPsvjVzVE3uHpg3wc-c)
+Video: [Communication with Adverse Party](https://drive.google.com/open?id=1Ig7s0p3aee82rIPsvjVzVE3uHpg3wc-c target="_blank)
 
 
