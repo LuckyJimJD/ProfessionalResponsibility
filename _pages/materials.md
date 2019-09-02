@@ -4,28 +4,52 @@ permalink: /materials/
 title: Materials
 ---
 
-## Topical Outlines 
+## Law as a Regulated Profession
 
-- [The Legal Profession](/ProfessionalResponsibility/assets/pdf/outlines/Legal_Profession.pdf)
-- [The Attorney-Client Relationship](/ProfessionalResponsibility/assets/pdf/outlines/Attorney_Client.pdf)
-- [Attorney Fees & Client Property](/ProfessionalResponsibility/assets/pdf/outlines/Attorney_Fees.pdf)
-- [Advertising & Solicitation](/ProfessionalResponsibility/assets/pdf/outlines/Advertising_Solicitation.pdf)
-- [Confidentiality](/ProfessionalResponsibility/assets/pdf/outlines/Confidentiality.pdf)
-- [Conflicts of Interest](/ProfessionalResponsibility/assets/pdf/outlines/Conflicts.pdf)
-- [Fairness & Zealous Advocacy](/ProfessionalResponsibility/assets/pdf/outlines/Fairness_Advocacy.pdf)
+[Outline]({{ site.baseurl }}/assets/materials/LegalProfession/LegalProfession.pdf)
 
-## Review Problems 
-
-- [Attorney Fees & Client Property]
-- [Confidentiality](/ProfessionalResponsibility/assets/pdf/problems/Fees_Property.pdf)
-- [Candor & Fairness](/ProfessionalResponsibility/assets/pdf/problems/Candor_Fairness.pdf)
-- [Confidentiality](/ProfessionalResponsibility/assets/pdf/problems/Confidentiality.pdf)
-- [Conflicts](/ProfessionalResponsibility/assets/pdf/problems/Conflicts.pdf)
-- [Law Firms & Lawyers in Special Roles](/ProfessionalResponsibility/assets/pdf/problems/LawFirms.pdf)
-- [Organizational Clients & Government Lawyers](/ProfessionalResponsibility/assets/pdf/problems/Organizations_Government.pdf)
+Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MCBYA7HMzt0N--aDc)
 
 
-## Videos 
+## Advertising & Solicitation 
 
-- [Character & Fitness](https://drive.google.com/file/d/1dmPA2K2iP2slrd9MCBYA7HMzt0N--aDc/view?usp=sharing)
-- [Communication with Adverse Party](https://drive.google.com/file/d/1Ig7s0p3aee82rIPsvjVzVE3uHpg3wc-c/view?usp=sharing)
+[Outline]({{ site.baseurl }}/assets//materials/Advertising/Advertising.pdf)
+
+[Attorney Ads](https://docs.google.com/presentation/d/1WjdHg_oxLHyGuGB-Te0KAZCOUj6BhYar7AMM42gx1bw/edit?usp=sharing)
+
+
+## Attorney-Client Relationship 
+
+[Outline]({{ site.baseurl }}/assets//materials/AttorneyClient/AttorneyClient.pdf)
+
+
+## Attorney Fees & Client Property
+
+[Outline]({{ site.baseurl }}/assets/materials/Fees/Fees.pdf)
+
+[Problems]({{ site.baseurl }}/assets/materials/Fees/FeesProblems.pdf)
+
+
+## Confidentiality 
+
+[Outline]({{ site.baseurl }}/assets//materials/Confidentiality/Confidentiality.pdf)
+
+[Problems]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityProblems.pdf)
+
+
+## Conflicts 
+
+[Outline]({{ site.baseurl }}/assets/materials/Conflicts/Conflicts.pdf)
+
+[Problems]({{ site.baseurl }}/assets/materials/Conflicts/ConflictsProblems.pdf)
+
+
+## Limits on Zealous Advocacy 
+
+[Fairness & Zealous Advocacy]({{ site.baseurl }}/assets/assets/materials/Fairness/Fairness.pdf)
+
+[Candor & Fairness]({{ site.baseurl }}/assets/assets/materials/FairnessAdvocacy/FairnessProblems.pdf)
+
+Video: [Communication with Adverse Party](https://drive.google.com/open?id=1Ig7s0p3aee82rIPsvjVzVE3uHpg3wc-c)
+
+

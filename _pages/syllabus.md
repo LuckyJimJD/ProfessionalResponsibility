@@ -101,7 +101,6 @@ The Law School honor code applies to all activities related to your law school s
 
 #####  Quiz 1: Maintaining an Ethical Law Practice
 
-
 ## Duties to Clients 
 
 ### Scope of Representation & Authority 
@@ -134,13 +133,7 @@ The Law School honor code applies to all activities related to your law school s
 - Casebook: Chapters 39-40
 - ABA Model Rules: 
 
-### Special Lawyer Roles: Evaluation & Third-Party Neutral 
-
-- Casebook: Chapters 41 & 42
-- ABA Model Rules: 
-
 ##### Quiz 2: Duties to Clients
-
 
 ## Limits on Zealous Advocacy
 
