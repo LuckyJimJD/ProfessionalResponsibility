@@ -33,7 +33,7 @@ Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MC
 
 [Outline]({{ site.baseurl }}/assets//materials/Confidentiality/Confidentiality.pdf)
 
-[Outline]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityPrivilegeComparison.pdf)
+[Confidentiality & Privilege Comparison]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityPrivilegeComparison.pdf)
 
 [Problems]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityProblems.pdf)
 
