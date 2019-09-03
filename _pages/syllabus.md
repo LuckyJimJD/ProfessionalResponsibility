@@ -9,7 +9,7 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: 'Professional Responsibility'
-term: 'Fall 2019' 
+term: 'Fall 2019'
 days: 'Monday & Wednesday, 3:00 - 4:15 pm'
 room: Room 204
 
@@ -27,27 +27,27 @@ This course is intended to acquaint students with the organization and regulatio
 # Course Material
 
 Leah Christensen & Brooks Holland, Learning Professional Responsibility (2d ed., West Academic 2018) ("Casebook")
-    
+
 ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents.html) and various print editions)
 
-Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015) 
+Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
 
 The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has links to legal authorities, subject outlines, and study aids.
 
 
-# Policies 
+# Policies
 
 #### Grading
 
-Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%). 
+Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%).
 
-The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam. 
+The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam.
 
 The in-class performance component depends on your preparation before class, regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
-#### Attendance 
+#### Attendance
 
-Elon Law School has adopted the following attendance policy for all courses: 
+Elon Law School has adopted the following attendance policy for all courses:
 
 >The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
 
@@ -55,117 +55,117 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 Excessive absences (more than 2 classes) may result in a reduction of your grade.
 
-#### Honor Code 
+#### Honor Code
 
-The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations. 
+The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
-#### Disability Accommodations 
+#### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
 
 # Outline & Assignments
 
-## Law as a Regulated Profession 
+## Law as a Regulated Profession
 
-### Professional Gatekeeping & Regulation 
+### Professional Gatekeeping & Regulation
 
-_1 day_ 
+_1 day_
 
 - Casebook: Chapters 1-4
-- ABA Model Rules: Preamble & Scope 
+- ABA Model Rules: Preamble & Scope
 
 ### Professional Discipline
 
-_1 day_ 
+_1 day_
 
 - Casebook: Chapters 5-7
 - ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
 
-## Maintaining an Ethical Law Practice 
+## Maintaining an Ethical Law Practice
 
 ### Advertising & Solicitation
 
-_2 days_ 
+_2 days_
 
 - Casebook: Chapters 8-13
 - ABA Model Rules: 7.1-7.6
 
-### The Attorney-Client Relationship 
+### The Attorney-Client Relationship
 
-_1 day_s 
+_1 day_ 
 
 - Casebook: Chapters 15 & 16
-- ABA Model Rules: 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3 
+- ABA Model Rules: 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
 
 ### Attorney Fees & Client Property
 
-_2 days_ 
+_2 days_
 
 - Casebook: Chapters 17 & 18
 - ABA Model Rules: 1.5, 1.8, 1.15
 
-### Law Firms 
+### Law Firms
 
-_2 days_ 
+_2 days_
 
 - Casebook: Chapters 19-24
-- ABA Model Rules: 
+- ABA Model Rules:
 
 #####  Review & Quiz 1: Maintaining an Ethical Law Practice (October 7)
 
-## Duties to Clients 
+## Duties to Clients
 
-### Scope of Representation & Authority 
+### Scope of Representation & Authority
 
-_1 day_ 
+_1 day_
 
 - Casebook: Chapters 25 & 26
 - ABA Model Rules:
 
-### Competence, Diligence, & Communication 
+### Competence, Diligence, & Communication
 
-_3 days_ 
+_3 days_
 
-- Casebook: Chapters 27–31 
+- Casebook: Chapters 27–31
 - ABA Model Rules: 1.1, 1.2, 1.3, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
 
-### Confidentiality & Privileges 
+### Confidentiality & Privileges
 
-_2 days_ 
+_2 days_
 
 - Casebook: Chapters 32, 33, 39
 - ABA Model Rules: 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
 
 ### Conflicts of Interest
 
-_3 days_ 
+_3 days_
 
 - Casebook: Chapters 34-38, 40
-- ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5 
+- ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
 
 ##### Review & Quiz 2: Duties to Clients (November 11)
 
-## Duties to Courts, Opposing Parties, & Others 
+## Duties to Courts, Opposing Parties, & Others
 
-### Good Faith & Fairness Toward Opposing Parties 
+### Good Faith & Fairness Toward Opposing Parties
 
-_1 day_ 
+_1 day_
 
 - Casebook: Chapters 43, 44, 46, 49
 - ABA Model Rules: 3.1-3.9
 
-### Maintaining the Integrity of the Tribunal 
+### Maintaining the Integrity of the Tribunal
 
-_1 day_ 
+_1 day_
 
 - Casebook: Chapters 45, 47, 48, & 49
 - ABA Model Rules: 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
 
-### Interactions with Persons Other Than Clients 
+### Interactions with Persons Other Than Clients
 
-_1 day_ 
+_1 day_
 
-- Casebook: Chapters 51-54 
+- Casebook: Chapters 51-54
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
 ##### Review & Quiz 3: Duties to Courts, Opposing Parties, & Others (November 25)
