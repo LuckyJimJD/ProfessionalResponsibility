@@ -1,24 +1,11 @@
 ---
-date: 2018-09-04
+date: Fall 2019
 
-title: 'Professional Responsibility'
-subtitle: 'Confidentiality & Privilege'
-term: 'Fall 2018'
+title: Professional Responsibility
+subtitle: Confidentiality & Privilege
 
 author: Eric M. Fink
 affiliation: Elon Law School 
-
-fontsize: 11pt
-mainfont: 'Cormorant Garamond'
-scfont: 'Cormorant SC'
-titlefont: 'Cormorant SC SemiBold'
-sansfont: 'Proza Libre'
-monofont: 'Cousine'
-monofontscale: '1.0'
-
-indent: true
-RaggedRightParindent: 0em
-parindent: 0em
 
 output: 
   pdf_document:
@@ -163,6 +150,57 @@ Placing Matter into Evidence
 
 # Confidentiality & Privilege for Organizational Clients
 
-- Who speaks for the client?
-	- Control group test
-	- Functional test
+Client is the organization itself, not officers, directors, shareholders, members, or employees.
+
+Attorney has a duty to clarify nature of the relationship when speaking to individuals within the organization. 
+
+- Rules 1.13, 4.3
+- See Upjohn v. US
+
+## Which communications are covered?
+
+### Control Group Test
+
+The attorney-client privilege applies only to communications with persons in positions to make decisions based on legal advice.
+
+### Subject Matter/Upjohn Test
+
+1. The communication was made for the purpose of securing legal advice; 
+
+2. The employee making the communication did so at the direction of his corporate superior; 
+
+3. The superior made the request so that the corporation could secure legal advice; 
+
+4. The subject matter of the communication is within the scope of the employee's corporate duties; and 
+
+5. The communication is not disseminated beyond those persons who, because of the corporate structure, need to know its contents. 
+
+## Who may assert the duty or privilege?
+
+CFTC v. Weintraub: Trustee in bankruptcy may waive privilege over former corporate officer’s objection
+
+Changes in corporate control: Tekni-Plex
+
+## Reporting misconduct by organizational staff
+
+Duty to client (organization) includes duty to report misconduct by client's employees, officers, etc. 
+
+Sarbanes-Oxley requires upward and outward reporting of certain misconduct. 
+
+#### Problems:
+
+Attorney, who is corporate counsel for Company, is investigating a possible theft ring in the parts department of Company. Attorney knows that Employee has worked in the parts department for a long time and believes that Employee is a suspect in the thefts. Attorney believes that if Employee were questioned, Employee would not answer truthfully if she knew the real purpose of the questions. Consequently, Attorney plans to question Employee and tell her that she is not a suspect and that her answers to the questions will be held in confidence. 
+
+- Is this proper?
+
+John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC’s president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
+
+- Who does she represent?
+- May she represent both ABC and John?
+- Assuming she only represents ABC, will her conversations with the president be privileged?
+- What about her conversations with John?
+- Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney’s ethical obligations?
+
+Attorney is an in-house Lawyer at ABC Corporation. Attorney recently learned that Jill, ABC’s senior vice-president, has been providing fraudulent financial information to the IRS. If the fraud is discovered, ABC will face serious civil and criminal penalties. 
+
+- What should Attorney do?

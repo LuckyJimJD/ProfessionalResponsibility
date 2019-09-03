@@ -145,7 +145,7 @@ _3 days_
 
 ##### Review & Quiz 2: Duties to Clients (November 11)
 
-## Limits on Zealous Advocacy
+## Duties to Courts, Opposing Parties, & Others 
 
 ### Good Faith & Fairness Toward Opposing Parties 
 
@@ -168,4 +168,4 @@ _1 day_
 - Casebook: Chapters 51-54 
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Review & Quiz 3: Limits on Zealous Advocacy (November 25)
+##### Review & Quiz 3: Duties to Courts, Opposing Parties, & Others (November 25)

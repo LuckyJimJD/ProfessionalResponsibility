@@ -29,10 +29,11 @@ Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MC
 
 [Problems]({{ site.baseurl }}/assets/materials/Fees/FeesProblems.pdf)
 
-
 ## Confidentiality 
 
 [Outline]({{ site.baseurl }}/assets//materials/Confidentiality/Confidentiality.pdf)
+
+[Outline]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityPrivilegeComparison.pdf)
 
 [Problems]({{ site.baseurl }}/assets//materials/Confidentiality/ConfidentialityProblems.pdf)
 
@@ -44,11 +45,11 @@ Video: [Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MC
 [Problems]({{ site.baseurl }}/assets/materials/Conflicts/ConflictsProblems.pdf)
 
 
-## Limits on Zealous Advocacy 
+## Duties to Courts, Opposing Parties, & Others  
 
-[Outline]({{ site.baseurl }}/assets/assets/materials/Fairness/Fairness.pdf)
+[Outline]({{ site.baseurl }}/assets/materials/Fairness/Fairness.pdf)
 
-[Problems]({{ site.baseurl }}/assets/assets/materials/FairnessAdvocacy/FairnessProblems.pdf)
+[Problems]({{ site.baseurl }}/assets/materials/FairnessAdvocacy/FairnessProblems.pdf)
 
 Video: [Communication with Adverse Party](https://drive.google.com/open?id=1Ig7s0p3aee82rIPsvjVzVE3uHpg3wc-c)
 
