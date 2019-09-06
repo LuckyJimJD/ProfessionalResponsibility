@@ -19,9 +19,13 @@ output:
 2. John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC’s president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
     
     a) Who does she represent?
+    
     b) May she represent both ABC and John?
+    
     c) Assuming she only represents ABC, will her conversations with the president be privileged?
+    
     d) What about her conversations with John?
+    
     e) Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney’s ethical obligations?
 
 3. Attorney is an in-house Lawyer at ABC Corporation. Attorney recently learned that Jill, ABC’s senior vice-president, has been providing fraudulent financial information to the IRS. If the fraud is discovered, ABC will face serious civil and criminal penalties. What should Attorney do?
