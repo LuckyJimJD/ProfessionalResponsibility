@@ -1,4 +1,5 @@
 ---
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -116,7 +117,7 @@ Solicitations are prohibited unless
 - Prospective client and lawyer are family members
 - The person solicited is a lawyer, or 
 - Lawyer's primary motive is not pecuniary gain
-    - Solicitation of clients by nonprofit organizations offering free representation for litigation aimed at advancing political goals is permitted, based on 1st Amendment. _In re Primus_ (U.S. 1978); _NAACP v. Button_ (U.S. 1963)
+    - Solicitation of clients by nonprofit organizations offering free representation for litigation aimed at advancing political goals is permitted, based on 1st Amendment. *In re Primus* (U.S. 1978); *NAACP v. Button* (U.S. 1963)
     - See also, MRPC Rule 6.1 (Voluntary Pro Bono Service)
 
 Even if otherwise permitted, solicitation is prohibited if
@@ -126,11 +127,11 @@ Even if otherwise permitted, solicitation is prohibited if
 
 ## Direct Mail & Recorded Phone Messages 
 
-Targeted, "truthful and nondeceptive" direct mail or recorded phone message solicitations of "potential clients known to face particular legal problems" are generally protected commercial speech under the 1st Amendment. _Shapero v. Kentucky Bar Assn._ (U.S. 1988)
+Targeted, "truthful and nondeceptive" direct mail or recorded phone message solicitations of "potential clients known to face particular legal problems" are generally protected commercial speech under the 1st Amendment. *Shapero v. Kentucky Bar Assn.* (U.S. 1988)
 
 States may restrict targeted direct mail or recorded phone message solicitations within a limited time of the incident giving rise to the need for legal services. 
 
-- See _Florida Bar v. Went for It, Inc._ (U.S. 1995) (upholding 30 day waiting period)
+- See *Florida Bar v. Went for It, Inc.* (U.S. 1995) (upholding 30 day waiting period)
 
 States may require that direct-mail and recorded telephone solicitations are identified (on the envelope, or at the beginning & end of the recorded message) as "Lawyer Advertising" 
 
@@ -159,7 +160,7 @@ Must identify the certifying body
 - Certified as a Trial Specialist by the State of Ohio,
 - Certified as a Trial Specialist by National Association of Trial Attorneys
 
-_Hayes v. NY Attorney Grievance Committee_ (required disclosure for identification as certified specialist violates 1st Amendment and is unconstitutionally vague)
+*Hayes v. NY Attorney Grievance Committee* (required disclosure for identification as certified specialist violates 1st Amendment and is unconstitutionally vague)
 
 ## Specialist Certification in NC 
 

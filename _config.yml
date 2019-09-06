@@ -3,7 +3,7 @@ url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: /ProfessionalResponsibility # the subpath of your site, e.g. /blog/
 title: Professional Responsibility 
 description:  # leave blank if you don't want to display a description 
-last_updated: 4 September 2019 # leave blank if you don't want to display last updated
+last_updated: 6 September 2019 # leave blank if you don't want to display last updated
 
 name: Eric M. Fink
 institution: Elon Law School

@@ -1,4 +1,5 @@
 ---
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -32,7 +33,7 @@ output:
 **Rule 1.9(c)(2)**
 
 - Duty of confidentiality applies to information relating to representation of former client 
-- _Matter of Anonymous_ (Ind. 2010)
+- *Matter of Anonymous* (Ind. 2010)
     - Attorney violated duty of confidentiality by revealing that former client had communicated with attorney and consulted with attorney's partner about a divorce 
 
 ## Exceptions
@@ -53,14 +54,14 @@ output:
 	- To comply with other law or court order
 - Disclosure under Rule 1.6(b) is permissive
 	- Some jurisdictions, e.g. NJ, make disclosure mandatory in certain circumstances
-- _McClure v. Thompson_ (9th Cir. 2003)
+- *McClure v. Thompson* (9th Cir. 2003)
     - Attorney represented defendant accused of murdering two children.
     - Attorney, believing children might still be alive, and after discussion with client, made anonymous phone call to police, informing them of the location where the children's bodies were buried. 
     - Client sought to overturn conviction on grounds of ineffective assistance
     - Holding: Attorney did not breach duty of confidentiality. 
         - Exception under Rule 1.6(a) (client's informed consent) was not applicable where attorney failed to advise client of potential adverse consequences of disclosure. 
         - But exception under Rule 1.6(b)(1) (disclsoure to prevent further criminal acts likely to result in imminent death or substantial bodily harm) did apply, where attorney reasonably believed, based on discussion with client, that children might still be alive. 
-            - Dissent argues attorney lacked sufficient factual basis to believe children were still alive, making attorney's conduct unreasonable under the _Strickland_ standard. 
+            - Dissent argues attorney lacked sufficient factual basis to believe children were still alive, making attorney's conduct unreasonable under the *Strickland* standard. 
 
 # Evidentiary Privileges
 
@@ -88,7 +89,7 @@ output:
 Crime-Fraud
 
 - Client seeks legal advice in pursuance of an *ongoing* crime or fraud
-- _State v. Gonzalez_ (Kan. 2010)
+- *State v. Gonzalez* (Kan. 2010)
     - Prosecution subpeonaed defense attorney to compel testimony about former client. Attorney refused to testify based on attorney-client privilege.
     - Under Kansas law, crime-fraud exception requires "sufficient evidence, aside from the [client communication] ... to warrant a finding that the legal service was sought or obtained in order to enable or aid the communission or planning of a crime."
         - Where only evidence was attorney's summary of former client's communication, trial court erred in holding exception applied. 
@@ -116,13 +117,13 @@ Inadvertent Disclosure
 - Inadvertent disclosure does not waive privilege if holder of privilege
     - Took reasonable steps to prevent disclosure, and 
     - Promptly took reasonable steps to remedy error 
-- _Peterson v. Bernardi_ (D.N.J. 2009)
+- *Peterson v. Bernardi* (D.N.J. 2009)
     - Party asserting inadvertent disclosure has burden of proof as to factors under FRE 502(b)
         - Reasonableness of efforts to prevent disclosure takes into account time contrants, number and extent of disclosures, and nature of items disclosed. 
 
 Placing Matter into Evidence 
 
-- _In re Seagate Technology_ (Fed. Cir. 2007)
+- *In re Seagate Technology* (Fed. Cir. 2007)
     - Client's assertion of "advice of counsel" defense waives attorney-client privilege and work product protection 
     - Scope of waiver may be limited to communications relevant to establishing the reliance defense. 
         - Where defense is based on pre-litigation conduct and advice, waiver will generally not extend to communications with, or work product of, trial counsel. 

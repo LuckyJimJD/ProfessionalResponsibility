@@ -1,4 +1,5 @@
 ---
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -21,11 +22,11 @@ output:
 **Rule 1.7(a)**
 
 - Representation of one client is directly adverse to another
-    - _GSI v. Babycenter_ (Firm disqualified from representing plaintiff in suit against wholly-owned subsidiary of corporation that firm currently represented in other unrelated matters. Operational commonality, including legal affairs, and financial interdependence supports treating subsidiary as identical to parent for purposes of attorney-client relationship)
-    - _Dresser Industries_ ()
+    - *GSI v. Babycenter* (Firm disqualified from representing plaintiff in suit against wholly-owned subsidiary of corporation that firm currently represented in other unrelated matters. Operational commonality, including legal affairs, and financial interdependence supports treating subsidiary as identical to parent for purposes of attorney-client relationship)
+    - *Dresser Industries* ()
 - Significant risk that representation will be materially limited by lawyer’s responsibilities to another client, former client, third person, or personal interest of the lawyer
-    - _Mendoza-Toro v. Gil_ (D.P.R.) (Assistant U.S. Attorney's personal beliefs about defendant's civil disobedience was not a conflict under R. 1.7(a)(2) justifying refusal of assignment to prosecute criminal case)
-    - _Brown v. Kelton_ (Ark. 2011) (Attorney employed by defendants' insurance carrier disqualified where representation of defendants would be materially limited by lawyer's responsibilities to employer)
+    - *Mendoza-Toro v. Gil* (D.P.R.) (Assistant U.S. Attorney's personal beliefs about defendant's civil disobedience was not a conflict under R. 1.7(a)(2) justifying refusal of assignment to prosecute criminal case)
+    - *Brown v. Kelton* (Ark. 2011) (Attorney employed by defendants' insurance carrier disqualified where representation of defendants would be materially limited by lawyer's responsibilities to employer)
 
 ## Waiver
 
@@ -37,7 +38,7 @@ output:
 	- No claims by one client against another represented by same lawyer in same litigation or proceeding, and
 	- Informed written consent by each client
 
-_Examples_
+*Examples*
 
 Lawyer represents A in a pending automobile accident lawsuit against X. B has made an offer to buy A’s house. B asks Lawyer to represent B in the closing.
 
@@ -46,10 +47,10 @@ Lawyer represents A in a pending automobile accident lawsuit against X. B has ma
 Lawyer represents A in a pending automobile accident lawsuit against X. X asks Lawyer to represent X in the same lawsuit.
 
 - Lawyer may NOT represent X, even if both clients consent.
-    - Because one client is asserting a claim against the other client _in the same action_. 
+    - Because one client is asserting a claim against the other client *in the same action*. 
     - The result is the same if another lawyer in the same firm represents X. 
         - Lawyer's conflict is imputed to all other lawyers in the firm, and 
-        - The conflict is not waivable under Rule 1.7(b), because it involves the assertion of a claim by one client of the firm against another client of the firm _in the same action_. 
+        - The conflict is not waivable under Rule 1.7(b), because it involves the assertion of a claim by one client of the firm against another client of the firm *in the same action*. 
 
 Lawyer represents A in a pending automobile accident lawsuit against X. While A’s case is pending, W asks Lawyer to represent W in an unrelated real estate lawsuit against A.
 
@@ -58,14 +59,14 @@ Lawyer represents A in a pending automobile accident lawsuit against X. While A�
     - But it might be permissible for another lawyer in the same firm to represent W. 
         - Lawyer conflict is imputed to all other lawyers in the firm, but 
         - The conflict might be waivable under Rule 1.7(b) 
-            - Neither client is asserting claims against the other _in the same action_.
+            - Neither client is asserting claims against the other *in the same action*.
             - The lawyers might adopt protective measures (screening) to protect each client's confidential information. 
             - The Model Rules don't provide for screening in the case of concurrent client conflicts. 
             - But screening might make it reasonable for each lawyer to believe they can provide competent and diligent representation to their respective client. 
             - Each client must also give informed consent, confirmed in writing. The clients might insist on screening as a condition of giving consent.
             - In practice, this is more likely to be permissible in a large firm. 
 
-_GSI Commerce Solutions v. Babycenter_ (2d Cir. 2010) (Law firm disqualified from representing plaintiff where firm also represented parent corporation of defendant in other matters)
+*GSI Commerce Solutions v. Babycenter* (2d Cir. 2010) (Law firm disqualified from representing plaintiff where firm also represented parent corporation of defendant in other matters)
 
 ## Special Rule: Aggregate Settlements or Pleas 
 
@@ -87,7 +88,7 @@ _GSI Commerce Solutions v. Babycenter_ (2d Cir. 2010) (Law firm disqualified fro
     - Current clients interests are materially adverse to the former 
 - Conflict is waivable if former client gives informed consent, confirmed in writing
 
-_Examples_
+*Examples*
 
 L represented A, a physician, in an automobile accident lawsuit against X. The lawsuit concluded five years ago, and L has not represented A since that time. B asks L to represent B in a medical malpractice case against A.
 
@@ -97,7 +98,7 @@ L represented ABC Corp. in its negotiation of an employment contract with X. The
 
 - L may NOT represent X, because the two matters are substantially related, unless ABC consents in writing.
 
-_Carey v. Danis_ (Mo. 2002) (attorneys indefinitely suspended from practice of law where they represented plaintiffs in class action suit substantially related to matter in which they had formerly represented defendant)
+*Carey v. Danis* (Mo. 2002) (attorneys indefinitely suspended from practice of law where they represented plaintiffs in class action suit substantially related to matter in which they had formerly represented defendant)
 
 ## Information related to former representation
 
@@ -108,7 +109,7 @@ _Carey v. Danis_ (Mo. 2002) (attorneys indefinitely suspended from practice of l
 	- The information has become generally known
 - May not reveal information, except as Rules otherwise permit or require for client information
 
-_Example_
+*Example*
 
 Five years ago, L prepared a will for A. During this process, L learned a great deal about A’s “secret” assets. X now asks L to sue A to collect a promissory note.
 

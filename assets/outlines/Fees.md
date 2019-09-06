@@ -1,4 +1,5 @@
 ---
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -30,7 +31,7 @@ output:
     - Attorney’s experience, reputation & ability
     - Nature of fee: fixed v. contingent
 
-_Example_ 
+*Example* 
 
 - Matter of Fordham
     - Criminal defense attorney, fee agreement provided for hourly billing
@@ -58,7 +59,7 @@ _Example_
     - Expenses off the top: $100k-$10k=$90k. Fee = 30% of $90k, or $30k
     - Expenses after fee: Fee = 30% of $100k, or $33k; client pays expenses out of remainder
 
-_Example_ 
+*Example* 
 
 - Telex v. Brobeck
     - Fee agreement provided for $1 million fee in case of “wash” settlement
@@ -111,11 +112,11 @@ Splitting fees with non-lawyers is prohibited.
 
 Permissibility of non-refundable retainer varies by jurisdiction
 
-_Matter of Cooperman_ (NY)
+*Matter of Cooperman* (NY)
 
 - Non-refundable fees are impermissible
 
-_Ryan v. Butera Beusang Cohen & Brennan_ (3d Cir. 1999) (applying Pa. law)
+*Ryan v. Butera Beusang Cohen & Brennan* (3d Cir. 1999) (applying Pa. law)
  
 - Non-refundable fee reasonable under the circumstances, including firm’s opportunity costs in taking case, fact that fixed up-front fee limited client’s risk of greater fees going forward, and fact that client chose to fire lawyers
 
@@ -204,7 +205,7 @@ Client hires Lawyer to represent Client in real estate transaction. Lawyer has l
     - Must keep it separate from lawyer’s property
     - Must distribute any portion not subject to dispute
 
-_Swift, Currie, McGhee & Hers v. Henry_ 
+*Swift, Currie, McGhee & Hers v. Henry* 
 
 - Documents in legal file belong to the client 
 - In suit by attorney to recover unpaid fees, client was entitled to review and make copy of documents prepared by attorney in course of representation

@@ -1,5 +1,5 @@
 ---
-
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -10,7 +10,7 @@ affiliation: Elon Law School
 
 output: 
   pdf_document:
-    latex*engine: xelatex
+    latex_engine: xelatex
     template: classnotes.latex
     
 ---

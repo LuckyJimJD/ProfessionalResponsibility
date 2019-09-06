@@ -1,4 +1,5 @@
 ---
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
