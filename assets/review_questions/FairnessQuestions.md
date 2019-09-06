@@ -232,6 +232,7 @@ output:
 “Visit the neighborhood of those prospective jurors on the panel with minor children. Ask the neighbors if they know of any kind of unusual sex activity of the prospective juror or any member of the family. This will get back to the prospective jurors, and they will think of excuses not to serve. But don’t under any circumstances talk directly with any prospective juror or member of the family.”
 
 Is Attorney subject to discipline for so instructing her investigator?
+
     a. Yes, unless the prospective jurors investigated are, in fact, selected to serve on the jury in the case.
         
     b. Yes, because the investigation is intended to harass prospective jurors and members of their family.
