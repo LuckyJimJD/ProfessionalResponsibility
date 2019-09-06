@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Home
+title: about
 
 social: true
 ---
