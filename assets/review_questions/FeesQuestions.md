@@ -18,18 +18,12 @@ output:
 1. Client would like to retain Lawyer to represent him in litigation. 
     
     a. Assuming Client agrees to the fee, may Lawyer charge more than her regular hourly rate based on the following:
-        
-        i. The case involves complex issues of law and fact.
-        
-        ii. Lawyer is an experienced litigator in this field.
-        
-        iii. The urgency of the litigation.
-        
-        iv. The amount at stake in the litigation.
-        
-        v. Lawyer’s success rate in prior cases.
-        
-        vi. The amount charged by other lawyers in town.
+    - The case involves complex issues of law and fact.
+    - Lawyer is an experienced litigator in this field.
+    - The urgency of the litigation.
+    - The amount at stake in the litigation.
+    - Lawyer’s success rate in prior cases.
+    - The amount charged by other lawyers in town.
     
     b. May Lawyer include a clause in her retainer agreement providing for an increase in her hourly rate of 10% if Client prevails in the litigation?
     
