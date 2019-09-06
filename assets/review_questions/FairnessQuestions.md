@@ -227,11 +227,7 @@ output:
 
 30. After both parties had completed the presentation of evidence and arguments, Judge took under advisement a case tried in Judge’s court without a jury in which Attorney had represented Plaintiff. The case involved a difficult issue of law. After the case was under advisement for several weeks, Attorney heard rumors that Judge was having difficulty determining the complex issue of law. Immediately after hearing these rumors, Attorney telephoned Judge and asked if Judge would like to reopen the case for additional briefing from both parties. Thereafter, Judge reopened the case. Was it proper for Attorney to communicate with Judge?
 
-31. Attorney has been retained to defend an adult charged with a sex offense involving a minor. Attorney believes that, in order to win the case, she must keep parents of minor children off the jury. Attorney instructed her investigator as follows:
-
-“Visit the neighborhood of those prospective jurors on the panel with minor children. Ask the neighbors if they know of any kind of unusual sex activity of the prospective juror or any member of the family. This will get back to the prospective jurors, and they will think of excuses not to serve. But don’t under any circumstances talk directly with any prospective juror or member of the family.”
-
-Is Attorney subject to discipline for so instructing her investigator?
+31. Attorney has been retained to defend an adult charged with a sex offense involving a minor. Attorney believes that, in order to win the case, she must keep parents of minor children off the jury. Attorney instructed her investigator: “Visit the neighborhood of those prospective jurors on the panel with minor children. Ask the neighbors if they know of any kind of unusual sex activity of the prospective juror or any member of the family. This will get back to the prospective jurors, and they will think of excuses not to serve. But don’t under any circumstances talk directly with any prospective juror or member of the family.” Is Attorney subject to discipline?
 
     a. Yes, unless the prospective jurors investigated are, in fact, selected to serve on the jury in the case.
         
