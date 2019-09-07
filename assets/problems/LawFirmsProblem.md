@@ -1,5 +1,5 @@
 ---
-layout: problems
+layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
@@ -12,7 +12,7 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: classnotes.latex
-    
+        
 ---
 
 You are members of a for-profit law firm in Seattle, Washington. The firm’s lawyers practice in a variety of areas, including civil litigation and transactional work. Your firm has 20 partners, 50 associate lawyers, and 30 staff persons. Your firm expects associate lawyers to bill a minimum of 1,800 hours annually to be eligible for the firm’s annual bonus—an important component of associates’ expected income, and a critical marker for anyone seeking partnership within the firm. And, to be considered a truly high-value lawyer, an associate should bill 2,000 hours a year. Over a year, an associate typically can bill about two hours of time for every three hours of work actually performed. Your associates receive two weeks of annual vacation time. The partners all draw a base salary, and further share in the annual profits. Your staff receive a salary with benefits, including one or two weeks of vacation time, depending on seniority.

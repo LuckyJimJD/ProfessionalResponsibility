@@ -1,4 +1,5 @@
 ---
+layout: notes
 title: ABA Model Rules of Professional Conduct 
 
 copyright: © 2016 by the American Bar Association. All rights reserved.
