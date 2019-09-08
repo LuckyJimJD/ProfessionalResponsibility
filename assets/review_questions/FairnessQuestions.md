@@ -2,11 +2,12 @@
 layout: notes
 date: Fall 2019
 
-title: Professional Responsibility
-subtitle: Review Questions–Duties to Courts, Opposing Parties, & Others 
+title: Review Questions
+subtitle: Duties to Courts, Opposing Parties, & Others 
 
 author: Eric M. Fink
 affiliation: Elon Law School 
+course: Professional Responsibility
 
 output: 
   pdf_document:

@@ -1,12 +1,13 @@
 ---
-layout: notes
+layout: posts
 date: Fall 2019
 
-title: Professional Responsibility
+title: Review Problem
 subtitle: ﻿Javier Cercas, “The Motive”
 
 author: Eric M. Fink
 affiliation: Elon Law School 
+course: Professional Responsibility
 
 output: 
   pdf_document:

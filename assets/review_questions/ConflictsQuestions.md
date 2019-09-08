@@ -1,12 +1,13 @@
 ---
-layout: notes
+layout: posts
 date: Fall 2019
 
-title: Professional Responsibility
-subtitle: Review Questions–Conflicts
+title: Review Questions
+subtitle: Conflicts
 
 author: Eric M. Fink
 affiliation: Elon Law School 
+course: Professional Responsibility
 
 output: 
   pdf_document:

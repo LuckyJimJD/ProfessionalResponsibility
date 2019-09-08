@@ -1,12 +1,13 @@
 ---
-layout: notes
+layout: posts
 date: Fall 2019
 
-title: Professional Responsibility
+title: Review Questions
 subtitle:  Review Questions–Confidentiality
 
 author: Eric M. Fink
 affiliation: Elon Law School 
+course: Professional Responsibility
 
 output: 
   pdf_document:
