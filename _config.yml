@@ -3,7 +3,7 @@ url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: /ProfessionalResponsibility # the subpath of your site, e.g. /blog/
 title: Professional Responsibility 
 description:  # leave blank if you don't want to display a description 
-last_updated: 6 September 2019 # leave blank if you don't want to display last updated
+last_updated: 18 September 2019 # leave blank if you don't want to display last updated
 
 name: Professional Responsibilty 
 author: Eric M. Fink
@@ -28,7 +28,7 @@ footer_text: >
 
 # Build settings
 markdown: kramdown
-remote_theme: luckyjimjd/CourseTheme
+remote_theme: luckyjimjd/lj-folio-teaching
 
 # Includes & excludes
 include: ['_pages']
