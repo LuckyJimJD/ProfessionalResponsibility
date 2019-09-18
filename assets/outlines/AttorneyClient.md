@@ -138,7 +138,7 @@ See Milavetz, Gallop & Milavetz, P.A. v. U.S. (US 2010)
 
 Client asks lawyer for advice or assistance in connection with a marijuana-related business, in a state where cultivation, distribution, possession, & use of marijuana for recreational purposes is legal.
 
-- Colorado RPC Rule 1.2, Comment 14: A lawyer may counsel a client regarding the validity, scope, and meaning of Colorado constitution article XVIII, §§ 14 & 16, and may assist a cliient in conduct that the lawyer reasonably believes is permitted by these constitutional provisions and the statutes, regulations, orders, and other state or local provisions implementing them. In these circumstances, the lawyer shall also advise the client regarding related federal law and policy. 
+- Colorado RPC Rule 1.2, Comment 14: A lawyer may counsel a client regarding the validity, scope, and meaning of Colorado constitution article XVIII, §§ 14 & 16, and may assist a client in conduct that the lawyer reasonably believes is permitted by these constitutional provisions and the statutes, regulations, orders, and other state or local provisions implementing them. In these circumstances, the lawyer shall also advise the client regarding related federal law and policy. 
 - King County (WA) Bar Association Ethics Advisory Opinion on I-502 & Rules of Professional Conduct; Doug Ende letter
 
 # Establishing the Relationship
