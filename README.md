@@ -1,3 +1,3 @@
 # ProfessionalResponsibility
 
-Course site for Professional Responsibility (Prof. Fink) at Elon Law
+Professional Responsibility (Prof. Fink) at Elon Law
