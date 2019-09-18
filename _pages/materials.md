@@ -18,7 +18,7 @@ title: Materials
 
 # Attorney-Client Relationship 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClient.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClientFormation.html)
 
 # Attorney Fees & Client Property
 
@@ -35,6 +35,10 @@ title: Materials
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/LawFirmsQuestions.html)
 
 - [Discussion Problem]({{ site.baseurl }}/assets/problems/LawFirmsProblem.html)
+
+# Duties to Clients & Allocation of Authority 
+
+- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClientDuties.html)
 
 # Confidentiality 
 
