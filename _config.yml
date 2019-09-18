@@ -36,9 +36,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
     - jemoji
 
 # -----------------------------------------------------------------------------
