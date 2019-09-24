@@ -277,17 +277,17 @@ Established “to reimburse persons who have lost money or property as a result 
 
 An attorney represented client in personal injury action against the driver of the car in which the client was injured while passenger. The personal injury action was settled, and the attorney received check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received letter from bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me.” Is the attorney subject to discipline if she follows the client’s instructions?
 
-- Yes, if the client does not dispute the $900 debt to the bank.
-- Yes, because the attorney knew that the client was planning to force the bank to sue him.
-- No, unless the attorney had reason to believe that the client would not have sufficient funds to pay any subsequent judgment obtained by the bank.
-- No, because the bank has no established right to the specific proceeds of the client’s personal injury judgment.
+a. Yes, if the client does not dispute the $900 debt to the bank.
+b. Yes, because the attorney knew that the client was planning to force the bank to sue him.
+c. No, unless the attorney had reason to believe that the client would not have sufficient funds to pay any subsequent judgment obtained by the bank.
+d. No, because the bank has no established right to the specific proceeds of the client’s personal injury judgment.
 
 An attorney and her client entered into written retainer and hourly fee agreement that required the client to pay $5,000 in advance of any services rendered by the attorney and that required the attorney to return any portion of the $5,000 that was not earned. The agreement further provided that the attorney would render monthly statements and withdraw her fees as billed. The agreement was silent as to whether the $5,000 advance was to be deposited in the attorney’s clients’ trust account or in general account. The attorney deposited the entire fund in her clients’ trust account, which also contained the funds of other persons that had been entrusted to the attorney. Thereafter, the attorney rendered monthly progress reports and statements for services to the client after services were rendered, showing the balance of the client’s fee advance. However, the attorney did not withdraw any of the $5,000 advance until one year later when the matter was concluded to the client’s complete satisfaction. At that time, the attorney had billed the client reasonable legal fees of $4,500. The attorney wrote two checks on her clients’ trust account: one to herself for $4,500, which she deposited in her general office account, and one for $500 to the client. Was the attorney’s conduct proper?
 
-- Yes, because the attorney deposited the funds in her clients’ trust account.
-- Yes, because the attorney rendered periodic and accurate billings.
-- No, because the attorney’s failure to withdraw her fees as billed resulted in an impermissible commingling of her funds and the client’s funds.
-- No, because the attorney required an advanced payment against her fee.
+a. Yes, because the attorney deposited the funds in her clients’ trust account.
+b. Yes, because the attorney rendered periodic and accurate billings.
+c. No, because the attorney’s failure to withdraw her fees as billed resulted in an impermissible commingling of her funds and the client’s funds.
+d. No, because the attorney required an advanced payment against her fee.
 
 Dan retained Attorney to appeal Dan’s criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $per hour. Attorney received $800 from Dan of which $300 was deposit to secure Attorney’s fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: “Fee Account,” in which fees were deposited and from which office expenses were paid, and “Clients’ Fund Account.” Attorney deposited the $800 in the Clients’ Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
 
@@ -307,10 +307,10 @@ Grant Sowell is an attorney whose specialty is initial public offerings of stock
 
 Lawyer represents Client in replevin action to recover Client’s $25,000 mink coat from Z. At 5:p.m. on Friday, Z’s lawyer delivers the mink coat to Lawyer’s office. Lawyer knows that Client is out of town until Monday. What should Lawyer do with the coat?
 
-- Arrange for the coat to be kept by secured fur storage company.
-- Leave it in the law firm’s closest.
-- Wear it to dinner Saturday night.
-- Sell it.
+a. Arrange for the coat to be kept by secured fur storage company.
+b. Leave it in the law firm’s closest.
+c. Wear it to dinner Saturday night.
+d. Sell it.
 
 Attorney is partner in the Charlotte office of national law firm. The firm is headquartered in Chicago and maintains its client trust fund account at Chicago bank. Attorney agrees to represent Client, North Carolina resident. Client pays Attorney $5,000 retainer fee, which Attorney wishes to deposit in the Chicago-based trust account. 
 
