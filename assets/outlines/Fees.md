@@ -31,7 +31,7 @@ output:
     - Attorney’s experience, reputation & ability
     - Nature of fee: fixed v. contingent
 
-#### Matter of Fordham
+#### *Matter of Fordham*
 
 - Criminal defense attorney's fee agreement provided for hourly billing
 - At outset, attorney told client the total fee would be between $3000 and $10,000
