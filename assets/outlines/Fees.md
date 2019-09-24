@@ -19,7 +19,7 @@ output:
 
 ## Reasonable Fee
 
-**Rule 1.5(a)**
+#### Rule 1.5(a)
 
 - Factors
     - Time & labor required, novelty & difficulty of issue; skill required to perform service
@@ -31,17 +31,16 @@ output:
     - Attorney’s experience, reputation & ability
     - Nature of fee: fixed v. contingent
 
-*Example* 
+#### Matter of Fordham
 
-- Matter of Fordham
-    - Criminal defense attorney, fee agreement provided for hourly billing
-    - At outset, attorney told client fee would be between $3000 and $10,000
-    - Actual fee was $50,022.-- based on 2hours
-    - Stipulated that attorney performed the work diligently and in good faith
+- Criminal defense attorney's fee agreement provided for hourly billing
+- At outset, attorney told client the total fee would be between $3000 and $10,000
+- Actual total was $50,022 
+- Stipulated that attorney performed the work diligently and in good faith
 
 ## Communication of Fee
 
-**Rule 1.5(b)**
+#### Rule 1.5(b)
 
 - Rule says “preferably in writing”
     - Some jurisdictions mandate written fee agreement
@@ -50,7 +49,7 @@ output:
 
 ## Contingent Fees
 
-**Rule 1.5(c)**
+#### Rule 1.5(c)
 
 - Must be in writing
 - Must explain method of calculation
@@ -59,16 +58,15 @@ output:
     - Expenses off the top: $100k-$10k=$90k. Fee = 30% of $90k, or $30k
     - Expenses after fee: Fee = 30% of $100k, or $33k; client pays expenses out of remainder
 
-*Example* 
+#### Telex v. Brobeck
 
-- Telex v. Brobeck
-    - Fee agreement provided for $1 million fee in case of “wash” settlement
-    - Client challenged fee as excessive
-    - 9th Circuit upheld fee, under deferential California standard
-    - Risk of bankruptcy to client
-    - Fee was contingent
-    - Fee was negotiated by client’s in-house counsel
-    - Lead attorney was highly experienced and prominent in field
+- Fee agreement provided for $1 million fee in case of “wash” settlement
+- Client challenged fee as excessive
+- 9th Circuit upheld fee, under deferential California standard
+  - Risk of bankruptcy to client
+  - Fee was contingent
+  - Fee was negotiated by client’s in-house counsel
+  - Lead attorney was highly experienced and prominent in field
 
 Where client fires lawyer before contingency occurs, lawyer may have based on work completed (e.g. quantum meruit)
 
@@ -78,7 +76,7 @@ Where client fires lawyer before contingency occurs, lawyer may have based on wo
 
 ### Limits on Contingent Fees
 
-**Rule 1.5(d)**
+#### Rule 1.5(d)
 
 - Domestic relations 
     - Fee may not be contingent on obtaining divorce, nor on amount of alimony or property settlement
@@ -92,7 +90,7 @@ Where client fires lawyer before contingency occurs, lawyer may have based on wo
 
 ### With Other Lawyers
 
-**Rule 1.5(e)**
+#### Rule 1.5(e)
 
 - Must be proportionate to attorneys’ services (or each attorney assumed joint liability)
 - Client must consent in writing
@@ -100,25 +98,30 @@ Where client fires lawyer before contingency occurs, lawyer may have based on wo
 
 ### With Non-Lawyers
 
-**Rule 5.4(a)**
+#### Rule 5.4(a)
 
 Splitting fees with non-lawyers is prohibited. 
 
 - May pay non-lawyers for their services
 - Payment may not be based on percentage of attorney’s fee
 
-
 ## Advances/Retainers 
 
-Permissibility of non-refundable retainer varies by jurisdiction
+Treatment of non-refundable fees varies among jurisdictions. 
 
-*Matter of Cooperman* (NY)
+#### *Matter of Cooperman* (NY)
 
-- Non-refundable fees are impermissible
+Under New York law, non-refundable fees are impermissible. 
 
-*Ryan v. Butera Beusang Cohen & Brennan* (3d Cir. 1999) (applying Pa. law)
+#### *Ryan v. Butera Beusang Cohen & Brennan* (3d Cir. 1999) 
  
-- Non-refundable fee reasonable under the circumstances, including firm’s opportunity costs in taking case, fact that fixed up-front fee limited client’s risk of greater fees going forward, and fact that client chose to fire lawyers
+Under Pennsylvania law, the general reasonableness standard applies to non-refundable fees. 
+
+Factors supporting reasonableness in this case: 
+
+- Firm’s opportunity costs in taking case. 
+- Fixed up-front fee limited the client’s risk of incurring higher fee if matter proved more complicated or time consuming than anticipated. 
+- Client chose to fire the firm. 
 
 ## Problems
 
@@ -192,7 +195,7 @@ Client hires Lawyer to represent Client in real estate transaction. Lawyer has l
 
 ### Lawyer holds client funds and property as fiduciary
 
-**Rule 1.15**
+#### Rule 1.15
 
 - Must keep client property separate from lawyer’s own property
 - Must keep records of client account funds and property
@@ -205,7 +208,7 @@ Client hires Lawyer to represent Client in real estate transaction. Lawyer has l
     - Must keep it separate from lawyer’s property
     - Must distribute any portion not subject to dispute
 
-*Swift, Currie, McGhee & Hers v. Henry* 
+#### *Swift, Currie, McGhee & Hers v. Henry* 
 
 - Documents in legal file belong to the client 
 - In suit by attorney to recover unpaid fees, client was entitled to review and make copy of documents prepared by attorney in course of representation
@@ -213,7 +216,7 @@ Client hires Lawyer to represent Client in real estate transaction. Lawyer has l
 
 ### Client funds & trust accounts
 
-Client funds
+Client funds include: 
 
 - Money received from client
 - Advances against attorney fees and expenses remains the client’s until the attorney has earned the fee, or the expense has been incurred. 
@@ -223,38 +226,32 @@ Client funds
 - Funds to be used in transaction or other purposes 
     - Belongs to the client until disbursed for intended purpose
 - Money received from third persons for the client’s benefit 
-    - E.g. Judgment or settlement proceeds, payments received as part of transaction
+    - e.g. Judgment or settlement proceeds, payments received as part of transaction
 
-Requirements under Rule 1.15
+Handling and use of client funds (Model Rule 1.15): 
 
 - Must be kept in a separate account maintained in the state where the lawyer's office is situated (or elsewhere by agreement)
 - May use one trust account for multiple clients’ funds.
 - Must keep track of each client’s funds (i.e. individual ledgers)
 - May not use one client’s funds to pay another client’s fees or expenses
-- Separate account may be required or advisable where attorney is serving as estate administrator or similar fidiciary capacity 
+- Separate account may be required or advisable where attorney is serving as estate administrator or similar fiduciary capacity 
 
-Trust accounting rules 
-
-- See N.C.R.P.C. 1.15: far more detailed than Model Rule 1.15.
-- Most violations result from negligence, rather that intentional misconduct
-- Careless violations are still subject to discipline
-- See NC State Bar, Lawyer’s Trust Account Handbook (2011)
-
-IOLTA
-
-- NC Rule 1.15 requires general trust accounts to be interest-bearing. See 27 N.C.A.C. 1D, Rule .1316, IOLTA Accounts; NC State Bar, Lawyer’s Trust Account Handbook at 8
-- Attorneys may use designated IOLTA accounts at eligible banks
-- Interest goes to help fund legal services for needy individuals
-
-Deposits and Withrawals
+The attorney may not commingle their own funds with client funds. 
 
 - Lawyer may deposit own funds in trust account to pay bank service charges
 - Advances on fees and expenses must be deposited into trust account 
-- Withdrawn only as fees are earned or expenses incurred
+  - Withdrawn as fees are earned or expenses incurred
+
+Under state IOLTA programs, a lawyer may (or must, in some states) use a single pooled account for client funds that are relatively small in amount or will not be held for a time period long enough to earn interest. Interest on an IOLTA account is used to fund legal services for needy individuals and other charitable or educational purposes. 
+
+The disciplinary rules (or statute/regulation) in each state impose further requirements for client trust accounts, including procedures for reporting and audits. See, e.g., N.C.R.P.C. 1.15; NC State Bar, Lawyer’s Trust Account Handbook (2011). 
+
+Most violations result from negligence, rather that intentional misconduct. Careless violations are still subject to discipline.
+
 
 ### Other client property
 
-**Rule 1.15(a)**
+#### Rule 1.15(a)
 
 - Client property must be identified appropriately safeguarded. 
 
@@ -267,12 +264,12 @@ Established “to reimburse persons who have lost money or property as a result 
 
 ## Disputes Over Client Funds & Property
 
-Disputes Between Client and Attorney
+##### Disputes Between Client and Attorney
 
 - Attorney must turn over any undisputed amount to the client
 - Attorney may hold disputed amount in escrow pending resolution
 
-Disputes Between Client and Third Party
+##### Disputes Between Client and Third Party
 
 - Attorney may hold funds/property in escrow pending resolution
 
