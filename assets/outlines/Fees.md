@@ -58,7 +58,7 @@ output:
     - Expenses off the top: $100k-$10k=$90k. Fee = 30% of $90k, or $30k
     - Expenses after fee: Fee = 30% of $100k, or $33k; client pays expenses out of remainder
 
-#### Telex v. Brobeck
+#### *Telex v. Brobeck*
 
 - Fee agreement provided for $1 million fee in case of “wash” settlement
 - Client challenged fee as excessive
@@ -168,17 +168,17 @@ Client agrees to retain Lawyer to represent Client in personal injury case. Clie
 
 Client was an experienced oil and gas developer. The client asked an attorney for representation in suit to establish the client’s ownership of certain oil and gas royalties. The client did not have available the necessary funds to pay the attorney’s reasonable hourly rate for undertaking the case. The client proposed instead to pay the attorney an amount in cash equal to 20% of the value of the proceeds received from the first year royalties the client might recover as result of the suit. The attorney accepted the proposal and took the case. Is the attorney subject to discipline?
 
-- Yes, because the agreement gave the attorney proprietary interest in the client’s cause of action.
-- Yes, unless the fee the attorney receives does not exceed that which the attorney would have received by charging reasonable hourly rate.
-- No, because the client rather than the attorney proposed the fee arrangement.
-- No, because the attorney may contract with the client for reasonable contingent fee.
+a. Yes, because the agreement gave the attorney proprietary interest in the client’s cause of action.
+b. Yes, unless the fee the attorney receives does not exceed that which the attorney would have received by charging reasonable hourly rate.
+c. No, because the client rather than the attorney proposed the fee arrangement.
+d. No, because the attorney may contract with the client for reasonable contingent fee.
 
 Which of the following domestic relation matters may an Attorney handle on contingent fee basis:
 
-- An action to obtain divorce.
-- An action involving child custody.
-- Pre-divorce action to divide marital property.
-- Post-divorce action to collect unpaid maintenance and child support.
+a. An action to obtain divorce.
+b. An action involving child custody.
+c. Pre-divorce action to divide marital property.
+d. Post-divorce action to collect unpaid maintenance and child support.
 
 Client hired Lawyer to represent Client in personal injury lawsuit. Client agreed in writing to pay Lawyer 1/3 of any recovery. After two years, Client fired Lawyer without cause, replacing Lawyer with Lawyer B. The case then settled for $100,000. 
 
