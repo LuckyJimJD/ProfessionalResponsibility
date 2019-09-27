@@ -88,7 +88,7 @@ output:
     
     d. No, if Attorney is the only person in the partnership who gives advice on legal matters.
 
-Would your answer change if the partnership will be providing only accounting services?
+    Would your answer change if the partnership will be providing only accounting services?
 
 9. Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum’s spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. Is Dewey subject to discipline?
     
