@@ -148,13 +148,3 @@ output:
     b. May the Applebaum firm sell only those clients with assets below $1 million?
 
     c. May the Becker firm defray the acquisition costs by raising fees on clients it receives from Applebaum?
-
-18. Judge Becker is the Chief Judge of the County Court. As part of her job, Becker randomly assigns cases to the other seven county court judges. Becker randomly assigned the case of A v. B to Judge Applebaum. Judge Applebaum has presided over all proceedings in A v. B. Becker has played no role in the case other than the assignment. While the case of A v. B is still pending, Judges Applebaum and Becker join the Smith Law Firm, which represents A.
-
-    a. May Judge Becker represent A in A v. B?
-    
-    b. May Judge Applebaum represent A in A v. B? If not, may the Smith Law Firm continue to represent A?
-    
-    c. Was it proper for Judge Applebaum to negotiate employment with the Smith Law Firm while A v. B was pending?
-    
-    d. Would it have been proper for Judge Applebaum’s law clerk to negotiate employment with the Smith Law Firm while A v. B was pending?
