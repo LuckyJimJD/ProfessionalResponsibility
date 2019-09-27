@@ -88,9 +88,9 @@ output:
     
     d. No, if Attorney is the only person in the partnership who gives advice on legal matters.
 
-    Would your answer change if the partnership will be providing only accounting services?
+9. Same facts as previous question, but the partnership will be providing only accounting services. Is Attorney subject to discipline? 
 
-9. Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum’s spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. Is Dewey subject to discipline?
+10. Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum’s spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. Is Dewey subject to discipline?
     
     a. Yes, because Wickersham is an officer of the corporation.
     
@@ -100,7 +100,7 @@ output:
     
     d. No, if Wickersham does not participate in any decision regarding a client or a client’s case.
 
-10. Attorney has recently started her own law firm with four other lawyers as associates. The law firm has moved into an office in a new building which is owned by Bank. Attorney has borrowed heavily from Bank to finance her new law firm. In addition, Bank provides the law firm with accounting services through its computer. At Bank’s suggestion, an employee of Bank, who is not a lawyer, serves as a part-time office manager for the law firm without compensation from the firm. The duties of the office manager are to advise the firm generally on fees and time charges, program matters for the computer services, and consult with Attorney on accounting and billing practices to ensure solvency. Is the arrangement with Bank proper?
+11. Attorney has recently started her own law firm with four other lawyers as associates. The law firm has moved into an office in a new building which is owned by Bank. Attorney has borrowed heavily from Bank to finance her new law firm. In addition, Bank provides the law firm with accounting services through its computer. At Bank’s suggestion, an employee of Bank, who is not a lawyer, serves as a part-time office manager for the law firm without compensation from the firm. The duties of the office manager are to advise the firm generally on fees and time charges, program matters for the computer services, and consult with Attorney on accounting and billing practices to ensure solvency. Is the arrangement with Bank proper?
     
     a. Yes, unless secrets or confidences of clients may be disclosed to Bank.
     
@@ -110,9 +110,9 @@ output:
     
     d. No, because Bank will be involved in the practice of law.
 
-11. Attorney is a member of the bar and a salaried employee of the trust department of Bank. As part of his duties, he prepares a monthly newsletter concerning wills and taxes which Bank sends to all of its customers. The newsletter contains a recommendation to the customer to review his or her will in light of information contained therein and, if the customer has any questions, to bring the will to Bank’s trust department where a non-lawyer trust officer will answer any questions without charge. If the trust officer is unable to answer the customer’s questions, the trust officer refers the customer to Attorney. Is Attorney subject to discipline for the foregoing?
+12. Attorney is a member of the bar and a salaried employee of the trust department of Bank. As part of his duties, he prepares a monthly newsletter concerning wills and taxes which Bank sends to all of its customers. The newsletter contains a recommendation to the customer to review his or her will in light of information contained therein and, if the customer has any questions, to bring the will to Bank’s trust department where a non-lawyer trust officer will answer any questions without charge. If the trust officer is unable to answer the customer’s questions, the trust officer refers the customer to Attorney. Is Attorney subject to discipline for the foregoing?
 
-12. Plaintiff, who is not a lawyer, is representing himself in small claims court in an action to recover his security deposit from his former landlord. Plaintiff told Attorney, a close friend who lived nearby him, about this case, but did not ask Attorney for any advice. Attorney said, “I’ll give you some free advice. It would help your case if the new tenants would testify that the apartment was in good shape when they moved in, and, contrary to the allegation of your former landlord, it was not, in fact, repainted for them.” Plaintiff followed Attorney’s advice and won his case. Is Attorney subject to discipline for assisting Plaintiff in preparing for his court appearance?
+13. Plaintiff, who is not a lawyer, is representing himself in small claims court in an action to recover his security deposit from his former landlord. Plaintiff told Attorney, a close friend who lived nearby him, about this case, but did not ask Attorney for any advice. Attorney said, “I’ll give you some free advice. It would help your case if the new tenants would testify that the apartment was in good shape when they moved in, and, contrary to the allegation of your former landlord, it was not, in fact, repainted for them.” Plaintiff followed Attorney’s advice and won his case. Is Attorney subject to discipline for assisting Plaintiff in preparing for his court appearance?
     
     a. Yes, because Attorney assisted Plaintiff in the practice of law.
     
@@ -123,7 +123,7 @@ output:
     
     d. No, because Attorney was not compensated for his advice.
 
-13. Attorney Adelman represents the wife in a marriage dissolution proceeding that involves bitterly contested issues of property division and child custody. The husband is represented by another lawyer, Lehrer. After one day of trial, the husband, through Lehrer, made a settlement offer. Because of the husband’s intense dislike for Adelman, the proposed settlement requires that Adelman agree not to represent the wife in any subsequent proceeding, brought by either party, to modify or enforce the provisions of the decree. The wife wants to accept the offer, and Adelman believes that the settlement offer made by the husband is better than any award the wife would get if the case went to judgment. Is it proper for Adelman to agree that she will not represent the wife in any subsequent proceeding?
+14. Attorney Adelman represents the wife in a marriage dissolution proceeding that involves bitterly contested issues of property division and child custody. The husband is represented by another lawyer, Lehrer. After one day of trial, the husband, through Lehrer, made a settlement offer. Because of the husband’s intense dislike for Adelman, the proposed settlement requires that Adelman agree not to represent the wife in any subsequent proceeding, brought by either party, to modify or enforce the provisions of the decree. The wife wants to accept the offer, and Adelman believes that the settlement offer made by the husband is better than any award the wife would get if the case went to judgment. Is it proper for Adelman to agree that she will not represent the wife in any subsequent proceeding?
     
     a. Yes, because the restriction on Adelman is limited to subsequent proceedings in the same matter.
     
@@ -133,15 +133,15 @@ output:
     
     d. No, unless Adelman believes that the wife’s interests can be adequately protected by another lawyer in the future.
 
-14. Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year.”
+15. Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year.”
     
     a. Is Applebaum subject to discipline if she requires Darrow to sign the contract?
     
     b. Is Dewey subject to discipline if he signs the contract?
 
-15. Applebaum & Becker is a law firm specializing in real estate transactions. For years, Applebaum & Becker has used independent title insurance companies for its clients’ real estate closings. The firm is considering starting its own title insurance company, which will be incorporated separately from the law firm but will be housed in the same building. May the firm do so and what steps should it take to avoid violation of Rule 5.7?
+16. Applebaum & Becker is a law firm specializing in real estate transactions. For years, Applebaum & Becker has used independent title insurance companies for its clients’ real estate closings. The firm is considering starting its own title insurance company, which will be incorporated separately from the law firm but will be housed in the same building. May the firm do so and what steps should it take to avoid violation of Rule 5.7?
 
-16. The Applebaum Law Firm’s estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
+17. The Applebaum Law Firm’s estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
     
     a. What duties does the Applebaum firm owe to its estate planning clients?
 
@@ -149,7 +149,7 @@ output:
 
     c. May the Becker firm defray the acquisition costs by raising fees on clients it receives from Applebaum?
 
-17. Judge Becker is the Chief Judge of the County Court. As part of her job, Becker randomly assigns cases to the other seven county court judges. Becker randomly assigned the case of A v. B to Judge Applebaum. Judge Applebaum has presided over all proceedings in A v. B. Becker has played no role in the case other than the assignment. While the case of A v. B is still pending, Judges Applebaum and Becker join the Smith Law Firm, which represents A.
+18. Judge Becker is the Chief Judge of the County Court. As part of her job, Becker randomly assigns cases to the other seven county court judges. Becker randomly assigned the case of A v. B to Judge Applebaum. Judge Applebaum has presided over all proceedings in A v. B. Becker has played no role in the case other than the assignment. While the case of A v. B is still pending, Judges Applebaum and Becker join the Smith Law Firm, which represents A.
 
     a. May Judge Becker represent A in A v. B?
     
