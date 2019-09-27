@@ -41,8 +41,11 @@ output:
 3. Applebaum & Becker, a general partnership, is a litigation firm that hires new law school graduates as associates. These new lawyers are largely left to their own resources to practice law. Applebaum & Becker accepts many small cases and assigns them to associates for training purposes. No senior partners are assigned to supervise this work. Client retained Applebaum & Becker to pursue a claim for breach of contract against City. Associate, a first year associate, was assigned Client’s case. Associate failed to comply with the applicable 30-day notice requirement for filing a claim against City, and thus Client lost the chance to recover $5,000. Which of the following statements are  correct?
     
     a. The firm is subject to discipline for failure to supervise Associate.
+    
     b. The individual partners of Applebaum & Becker are subject to discipline for failure to make reasonable efforts to establish a system providing reasonable assurance that all lawyers in the firm comply with the rules of professional conduct.
+    
     c. Associate is subject to discipline for incompetent representation.
+    
     d. Both the firm and Associate are subject to civil liability for Client’s loss.
 
 4. Associate was recently hired by the Smith Law Firm. Applebaum, a partner at the Smith Law Firm, has asked Associate to draft a complaint in a new case. Associate, who has researched the potential claims for the complaint, concluded that the claims may be frivolous. Applebaum has thoroughly reviewed Associate’s research and determined that, although the claims are weak, they are not frivolous. Thus, Applebaum instructs Associate to file the complaint. If it turns out that the claims were frivolous, would Associate be subject to discipline? Would Applebaum be subject to discipline?
