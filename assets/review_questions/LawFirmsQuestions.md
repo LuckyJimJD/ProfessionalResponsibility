@@ -9,10 +9,12 @@ author: Eric M. Fink
 affiliation: Elon Law School 
 course: Professional Responsibility
 
+notes: true 
+
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
@@ -55,11 +57,11 @@ output:
     
     d. The attorney is NOT subject to civil liability and is NOT subject to discipline if the attorney personally was not negligent.
 
-6. A law firm has 300 lawyers in 10 states. It has placed the supervision of all routine administrative and financial matters in the hands of a nonlawyer administrator. The administrator is paid a regular monthly salary and a year-end bonus of 1% of the law firm’s net income from fees. Organizationally, the administrator reports to the managing partner of the law firm. This partner deals with all issues related to the law firm’s supervision of the practice of law. Is it proper for the partner to participate in the law firm’s use of the administrator’s services in this fashion?
+6. Law Firm hires Adele, a non-lawyer, to supervision all routine administrative and financial matters for the firm. Adele reports to the firm's managing partner, who is also responsible for supervising the firm's associates. In addition to a monthly salary, Adele receives an annual bonus bonus based on a percentage of the firm’s net income from fees. Is this arrangement proper?
     
-    a. Yes, unless the administrator has access to client files.
+    a. Yes, unless Adele has access to client files.
     
-    b. Yes, if the administrator does not control the professional judgment of the lawyers in the firm.
+    b. Yes, if Adele does not control the professional judgment of the lawyers in the firm.
     
     c. No, because the law firm is sharing legal fees with a nonlawyer.
     
