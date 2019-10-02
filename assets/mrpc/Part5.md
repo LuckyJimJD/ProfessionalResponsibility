@@ -60,7 +60,6 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
  (4) a lawyer may share court-awarded legal fees with a nonprofit organization that employed, retained or recommended employment of the lawyer in the matter.
 
-
 (b) A lawyer shall not form a partnership with a nonlawyer if any of the activities of the partnership consist of the practice of law.
 
 (c) A lawyer shall not permit a person who recommends, employs, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services.
@@ -120,7 +119,6 @@ A lawyer shall not participate in offering or making:
  (1) by the lawyer in circumstances that are not distinct from the lawyer's provision of legal services to clients; or
 
  (2) in other circumstances by an entity controlled by the lawyer individually or with others if the lawyer fails to take reasonable measures to assure that a person obtaining the law-related services knows that the services are not legal services and that the protections of the client-lawyer relationship do not exist.
-
 
 (b) The term "law-related services" denotes services that might reasonably be performed in conjunction with and in substance are related to the provision of legal services, and that are not prohibited as unauthorized practice of law when provided by a nonlawyer.
 

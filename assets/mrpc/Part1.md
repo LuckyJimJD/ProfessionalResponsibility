@@ -366,4 +366,4 @@ A lawyer or a law firm may sell or purchase a law practice, or an area of law pr
     
         (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
         
-        (ii) written notice is promptly given to the prospective client.<br>
+        (ii) written notice is promptly given to the prospective client.

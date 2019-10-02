@@ -15,7 +15,6 @@ output:
 
 ## Part 6: Public Service 
 
-
 ### Rule 6.1: Voluntary Pro Bono Publico Service
 
 
@@ -26,7 +25,6 @@ Every lawyer has a professional responsibility to provide legal services to thos
  (1) persons of limited means or
 
  (2) charitable, religious, civic, community, governmental and educational organizations in matters that are designed primarily to address the needs of persons of limited means; and
-
 
 (b) provide any additional services through:
 

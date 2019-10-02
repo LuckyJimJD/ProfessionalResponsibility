@@ -15,7 +15,7 @@ output:
 
 ## Part 8: Maintaining The Integrity of The Profession
 
-### Rule 8.1: Bar Admission &amp; Disciplinary Matters
+### Rule 8.1: Bar Admission & Disciplinary Matters
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
