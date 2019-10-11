@@ -1,13 +1,29 @@
-﻿Restatement Of The Law (3d), 
-The Law Governing Lawyers (2000)
+---
+date: Fall 2019
 
-Copyright © 2000 by the American Law Institute. 
+title: Professional Responsibility 
+subtitle: ﻿Restatement (3d) of the Law Governing Lawyers
+copyright: "Copyright © 2000 by the American Law Institute."
+
+author: Eric M. Fink
+affiliation: Elon Law School 
+
+notes: true 
+secnumdepth: 0
+
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: default.latex
+    
+---
+# Contents 
 
 ## Chapter 1. Regulation Of The Legal Profession
 
-### Topic 1. Regulation Of LawyersIn General
+### Topic 1. Regulation Of Lawyers—In General
 
-§ 1. Regulation of LawyersIn General 
+§ 1. Regulation of Lawyers—In General 
 
 ### Topic 2. Process Of Professional Regulation
 
@@ -31,7 +47,7 @@ Copyright © 2000 by the American Law Institute.
 
 ### Topic 5. Law-Firm Structure And Operation
 
-§ 9. Law-Practice OrganizationsIn General 
+§ 9. Law-Practice Organizations—In General 
 
 § 10. Limitations on Nonlawyer Involvement in a Law Firm 
 
@@ -51,7 +67,7 @@ Copyright © 2000 by the American Law Institute.
 
 ### Topic 2. Summary Of The Duties Under A Client-Lawyer Relationship
 
-§ 16. A Lawyer’s Duties to a ClientIn General 
+§ 16. A Lawyer’s Duties to a Client—In General 
 
 § 17. A Client’s Duties to a Lawyer 
 
@@ -137,9 +153,9 @@ Copyright © 2000 by the American Law Institute.
 
 ### Topic 1. Liability For Professional Negligence And Breach Of Fiduciary Duty
 
-§ 48. Professional NegligenceElements and Defenses Generally 
+§ 48. Professional Negligence—Elements and Defenses Generally 
 
-§ 49. Breach of Fiduciary DutyGenerally 
+§ 49. Breach of Fiduciary Duty—Generally 
 
 § 50. Duty of Care to a Client 
 
@@ -157,7 +173,7 @@ Copyright © 2000 by the American Law Institute.
 
 § 56. Liability to a Client or Nonclient Under General Law 
 
-§ 57. Nonclient ClaimsCertain Defenses and Exceptions to Liability 
+§ 57. Nonclient Claims—Certain Defenses and Exceptions to Liability 
 
 ### Topic 3. Vicarious Liability
 
@@ -189,13 +205,13 @@ Copyright © 2000 by the American Law Institute.
 
 § 68. Attorney-Client Privilege 
 
-§ 69. Attorney-Client Privilege“Communication”
+§ 69. Attorney-Client Privilege—“Communication”
 
-§ 70. Attorney-Client Privilege“Privileged Persons” 
+§ 70. Attorney-Client Privilege—“Privileged Persons” 
 
-§ 71. Attorney-Client Privilege“In Confidence” 
+§ 71. Attorney-Client Privilege—“In Confidence” 
 
-§ 72. Attorney-Client PrivilegeLegal Assistance as the Object of a Privileged Communication 
+§ 72. Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication 
 
 § 73. The Privilege for an Organizational Client 
 
@@ -243,9 +259,9 @@ Copyright © 2000 by the American Law Institute.
 
 ## Chapter 6. Representing Clients In General
 
-### Topic 1. Lawyer Functions In Representing ClientsIn General
+### Topic 1. Lawyer Functions In Representing Clients—In General
 
-§ 94. Advising and Assisting a ClientIn General 
+§ 94. Advising and Assisting a Client—In General 
 
 § 95. An Evaluation Undertaken for a Third Person 
 
@@ -259,7 +275,7 @@ Copyright © 2000 by the American Law Institute.
 
 § 98. Statements to a Nonclient 
 
-§ 99. A Represented NonclientThe General Anti-Contact Rule 
+§ 99. A Represented Nonclient—The General Anti-Contact Rule 
 
 § 100. Definition of a Represented Nonclient 
 
@@ -317,7 +333,7 @@ Copyright © 2000 by the American Law Institute.
 
 ## Chapter 8. Conflicts Of Interest
 
-### Topic 1. Conflicts Of InterestIn General
+### Topic 1. Conflicts Of Interest—In General
 
 § 121. The Basic Prohibition of Conflicts of Interest 
 
@@ -356,6 +372,8 @@ Copyright © 2000 by the American Law Institute.
 § 134. Compensation or Direction of a Lawyer by a Third Person 
 
 § 135. A Lawyer with a Fiduciary or Other Legal Obligation to a Nonclient 
+
+\newpage 
 
 ## Chapter 1. Regulation Of The Legal Profession
 
