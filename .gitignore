@@ -4,6 +4,6 @@ _site
 .DS_store
 .ruby-version
 Gemfile.lock
-.admin
+admin
 .private
 
