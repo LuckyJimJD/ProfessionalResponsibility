@@ -8,10 +8,12 @@ subtitle: Confidentiality & Privilege
 author: Eric M. Fink
 affiliation: Elon Law School 
 
+notes: true 
+
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
