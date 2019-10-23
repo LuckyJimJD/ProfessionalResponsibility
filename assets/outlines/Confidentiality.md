@@ -73,23 +73,23 @@ output:
 
 ## Application 
 
-##### Scope 
+### Scope 
 
 - Communication by the client (or client’s agent) to the lawyer (or lawyer’s agent)
     - Does not apply to information obtained from third parties or public sources
 - For purposes of seeking legal advice
     - Does not apply to business or personal advice of a non-legal nature
 
-##### Joint Clients
+#### Joint Clients
 
 - No privilege between joint clients
 	- But privilege applies as to outsiders
 
-##### Effect
+### Effect
 
 - Protects against both voluntary and compulsory disclosure
 
-##### Assertion
+### Assertion
 
 - Belongs to client, but attorney may (must) assert on behalf of client, unless client waives privilege
 - Party (client or attorney) invoking the privilege has the burden to establish that it applies. 
@@ -101,7 +101,33 @@ output:
 - Privilege survives death of client in majority of jurisdictions
 	- but see, e.g., California: Upon client’s death, privilege belongs to personal representative in charge of estate, and terminates once estate is distributed and representative’s duties are fully discharged
 
-## Waiver 
+#### NC v. Hunt, 659 S.E.2d 6 (Sup. Ct. 2008)
+
+- Cashwell and Hunt were both charged in a double homicide
+  - The two had different attorneys (because of potential conflict)
+  - If either defendant committed the murders alone, they could face the death penalty; but if they shared responsibility, they would only face a life sentence for each killing. 
+  - Cashwell told his lawyer, Hughes, that he was solely responsible for the two killings
+- Cashwell ultimately pleaded guilty, without admitting his sole responsibility. 
+- Hunt was subsequently convicted at trial & was sentenced to two life terms plus additional years (a harsher sentence than Cashwell received in his guilty plea) 
+- In 2002, more than a decade after his guilty plea, Cashwell committed suicide in prison. 
+  - Two years later, the NC Supreme Court recognized a limited exception to the attorney-client communication privilege where the (former) client was deceased: 
+    - Where the communication related solely to a third party, and would not affect the rights or interests of the client, or 
+    - Where the communication would affect the rights or interests of the client if they were still alive, but disclosure:
+      - Would not subject the deceased client's estate to civil liability, and 
+      - Would not hard the deceased client's reputation or loved ones. 
+- Hughes concluded that the second exception under _Miller_ applied to Cashwell's admission that he was solely responsible for the two killings. 
+  - Hughes also concluded that the exception to confidentiality under NC RPC 1.6(b)(1) applied, because disclosure was necessary to prevent the substantial threat of bodily harm to Hunt resulting from serving a life sentence for crimes he did not commit. 
+- Hughes contacted the lawyer representing Hunt is his petition for post-conviction relief, and revealed that Cashwell had confessed to his sole responsibility for the killings. 
+  - Hughes agreed to testify to that communication at the hearing on Hunt's petition. 
+  - Before Hughes testified, the judge warned him, "If you testify, I will be compelled to report you to the state bar. Do you understand that?"
+  - Hughes opted to testify anyway, but the judge excluded the testimony on grounds that it was inadmissible on grounds of the attorney-client communication privilege and on hearsay grounds. 
+  - On appeal, the NC Supreme Court rejected, without discussion, Hunt's argument that trial court erred by failing to consider whether the _Miller_ exception to the attorney-client communication privilege applied. 
+- The NC State Bar received a disciplinary complaint (presumably from the trial judge) against Hughes for violation of the duty of confidentiality under NC RPC 1.6(a). 
+  - The Grievance Committee opted not to hold a hearing and dismissed the complaint, without disclosing its reasons. 
+
+
+
+## Waiver & Exceptions 
 
 ### Disclosure to third-party
 
@@ -127,7 +153,7 @@ output:
 - Scope of waiver may be limited to communications relevant to establishing the reliance defense. 
     - Where defense is based on pre-litigation conduct and advice, waiver will generally not extend to communications with, or work product of, trial counsel. 
 
-## Crime-Fraud Exception
+### Crime-Fraud
 
 - Client seeks legal advice in pursuance of an *ongoing* crime or fraud
 - *State v. Gonzalez* (Kan. 2010)
