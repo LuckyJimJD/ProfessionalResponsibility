@@ -77,6 +77,9 @@ output:
 
 - Communication by the client (or client’s agent) to the lawyer (or lawyer’s agent)
     - Does not apply to information obtained from third parties or public sources
+    - Does not apply to client's knowledge about the information communicated
+      - Example: Lawyer represents Client in a auto collision suit. Client tells Lawyer, "I ran the red light." At trial, if Client is asked, "Did you tell Lawyer you ran the red light?", the privilege applies. But Client is asked, "Did you run the red light?", the privilege does not apply. 
+      - In other words, client may not shield otherwise admissible information merely by communicating that information to the lawyer. 
 - For purposes of seeking legal advice
     - Does not apply to business or personal advice of a non-legal nature
 
@@ -125,14 +128,15 @@ output:
 - The NC State Bar received a disciplinary complaint (presumably from the trial judge) against Hughes for violation of the duty of confidentiality under NC RPC 1.6(a). 
   - The Grievance Committee opted not to hold a hearing and dismissed the complaint, without disclosing its reasons. 
 
-
-
-## Waiver & Exceptions 
+## Waiver
 
 ### Disclosure to third-party
 
-- Third party is present during the communication, or 
+- Third party is present during the communication
 - Client discloses communication to a third party
+- Lawyer, acting with client's express authorization or within scope of implied authority, discloses communication to a third party. 
+  - But lawyer's unauthorized disclosure not in pursuit of client's interest does not constitute waiver. 
+  - Example: Client tells Lawyer, "I dumped a 55-gallon drum of cyanide in the town reservoir last night." Client does so for the purpose of seeking Lawyer's advice and representation related to Client's liability for this action. Lawyer adivses Client to notify the town water department, so that residents are not harmed from drinking the tained water, but Client refuses. Relying on the exception to the duty of confidentiality under Rule 1.6(b)(1), Lawyer contacts the town water department and tells them "I have good reason to believe someone dumped cyanide in the town reservoir last night." If Lawyer is later subpeonaed to testify as to the source of that information, the privilege still applies. 
 
 ### Inadvertent Disclosure
 
@@ -147,21 +151,50 @@ output:
 
 ### Placing Matter into Evidence 
 
-#### In re Seagate Technology* (Fed. Cir. 2007)
+#### In re Seagate Technology (Fed. Cir. 2007)
 
 - Client's assertion of "advice of counsel" defense waives attorney-client privilege and work product protection 
 - Scope of waiver may be limited to communications relevant to establishing the reliance defense. 
     - Where defense is based on pre-litigation conduct and advice, waiver will generally not extend to communications with, or work product of, trial counsel. 
 
+## Exceptions 
+
 ### Crime-Fraud
 
-- Client seeks legal advice in pursuance of an *ongoing* crime or fraud
-- *State v. Gonzalez* (Kan. 2010)
-    - Prosecution subpeonaed defense attorney to compel testimony about former client. Attorney refused to testify based on attorney-client privilege.
-    - Under Kansas law, crime-fraud exception requires "sufficient evidence, aside from the [client communication] ... to warrant a finding that the legal service was sought or obtained in order to enable or aid the communission or planning of a crime."
-        - Where only evidence was attorney's summary of former client's communication, trial court erred in holding exception applied. 
-    - Attorney-client privilege does not normally apply to client's identity 
-        - But where attorney previously revealed content (but not source) of client communication without client's consent (in breach of duty under Rule 1.6), compelling attorney to disclose client's identity would effectively defeat the privilege. 
+#### Restatement (3d) of the Law Governing Lawyers 
+
+##### § 82. Client Crime or Fraud
+
+> The attorney-client privilege does not apply toa communication occuring when a client: 
+> 
+> > (a) consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or aiding a third person to do so, or 
+> 
+> > (b) regardless of the client's purpose at the time of consulation, uses the lawyer's advice or other services to engage in or assist a crime or fraud. 
+
+#### State v. Gonzalez (Kan. 2010)
+
+- Prosecution subpeonaed defense attorney to compel testimony about former client. Attorney refused to testify based on attorney-client privilege.
+- Under Kansas law, crime-fraud exception requires "sufficient evidence, aside from the [client communication] ... to warrant a finding that the legal service was sought or obtained in order to enable or aid the communission or planning of a crime."
+    - Where only evidence was attorney's summary of former client's communication, trial court erred in holding exception applied. 
+- Attorney-client privilege does not normally apply to client's identity 
+    - But where attorney previously revealed content (but not source) of client communication without client's consent (in breach of duty under Rule 1.6), compelling attorney to disclose client's identity would effectively defeat the privilege. 
+
+
+### Attorney's Claims or Defenses 
+
+#### Restatement (3d) of the Law Governing Lawyers 
+
+##### § 83. Lawyer Self-Protection
+
+> The attorney-client privilege does not apply to a communication that is relevant and reasonably necessary for a lawyer to employ in a proceeding:
+> 
+> > (1) to resolve a dispute with a client concerning compensation or reimbursement that the lawyer reasonably claims the client owes the lawyer, or 
+> 
+> > (2) to defend the lawyer or the lawyer's associate or agent against a charge by any person that the lawyer, associate, or agent acted wrongfully during the court of representing a client. 
+
+##### Example
+
+Client sues lawyer for malpractice, alleging that the lawyer accepted a settlement offer over the client's objection. Lawyer may offer evidence (e.g. lawyer's testimony about conversation with client; memo from lawyer to client confirming that conversation; client's email to lawyer indicating acceptance of offer) that the client gave informed consent. 
 
 # Attorney Work Product
 

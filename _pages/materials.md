@@ -48,7 +48,9 @@ title: Materials
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/ConfidentialityQuestions.html)
 
-- [Discussion Problem]({{ site.baseurl }}/assets/problems/ConflictsProblem.html)
+- [Discussion Problems]({{ site.baseurl }}/assets/problems/ConfidentialityProblem.html)
+
+- Adam Liptak, [When Law Prevents Righting a Wrong]({{ site.baseurl }}/assets/readings/Liptak-WhenLawPreventsRightingWrong.pdf), NY Times (May 4, 2008)
 
 # Conflicts 
 
@@ -56,7 +58,7 @@ title: Materials
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/ConflictsQuestions.html)
 
-- [Discussion Problem]({{ site.baseurl }}/assets/problems/ConflictsProblem.html)
+- [Discussion Problems]({{ site.baseurl }}/assets/problems/ConflictsProblem.html)
 
 # Duties to Courts, Opposing Parties, & Others  
 
