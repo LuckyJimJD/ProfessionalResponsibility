@@ -8,9 +8,6 @@ copyright: "Copyright © 2000 by the American Law Institute."
 author: Eric M. Fink
 affiliation: Elon Law School 
 
-notes: true 
-secnumdepth: 0
-
 output: 
   pdf_document:
     latex_engine: xelatex
