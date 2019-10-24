@@ -2,21 +2,22 @@
 layout: post
 date: Fall 2019
 
-title: Review Problem
+title: Discussion Problems
 subtitle: Confidentiality
 
 author: Eric M. Fink
 affiliation: Elon Law School 
 course: Professional Responsibility
 
+
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
-# Discussion Problem 1
+# Problem 1
 
 Your law practice provides professional responsibility advice and representation to other lawyers. Lawyer retained you for advice. Lawyer supplied these facts:
 
@@ -24,13 +25,13 @@ Lawyer represented Client in a contested divorce case. Lawyer and Client agreed 
 
 Lawyer advised you that she wants to disclose Client’s discovery violations to counsel for the ex-spouse, both to protect the ex-spouse’s legitimate interests and to alert the judge. Lawyer presented these questions to your firm: (1) Did Client’s statement to Lawyer about his discovery misconduct constitute confidential information protected by Model Rule 1.6(a)?; (2) If this information was confidential, would Model Rule 1.6(b) permit disclosure of this information to counsel for the ex-spouse?2; and (3) What course of action do you recommend to Lawyer about whether to disclose this information?
 
-# Discussion Problem 2
+# Problem 2
 
 You are a public defender representing Jimmy Dale, who has been charged with murder. Based on witness statements, the police and prosecutor believe that another man, Lee Wayne, planned the murder and that Dale acted as Wayne's accomplice in carrying out the killing. To avoid any potential conflict, the court has appointed another lawyer to represent Wayne. 
 
 During your initial meeting with Dale, he tells you, "I killed that guy all on my own. Wayne didn't have anything to do with it." Based on the details that Dale provides about the crime, and the lack of any apparent motive to falsely claim sole responsibility, you conclude that Dale is telling the truth. 
 
-_What are your obligation under Rule 1.6(a)? Do any of the exceptions under Rule 1.6(b) apply at this point?_
+_What are your obligations under Rule 1.6(a)? Do any of the exceptions under Rule 1.6(b) apply at this point?_
 
 Dale and Hunt are tried separately. At Hunt's trial, he testifies that he had no role in the crime. Nevertheless, Hunt is convicted and sentenced to life imprisonment. 
 
@@ -40,7 +41,9 @@ _Do you have any obligation to correct the prosecutor's mistaken belief about Wa
 
 About ten years later, Dale commits suicide in prison. Wayne remains in prison serving his life sentence. 
 
-_May you reveal Dale's admission of sole responsbility now that Dale is dead?_ 
+_May you reveal Dale's admission of sole responsbility to Wayne's attorney now that Dale is dead? If you offer or are subpeonaed to testify at Wayne's hearing for post-conviction relief, will the attorney-client communication privilege apply?_ 
+
+
 
 
 
