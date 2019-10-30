@@ -8,16 +8,19 @@ subtitle: Duties Within Law Firms
 author: Eric M. Fink
 affiliation: Elon Law School 
 
+secnumdepth: 3 
+parskip: 0.5em 
+
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
-# Supervision of Other Lawyers
+# Supervision & Responsibility Within Firms
 
-### Responsibilities of Supervisory Lawyers
+## Responsibilities of Supervisory Lawyers
 
 #### Rule 5.1(a)
 
@@ -31,7 +34,7 @@ Lawyer with supervisory authority must ensure compliance by subordinate lawyer
 
 Vicarious responsibility for subordinate lawyer's actions 
 
-### Responsibilities of Subordinate Lawyers
+## Responsibilities of Subordinate Lawyers
 
 #### Rule 5.2(a)
 
@@ -41,7 +44,7 @@ Independent duty to abide by rules
 
 Safe harbor when following supervisor's reasonable interpretation 
 
-### Supervision of Non-Lawyers
+## Supervision of Non-Lawyers
 
 #### Rule 5.3(a)
 
@@ -92,4 +95,8 @@ Rules apply to law-related services
 
 Law-Related Services Defined
 
-- *Milavetz*
+#### Milavetz, Gallop & Milavetz v. United States (US 2010)
+
+- Attorneys providing bankruptcy assistance or prepare bankruptcy petitions are "debt relief agencies" subject to regulation under Bankruptcy Abuse Prevention & Consumer Protection Act (BAPCPA). 
+  - Statute does not exclude attorneys from definition of "debt relief agency" 
+  - Advertising disclosure requirements for debt relief agencies under BAPCPA do not violate the First Amendment rights of attorneys. 

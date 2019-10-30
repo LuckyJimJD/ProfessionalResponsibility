@@ -8,10 +8,13 @@ subtitle: Establishing & Terminating an Attorney-Client Relationship
 author: Eric M. Fink
 affiliation: Elon Law School 
 
+secnumdepth: 3 
+parskip: 0.5em 
+
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 

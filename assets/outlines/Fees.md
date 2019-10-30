@@ -8,7 +8,8 @@ subtitle: Attorney Fees & Client Property
 author: Eric M. Fink
 affiliation: Elon Law School 
 
-notes: true
+secnumdepth: 3 
+parskip: 0.5em 
 
 output: 
   pdf_document:
@@ -24,6 +25,7 @@ output:
 #### Rule 1.5(a)
 
 Factors
+
 - Time & labor required, novelty & difficulty of issue; skill required to perform service
 - Opportunity costs to lawyer
 - Customary fees in the locality
