@@ -38,7 +38,7 @@ title: Materials
 
 # Duties to Clients & Allocation of Authority 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClientDuties.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Representation&Authority.html)
 
 # Confidentiality 
 
