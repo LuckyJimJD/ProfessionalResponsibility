@@ -7,12 +7,14 @@ subtitle: Duties to Courts, Opposing Parties, & Others
 
 author: Eric M. Fink
 affiliation: Elon Law School 
-course: Professional Responsibility
+
+secnumdepth: 3 
+parskip: 0.5em 
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
