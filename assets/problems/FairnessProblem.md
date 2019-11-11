@@ -12,7 +12,7 @@ course: Professional Responsibility
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: default.latex
     
 ---
 
