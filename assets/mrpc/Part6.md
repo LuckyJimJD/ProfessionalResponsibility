@@ -17,7 +17,6 @@ output:
 
 ### Rule 6.1: Voluntary Pro Bono Publico Service
 
-
 Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer should aspire to render at least (50) hours of pro bono publico legal services per year. In fulfilling this responsibility, the lawyer should:
 
 (a) provide a substantial majority of the (50) hours of legal services without fee or expectation of fee to:
