@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: "Review Questions: Establishing & Terminating an Attorney-Client Relationship
+subtitle: "Outline: Establishing & Terminating an Attorney-Client Relationship"
 
 author: Eric M. Fink
 affiliation: Elon Law School 

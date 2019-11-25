@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: "Review Questions: Duties Within Law Firms 
+subtitle: "Outline: Duties Within Law Firms"
 
 author: Eric M. Fink
 affiliation: Elon Law School 
