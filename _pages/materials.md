@@ -6,23 +6,23 @@ title: Materials
 
 # Law as a Regulated Profession
 
-- [Outline]({{ site.baseurl }}/assets/outlines/LegalProfession.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/LegalProfession.pdf)
 
 - [Video: Character & Fitness](https://drive.google.com/open?id=1dmPA2K2iP2slrd9MCBYA7HMzt0N--aDc)
 
 # Advertising & Solicitation 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Advertising.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Advertising.pdf)
 
 - [Attorney Ads](https://docs.google.com/presentation/d/1WjdHg_oxLHyGuGB-Te0KAZCOUj6BhYar7AMM42gx1bw/edit?usp=sharing)
 
 # Attorney-Client Relationship 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClientFormation.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/AttorneyClientFormation.pdf)
 
 # Attorney Fees & Client Property
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Fees.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Fees.pdf)
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/FeesQuestions.html)
 
@@ -30,7 +30,7 @@ title: Materials
 
 # Law Firms 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/LawFirms.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/LawFirms.pdf)
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/LawFirmsQuestions.html)
 
@@ -38,15 +38,15 @@ title: Materials
 
 # Duties to Clients & Allocation of Authority 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Representation&Authority.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Representation&Authority.pdf)
 
 # Confidentiality 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Confidentiality.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Confidentiality.pdf)
 
 - [Confidentiality & Privilege Comparison]({{ site.baseurl }}/assets/visuals/ConfidentialityPrivilegeComparison.pdf)
 
-- [Review Questions]({{ site.baseurl }}/assets/review_questions/ConfidentialityQuestions.html)
+- [Review Questions]({{ site.baseurl }}/assets/review_questions/ConfidentialityQuestions.pdf)
 
 - [Discussion Problems]({{ site.baseurl }}/assets/problems/ConfidentialityProblem.html)
 
@@ -54,7 +54,7 @@ title: Materials
 
 # Conflicts 
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Conflicts.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Conflicts.pdf)
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/ConflictsQuestions.html)
 
@@ -62,7 +62,7 @@ title: Materials
 
 # Duties to Courts, Opposing Parties, & Others  
 
-- [Outline]({{ site.baseurl }}/assets/outlines/Fairness.html)
+- [Outline]({{ site.baseurl }}/assets/outlines/Fairness.pdf)
 
 - [Review Questions]({{ site.baseurl }}/assets/review_questions/FairnessQuestions.html)
 

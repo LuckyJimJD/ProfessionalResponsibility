@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: post
 date: Fall 2019
 
 title: Professional Responsibility
