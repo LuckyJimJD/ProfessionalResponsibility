@@ -2,12 +2,11 @@
 layout: post
 date: Fall 2019
 
-title: Review Problem
-subtitle: Attorney Fees
+title: Professional Responsibility
+subtitle: "Review Problem: Attorney Fees"
 
 author: Eric M. Fink
 affiliation: Elon Law School 
-course: Professional Responsibility
 
 output: 
   pdf_document:

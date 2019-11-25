@@ -2,7 +2,7 @@
 date: Fall 2019
 
 title: 'Professional Responsibility'
-subtitle: 'Final Exam: Model Rules of Professional Conduct'
+subtitle: "Review Questions: 'Final Exam: Model Rules of Professional Conduct'
 
 author: Eric M. Fink
 affiliation: Elon Law School 

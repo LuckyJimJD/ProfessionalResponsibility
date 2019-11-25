@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Scope of Representation & Authority
+subtitle: "Review Questions: Scope of Representation & Authority
 
 author: Eric M. Fink
 affiliation: Elon Law School 

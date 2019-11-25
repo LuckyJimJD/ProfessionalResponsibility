@@ -2,8 +2,8 @@
 layout: post
 date: Fall 2019
 
-title: Review Questions
-subtitle: Organizational Clients
+title: Professional Responsibility
+subtitle: "Review Questions: Organizational Clients"
 
 author: Eric M. Fink
 affiliation: Elon Law School 

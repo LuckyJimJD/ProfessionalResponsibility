@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Law as a Regulated Profession 
+subtitle: "Review Questions: Law as a Regulated Profession 
 
 author: Eric M. Fink
 affiliation: Elon Law School 

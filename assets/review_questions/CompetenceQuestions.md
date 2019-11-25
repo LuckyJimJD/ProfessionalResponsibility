@@ -2,8 +2,8 @@
 layout: post
 date: Fall 2019
 
-title: Review Questions
-subtitle: Competence, Diligence, & Communication
+title: Professional Responsibility
+subtitle: "Review Questions: Competence, Diligence, & Communication"
 
 author: Eric M. Fink
 affiliation: Elon Law School 

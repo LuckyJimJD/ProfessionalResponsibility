@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Maintaining the Integrity of the Tribunal
+subtitle: "Review Questions: Maintaining the Integrity of the Tribunal
 
 author: Eric M. Fink
 affiliation: Elon Law School 

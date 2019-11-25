@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Advertising & Solicitation
+subtitle: "Review Questions: Advertising & Solicitation
 
 author: Eric M. Fink
 affiliation: Elon Law School 

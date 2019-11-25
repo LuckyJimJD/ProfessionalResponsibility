@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Confidentiality & Privilege
+subtitle: "Review Questions: Confidentiality & Privilege
 
 author: Eric M. Fink
 affiliation: Elon Law School 

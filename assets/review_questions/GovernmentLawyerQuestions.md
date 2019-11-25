@@ -2,8 +2,8 @@
 layout: post
 date: Fall 2019
 
-title: Review Questions
-subtitle: Government Lawyers & Prosecutors
+title: Professional Responsibility
+subtitle: "Review Questions: Government Lawyers & Prosecutors"
 
 author: Eric M. Fink
 affiliation: Elon Law School 

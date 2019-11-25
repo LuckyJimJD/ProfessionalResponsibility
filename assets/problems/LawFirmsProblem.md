@@ -2,12 +2,11 @@
 layout: post
 date: Fall 2019
 
-title: Review Problem
-subtitle: Law Firm Pro Bono Policy
+title: Professional Responsibility
+subtitle: "Review Problem: Law Firm Pro Bono Policy"
 
 author: Eric M. Fink
 affiliation: Elon Law School 
-course: Professional Responsibility
 
 output: 
   pdf_document:

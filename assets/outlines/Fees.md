@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Attorney Fees & Client Property 
+subtitle: "Review Questions: Attorney Fees & Client Property 
 
 author: Eric M. Fink
 affiliation: Elon Law School 

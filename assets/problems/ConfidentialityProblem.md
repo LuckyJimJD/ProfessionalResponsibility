@@ -2,12 +2,11 @@
 layout: post
 date: Fall 2019
 
-title: Discussion Problems
-subtitle: Confidentiality
+title: Professional Responsibility
+subtitle: "Review Problem: Confidentiality"
 
 author: Eric M. Fink
 affiliation: Elon Law School 
-course: Professional Responsibility
 
 
 output: 

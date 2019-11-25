@@ -3,7 +3,7 @@ layout: notes
 date: Fall 2019
 
 title: Professional Responsibility
-subtitle: Duty of Care & Civil Liability 
+subtitle: "Review Questions: Duty of Care & Civil Liability 
 
 author: Eric M. Fink
 affiliation: Elon Law School 

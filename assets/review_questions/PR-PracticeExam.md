@@ -2,7 +2,7 @@
 layout: post
 date: Fall 2019
 title: Professional Responsibility
-subtitle: Practice Examination Questions
+subtitle: "Practice Examination Questions"
 
 author: 'Prof. Fink'
 affiliation: 'Elon Law School'
