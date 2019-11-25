@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notes
 date: Fall 2019
 title: Professional Responsibility
 subtitle: Practice Examination Questions
