@@ -111,7 +111,7 @@ _2 days_
 - Casebook: Chapters 19-24
 - ABA Model Rules:
 
-#####  Review & Quiz 1: Maintaining an Ethical Law Practice (October 7)
+##### Review & Quiz: Maintaining an Ethical Law Practice (October 7)
 
 ## Duties to Clients
 
@@ -143,7 +143,7 @@ _3 days_
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
 
-##### Review & Quiz 2: Duties to Clients (November 11)
+##### Review & Quiz: Duties to Clients (November 11)
 
 ## Duties to Courts, Opposing Parties, & Others
 
@@ -168,4 +168,4 @@ _1 day_
 - Casebook: Chapters 51-54
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Review & Quiz 3: Duties to Courts, Opposing Parties, & Others (November 25)
+##### Review & Quiz: Duties to Courts, Opposing Parties, & Others (November 25)
