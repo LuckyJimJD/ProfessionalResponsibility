@@ -13,6 +13,8 @@ term: 'Fall 2019'
 days: 'Monday & Wednesday, 3:00 - 4:15 pm'
 room: Room 204
 
+nonumbers: true 
+
 output:
   pdf_document:
     latex_engine: xelatex
