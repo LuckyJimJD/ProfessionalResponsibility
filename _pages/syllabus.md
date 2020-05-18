@@ -67,7 +67,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 # Outline & Assignments
 
-## Law as a Regulated Profession
+## 1. Law as a Regulated Profession
 
 ### Professional Gatekeeping & Regulation
 
@@ -83,7 +83,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 5-7
 - ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
 
-## Maintaining an Ethical Law Practice
+## 2. Maintaining an Ethical Law Practice
 
 ### Advertising & Solicitation
 
@@ -115,7 +115,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 ##### Review & Quiz: Maintaining an Ethical Law Practice (October 7)
 
-## Duties to Clients
+## 3. Duties to Clients
 
 ### Scope of Representation & Authority
 
@@ -147,7 +147,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 ##### Review & Quiz: Duties to Clients (November 11)
 
-## Duties to Courts, Opposing Parties, & Others
+## 4. Duties to Courts, Opposing Parties, & Others
 
 ### Good Faith & Fairness Toward Opposing Parties
 
