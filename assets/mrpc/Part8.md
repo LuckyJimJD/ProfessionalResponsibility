@@ -9,7 +9,7 @@ fontsize: 10pt
 output: 
  pdf_document:
  latex_engine: xelatex
- template: default.latex
+ template: default.tex
  
 ---
 
