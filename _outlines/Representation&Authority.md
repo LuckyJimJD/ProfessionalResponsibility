@@ -1,9 +1,9 @@
 ---
 layout: page
-date: 2020-05-27T23:00:00
+date: 2020-05-28T05:00:00
 
 course: Professional Responsibility
-title: Scope of Representation & Authority
+title: Scope of Representation & Authority 
 author: Eric M. Fink
 affiliation: Elon Law School 
     

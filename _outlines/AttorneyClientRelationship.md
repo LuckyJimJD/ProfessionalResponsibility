@@ -1,9 +1,9 @@
 ---
 layout: page
-date: 2020-05-27T23:00:00
+date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
-title: Establishing & Terminating an Attorney-Client Relationship
+title: Attorney-Client Relationship
 author: Eric M. Fink
 affiliation: Elon Law School 
     

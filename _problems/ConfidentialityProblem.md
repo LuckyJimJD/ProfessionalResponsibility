@@ -1,9 +1,9 @@
 ---
 layout: page
-date: 2020-05-27T23:00:00
+date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
-title: "Discussion Problem: Confidentiality"
+title: "Discussion Problems: Confidentiality"
 author: Eric M. Fink
 affiliation: Elon Law School 
     

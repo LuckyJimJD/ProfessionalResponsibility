@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /materials/
-title: Study Aids
+title: Course Materials
 
 ---
 
@@ -12,10 +12,10 @@ title: Study Aids
     </p>
   {% endfor %}
 
-<h1>Visuals</h1>
+<h1>Discussion Problems</h1>
 
-  {% for visual in site.visuals %}
-    <p><a href="{{ site.baseurl }}{{ visual.url }}">{{ visual.title }}</a>
+  {% for problem in site.problems %}
+    <p><a href="{{ site.baseurl }}{{ visual.url }}">{{ problem.title }}</a>
     </p>
   {% endfor %}
 
@@ -25,6 +25,10 @@ title: Study Aids
     <p><a href="{{ site.baseurl }}{{ question.url }}">{{ question.title }}</a>
     </p>
   {% endfor %}
+
+
+
+- [Attorney Ads](https://www.emfink.net/ElonLaw/presentations/AttorneyAdvertising.revealjs.html)
 
 
 # Study Aids 

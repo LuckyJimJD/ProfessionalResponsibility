@@ -103,6 +103,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 - Casebook: Chapters 17 & 18
 - ABA Model Rules: 1.5, 1.8, 1.15
+- Discussion Problem: [Attorney Fees]({{ site.baseurl }}/problems/FeesProblem.html)
 
 ### Law Firms
 
@@ -110,6 +111,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 - Casebook: Chapters 19-24
 - ABA Model Rules:
+- Discussion Problem: [Law Firm Pro Bono Policy]({{ site.baseurl }}/problems/LawFirmsProblem.html)
 
 ##### Quiz: Maintaining an Ethical Law Practice (DATE)
 
@@ -135,6 +137,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 - Casebook: Chapters 32, 33, 39
 - ABA Model Rules: 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
+- Discussion Problems: [Confidentiality]({{ site.baseurl }}/problems/ConfidentialityProblem.html)
 
 ### Conflicts of Interest
 
@@ -142,6 +145,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
+- Discussion Problems: [Conflicts]({{ site.baseurl }}/problems/ConflictsProblem.html)
 
 ##### Quiz: Duties to Clients (DATE)
 
