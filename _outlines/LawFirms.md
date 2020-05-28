@@ -3,7 +3,7 @@ layout: page
 date: 2020-05-27T23:00:00
 
 course: Professional Responsibility
-title: "Outline: Duties Within Law Firms"
+title: Duties Within Law Firms
 author: Eric M. Fink
 affiliation: Elon Law School 
     

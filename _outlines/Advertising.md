@@ -2,10 +2,8 @@
 layout: page
 date: 2020-05-27T23:00:00
 
-
 course: Professional Responsibility
-title: "Outline: Advertising & Solicitation"
-
+title: Advertising & Solicitation
 author: Eric M. Fink
 affiliation: Elon Law School 
     

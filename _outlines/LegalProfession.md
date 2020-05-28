@@ -3,7 +3,7 @@ layout: page
 date: 2020-05-27T23:00:00
 
 course: Professional Responsibility
-title: "Outline: Law as a Regulated Profession"
+title: Law as a Regulated Profession
 author: Eric M. Fink
 affiliation: Elon Law School 
     

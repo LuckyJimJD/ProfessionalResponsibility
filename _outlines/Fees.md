@@ -2,20 +2,10 @@
 layout: page
 date: 2020-05-27T23:00:00
 
-
 course: Professional Responsibility
-title: "Outline: Attorney Fees & Client Property"
-
+title: Attorney Fees & Client Property
 author: Eric M. Fink
 affiliation: Elon Law School 
-
-secnumdepth: 3 
-parskip: 0.5em 
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
     
 ---
 
