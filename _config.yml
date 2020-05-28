@@ -1,9 +1,10 @@
 ---
 url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: /ProfessionalResponsibility # the subpath of your site, e.g. /blog/
-title: Professional Responsibility 
+
+course: Professional Responsibility 
 description:  # leave blank if you don't want to display a description 
-last_updated: 17 May 2020 # leave blank if you don't want to display last updated
+last_updated: 27 May 2020 # leave blank if you don't want to display last updated
 
 name: Professional Responsibilty 
 author: Eric M. Fink
@@ -14,6 +15,25 @@ state: North Carolina
 zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
+
+
+collections: 
+  exams:
+    output: true
+  notes: 
+    output: true 
+  outlines:
+    output: true
+  problems:
+    output: true
+  readings: 
+    output: true 
+  review-questions: 
+    output: true 
+  statutes-rules: 
+    output: true 
+  visuals:
+    output: true
 
 footer_text: >
   Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 

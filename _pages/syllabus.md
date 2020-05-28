@@ -8,18 +8,16 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-course: 'Professional Responsibility'
-term: 'Fall 2019'
-days: 'Monday & Wednesday, 3:00 - 4:15 pm'
-room: Room 204
+course: Professional Responsibility
+term: Fall 2020
+days: Days & Times TBD
+room: Location TBD
 
-nonumbers: true 
-
-output:
+output: 
   pdf_document:
     latex_engine: xelatex
     template: syllabus.tex
-
+  
 ---
 
 # Description
@@ -39,15 +37,15 @@ The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink
 
 # Policies
 
-### Grading
+#### Grading
 
 Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%).
 
-The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). The midterm quizzes will be given in class and will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam.
+The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will take the quizzes online outside of class and they will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam.
 
 The in-class performance component depends on your preparation before class, regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
-### Attendance
+#### Attendance
 
 Elon Law School has adopted the following attendance policy for all courses:
 
@@ -57,17 +55,17 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 Excessive absences (more than 2 classes) may result in a reduction of your grade.
 
-### Honor Code
+#### Honor Code
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
-### Disability Accommodations
+#### Disability Accommodations
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
 
 # Outline & Assignments
 
-## 1. Law as a Regulated Profession
+## Law as a Regulated Profession
 
 ### Professional Gatekeeping & Regulation
 
@@ -83,7 +81,7 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 5-7
 - ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
 
-## 2. Maintaining an Ethical Law Practice
+## Maintaining an Ethical Law Practice
 
 ### Advertising & Solicitation
 
@@ -113,9 +111,9 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 19-24
 - ABA Model Rules:
 
-##### Review & Quiz: Maintaining an Ethical Law Practice (October 7)
+##### Quiz: Maintaining an Ethical Law Practice (DATE)
 
-## 3. Duties to Clients
+## Duties to Clients
 
 ### Scope of Representation & Authority
 
@@ -145,9 +143,9 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
 
-##### Review & Quiz: Duties to Clients (November 11)
+##### Quiz: Duties to Clients (DATE)
 
-## 4. Duties to Courts, Opposing Parties, & Others
+## Duties to Courts, Opposing Parties, & Others
 
 ### Good Faith & Fairness Toward Opposing Parties
 
@@ -170,4 +168,4 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 51-54
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Review & Quiz: Duties to Courts, Opposing Parties, & Others (November 25)
+##### Quiz: Duties to Courts, Opposing Parties, & Others (DATE)
