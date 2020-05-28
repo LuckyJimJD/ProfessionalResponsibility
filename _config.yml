@@ -18,19 +18,11 @@ phone: 336-279-9334
 
 
 collections: 
-  exams:
-    output: true
-  notes: 
-    output: true 
   outlines:
     output: true
   problems:
     output: true
-  readings: 
-    output: true 
-  review-questions: 
-    output: true 
-  statutes-rules: 
+  questions: 
     output: true 
   visuals:
     output: true
