@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: outline
 date: 2020-05-28T09:00:00
 
 course: Professional Responsibility
