@@ -3,13 +3,13 @@ layout: post
 date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
-title: Duty of Confidentiality & Evidentiary Privileges 
+title: Confidentiality, Privileged Communication, & Work Product 
 author: Eric M. Fink
 affiliation: Elon Law School 
     
 ---
 
-  | Duty of Confidentiality | Attorney-Client Communication | Attorney Work Product 
+                   | Duty of Confidentiality | Attorney-Client Communication | Attorney Work Product 
 -------------------|-------------------|-------------------|-------------------
  What is Protected | Any information relating to the representation | Private communication between attorney & client (or their agents) | Attorney's mental impressions 
  Source of Information | Any source | Communication between attorney & client  |  Attorney 
