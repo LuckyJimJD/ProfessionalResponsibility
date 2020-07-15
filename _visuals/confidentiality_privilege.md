@@ -4,8 +4,6 @@ date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
 title: Confidentiality, Privileged Communication, & Work Product 
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

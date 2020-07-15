@@ -5,20 +5,10 @@ date: 2020-05-28T04:00:00
 course: Professional Responsibility
 title: Discussion Problem
 subtitle: Conflicts
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 
-# Discussion Problem 1
-
-Your law offices handles primarily plaintiff claims in civil liability actions. One day, two individuals arrived at your firm as prospective clients: Albertson and Baker. Albertson and Baker both were injured when the car they drove was hit at high speed and nearly head-on by a commercial truck driven by Cypress. Cypress is not much of a deep pocket, but the truck was owned by Depot, a large construction company. Albertson and Baker were both injured significantly, although Baker has injuries that likely will impact him longer term, including in his future ability to work. Baker was driving the car, and Albertson was a passenger. Albertson and Baker would like your firm to represent both of them in suing Cypress and Depot.
-
-May your firm represent both Albertson and Baker? If not, why? If so, what factors would you consider in deciding whether to represent both Albertson and Baker, what conversations would you have with them, and what procedure would you follow?
-
-# Discussion Problem 2 
-
-This problem is based on _The Motive_, a story by Spanish author Javier Cercas.^[Javier Cercas, _The Tenant_ & _The Motive_, (Anne McLean trans., Bloomsbury Publishing 2006)]
+(Based on [Javier Cercas, _The Motive_](https://www.bloomsbury.com/uk/the-tenant-and-the-motive-9780747578970/).)
 
 Álvaro is a lawyer and writer. He is working on a new novel, about a young couple experiencing sudden financial hardship, who decide to kill their elderly neighbor and steal the money he keeps in a safe in his apartment. The characters are based on Álvaro’s neighbors, the young couple Enrique & Irene Cesares and the elderly Señor Montero. For inspiration, Álvaro has been listening in on his neighbors’ conversations, which he can overhear from the bathroom of his apartment. 
 
