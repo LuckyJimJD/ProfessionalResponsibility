@@ -1,8 +1,7 @@
 ---
 url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: /ProfessionalResponsibility # the subpath of your site, e.g. /blog/
-
-course: Professional Responsibility 
+title: Professional Responsibility 
 description:  # leave blank if you don't want to display a description 
 last_updated: 15 July 2020 # leave blank if you don't want to display last updated
 
@@ -15,7 +14,6 @@ state: North Carolina
 zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
-
 
 collections: 
   outlines:
