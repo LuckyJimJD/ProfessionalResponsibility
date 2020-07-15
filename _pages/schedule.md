@@ -36,7 +36,7 @@ title: Schedule & Assignments
 
 - Casebook: Chapters 17 & 18
 - ABA Model Rules: 1.5, 1.8, 1.15
-- Discussion Problem: [Attorney Fees]({{ site.baseurl }}/problems/FeesProblem.html)
+- Discussion Problem: [Attorney Fees](https://www.emfink.net/ProfessionalResponsibility/problems/FeesProblem.html)
 
 #### September 21 & 23
 
@@ -44,7 +44,7 @@ title: Schedule & Assignments
 
 - Casebook: Chapters 19-24
 - ABA Model Rules:
-- Discussion Problem: [Law Firm Pro Bono Policy]({{ site.baseurl }}/problems/LawFirmsProblem.html)
+- Discussion Problem: [Law Firm Pro Bono Policy](https://www.emfink.net/ProfessionalResponsibility/problems/LawFirmsProblem.html)
 
 ##### Quiz: Maintaining an Ethical Law Practice (Due September 25)
 
@@ -83,8 +83,8 @@ title: Schedule & Assignments
 
 ### Confidentiality & Conflicts Review 
 
-- Discussion Problem: [Confidentiality]({{ site.baseurl }}/problems/ConfidentialityProblem.html)
-- Discussion Problem: [Conflicts]({{ site.baseurl }}/problems/ConflictsProblem.html)
+- Discussion Problem: [Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
+- Discussion Problem: [Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
 
 ##### Quiz: Duties to Clients (Due October 23)
 
