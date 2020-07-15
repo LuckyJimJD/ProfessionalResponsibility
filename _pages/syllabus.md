@@ -10,7 +10,7 @@ address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Professional Responsibility
 term: Fall 2020
-days: Monday & Wednesday, 4:15–5:30 pm
+days: Monday & Wednesday 4:15–5:30 pm
 room: Room 206
 
 output: 
