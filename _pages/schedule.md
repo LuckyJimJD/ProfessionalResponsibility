@@ -7,19 +7,12 @@ title: Schedule & Assignments
 
 ## Law as a Regulated Profession
 
-### Professional Gatekeeping & Regulation
-
-#### 1 day
-
-- Casebook: Chapters 1-4
-- ABA Model Rules: Preamble & Scope
-
 #### August 31
 
-### Professional Discipline
+### Professional Gatekeeping & Regulation
 
-- Casebook: Chapters 5-7
-- ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
+- Casebook: Chapters 1-7
+- ABA Model Rules: Preamble & Scope, 1.0, 5.1-5.7, 8.1-8.5
 
 ## Maintaining an Ethical Law Practice
 
@@ -88,7 +81,7 @@ title: Schedule & Assignments
 
 #### October 28 
 
-### Review 
+### Confidentiality & Conflicts Review 
 
 - Discussion Problem: [Confidentiality]({{ site.baseurl }}/problems/ConfidentialityProblem.html)
 - Discussion Problem: [Conflicts]({{ site.baseurl }}/problems/ConflictsProblem.html)
