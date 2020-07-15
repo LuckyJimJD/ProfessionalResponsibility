@@ -3,7 +3,8 @@ layout: page
 date: 2020-05-28T04:00:00
 
 course: Professional Responsibility
-title: "Discussion Problems: Conflicts"
+title: Discussion Problem
+subtitle: Conflicts
 author: Eric M. Fink
 affiliation: Elon Law School 
     

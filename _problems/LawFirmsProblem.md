@@ -3,7 +3,8 @@ layout: page
 date: 2020-05-28T02:00:00
 
 course: Professional Responsibility
-title: "Discussion Problem: Law Firm Pro Bono Policy"
+title: Discussion Problem
+subtitle: Law Firm Pro Bono Policy
 author: Eric M. Fink
 affiliation: Elon Law School 
         

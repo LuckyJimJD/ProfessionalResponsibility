@@ -3,7 +3,8 @@ layout: page
 date: 2020-05-28T01:00:00
 
 course: Professional Responsibility
-title: "Discussion Problem: Attorney Fees"
+title: Discussion Problem
+subtitle: Attorney Fees
 author: Eric M. Fink
 affiliation: Elon Law School 
     

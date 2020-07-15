@@ -14,102 +14,108 @@ title: Schedule & Assignments
 - Casebook: Chapters 1-4
 - ABA Model Rules: Preamble & Scope
 
-### Professional Discipline
+#### August 31
 
-#### 1 day
+### Professional Discipline
 
 - Casebook: Chapters 5-7
 - ABA Model Rules: 1.0, 5.1-5.7, 8.1-8.5
 
 ## Maintaining an Ethical Law Practice
 
-### Advertising & Solicitation
+#### September 2 & 7
 
-#### 2 days
+### Advertising & Solicitation
 
 - Casebook: Chapters 8-13
 - ABA Model Rules: 7.1-7.6
 
-### The Attorney-Client Relationship
+#### September 9
 
-#### 1 day
+### The Attorney-Client Relationship
 
 - Casebook: Chapters 15 & 16
 - ABA Model Rules: 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
 
-### Attorney Fees & Client Property
+#### September 14 & 16
 
-#### 2 days
+### Attorney Fees & Client Property
 
 - Casebook: Chapters 17 & 18
 - ABA Model Rules: 1.5, 1.8, 1.15
 - Discussion Problem: [Attorney Fees]({{ site.baseurl }}/problems/FeesProblem.html)
 
-### Law Firms
+#### September 21 & 23
 
-#### 2 days
+### Law Firms
 
 - Casebook: Chapters 19-24
 - ABA Model Rules:
 - Discussion Problem: [Law Firm Pro Bono Policy]({{ site.baseurl }}/problems/LawFirmsProblem.html)
 
-##### Quiz: Maintaining an Ethical Law Practice (DATE)
+##### Quiz: Maintaining an Ethical Law Practice (Due September 25)
 
 ## Duties to Clients
 
-### Scope of Representation & Authority
+#### September 28
 
-#### 1 day
+### Scope of Representation & Authority
 
 - Casebook: Chapters 25 & 26
 - ABA Model Rules:
 
-### Competence, Diligence, & Communication
+#### September 30 & October 5
 
-#### 3 days
+### Competence, Diligence, & Communication
 
 - Casebook: Chapters 27–31
 - ABA Model Rules: 1.1, 1.2, 1.3, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
 
-### Confidentiality & Privileges
+#### October 7, 12, & 14
 
-#### 2 days
+### Confidentiality & Privileges
 
 - Casebook: Chapters 32, 33, 39
 - ABA Model Rules: 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
-- Discussion Problems: [Confidentiality]({{ site.baseurl }}/problems/ConfidentialityProblem.html)
+
+#### October 19, 21, & 26
 
 ### Conflicts of Interest
 
-#### 3 days
-
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules: 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
-- Discussion Problems: [Conflicts]({{ site.baseurl }}/problems/ConflictsProblem.html)
 
-##### Quiz: Duties to Clients (DATE)
+
+#### October 28 
+
+### Review 
+
+- Discussion Problem: [Confidentiality]({{ site.baseurl }}/problems/ConfidentialityProblem.html)
+- Discussion Problem: [Conflicts]({{ site.baseurl }}/problems/ConflictsProblem.html)
+
+##### Quiz: Duties to Clients (Due October 23)
 
 ## Duties to Courts, Opposing Parties, & Others
 
-### Good Faith & Fairness Toward Opposing Parties
+#### November 2 & 4
 
-#### 1 day
+### Good Faith & Fairness Toward Opposing Parties
 
 - Casebook: Chapters 43, 44, 46, 49
 - ABA Model Rules: 3.1-3.9
 
-### Maintaining the Integrity of the Tribunal
+#### November 9 & 11 
 
-#### 1 day
+### Maintaining the Integrity of the Tribunal
 
 - Casebook: Chapters 45, 47, 48, & 49
 - ABA Model Rules: 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
 
-### Interactions with Persons Other Than Clients
+#### November 16 & 18
 
-#### 1 day
+### Interactions with Persons Other Than Clients
 
 - Casebook: Chapters 51-54
 - ABA Model Rules: 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Quiz: Duties to Courts, Opposing Parties, & Others (DATE)
+##### Quiz: Duties to Courts, Opposing Parties, & Others (Due November 20)
