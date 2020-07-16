@@ -12,9 +12,11 @@ title: Links
 
 # North Carolina State Bar 
 
-[North Carolina State Bar Ethics Opinions & Rules of Professional Conduct](http://www.ncbar.com/menu/ethics.asp)
+[North Carolina Rules of Professional Conduct](https://www.ncbar.gov/for-lawyers/ethics/rules-of-professional-conduct/)
 
-[North Carolina State Bar Discipline Actions, Hearings, & Orders](http://www.ncbar.com/menu/discipline.asp)
+[North Carolina State Bar Ethics Opinions](https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/)
+
+[North Carolina State Bar Discipline Actions, Hearings, & Orders](https://www.ncbar.gov/lawyer-discipline/)
 
 [North Carolina General Statutes, Chapter 84: Attorneys-At-Law](http://www.ncleg.net/gascripts/Statutes/StatutesTOC.pl?Chapter=0084)
 
