@@ -16,7 +16,7 @@ title: Links
 
 [North Carolina State Bar Ethics Opinions](https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/)
 
-[North Carolina State Bar Discipline Actions, Hearings, & Orders](https://www.ncbar.gov/lawyer-discipline/)
+[North Carolina State Bar Disciplinary Actions, Hearings, & Orders](https://www.ncbar.gov/lawyer-discipline/)
 
 [North Carolina General Statutes, Chapter 84: Attorneys-At-Law](http://www.ncleg.net/gascripts/Statutes/StatutesTOC.pl?Chapter=0084)
 
