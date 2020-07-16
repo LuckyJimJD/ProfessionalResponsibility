@@ -81,8 +81,8 @@ title: Schedule & Assignments
 
 ### Confidentiality & Conflicts Review 
 
-- [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
-- [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
+- [Confidentiality Discussion Problem](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
+- [Conflicts Discussion Problem](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
 
 ##### Quiz: Duties to Clients (Due October 23)
 
