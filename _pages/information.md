@@ -9,13 +9,11 @@ title: Course Information
 
 This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to ethical issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
 
-# Course Material
+# Required Material
 
 Leah Christensen & Brooks Holland, Learning Professional Responsibility (2d ed., West Academic 2018) ("Casebook")
 
 ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents.html) and various print editions)
-
-Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
 
 The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has links to legal authorities, subject outlines, and study aids.
 
