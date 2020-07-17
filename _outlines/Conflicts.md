@@ -54,7 +54,7 @@ affiliation: Elon Law School
 
 ### Materially Limited 
 
-#### Mendoza-Toro v. Gil (D.P.R.)
+#### Mendoza-Toro v. Gil (D.P.R. 2000)
 
 - Assistant U.S. Attorney's personal beliefs about defendant's civil disobedience was not a conflict under R. 1.7(a)(2) justifying refusal of assignment to prosecute criminal case. 
 
