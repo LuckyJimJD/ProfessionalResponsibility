@@ -53,13 +53,11 @@ affiliation: Elon Law School
 
 - Attorney represented defendant accused of murdering two children.
 - Attorney, believing children might still be alive, and after discussion with client, made anonymous phone call to police, informing them of the location where the children's bodies were buried. 
-- Client sought to overturn conviction on grounds of ineffective assistance
+- Client sought to overturn conviction on grounds of ineffective assistance.
 - Holding: Attorney did not breach duty of confidentiality. 
     - Exception under Rule 1.6(a) (client's informed consent) was not applicable where attorney failed to advise client of potential adverse consequences of disclosure. 
     - But exception under Rule 1.6(b)(1) (disclsoure to prevent further criminal acts likely to result in imminent death or substantial bodily harm) did apply, where attorney reasonably believed, based on discussion with client, that children might still be alive. 
         - Dissent argues attorney lacked sufficient factual basis to believe children were still alive, making attorney's conduct unreasonable under the *Strickland* standard. 
-
-##### 
 
 # Client Communication Privilege
 
