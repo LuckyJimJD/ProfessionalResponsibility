@@ -94,7 +94,7 @@ affiliation: Elon Law School
 - Privilege survives death of client in majority of jurisdictions
 	- but see, e.g., California: Upon client’s death, privilege belongs to personal representative in charge of estate, and terminates once estate is distributed and representative’s duties are fully discharged
 
-#### NC v. Hunt, 659 S.E.2d 6 (Sup. Ct. 2008)
+#### NC v. Hunt, 659 S.E.2d 6 (N.C. Sup. Ct. 2008)
 
 - Cashwell and Hunt were both charged in a double homicide
   - The two had different attorneys (because of potential conflict)
