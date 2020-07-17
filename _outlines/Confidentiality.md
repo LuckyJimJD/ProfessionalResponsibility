@@ -94,7 +94,7 @@ affiliation: Elon Law School
 - Privilege survives death of client in majority of jurisdictions
 	- but see, e.g., California: Upon client’s death, privilege belongs to personal representative in charge of estate, and terminates once estate is distributed and representative’s duties are fully discharged
 
-#### NC v. Hunt, 659 S.E.2d 6 (N.C. Sup. Ct. 2008)
+#### State v. Hunt, 659 S.E.2d 6 (N.C. Sup. Ct. 2008)
 
 - Cashwell and Hunt were both charged in a double homicide
   - The two had different attorneys (because of potential conflict)
@@ -117,6 +117,12 @@ affiliation: Elon Law School
   - On appeal, the NC Supreme Court rejected, without discussion, Hunt's argument that trial court erred by failing to consider whether the _Miller_ exception to the attorney-client communication privilege applied. 
 - The NC State Bar received a disciplinary complaint (presumably from the trial judge) against Hughes for violation of the duty of confidentiality under NC RPC 1.6(a). 
   - The Grievance Committee opted not to hold a hearing and dismissed the complaint, without disclosing its reasons. 
+
+##### State v. Hunt: Postscript 
+
+After the N.C. courts rejected Hunt's petition for relief, he filed a habeas corpus petition in federal court. In 2016, the federal court denied that petition, holding (among other things) that Hunt had not established his actual innocence of the crime. _Hunt v. Perry_, 2016 WL 5415675 (E.D.N.C. 2016) (adopting magistrate judge's recommendation). 
+
+In February 2019, Hunt died while still serving his life sentence. 
 
 ## Waiver
 
