@@ -44,7 +44,9 @@ title: Schedule & Assignments
 - Casebook: Chapters 19-24
 - ABA Model Rules 5.1-5.7
 
-##### Quiz: Maintaining an Ethical Law Practice (Due September 25)
+#### Due September 25
+
+### Quiz: Maintaining an Ethical Law Practice
 
 ## Duties to Clients
 
@@ -76,15 +78,16 @@ title: Schedule & Assignments
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
 
-
 #### October 28 
 
 ### Confidentiality & Conflicts Review 
 
-- [Confidentiality Discussion Problem](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
-- [Conflicts Discussion Problem](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
+- [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
+- [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
 
-##### Quiz: Duties to Clients (Due October 23)
+#### Due October 23
+
+### Quiz: Duties to Clients
 
 ## Duties to Courts, Opposing Parties, & Others
 
@@ -109,4 +112,10 @@ title: Schedule & Assignments
 - Casebook: Chapters 51-54
 - ABA Model Rules 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Quiz: Duties to Courts, Opposing Parties, & Others (Due November 20)
+#### Due November 20 
+
+### Quiz: Duties to Courts, Opposing Parties, & Others
+
+#### December 4
+
+## Final Exam 

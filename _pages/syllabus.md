@@ -32,36 +32,35 @@ ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](ht
 
 Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
 
-The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has links to legal authorities, subject outlines, and study aids.
-
+The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, discussion problems, review questions, and links to legal authorities and other material. 
 
 # Policies
 
-#### Grading
+### Grading
 
-Your grade will be based on in-class performance (10%), three mid-term quizzes (10% each) and a final examination (60%).
+Your grade will be based on three mid-term quizzes (10% each) and a final examination (70%).
 
-The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will take the quizzes online outside of class and they will be open book/notes. The final exam will be given during the exam period and will be closed book/notes; you will receive a copy of the ABA Model Rules for use during the exam.
+The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will take the quizzes online outside of class by the due dates indicated in the Schedule & Assignments portion of the syllabus. You will take the final exam online during the exam period. The quizzes and exam will be open book/open notes.
 
-The in-class performance component depends on your preparation before class, regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+### Class Preparation, Attenance, & Participation 
 
-#### Attendance
+Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence (either in-person or remotely), and constructive engagement during class. 
+
+Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
 
 Elon Law School has adopted the following attendance policy for all courses:
 
->The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
+> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
 
->In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
+> In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-Excessive absences (more than 2 classes) may result in a reduction of your grade.
-
-#### Honor Code
-
-The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
-
-#### Disability Accommodations
+### Disability Accommodations
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
+
+### Honor Code
+
+The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
 # Schedule & Assignments
 
@@ -104,7 +103,9 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 19-24
 - ABA Model Rules 5.1-5.7
 
-##### Quiz: Maintaining an Ethical Law Practice (Due September 25)
+#### Due September 25
+
+### Quiz: Maintaining an Ethical Law Practice
 
 ## Duties to Clients
 
@@ -136,7 +137,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 34-38, 40
 - ABA Model Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
 
-
 #### October 28 
 
 ### Confidentiality & Conflicts Review 
@@ -144,7 +144,9 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
 - [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
 
-##### Quiz: Duties to Clients (Due October 23)
+#### Due October 23
+
+### Quiz: Duties to Clients
 
 ## Duties to Courts, Opposing Parties, & Others
 
@@ -169,6 +171,10 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 - Casebook: Chapters 51-54
 - ABA Model Rules 1.6, 3.5, 4.1 4.2, 4.3
 
-##### Quiz: Duties to Courts, Opposing Parties, & Others (Due November 20)
+#### Due November 20 
 
+### Quiz: Duties to Courts, Opposing Parties, & Others
 
+#### December 4
+
+## Final Exam 
