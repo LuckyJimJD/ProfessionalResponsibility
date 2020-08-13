@@ -21,3 +21,8 @@ title: Links
 [North Carolina General Statutes, Chapter 84: Attorneys-At-Law](http://www.ncleg.net/gascripts/Statutes/StatutesTOC.pl?Chapter=0084)
 
 
+# Study Aids 
+
+[CALI Lessons](https://www.cali.org/content/lessons-subject-outline-professional-responsibility)
+
+[MPRE Sample Test Questions](http://www.ncbex.org/pdfviewer/?file=%2Fdmsdocument%2F3)

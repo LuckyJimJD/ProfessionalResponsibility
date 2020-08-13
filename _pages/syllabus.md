@@ -22,7 +22,7 @@ output:
 
 # Description
 
-This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to ethical issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
+This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
 
 # Course Material
 
@@ -38,20 +38,16 @@ The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink
 
 ### Grading
 
-Your grade will be based on three mid-term quizzes (10% each) and a final examination (70%).
-
-The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will take the quizzes online outside of class by the due dates indicated in the Schedule & Assignments portion of the syllabus. You will take the final exam online during the exam period. The quizzes and exam will be open book/open notes.
+Your grade will be based on three mid-term quizzes (10% each) and a final examination (70%). The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will take the quizzes online outside of class by the due dates indicated in the Schedule & Assignments portion of the syllabus. You will take the final exam online during the exam period. The quizzes and exam will be open book/open notes.
 
 ### Class Preparation, Attenance, & Participation 
 
-Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence (either in-person or remotely), and constructive engagement during class. 
-
-Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
+Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
 
 Elon Law School has adopted the following attendance policy for all courses:
 
 > The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
-
+>   
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
 ### Disability Accommodations
@@ -105,7 +101,7 @@ The Law School honor code applies to all activities related to your law school s
 
 #### Due September 25
 
-### Quiz: Maintaining an Ethical Law Practice
+##### Quiz: Maintaining an Ethical Law Practice
 
 ## Duties to Clients
 
@@ -146,7 +142,7 @@ The Law School honor code applies to all activities related to your law school s
 
 #### Due October 23
 
-### Quiz: Duties to Clients
+##### Quiz: Duties to Clients
 
 ## Duties to Courts, Opposing Parties, & Others
 
@@ -173,7 +169,7 @@ The Law School honor code applies to all activities related to your law school s
 
 #### Due November 20 
 
-### Quiz: Duties to Courts, Opposing Parties, & Others
+##### Quiz: Duties to Courts, Opposing Parties, & Others
 
 #### December 4
 
