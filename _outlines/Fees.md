@@ -123,28 +123,28 @@ Factors supporting reasonableness in this case:
 ## Problems
 
 1. Client would like to retain Lawyer to represent him in litigation.
-    a. Assuming Client agrees to the fee, may Lawyer charge more than her regular hourly rate based on the following:
+a. Assuming Client agrees to the fee, may Lawyer charge more than her regular hourly rate based on the following:
         - The case involves complex issues of law and fact.
         - Lawyer is an experienced litigator in this field.
         - The urgency of the litigation.
         - The amount at stake in the litigation.
         - Lawyer’s success rate in prior cases.
         - The amount charged by other lawyers in town.
-    b. May Lawyer include clause in her retainer agreement providing for an increase in her hourly rate of 10% if Client prevails in the litigation?
-    c. Must the fee agreement be in writing?
-    d. May Lawyer increase her hourly rate during the representation?
+b. May Lawyer include clause in her retainer agreement providing for an increase in her hourly rate of 10% if Client prevails in the litigation?
+c. Must the fee agreement be in writing?
+d. May Lawyer increase her hourly rate during the representation?
 
 2. Attorney wants to make it easier for her clients to pay their bills for fees. Which of the following would be proper for Attorney?
-    a. Accept credit cards.
-    b. Arrange for clients to get bank loans.
-    c. Install an ATM machine in Attorney’s lobby.
-    d. Allow clients to make installment payments.
+a. Accept credit cards.
+b. Arrange for clients to get bank loans.
+c. Install an ATM machine in Attorney’s lobby.
+d. Allow clients to make installment payments.
     
-    e. Accept livestock as payment.
+e. Accept livestock as payment.
 
 3. Are there goods or services that an attorney may not accept as payment?
    a. MSNBC.com (Sept. 19, 2008) CHICAGO - An attorney has been suspended for more than year for accepting nude dances from stripper as partial payment for the legal fees she owed him. The Illinois Attorney Registration and Disciplinary Commission on Thursday said Scott Robert Erwin will begin serving 15-month suspension for misconduct next month. Erwin, who practices in the northern Illinois city of DeKalb, and his client mutually agreed that she’d perform nude dances for him in his office as way to reduce her legal fees, the commission’s report said. He credited her for $5toward his bill for services of various legal matters, the report said.
-    b. Cal. Bar Journal (July 2010: JAMES MICHAEL KUMMERER [#50944], 63, of Columbus, Ind., was suspended for four years, stayed, with an actual two-year suspension and until he proves his rehabilitation, and he was ordered to take the MPRE and comply with rule 9.20. The order took effect Nov. 13, 2009. 
+b. Cal. Bar Journal (July 2010: JAMES MICHAEL KUMMERER [#50944], 63, of Columbus, Ind., was suspended for four years, stayed, with an actual two-year suspension and until he proves his rehabilitation, and he was ordered to take the MPRE and comply with rule 9.20. The order took effect Nov. 13, 2009. 
         - In 2008, Kummerer was convicted in Indiana of one count of felony cocaine possession, a crime that involved moral turpitude. He accepted crack cocaine from a client as payment of a $175 bill. Kummerer asked for an “eight ball,” known to be an eighth of an ounce, or 3.5 grams, of cocaine.
         - In mitigation, he had no discipline record in 35 years of practice. He did not participate in the bar’s disciplinary proceedings.
         - According to Wikipedia, an Eight Ball of cocaine retails for about $250-300. That’s substantially more than the $175 that the client owed. By failing to deposit the surplus cocaine in the client’s trust account, did the lawyer also violate Model Rule 1.15(c)?
@@ -156,22 +156,22 @@ Factors supporting reasonableness in this case:
 6. Client agrees to retain Lawyer to represent Client in personal injury case. Client signs Lawyer’s standard retainer agreement which describes the fee as follows: “If Client prevails in the litigation, Lawyer is to receive 1/of the recovery.” Assuming this is the entire provision related to fees, is the agreement proper?
 
 7. Client was an experienced oil and gas developer. The client asked an attorney for representation in suit to establish the client’s ownership of certain oil and gas royalties. The client did not have available the necessary funds to pay the attorney’s reasonable hourly rate for undertaking the case. The client proposed instead to pay the attorney an amount in cash equal to 20% of the value of the proceeds received from the first year royalties the client might recover as result of the suit. The attorney accepted the proposal and took the case. Is the attorney subject to discipline?
-    a. Yes, because the agreement gave the attorney proprietary interest in the client’s cause of action.
-    b. Yes, unless the fee the attorney receives does not exceed that which the attorney would have received by charging reasonable hourly rate.
-    c. No, because the client rather than the attorney proposed the fee arrangement.
-    d. No, because the attorney may contract with the client for reasonable contingent fee.
+a. Yes, because the agreement gave the attorney proprietary interest in the client’s cause of action.
+b. Yes, unless the fee the attorney receives does not exceed that which the attorney would have received by charging reasonable hourly rate.
+c. No, because the client rather than the attorney proposed the fee arrangement.
+d. No, because the attorney may contract with the client for reasonable contingent fee.
 
 8. Which of the following domestic relation matters may an Attorney handle on contingent fee basis:
-    a. An action to obtain divorce.
-    b. An action involving child custody.
-    c. Pre-divorce action to divide marital property.
-    d. Post-divorce action to collect unpaid maintenance and child support.
+a. An action to obtain divorce.
+b. An action involving child custody.
+c. Pre-divorce action to divide marital property.
+d. Post-divorce action to collect unpaid maintenance and child support.
 
 9. Client hired Lawyer to represent Client in personal injury lawsuit. Client agreed in writing to pay Lawyer 1/3 of any recovery. After two years, Client fired Lawyer without cause, replacing Lawyer with Lawyer B. The case then settled for $100,000. Is Lawyer entitled to fee and, if so, how much?
 
 10. Client hires Lawyer to represent Client in real estate transaction. Lawyer has little experience in real estate deals, so Lawyer would like to refer the case to Lawyer B, who is an experienced real estate attorney in another law firm. Lawyer A, however, wants to share in the fees.
-    a. Assuming the overall fee is reasonable, may Lawyer do so?
-    b. What if Lawyer B was member of Lawyer A’s firm?
+a. Assuming the overall fee is reasonable, may Lawyer do so?
+b. What if Lawyer B was member of Lawyer A’s firm?
 
 # Handling Client Funds & Property
 
