@@ -78,7 +78,7 @@ Client, who is a fugitive from justice, is seeking an attorney to represent him.
 
 John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. Attorney, who represents ABC Corp., but not John, meets separately with both John and ABC’s President, as part of her case preparation. 
 
-Which of the communications are covered by the attorney-client privilege
+Which of the communications are covered by the attorney-client privilege?
 
 a. Attorney’s communications with the president
 
