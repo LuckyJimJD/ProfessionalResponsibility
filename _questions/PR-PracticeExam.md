@@ -1,5 +1,5 @@
 ---
-layout: exam
+layout: page
 
 course: Professional Responsibility
 title: 'Practice Exam'

@@ -1,5 +1,5 @@
 ---
-layout: exam
+layout: page
 
 course: Professional Responsibility
 title: 'Review Questions: Duties to Courts, Opposing Parties, & Others'

@@ -1,5 +1,5 @@
 ---
-layout: exam
+layout: page
 
 course: Professional Responsibility
 title: 'Review Questions: Law Firms & Unauthorized Practice of Law'
