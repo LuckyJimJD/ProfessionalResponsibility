@@ -1,6 +1,5 @@
 ---
-layout: post
-date: 2020-05-28T03:00:00
+layout: note
 
 course: Professional Responsibility
 title: Discussion Problem

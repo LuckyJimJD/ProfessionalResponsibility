@@ -1,6 +1,5 @@
 ---
-layout: post
-date: 2020-05-28T04:00:00
+layout: note
 
 course: Professional Responsibility
 title: "Review Questions:  Review Questions–Confidentiality"

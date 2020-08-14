@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
