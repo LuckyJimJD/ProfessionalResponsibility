@@ -32,7 +32,7 @@ ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](ht
 
 Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
 
-The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, discussion problems, review questions, and links to legal authorities and other material. 
+The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, review questions, and links to the ABA Model Rules of Professional Conduct, the NC Rules of Professional Conduct, NC State Bar disciplinary committee decisions and ethics committee opnions, and other relevant material. 
 
 # Policies
 
@@ -67,7 +67,7 @@ The Law School honor code applies to all activities related to your law school s
 ### Professional Gatekeeping & Regulation
 
 - Casebook: Chapters 1-7
-- ABA Model Rules, Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
+- ABA Model Rules: Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
 
 ## Maintaining an Ethical Law Practice
 
