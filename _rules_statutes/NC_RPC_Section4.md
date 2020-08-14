@@ -17,11 +17,11 @@ In the course of representing a client a lawyer shall not knowingly make a false
 
 (b) Notwithstanding section (a) above, in representing a client who has a dispute with a government agency or body, a lawyer may communicate about the subject of the representation with the elected officials who have authority over such government agency or body even if the lawyer knows that the government agency or body is represented by another lawyer in the matter, but such communications may only occur under the following circumstances:
 
-	(1)	in writing, if a copy of the writing is promptly delivered to opposing counsel;
-
-	(2)	orally, upon adequate notice to opposing counsel; or
-
-	(3)	in the course of official proceedings.
+> (1) in writing, if a copy of the writing is promptly delivered to opposing counsel;
+> 
+> (2) orally, upon adequate notice to opposing counsel; or
+> 
+> (3) in the course of official proceedings.
 
 ## Rule 4.3 — Dealing With Unrepresented Person
 

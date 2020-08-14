@@ -17,9 +17,9 @@ In representing a client, a lawyer shall exercise independent, professional judg
 
 (a) A lawyer may undertake an evaluation of a matter affecting a client for the use of someone other than the client if:
 
-	(1)	the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client; and
-
-	(2)	the client so requests or the client consents after consultation 
+> (1) the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client; and
+> 
+> (2) the client so requests or the client consents after consultation 
 
 (b) Except as disclosure is required in connection with a report of an evaluation, information relating to the evaluation is otherwise protected by Rule 1.6.
 

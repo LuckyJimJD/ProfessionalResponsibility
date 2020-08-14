@@ -57,9 +57,9 @@ It is professional misconduct for a lawyer to:
 
 (b) Choice of Law. In any exercise of the disciplinary authority of North Carolina, the rules of professional conduct to be applied shall be as follows:
 
-	(1)	for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
-
-	(2)	for any other conduct, the rules of the jurisdiction in which the lawyer's conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer is not subject to discipline if the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer's conduct will occur.
+> (1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
+> 
+> (2) for any other conduct, the rules of the jurisdiction in which the lawyer's conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer is not subject to discipline if the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer's conduct will occur.
 
 ## Rule 8.6	— Information About a Possible Wrongful Conviction
 
@@ -67,11 +67,11 @@ It is professional misconduct for a lawyer to:
 
 (b) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
 
-	(1)	the evidence or information is protected from disclosure by law, court order, or 27 N.C. Admin. Code Ch. 1B §.0129;
-
-	(2)	disclosure would criminally implicate a current or former client or otherwise substantially prejudice a current or former client's interests; or
-
-	(3)	disclosure would violate the attorney-client privilege applicable to communications between the lawyer and a current or former client.
+> (1) the evidence or information is protected from disclosure by law, court order, or 27 N.C. Admin. Code Ch. 1B §.0129;
+> 
+> (2) disclosure would criminally implicate a current or former client or otherwise substantially prejudice a current or former client's interests; or
+> 
+> (3) disclosure would violate the attorney-client privilege applicable to communications between the lawyer and a current or former client.
 
 (c) A lawyer who in good faith concludes that information is not subject to disclosure under this rule does not violate the rule even if that conclusion is subsequently determined to be erroneous.
 

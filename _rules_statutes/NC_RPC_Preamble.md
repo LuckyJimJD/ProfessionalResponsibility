@@ -43,12 +43,6 @@ subtitle: Preamble & Scope
 
 (q) Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
 
-History Note:	Authority G.S. 84-23;
-
-Eff. July 24, 1997;
-
-Amended Eff. November 16, 2006; February 27, 2003.
-
 ## Rule 0.2	— Scope
 
 (a) The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the rules are imperatives, cast in the terms “shall” or “shall not.” These define proper conduct for purposes of professional discipline. Others, generally cast in the term “may,” are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act, or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary, and partly constitutive and descriptive in that they define a lawyer’s professional role. Many of the Comments use the term “should.” Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
@@ -66,11 +60,3 @@ Amended Eff. November 16, 2006; February 27, 2003.
 (g) Violation of a Rule should not give rise itself to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached. In addition, violation of a Rule does not necessarily warrant any other nondisciplinary remedy, such as disqualification of a lawyer in pending litigation. The rules are designed to provide guidance to lawyers and to provide a structure for regulating conduct through disciplinary agencies. They are not designed to be a basis for civil liability. Furthermore, the purpose of the Rules can be subverted when they are invoked by opposing parties as procedural weapons. The fact that a Rule is a just basis for a lawyer’s self-assessment, or for sanctioning a lawyer under the administration of a disciplinary authority, does not imply that an antagonist in a collateral proceeding or transaction has standing to seek enforcement of the Rule. Accordingly, nothing in the Rules should be deemed to augment any substantive legal duty of lawyers or the extra-disciplinary consequences of violating such a Rule.
 
 (h) The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative. Research notes were prepared to compare counterparts in the original Rules of Professional Conduct (adopted 1985, as amended) and to provide selected references to other authorities. The notes have not been adopted, do not constitute part of the Rules, and are not intended to affect the application or interpretation of the Rules and Comments.
-
-History Note:	Authority G.S. 84‑23;
-
-Eff. July 24, 1997;
-
-Amended Eff. February 5, 2004; February 27, 2003.
-
-
