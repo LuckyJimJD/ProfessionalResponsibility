@@ -2,8 +2,8 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Organizational Clients"
-	
+title: 'Review Questions: Organizational Clients'
+
 ---
 
 1. Attorney, who is corporate counsel for Company, is investigating a possible theft ring in the parts department of Company. Attorney knows that Employee has worked in the parts department for a long time and believes that Employee is a suspect in the thefts. Attorney believes that if Employee were questioned, Employee would not answer truthfully if she knew the real purpose of the questions. Consequently, Attorney plans to question Employee and tell her that she is not a suspect and that her answers to the questions will be held in confidence. 

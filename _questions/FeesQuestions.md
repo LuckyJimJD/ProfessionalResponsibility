@@ -2,13 +2,14 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Attorney Fees & Client Property"
+title: 'Review Questions: Attorney Fees & Client Property'
     
 ---
 
 1. Client would like to retain Lawyer to represent him in litigation. 
     
     a) Assuming Client agrees to the fee, may Lawyer charge more than her regular hourly rate based on the following:
+
     - The case involves complex issues of law and fact.
     - Lawyer is an experienced litigator in this field.
     - The urgency of the litigation.

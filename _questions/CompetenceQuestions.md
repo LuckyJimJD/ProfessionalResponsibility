@@ -2,7 +2,7 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Competence, Diligence, & Communication"
+title: 'Review Questions: Competence, Diligence, & Communication'
 
 ---
 

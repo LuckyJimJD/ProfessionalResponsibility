@@ -2,8 +2,8 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Duties to Courts, Opposing Parties, & Others 
-    
+title: 'Review Questions: Duties to Courts, Opposing Parties, & Others'
+
 ---
 
 1. Attorney Alpha filed a personal injury suit on behalf of Plaintiff against Defendant. Defendant was personally served with process. Alpha knows that Defendant is insured by Insurance Corp. and that Attorney Beta has been retained by Insurance Corp. to represent Defendant. No responsive pleading has been filed on behalf of Defendant, and the time for filing expired over ten days ago. 

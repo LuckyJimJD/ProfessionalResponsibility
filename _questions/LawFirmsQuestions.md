@@ -2,7 +2,7 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Law Firms & Unauthorized Practice of Law"
+title: 'Review Questions: Law Firms & Unauthorized Practice of Law'
     
 ---
 

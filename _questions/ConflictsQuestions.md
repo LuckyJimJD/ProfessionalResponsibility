@@ -2,7 +2,7 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Conflicts"
+title: 'Review Questions: Conflicts'
 
 ---
 

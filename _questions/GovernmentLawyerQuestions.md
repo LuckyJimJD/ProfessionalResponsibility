@@ -2,8 +2,8 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Review Questions: Government Lawyers & Prosecutors"
-	
+title: 'Review Questions: Government Lawyers & Prosecutors'
+
 ---
 
 1. While Attorney worked for the EPA, she spent most of her time in the preparation, trial, and appeal of a case involving the illegal discharge of toxic chemicals in 1999 by Deftco. Deftco was found liable and paid a $1 million fine. Thereafter, Attorney left the EPA and joined the Smith Law Firm. While at the Smith Law Firm, B asks Attorney to represent him in an action against Deftco, in which B alleges property damage related to Deftco’s 1999 toxic discharge. 

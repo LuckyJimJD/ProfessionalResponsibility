@@ -2,7 +2,7 @@
 layout: exam
 
 course: Professional Responsibility
-title: "Practice Exam"
+title: 'Practice Exam'
     
 ---
 
