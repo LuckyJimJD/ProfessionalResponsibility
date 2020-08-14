@@ -13,39 +13,39 @@ affiliation: Elon Law School
 
 ## Responsibilities of Supervisory Lawyers
 
-#### Rule 5.1(a)
+##### Rule 5.1(a)
 
 All partners in law firm must ensure compliance within firm 
 
-#### Rule 5.2(b)
+##### Rule 5.2(b)
 
 Lawyer with supervisory authority must ensure compliance by subordinate lawyer 
 
-#### Rule 5.1(c)
+##### Rule 5.1(c)
 
 Vicarious responsibility for subordinate lawyer's actions 
 
 ## Responsibilities of Subordinate Lawyers
 
-#### Rule 5.2(a)
+##### Rule 5.2(a)
 
 Independent duty to abide by rules
 
-#### Rule 5.2(b)
+##### Rule 5.2(b)
 
 Safe harbor when following supervisor's reasonable interpretation 
 
 ## Supervision of Non-Lawyers
 
-#### Rule 5.3(a)
+##### Rule 5.3(a)
 
 All partners in law firm must ensure compliance within firm 
 
-#### Rule 5.3(b)
+##### Rule 5.3(b)
 
 Lawyer with supervisory authority must ensure compliance by non-lawyer
 
-#### Rule 5.3(c)
+##### Rule 5.3(c)
 
 Vicarious responsibility for non-lawyers actions 
 
@@ -53,7 +53,7 @@ Vicarious responsibility for non-lawyers actions
 
 ## Fee Sharing
 
-#### Rule 5.4(a)
+##### Rule 5.4(a)
 
 Prohibits fee sharing with Non-Lawyers 
 
@@ -62,15 +62,15 @@ Prohibits fee sharing with Non-Lawyers
 
 ## Multidisciplinary Practice
 
-#### Rule 5.4(b)
+##### Rule 5.4(b)
 
 No Partnership with non-lawyers 
 
-#### Rule 5.4(c)
+##### Rule 5.4(c)
 
 Non-lawyer may not control law firm or lawyer's practice 
 
-#### Rule 5.4(d)
+##### Rule 5.4(d)
 
 No direct profit-sharing with non-lawyers 
 
@@ -78,11 +78,11 @@ No direct profit-sharing with non-lawyers
 
 # Law-Related Services
 
-#### Rule 5.7(a)
+##### Rule 5.7(a)
 
 Rules apply to law-related services 
 
-#### Rule 5.7(b)
+##### Rule 5.7(b)
 
 Law-Related Services Defined
 

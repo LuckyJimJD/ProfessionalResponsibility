@@ -143,7 +143,7 @@ NCGS § 84-2.1
 
 ### Unauthorized Practice of Law
 
-#### Rule 5.5
+##### Rule 5.5
 
 -  An attorney is subject to discipline for engaging in the unauthorized practice of law. 
     - e.g. appearing in court or otherwise practicing in a jurisdiction where the attorney is not licensed or admitted pro hac vice

@@ -13,7 +13,7 @@ output:
  
 ---
 
-### Rule 1.0: Terminology
+#### Rule 1.0: Terminology
 
 (a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 

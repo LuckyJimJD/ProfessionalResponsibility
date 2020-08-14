@@ -61,7 +61,7 @@ A visits L’s office and asks L to represent him in an automobile accident case
 - Protect A’s confidences; and 
 - Notify A in writing that he is declining the representation.
 
-#### Rule 1.16
+##### Rule 1.16
 
 Representation may terminate 
 
@@ -107,7 +107,7 @@ Reasonableness standard applies to termination as well as formation
 
 ## Compulsory Withdrawal
 
-#### Rule 1.16(a)
+##### Rule 1.16(a)
 
 #### Problems
 
@@ -122,7 +122,7 @@ Lawyer represents A in a large business transaction. Over the past few years, La
 
 ## Permissive Withdrawal
 
-#### Rule 1.16(b)
+##### Rule 1.16(b)
 
 #### Problems
 
@@ -159,7 +159,7 @@ When may an attorney who represents a plaintiff on a contingent fee basis withdr
 
 ## Notice to/Permission of Tribunal & Protection of Client's Interests 
 
-#### Rule 1.16(c) & (d)
+##### Rule 1.16(c) & (d)
 
 ### Attorney's Lien 
 

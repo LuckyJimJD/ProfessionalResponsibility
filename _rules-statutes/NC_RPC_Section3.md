@@ -1,58 +1,67 @@
-﻿CHAPTER 02 - RULES OF PROFESSIONAL CONDUCT OF THE NORTH CAROLINA STATE BAR
+---
+layout: statute
+
+course: Professional Responsibility
+title: NC Rules of Professional Conduct 
+subtitle: 27 NCAC 02
+    
+---
+
+﻿CHAPTER 02 - Rules of Professional Conduct of the NOrth Carolina State Bar
 
 
-# 27 NCAC 02 Rule 0.1	Preamble: A Lawyer's Professional Responsibilities
+## Rule 0.1	Preamble: A Lawyer's Professional Responsibilities
 
 
-(a)  A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system, and a public citizen having special responsibility for the quality of justice.
+(a) A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system, and a public citizen having special responsibility for the quality of justice.
 
 
-(b)  As a representative of clients, a lawyer performs various functions. As advisor, a lawyer provides a client with an informed understanding of the client's legal rights and obligations and explains their practical implications. As advocate, a lawyer zealously asserts the client's position under the rules of the adversary system. As negotiator, a lawyer seeks a result advantageous to the client but consistent with requirements of honest dealing with others. As evaluator, a lawyer acts by examining a client's legal affairs and reporting about them to the client or to others.
+(b) As a representative of clients, a lawyer performs various functions. As advisor, a lawyer provides a client with an informed understanding of the client's legal rights and obligations and explains their practical implications. As advocate, a lawyer zealously asserts the client's position under the rules of the adversary system. As negotiator, a lawyer seeks a result advantageous to the client but consistent with requirements of honest dealing with others. As evaluator, a lawyer acts by examining a client's legal affairs and reporting about them to the client or to others.
 
 
-(c)  In addition to these representational functions, a lawyer may serve as a third-party neutral, a nonrepresentational role helping the parties to resolve a dispute or other matter. Some of these Rules apply directly to lawyers who are or have served as third-party neutrals. See, e.g. , Rules 1.12 and 2.4. In addition, there are Rules that apply to lawyers who are not active in the practice of law or to practicing lawyers even when they are acting in a nonprofessional capacity. For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation. See Rule 8.4.
+(c) In addition to these representational functions, a lawyer may serve as a third-party neutral, a nonrepresentational role helping the parties to resolve a dispute or other matter. Some of these Rules apply directly to lawyers who are or have served as third-party neutrals. See, e.g. , Rules 1.12 and 2.4. In addition, there are Rules that apply to lawyers who are not active in the practice of law or to practicing lawyers even when they are acting in a nonprofessional capacity. For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation. See Rule 8.4.
 
 
-(d)  In all professional functions a lawyer should be competent, prompt, and diligent. A lawyer should maintain communication with a client concerning the representation. A lawyer should keep in confidence information relating to representation of a client except so far as disclosure is required or permitted by the Rules of Professional Conduct or other law.
+(d) In all professional functions a lawyer should be competent, prompt, and diligent. A lawyer should maintain communication with a client concerning the representation. A lawyer should keep in confidence information relating to representation of a client except so far as disclosure is required or permitted by the Rules of Professional Conduct or other law.
 
 
-(e)  A lawyer's conduct should conform to the requirements of the law, both in professional service to clients and in the lawyer's business and personal affairs. A lawyer should use the law's procedures only for legitimate purposes and not to harass or intimidate others. A lawyer should demonstrate respect for the legal system and for those who serve it, including judges, other lawyers, and public officials. While it is a lawyer's duty, when necessary, to challenge the rectitude of official action, it is also a lawyer's duty to uphold the legal process.
+(e) A lawyer's conduct should conform to the requirements of the law, both in professional service to clients and in the lawyer's business and personal affairs. A lawyer should use the law's procedures only for legitimate purposes and not to harass or intimidate others. A lawyer should demonstrate respect for the legal system and for those who serve it, including judges, other lawyers, and public officials. While it is a lawyer's duty, when necessary, to challenge the rectitude of official action, it is also a lawyer's duty to uphold the legal process.
 
 
-(f)  As a public citizen, a lawyer should seek improvement of the law, access to the legal system, the administration of justice, and the quality of service rendered by the legal profession. As a member of a learned profession, a lawyer should cultivate knowledge of the law beyond its use for clients, employ that knowledge in reform of the law, and work to strengthen legal education. In addition, a lawyer should further the public's understanding of and confidence in the rule of law and the justice system because legal institutions in a constitutional democracy depend on popular participation and support to maintain their authority. A lawyer should be mindful of deficiencies in the administration of justice and of the fact that the poor, and sometimes persons who are not poor, cannot afford adequate legal assistance. Therefore, all lawyers should devote professional time and resources and use civic influence to ensure equal access to our system of justice for all those who, because of economic or social barriers, cannot afford or secure adequate legal counsel. A lawyer should aid the legal profession in pursuing these objectives and should help the bar regulate itself in the public interest.
+(f) As a public citizen, a lawyer should seek improvement of the law, access to the legal system, the administration of justice, and the quality of service rendered by the legal profession. As a member of a learned profession, a lawyer should cultivate knowledge of the law beyond its use for clients, employ that knowledge in reform of the law, and work to strengthen legal education. In addition, a lawyer should further the public's understanding of and confidence in the rule of law and the justice system because legal institutions in a constitutional democracy depend on popular participation and support to maintain their authority. A lawyer should be mindful of deficiencies in the administration of justice and of the fact that the poor, and sometimes persons who are not poor, cannot afford adequate legal assistance. Therefore, all lawyers should devote professional time and resources and use civic influence to ensure equal access to our system of justice for all those who, because of economic or social barriers, cannot afford or secure adequate legal counsel. A lawyer should aid the legal profession in pursuing these objectives and should help the bar regulate itself in the public interest.
 
 
-(g)  A lawyer should render public interest legal service and provide civic leadership. A lawyer may discharge this responsibility by providing professional services at no fee or a reduced fee to persons of limited means or to public service or charitable groups or organizations, by service in activities for improving the law, society, the legal system or the legal profession, and by financial support for organizations that provide legal services to persons of limited means.
+(g) A lawyer should render public interest legal service and provide civic leadership. A lawyer may discharge this responsibility by providing professional services at no fee or a reduced fee to persons of limited means or to public service or charitable groups or organizations, by service in activities for improving the law, society, the legal system or the legal profession, and by financial support for organizations that provide legal services to persons of limited means.
 
 
-(h)  The legal profession is a group of people united in a learned calling for the public good. At their best, lawyers assure the availability of legal services to all, regardless of ability to pay, and as leaders of their communities, states, and nation, lawyers use their education and experience to improve society. It is the basic responsibility of each lawyer to provide community service, community leadership, and public interest legal services without fee, or at a substantially reduced fee, in such areas as poverty law, civil rights, public rights law, charitable organization representation, and the administration of justice.
+(h) The legal profession is a group of people united in a learned calling for the public good. At their best, lawyers assure the availability of legal services to all, regardless of ability to pay, and as leaders of their communities, states, and nation, lawyers use their education and experience to improve society. It is the basic responsibility of each lawyer to provide community service, community leadership, and public interest legal services without fee, or at a substantially reduced fee, in such areas as poverty law, civil rights, public rights law, charitable organization representation, and the administration of justice.
 
 
-(i)  The basic responsibility for providing legal services for those unable to pay ultimately rests upon the individual lawyer. Personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer. Every lawyer, regardless of professional prominence or professional workload, should find time to participate in, or otherwise support, the provision of legal services to the disadvantaged. The provision of free legal services to those unable to pay reasonable fees continues to be an obligation of each lawyer as well as the profession generally, but the efforts of individual lawyers are often not enough to meet the need. Thus, the profession and government instituted additional programs to provide legal services. Accordingly, legal aid offices, lawyer referral services, and other related programs were developed, and programs will be developed by the profession and the government. Every lawyer should support all proper efforts to meet this need for legal services.
+(i) The basic responsibility for providing legal services for those unable to pay ultimately rests upon the individual lawyer. Personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer. Every lawyer, regardless of professional prominence or professional workload, should find time to participate in, or otherwise support, the provision of legal services to the disadvantaged. The provision of free legal services to those unable to pay reasonable fees continues to be an obligation of each lawyer as well as the profession generally, but the efforts of individual lawyers are often not enough to meet the need. Thus, the profession and government instituted additional programs to provide legal services. Accordingly, legal aid offices, lawyer referral services, and other related programs were developed, and programs will be developed by the profession and the government. Every lawyer should support all proper efforts to meet this need for legal services.
 
 
-(j)  Many of a lawyer's professional responsibilities are prescribed in the Rules of Professional Conduct, as well as substantive and procedural law. However, a lawyer is also guided by personal conscience and the approbation of professional peers. A lawyer should strive to attain the highest level of skill, to improve the law and the legal profession, and to exemplify the legal profession's ideals of public service.
+(j) Many of a lawyer's professional responsibilities are prescribed in the Rules of Professional Conduct, as well as substantive and procedural law. However, a lawyer is also guided by personal conscience and the approbation of professional peers. A lawyer should strive to attain the highest level of skill, to improve the law and the legal profession, and to exemplify the legal profession's ideals of public service.
 
 
-(k)  A lawyer's responsibilities as a representative of clients, an officer of the legal system, and a public citizen are usually harmonious. Thus, when an opposing party is well represented, a lawyer can be a zealous advocate on behalf of a client and, at the same time, assume that justice is being done. So also, a lawyer can be sure that preserving client confidences ordinarily serves the public interest because people are more likely to seek legal advice, and thereby heed their legal obligations, when they know their communications will be private. 
+(k) A lawyer's responsibilities as a representative of clients, an officer of the legal system, and a public citizen are usually harmonious. Thus, when an opposing party is well represented, a lawyer can be a zealous advocate on behalf of a client and, at the same time, assume that justice is being done. So also, a lawyer can be sure that preserving client confidences ordinarily serves the public interest because people are more likely to seek legal advice, and thereby heed their legal obligations, when they know their communications will be private. 
 
 
-(l)  In the nature of law practice, however, conflicting responsibilities are encountered. Virtually all difficult ethical problems arise from conflict between a lawyer's responsibilities to clients, to the legal system, and to the lawyer's own interest in remaining an ethical person while earning a satisfactory living. The Rules of Professional Conduct often prescribe terms for resolving such conflicts. Within the framework of these Rules, however, many difficult issues of professional discretion can arise. Such issues must be resolved through the exercise of sensitive professional and moral judgment guided by the basic principles underlying the Rules. These principles include the lawyer's obligation zealously to protect and pursue a client's legitimate interests, within the bounds of the law, while maintaining a professional, courteous and civil attitude toward all persons involved in the legal system.
+(l) In the nature of law practice, however, conflicting responsibilities are encountered. Virtually all difficult ethical problems arise from conflict between a lawyer's responsibilities to clients, to the legal system, and to the lawyer's own interest in remaining an ethical person while earning a satisfactory living. The Rules of Professional Conduct often prescribe terms for resolving such conflicts. Within the framework of these Rules, however, many difficult issues of professional discretion can arise. Such issues must be resolved through the exercise of sensitive professional and moral judgment guided by the basic principles underlying the Rules. These principles include the lawyer's obligation zealously to protect and pursue a client's legitimate interests, within the bounds of the law, while maintaining a professional, courteous and civil attitude toward all persons involved in the legal system.
 
 
-(m)  Although a matter is hotly contested by the parties, a lawyer should treat opposing counsel with courtesy and respect. The legal dispute of the client must never become the lawyer's personal dispute with opposing counsel. A lawyer, moreover, should provide zealous but honorable representation without resorting to unfair or offensive tactics. The legal system provides a civilized mechanism for resolving disputes, but only if the lawyers themselves behave with dignity. A lawyer's word to another lawyer should be the lawyer's bond. As professional colleagues, lawyers should encourage and counsel new lawyers by providing advice and mentoring; foster civility among members of the bar by acceding to reasonable requests that do not prejudice the interests of the client; and counsel and assist peers who fail to fulfill their professional duties because of substance abuse, depression, or other personal difficulties.
+(m) Although a matter is hotly contested by the parties, a lawyer should treat opposing counsel with courtesy and respect. The legal dispute of the client must never become the lawyer's personal dispute with opposing counsel. A lawyer, moreover, should provide zealous but honorable representation without resorting to unfair or offensive tactics. The legal system provides a civilized mechanism for resolving disputes, but only if the lawyers themselves behave with dignity. A lawyer's word to another lawyer should be the lawyer's bond. As professional colleagues, lawyers should encourage and counsel new lawyers by providing advice and mentoring; foster civility among members of the bar by acceding to reasonable requests that do not prejudice the interests of the client; and counsel and assist peers who fail to fulfill their professional duties because of substance abuse, depression, or other personal difficulties.
 
 
-(n)  The legal profession is largely self-governing. Although other professions also have been granted powers of self-government, the legal profession is unique in this respect because of the close relationship between the profession and the processes of government and law enforcement. This connection is manifested in the fact that ultimate authority over the legal profession is vested largely in the courts.
+(n) The legal profession is largely self-governing. Although other professions also have been granted powers of self-government, the legal profession is unique in this respect because of the close relationship between the profession and the processes of government and law enforcement. This connection is manifested in the fact that ultimate authority over the legal profession is vested largely in the courts.
 
 
-(o)  To the extent that lawyers meet the obligations of their professional calling, the occasion for government regulation is obviated. Self-regulation also helps maintain the legal profession's independence from government domination. An independent legal profession is an important force in preserving government under law, for the abuse of legal authority is more readily challenged by a self-regulated profession.
+(o) To the extent that lawyers meet the obligations of their professional calling, the occasion for government regulation is obviated. Self-regulation also helps maintain the legal profession's independence from government domination. An independent legal profession is an important force in preserving government under law, for the abuse of legal authority is more readily challenged by a self-regulated profession.
 
 
-(p)  The legal profession's relative autonomy carries with it a responsibility to assure that its regulations are conceived in the public interest and not in furtherance of parochial or self-interested concerns of the bar. Every lawyer is responsible for observance of the Rules of Professional Conduct. A lawyer should also aid in securing their observance by other lawyers. Neglect of these responsibilities compromises the independence of the profession and the public interest which it serves.
+(p) The legal profession's relative autonomy carries with it a responsibility to assure that its regulations are conceived in the public interest and not in furtherance of parochial or self-interested concerns of the bar. Every lawyer is responsible for observance of the Rules of Professional Conduct. A lawyer should also aid in securing their observance by other lawyers. Neglect of these responsibilities compromises the independence of the profession and the public interest which it serves.
 
 
-(q)  Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
+(q) Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
 
 
 History Note:	Authority G.S. 84-23;
@@ -64,7 +73,7 @@ Eff. July 24, 1997;
 Amended Eff. November 16, 2006; February 27, 2003.
 
 
-# 27 NCAC 02 Rule 0.2	SCOPE
+## Rule 0.2	SCOPE
 
 
 (a) The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the rules are imperatives, cast in the terms “shall” or “shall not.” These define proper conduct for purposes of professional discipline. Others, generally cast in the term “may,” are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act, or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary, and partly constitutive and descriptive in that they define a lawyer’s professional role. Many of the Comments use the term “should.” Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
@@ -73,13 +82,13 @@ Amended Eff. November 16, 2006; February 27, 2003.
 (b) The Rules presuppose a larger legal context shaping the lawyer’s role. That context includes court rules and statutes relating to matters of licensure, laws defining specific obligations of lawyers, and substantive and procedural law in general. The Comments are sometimes used to alert lawyers to their responsibilities under such other law. 
 
 
-(c)  Compliance with the Rules, as with all law in an open society, depends primarily upon understanding and voluntary compliance, secondarily upon reinforcement by peer and public opinion, and finally, when necessary, upon enforcement through disciplinary proceedings. The Rules do not, however, exhaust the moral and ethical considerations that should inform a lawyer, for no worthwhile human activity can be completely defined by legal rules. The Rules simply provide a framework for the ethical practice of law.
+(c) Compliance with the Rules, as with all law in an open society, depends primarily upon understanding and voluntary compliance, secondarily upon reinforcement by peer and public opinion, and finally, when necessary, upon enforcement through disciplinary proceedings. The Rules do not, however, exhaust the moral and ethical considerations that should inform a lawyer, for no worthwhile human activity can be completely defined by legal rules. The Rules simply provide a framework for the ethical practice of law.
 
 
 (d) Furthermore, for purposes of determining the lawyer’s authority and responsibility, principles of substantive law external to these Rules determine whether a client-lawyer relationship exists. Most of the duties flowing from the client-lawyer relationship attach only after the client has requested the lawyer to render legal services and the lawyer has agreed to do so. But there are some duties, such as that of confidentiality under Rule 1.6, that attach when the lawyer agrees to consider whether a client-lawyer relationship shall be established. Rule 1.18. Whether a client-lawyer relationship exists for any specific purpose can depend on the circumstances and may be a question of fact.
 
 
-(e)  Under various legal provisions, including constitutional, statutory, and common law, the responsibilities of government lawyers may include authority concerning legal matters that ordinarily reposes in the client in private client-lawyer relationships. For example, a lawyer for a government agency may have authority on behalf of the government to decide upon settlement or whether to appeal from an adverse judgment. Such authority in various respects is generally vested in the attorney general and the state’s attorney in state government and their federal counterparts, and the same may be true of other government law officers. Also, lawyers under the supervision of these officers may be authorized to represent several government agencies in intragovernmental legal controversies in circumstances where a private lawyer could not represent multiple private clients. These rules do not abrogate any such authority.
+(e) Under various legal provisions, including constitutional, statutory, and common law, the responsibilities of government lawyers may include authority concerning legal matters that ordinarily reposes in the client in private client-lawyer relationships. For example, a lawyer for a government agency may have authority on behalf of the government to decide upon settlement or whether to appeal from an adverse judgment. Such authority in various respects is generally vested in the attorney general and the state’s attorney in state government and their federal counterparts, and the same may be true of other government law officers. Also, lawyers under the supervision of these officers may be authorized to represent several government agencies in intragovernmental legal controversies in circumstances where a private lawyer could not represent multiple private clients. These rules do not abrogate any such authority.
 
 
 (f) Failure to comply with an obligation or prohibition imposed by a Rule is a basis for invoking the disciplinary process. The Rules presuppose that disciplinary assessment of a lawyer’s conduct will be made on the basis of the facts and circumstances as they existed at the time of the conduct in question and in recognition of the fact that a lawyer often has to act upon uncertain or incomplete evidence of the situation. Moreover, the Rules presuppose that whether or not discipline should be imposed for a violation, and the severity of a sanction, depend on all the circumstances, such as the willfulness and seriousness of the violation, extenuating factors, and whether there have been previous violations.
@@ -88,7 +97,7 @@ Amended Eff. November 16, 2006; February 27, 2003.
 (g) Violation of a Rule should not give rise itself to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached. In addition, violation of a Rule does not necessarily warrant any other nondisciplinary remedy, such as disqualification of a lawyer in pending litigation. The rules are designed to provide guidance to lawyers and to provide a structure for regulating conduct through disciplinary agencies. They are not designed to be a basis for civil liability. Furthermore, the purpose of the Rules can be subverted when they are invoked by opposing parties as procedural weapons. The fact that a Rule is a just basis for a lawyer’s self-assessment, or for sanctioning a lawyer under the administration of a disciplinary authority, does not imply that an antagonist in a collateral proceeding or transaction has standing to seek enforcement of the Rule. Accordingly, nothing in the Rules should be deemed to augment any substantive legal duty of lawyers or the extra-disciplinary consequences of violating such a Rule.
 
 
-(h) The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The  Comments are intended as guides to interpretation, but the text of each Rule is authoritative. Research notes were prepared to compare counterparts in the original Rules of Professional Conduct (adopted 1985, as amended) and to provide selected references to other authorities. The notes have not been adopted, do not constitute part of the Rules, and are not intended to affect the application or interpretation of the Rules and Comments.
+(h) The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative. Research notes were prepared to compare counterparts in the original Rules of Professional Conduct (adopted 1985, as amended) and to provide selected references to other authorities. The notes have not been adopted, do not constitute part of the Rules, and are not intended to affect the application or interpretation of the Rules and Comments.
 
 
 History Note:	Authority G.S. 84‑23;
@@ -100,52 +109,52 @@ Eff. July 24, 1997;
 Amended Eff. February 5, 2004; February 27, 2003.
 
 
-# 27 NCAC 02 Rule 1.00	Terminology
+## Rule 1.00	Terminology
 
 
-(a)  "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
+(a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
 
-(b)  "Confidential information" denotes information described in Rule 1.6.
+(b) "Confidential information" denotes information described in Rule 1.6.
 
 
-(c)  "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See Paragraph (f) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
+(c) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See Paragraph (f) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
 
 
-(d)  "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation, government entity, or other organization.
+(d) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation, government entity, or other organization.
 
 
-(e)  "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of North Carolina and has a purpose to deceive.
+(e) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of North Carolina and has a purpose to deceive.
 
 
-(f)  "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation appropriate to the circumstances.
+(f) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation appropriate to the circumstances.
 
 
-(g)  "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
+(g) "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
 
 
-(h)  "Principal" denotes a member of a partnership for the practice of law, a shareholder in a law firm organized as a professional corporation, a member of an association authorized to practice law, or a lawyer having management authority over the legal department of a company, organization, or government entity.
+(h) "Principal" denotes a member of a partnership for the practice of law, a shareholder in a law firm organized as a professional corporation, a member of an association authorized to practice law, or a lawyer having management authority over the legal department of a company, organization, or government entity.
 
 
-(i)  "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
+(i) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
 
 
-(j)  "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
+(j) "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
 
 
-(k)  "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
+(k) "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
 
 
-(l)  "Screened" denotes the isolation of a lawyer from any participation in a professional matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these rules or other law.
+(l) "Screened" denotes the isolation of a lawyer from any participation in a professional matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these rules or other law.
 
 
-(m)  "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
+(m) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
 
 
-(n)  "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding, or a legislative body, administrative agency, or other body acting in an adjudicative capacity. The term encompasses any proceeding conducted in the course of a trial or litigation, or conducted pursuant to the tribunal's rules of civil or criminal procedure or other relevant rules of the tribunal, such as a deposition, arbitration, or mediation. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, may render a binding legal judgment directly affecting a party's interests in a particular matter.
+(n) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding, or a legislative body, administrative agency, or other body acting in an adjudicative capacity. The term encompasses any proceeding conducted in the course of a trial or litigation, or conducted pursuant to the tribunal's rules of civil or criminal procedure or other relevant rules of the tribunal, such as a deposition, arbitration, or mediation. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, may render a binding legal judgment directly affecting a party's interests in a particular matter.
 
 
-(o)  "Writing" or "written" denotes a tangible or electronic record of a communication or representation, and any data embedded therein (commonly referred to as metadata), including handwriting, typewriting, printing, photostating, photography, audio or video recording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
+(o) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, and any data embedded therein (commonly referred to as metadata), including handwriting, typewriting, printing, photostating, photography, audio or video recording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
 
 ##### Comment
@@ -205,10 +214,10 @@ Eff. July 24, 1997;
 Amendments Approved by the Supreme Court: September 22, 2016; March 5, 2015; October 2, 2014; March 1, 2003.
 
 
-SECTION .0100 - CLIENT‑LAWYER RELATIONSHIP
+Section .0100 - CLIENT‑LAWYER RELATIONSHIP
 
 
-# 27 NCAC 02 Rule 1.01	Competence
+## Rule 1.01	Competence
 
 
 A lawyer shall not handle a legal matter that the lawyer knows or should know he or she is not competent to handle without associating with a lawyer who is competent to handle the matter. Competent representation requires the legal knowledge, skill, thoroughness, and preparation reasonably necessary for the representation.
@@ -220,46 +229,46 @@ A lawyer shall not handle a legal matter that the lawyer knows or should know he
 Legal Knowledge and Skill
 
 
-[1]  In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter, and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
+[1] In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter, and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
 
 
-[2]  A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence, and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
+[2] A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence, and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
 
 
-[3]  In an emergency, a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to, or consultation or association with, another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that which is reasonably necessary under the circumstances, for ill-considered action under emergency conditions can jeopardize the client's interest.
+[3] In an emergency, a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to, or consultation or association with, another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that which is reasonably necessary under the circumstances, for ill-considered action under emergency conditions can jeopardize the client's interest.
 
 
-[4]  A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person.
+[4] A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person.
 
 
 Thoroughness and Preparation
 
 
-[5]  Competent handling of a particular matter includes inquiry into, and analysis of, the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined, in part, by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity or consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
+[5] Competent handling of a particular matter includes inquiry into, and analysis of, the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined, in part, by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity or consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
 
 
 Retaining or Contracting with Other Lawyers
 
 
-[6]  Before a lawyer retains or contracts with other lawyers outside the lawyer’s own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers’ services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee division), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer’s own firm will depend upon the circumstances, including the education, experience, and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
+[6] Before a lawyer retains or contracts with other lawyers outside the lawyer’s own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers’ services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee division), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer’s own firm will depend upon the circumstances, including the education, experience, and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
 
 
-[7]  When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
+[7] When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
 
 
 Maintaining Competence
 
 
-[8]  To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with the technology relevant to the lawyer’s practice, engage in continuing study and education, and comply with all continuing legal education requirements to which the lawyer is subject.
+[8] To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with the technology relevant to the lawyer’s practice, engage in continuing study and education, and comply with all continuing legal education requirements to which the lawyer is subject.
 
 
 Distinguishing Professional Negligence
 
 
-[9]  An error by a lawyer may constitute professional malpractice under the applicable standard of care and subject the lawyer to civil liability. However, conduct that constitutes a breach of the civil standard of care owed to a client giving rise to liability for professional malpractice does not necessarily constitute a violation of the ethical duty to represent a client competently. A lawyer who makes a good-faith effort to be prepared and to be thorough will not generally be subject to professional discipline, although he or she may be subject to a claim for malpractice. For example, a single error or omission made in good faith, absent aggravating circumstances, such as an error while performing a public records search, is not usually indicative of a violation of the duty to represent a client competently.
+[9] An error by a lawyer may constitute professional malpractice under the applicable standard of care and subject the lawyer to civil liability. However, conduct that constitutes a breach of the civil standard of care owed to a client giving rise to liability for professional malpractice does not necessarily constitute a violation of the ethical duty to represent a client competently. A lawyer who makes a good-faith effort to be prepared and to be thorough will not generally be subject to professional discipline, although he or she may be subject to a claim for malpractice. For example, a single error or omission made in good faith, absent aggravating circumstances, such as an error while performing a public records search, is not usually indicative of a violation of the duty to represent a client competently.
 
 
-[10]  Repeated failure to perform legal services competently is a violation of this rule. A pattern of incompetent behavior demonstrates that a lawyer cannot or will not acquire the knowledge and skills necessary for minimally competent practice. For example, a lawyer who repeatedly provides legal services that are inadequate or who repeatedly provides legal services that are unnecessary is not fulfilling his or her duty to be competent. This pattern of behavior does not have to be the result of a dishonest or sinister motive, nor does it have to result in damages to a client giving rise to a civil claim for malpractice in order to cast doubt on the lawyer's ability to fulfill his or her professional responsibilities.
+[10] Repeated failure to perform legal services competently is a violation of this rule. A pattern of incompetent behavior demonstrates that a lawyer cannot or will not acquire the knowledge and skills necessary for minimally competent practice. For example, a lawyer who repeatedly provides legal services that are inadequate or who repeatedly provides legal services that are unnecessary is not fulfilling his or her duty to be competent. This pattern of behavior does not have to be the result of a dishonest or sinister motive, nor does it have to result in damages to a client giving rise to a civil claim for malpractice in order to cast doubt on the lawyer's ability to fulfill his or her professional responsibilities.
 
 
 History Note:	Authority G.S. 84-23;
@@ -271,7 +280,7 @@ Eff. July 24, 1997;
 Amended Eff. October 2, 2014; March 1, 2003.
 
 
-# 27 NCAC 02 Rule 1.02	SCOPE OF REPRESENTATION AND ALLOCATION OF AUTHORITY BETWEEN CLIENT AND LAWYER 
+## Rule 1.02	SCOPE OF REPRESENTATION AND ALLOCATION OF AUTHORITY BETWEEN CLIENT AND LAWYER 
 
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. 
@@ -361,7 +370,7 @@ Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
 
-# 27 NCAC 02 Rule 1.3	Diligence
+## Rule 1.3	Diligence
 
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
@@ -403,10 +412,10 @@ Adopted by the Supreme Court July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; September 28, 2017.
 
 
-# 27 NCAC 02 Rule 1.04	Communication
+## Rule 1.04	Communication
 
 
-(a)  A lawyer shall:
+(a) A lawyer shall:
 
 
 (1)	promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(f), is required by these Rules; 
@@ -424,40 +433,40 @@ Amendments Approved by the Supreme Court: March 1, 2003; September 28, 2017.
 (5)	consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 
 
-(b)  A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+(b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
 
 ##### Comment
 
 
-[1]  Reasonable communication between the lawyer and the client is necessary for the client effectively to participate in the representation.
+[1] Reasonable communication between the lawyer and the client is necessary for the client effectively to participate in the representation.
 
 
 Communicating with Client
 
 
-[2]  If these Rules require that a particular decision about the representation be made by the client, paragraph (a)(1) requires that the lawyer promptly consult with and secure the client's consent prior to taking action unless prior discussions with the client have resolved what action the client wants the lawyer to take. For example, a lawyer who receives from opposing counsel an offer of settlement in a civil controversy or a proffered plea bargain in a criminal case must promptly inform the client of its substance unless the client has previously indicated that the proposal will be acceptable or unacceptable or has authorized the lawyer to accept or to reject the offer. See Rule 1.2(a).
+[2] If these Rules require that a particular decision about the representation be made by the client, paragraph (a)(1) requires that the lawyer promptly consult with and secure the client's consent prior to taking action unless prior discussions with the client have resolved what action the client wants the lawyer to take. For example, a lawyer who receives from opposing counsel an offer of settlement in a civil controversy or a proffered plea bargain in a criminal case must promptly inform the client of its substance unless the client has previously indicated that the proposal will be acceptable or unacceptable or has authorized the lawyer to accept or to reject the offer. See Rule 1.2(a).
 
 
-[3]  Paragraph (a)(2) requires the lawyer to consult with the client about the means to be used to accomplish the client's objectives. In some situations - depending on both the importance of the action under consideration and the feasibility of consulting with the client - this duty will require consultation prior to taking action. In other circumstances, such as during a trial when an immediate decision must be made, the exigency of the situation may require the lawyer to act without prior consultation. In such cases the lawyer must nonetheless act reasonably to inform the client of actions the lawyer has taken on the client's behalf. Additionally, paragraph (a)(3) requires that the lawyer keep the client reasonably informed about the status of the matter, such as significant developments affecting the timing or the substance of the representation.
+[3] Paragraph (a)(2) requires the lawyer to consult with the client about the means to be used to accomplish the client's objectives. In some situations - depending on both the importance of the action under consideration and the feasibility of consulting with the client - this duty will require consultation prior to taking action. In other circumstances, such as during a trial when an immediate decision must be made, the exigency of the situation may require the lawyer to act without prior consultation. In such cases the lawyer must nonetheless act reasonably to inform the client of actions the lawyer has taken on the client's behalf. Additionally, paragraph (a)(3) requires that the lawyer keep the client reasonably informed about the status of the matter, such as significant developments affecting the timing or the substance of the representation.
 
 
-[4]  A lawyer's regular communication with clients will minimize the occasions on which a client will need to request information concerning the representation. When a client makes a reasonable request for information, however, paragraph (a)(4) requires prompt compliance with the request, or if a prompt response is not feasible, that the lawyer, or a member of the lawyer's staff, acknowledge receipt of the request and advise the client when a response may be expected. A lawyer should address with the client how the lawyer and the client will communicate, and should respond to or acknowledge client communications in a reasonable and timely manner.
+[4] A lawyer's regular communication with clients will minimize the occasions on which a client will need to request information concerning the representation. When a client makes a reasonable request for information, however, paragraph (a)(4) requires prompt compliance with the request, or if a prompt response is not feasible, that the lawyer, or a member of the lawyer's staff, acknowledge receipt of the request and advise the client when a response may be expected. A lawyer should address with the client how the lawyer and the client will communicate, and should respond to or acknowledge client communications in a reasonable and timely manner.
 
 
 Explaining Matters
 
 
-[5]  The client should have sufficient information to participate intelligently in decisions concerning the objectives of the representation and the means by which they are to be pursued, to the extent the client is willing and able to do so. Adequacy of communication depends in part on the kind of advice or assistance that is involved. For example, when there is time to explain a proposal made in a negotiation, the lawyer should review all important provisions with the client before proceeding to an agreement. In litigation a lawyer should explain the general strategy and prospects of success and ordinarily should consult the client on tactics that are likely to result in significant expense or to injure or coerce others. On the other hand, a lawyer ordinarily will not be expected to describe trial or negotiation strategy in detail. The guiding principle is that the lawyer should fulfill reasonable client expectations for information consistent with the duty to act in the client's best interests, and the client's overall requirements as to the character of representation. In certain circumstances, such as when a lawyer asks a client to consent to a representation affected by a conflict of interest, the client must give informed consent, as defined in Rule 1.0(f).
+[5] The client should have sufficient information to participate intelligently in decisions concerning the objectives of the representation and the means by which they are to be pursued, to the extent the client is willing and able to do so. Adequacy of communication depends in part on the kind of advice or assistance that is involved. For example, when there is time to explain a proposal made in a negotiation, the lawyer should review all important provisions with the client before proceeding to an agreement. In litigation a lawyer should explain the general strategy and prospects of success and ordinarily should consult the client on tactics that are likely to result in significant expense or to injure or coerce others. On the other hand, a lawyer ordinarily will not be expected to describe trial or negotiation strategy in detail. The guiding principle is that the lawyer should fulfill reasonable client expectations for information consistent with the duty to act in the client's best interests, and the client's overall requirements as to the character of representation. In certain circumstances, such as when a lawyer asks a client to consent to a representation affected by a conflict of interest, the client must give informed consent, as defined in Rule 1.0(f).
 
 
-[6]  Ordinarily, the information to be provided is that appropriate for a client who is a comprehending and responsible adult. However, fully informing the client according to this standard may be impracticable, for example, where the client is a child or suffers from diminished capacity. See Rule 1.14. When the client is an organization or group, it is often impossible or inappropriate to inform every one of its members about its legal affairs; ordinarily, the lawyer should address communications to the appropriate officials of the organization. See Rule 1.13. Where many routine matters are involved, a system of limited or occasional reporting may be arranged with the client. 
+[6] Ordinarily, the information to be provided is that appropriate for a client who is a comprehending and responsible adult. However, fully informing the client according to this standard may be impracticable, for example, where the client is a child or suffers from diminished capacity. See Rule 1.14. When the client is an organization or group, it is often impossible or inappropriate to inform every one of its members about its legal affairs; ordinarily, the lawyer should address communications to the appropriate officials of the organization. See Rule 1.13. Where many routine matters are involved, a system of limited or occasional reporting may be arranged with the client. 
 
 
 Withholding Information
 
 
-[7]  In some circumstances, a lawyer may be justified in delaying transmission of information when the client would be likely to react imprudently to an immediate communication. Thus, a lawyer might withhold a psychiatric diagnosis of a client when the examining psychiatrist indicates that disclosure would harm the client. A lawyer may not withhold information to serve the lawyer's own interest or convenience or the interests or convenience of another person. Rules or court orders governing litigation may provide that information supplied to a lawyer may not be disclosed to the client. Rule 3.4(c) directs compliance with such rules or orders.
+[7] In some circumstances, a lawyer may be justified in delaying transmission of information when the client would be likely to react imprudently to an immediate communication. Thus, a lawyer might withhold a psychiatric diagnosis of a client when the examining psychiatrist indicates that disclosure would harm the client. A lawyer may not withhold information to serve the lawyer's own interest or convenience or the interests or convenience of another person. Rules or court orders governing litigation may provide that information supplied to a lawyer may not be disclosed to the client. Rule 3.4(c) directs compliance with such rules or orders.
 
 
 History Note:	Authority G.S. 84-23;
@@ -469,7 +478,7 @@ Eff. July 24, 1997;
 Amended Eff. October 2, 2014; March 1, 2003.
 
 
-# 27 NCAC 02 Rule 1.05	FEES
+## Rule 1.05	FEES
 
 
 (a) A lawyer shall not make an agreement for, charge, or collect an illegal or clearly excessive fee or charge or collect a clearly excessive amount for expenses. The factors to be considered in determining whether a fee is clearly excessive include the following:
@@ -601,13 +610,13 @@ Eff. July 24, 1997;
 Amended Eff. February 27, 2003; May 4, 2000.
 
 
-# 27 NCAC 02 Rule 1.06	Confidentiality of Information 
+## Rule 1.06	Confidentiality of Information 
 
 
-(a)  A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
+(a) A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
 
-(b)  A lawyer may reveal information protected from disclosure by paragraph (a) to the extent the lawyer reasonably believes necessary:
+(b) A lawyer may reveal information protected from disclosure by paragraph (a) to the extent the lawyer reasonably believes necessary:
 
 
 (1)	to comply with the Rules of Professional Conduct, the law or court order;
@@ -736,7 +745,7 @@ Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 16, 2017; October 2, 2014; March 1, 2003.
 
 
-# 27 NCAC 02 Rule 1.07	CONFLICT OF INTEREST: CURRENT CLIENTS
+## Rule 1.07	CONFLICT OF INTEREST: CURRENT CLIENTS
 
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
@@ -769,7 +778,7 @@ General Principles
 
 [2] Resolution of a conflict of interest problem under this Rule requires the lawyer to: 1) clearly identify the client or clients; 2) determine whether a conflict of interest exists; 3) decide whether the representation may be undertaken despite the existence of a conflict, i.e., whether the conflict is consentable; and 4) if so, consult with the clients affected under paragraph (a) and obtain their informed consent, confirmed in writing. The clients affected under paragraph (a) include both of the clients referred to in paragraph (a)(1) and the one or more clients whose representation might be materially limited under paragraph (a)(2).
 
-[3] A conflict of interest may exist before representation is undertaken, in which event the representation must be declined, unless the lawyer obtains the informed consent of each client under the conditions of paragraph (b). To determine whether a conflict of interest exists, a lawyer should adopt reasonable procedures, appropriate for the size and type of firm and practice, to determine in both litigation and non-litigation matters the persons and issues involved. See also Comment to Rule 5.1. Ignorance caused by a failure to institute such procedures will not excuse a lawyer's violation of this Rule. As to whether a client-lawyer relationship exists or, having once been established, is continuing, see  Comment to Rule 1.3 and Scope.
+[3] A conflict of interest may exist before representation is undertaken, in which event the representation must be declined, unless the lawyer obtains the informed consent of each client under the conditions of paragraph (b). To determine whether a conflict of interest exists, a lawyer should adopt reasonable procedures, appropriate for the size and type of firm and practice, to determine in both litigation and non-litigation matters the persons and issues involved. See also Comment to Rule 5.1. Ignorance caused by a failure to institute such procedures will not excuse a lawyer's violation of this Rule. As to whether a client-lawyer relationship exists or, having once been established, is continuing, see Comment to Rule 1.3 and Scope.
 
 [4] If a conflict arises after representation has been undertaken, the lawyer ordinarily must withdraw from the representation, unless the lawyer has obtained the informed consent of the client under the conditions of paragraph (b). See Rule 1.16. Where more than one client is involved, whether the lawyer may continue to represent any of the clients is determined both by the lawyer's ability to comply with duties owed to the former client and by the lawyer's ability to represent adequately the remaining client or clients, given the lawyer's duties to the former client. See Rule 1.9. See also Comments [5] and [29] to this Rule.
 
@@ -839,7 +848,7 @@ Conflicts in Litigation
 
 Nonlitigation Conflicts
 
-[26] Conflicts of interest under paragraphs (a)(1) and (a)(2) arise in contexts other than litigation. For a discussion of directly adverse conflicts in transactional matters,  [7]. Relevant factors in determining whether there is significant potential for material limitation include the duration and intimacy of the lawyer's relationship with the client or clients involved, the functions being performed by the lawyer, the likelihood that disagreements will arise and the likely prejudice to the client from the conflict. The question is often one of proximity and degree. See Comment [8].
+[26] Conflicts of interest under paragraphs (a)(1) and (a)(2) arise in contexts other than litigation. For a discussion of directly adverse conflicts in transactional matters, [7]. Relevant factors in determining whether there is significant potential for material limitation include the duration and intimacy of the lawyer's relationship with the client or clients involved, the functions being performed by the lawyer, the likelihood that disagreements will arise and the likely prejudice to the client from the conflict. The question is often one of proximity and degree. See Comment [8].
 
 [27] For example, conflict questions may arise in estate planning and estate administration. A lawyer may be called upon to prepare wills for several family members, such as husband and wife, and, depending upon the circumstances, a conflict of interest may be present. In estate administration the identity of the client may be unclear under the law of a particular jurisdiction. Under one view, the client is the fiduciary; under another view the client is the estate or trust, including its beneficiaries. In order to comply with conflict of interest rules, the lawyer should make clear the lawyer's relationship to the parties involved.
 
@@ -869,7 +878,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.08	CONFLICT OF INTEREST: CURRENT CLIENTS: SPECIFIC RULES
+## Rule 1.08	CONFLICT OF INTEREST: CURRENT CLIENTS: SPECIFIC RULES
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest directly adverse to a client unless:
 
@@ -979,7 +988,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.09	DUTIES TO FORMER CLIENTS
+## Rule 1.09	DUTIES TO FORMER CLIENTS
 (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 (b) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
 (1)	whose interests are materially adverse to that person; and
@@ -1007,7 +1016,7 @@ History Note:	Authority G.S. 84-23;
 Adopted Eff. July 24, 1997;
 Amended Eff. February 27, 2003; October 7, 1999.
 
-# 27 NCAC 02 Rule 1.10	IMPUTATION OF CONFLICTS OF INTEREST: GENERAL RULE
+## Rule 1.10	IMPUTATION OF CONFLICTS OF INTEREST: GENERAL RULE
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless the prohibition is based on a personal interest of the prohibited lawyer, including a prohibition under Rule 6.6, and the prohibition does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm.
 (b) When a lawyer has terminated an association with a firm, the firm is not prohibited from thereafter representing a person with interests materially adverse to those of a client represented by the formerly associated lawyer and not currently represented by the firm, unless:
 (1)	the matter is the same or substantially related to that in which the formerly associated lawyer represented the client; and
@@ -1045,19 +1054,19 @@ Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
 27 NCAC 2 Rule 1.11	Special Conflicts of Interest for Former and Current Government Officers and Employees
-(a)  Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
+(a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 (1)	is subject to Rule 1.9(c); and
 (2)	shall not otherwise represent a client in connection with a matter in which the lawyer participated personally and substantially as a public officer or employee, unless the appropriate government agency gives its informed consent, confirmed in writing, to the representation.
-(b)  When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
+(b) When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
 (1)	the disqualified lawyer is timely screened from any participation in the matter; and
 (2)	written notice is promptly given to the appropriate government agency to enable it to ascertain compliance with the provisions of this rule.
-(c)  Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter. 
-(d)  Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
+(c) Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter. 
+(d) Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
 (1) is subject to Rules 1.7 and 1.9; and
 (2) shall not:
 (A)	participate in a matter in which the lawyer participated personally and substantially while in private practice or nongovernmental employment, unless the appropriate government agency gives its informed consent, confirmed in writing; or
 (B)	negotiate for private employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially, except that a lawyer serving as a law clerk to a judge, other adjudicative officer or arbitrator may negotiate for private employment as permitted by Rule 1.12(b) and subject to the conditions stated in Rule 1.12(b).
-(e)  As used in this Rule, the term "matter" includes:
+(e) As used in this Rule, the term "matter" includes:
 (1)	any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
 (2)	any other matter covered by the conflict of interest rules of the appropriate government agency.
 
@@ -1077,7 +1086,7 @@ History Note:	Authority G.S. 84-23;
 Adopted Eff. July 24, 1997; 
 Amended Eff. October 6, 2004; February 27, 2003.
 
-# 27 NCAC 02 Rule 1.12	FORMER JUDGE, ARBITRATOR, MEDIATOR OR OTHER THIRD-PARTY NEUTRAL
+## Rule 1.12	FORMER JUDGE, ARBITRATOR, MEDIATOR OR OTHER THIRD-PARTY NEUTRAL
 (a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 (b) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
 (c) If a lawyer is disqualified by paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in the matter unless:
@@ -1097,21 +1106,21 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.13		ORGANIZATION AS CLIENT
-(a)  A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
-(b)  If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law.  
-(c)  If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
-(d)  Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
-(e)  A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
-(f)  In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
-(g)  A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+## Rule 1.13		ORGANIZATION AS CLIENT
+(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+(b) If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law. 
+(c) If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
+(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
+(f) In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
 ##### Comment
 
 The Entity as the Client
 [1] An organizational client is a legal entity, but it cannot act except through its officers, directors, employees, shareholders and other constituents. Officers, directors, employees and shareholders are the constituents of the corporate organizational client. The duties defined in this Rule apply equally to unincorporated associations. "Other constituents" as used in this Rule means the positions equivalent to officers, directors, employees and shareholders held by persons acting for organizational clients that are not corporations.
 [2] When one of the constituents of an organizational client communicates with the organization's lawyer in that person's organizational capacity, the communication is protected by Rule 1.6. Thus, by way of example, if an organizational client requests its lawyer to investigate allegations of wrongdoing, interviews made in the course of that investigation between the lawyer and the client's employees or other constituents are covered by Rule 1.6. This does not mean, however, that constituents of an organizational client are the clients of the lawyer. The lawyer may not disclose to such constituents information relating to the representation except for disclosures explicitly or impliedly authorized by the organizational client in order to carry out the representation or as otherwise permitted by Rule 1.6.
-[3] When constituents of the organization make decisions for it, the decisions ordinarily must be accepted by the lawyer even if their utility or prudence is doubtful. Decisions concerning policy and operations, including ones entailing serious risk, are not as such in the lawyer's province. Paragraph (b) makes clear, however, that when the lawyer knows that the organization may be substantially injured by action of an officer or other constituent that violates a legal obligation to the organization or is a violation of the law that might be imputed to the organization, the lawyer must proceed as is reasonably necessary in the best interest of the organization. As defined in Rule 1.0(g), knowledge can be inferred from circumstances, and a lawyer cannot ignore the obvious.  
+[3] When constituents of the organization make decisions for it, the decisions ordinarily must be accepted by the lawyer even if their utility or prudence is doubtful. Decisions concerning policy and operations, including ones entailing serious risk, are not as such in the lawyer's province. Paragraph (b) makes clear, however, that when the lawyer knows that the organization may be substantially injured by action of an officer or other constituent that violates a legal obligation to the organization or is a violation of the law that might be imputed to the organization, the lawyer must proceed as is reasonably necessary in the best interest of the organization. As defined in Rule 1.0(g), knowledge can be inferred from circumstances, and a lawyer cannot ignore the obvious. 
 [4] In determining how to proceed under paragraph (b), the lawyer should give due consideration to the seriousness of the violation and its consequences, the responsibility in the organization and the apparent motivation of the person involved, the policies of the organization concerning such matters, and any other relevant considerations. Ordinarily, referral to a higher authority would be necessary. In some circumstances, however, it may be appropriate for the lawyer to ask the constituent to reconsider the matter; for example, if the circumstances involve a constituent's innocent misunderstanding of law and subsequent acceptance of the lawyer's advice, the lawyer may reasonably conclude that the best interest of the organization does not require that the matter be referred to higher authority. If a constituent persists in conduct contrary to the lawyer's advice, it will be necessary for the lawyer to take steps to have the matter reviewed by a higher authority in the organization. If the matter is of sufficient seriousness and importance or urgency to the organization, referral to higher authority in the organization may be necessary even if the lawyer has not communicated with the constituent. Any measures taken should, to the extent practicable, minimize the risk of revealing information relating to the representation to persons outside the organization. Even in circumstances where a lawyer is not obligated by Rule 1.13 to proceed, a lawyer may bring to the attention of an organizational client, including its highest authority, matters that the lawyer reasonably believes to be of sufficient importance to warrant doing so in the best interest of the organization.
 [5] Paragraph (b) also makes clear that when it is reasonably necessary to enable the organization to address the matter in a timely and appropriate manner, the lawyer must refer the matter to higher authority, including, if warranted by the circumstances, the highest authority that can act on behalf of the organization under applicable law. The organization's highest authority to whom a matter may be referred ordinarily will be the board of directors or similar governing body. However, applicable law may prescribe that under certain conditions the highest authority reposes elsewhere, for example, in the independent directors of a corporation.
 
@@ -1139,7 +1148,7 @@ Adopted July 24, 1997;
 Amended Effective March 2, 2006; March 1, 2003.
  
 
-# 27 NCAC 02 Rule 1.14	CLIENT WITH DIMINISHED CAPACITY
+## Rule 1.14	CLIENT WITH DIMINISHED CAPACITY
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 (b) When the lawyer reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the lawyer may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem or guardian.
 (c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
@@ -1167,50 +1176,50 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.15-1	Definitions
+## Rule 1.15-1	Definitions
 For purposes of this Rule 1.15, the following definitions apply:
-(a)  "Bank" denotes a bank savings and loan association, or credit union chartered under North Carolina or federal law.
-(b)  "Client" denotes a person, firm, or other entity for whom a lawyer performs, or is engaged to perform, any legal services.
-(c)  "Dedicated trust account" denotes a trust account that is maintained for the sole benefit of a single client or with respect to a single transaction or series of integrated transactions.
-(d)  "Demand deposit" denotes any account from which deposited funds can be withdrawn at any time without notice to the depository institution.
-(e)  "Electronic transfer" denotes a paperless transfer of funds.
-(f)  "Entrusted property" denotes trust funds, fiduciary funds and other property belonging to someone other than the lawyer which is in the lawyer's possession or control in connection with the performance of legal services or professional fiduciary services.
-(g)  "Fiduciary account" denotes an account, designated as such, maintained by a lawyer solely for the deposit of fiduciary funds or other entrusted property of a particular person or entity.
-(h)  "Fiduciary funds" denotes funds belonging to someone other than the lawyer that are received by or placed under the control of the lawyer in connection with the performance of professional fiduciary services.
-(i)  "Funds" denotes any form of money, including cash, payment instruments such as checks, money orders, or sales drafts, and receipts from electronic fund transfers.
-(j)  "General trust account" denotes any trust account other than a dedicated trust account.
-(k)  "Item" denotes any means or method by which funds are credited to or debited from an account; for example: a check, substitute check, remotely created check, draft, withdrawal order, automated clearinghouse (ACH) or electronic transfer, electronic or wire funds transfer, electronic image of an item and/or information in electronic form describing an item, or instructions given in person or by telephone, mail, or computer.
-(l)  "Legal services" denotes services (other than professional fiduciary services) rendered by a lawyer in a client-lawyer relationship.
-(m)  "Professional fiduciary services" denotes compensated services (other than legal services) rendered by a lawyer as a trustee, guardian, personal representative of an estate, attorney-in-fact, or escrow agent, or in any other fiduciary role customary to the practice of law.
-(n)  "Trust account" denotes an account, designated as such, maintained by a lawyer for the deposit of trust funds.
-(o)  "Trust funds" denotes funds belonging to someone other than the lawyer that are received by or placed under the control of the lawyer in connection with the performance of legal services.
+(a) "Bank" denotes a bank savings and loan association, or credit union chartered under North Carolina or federal law.
+(b) "Client" denotes a person, firm, or other entity for whom a lawyer performs, or is engaged to perform, any legal services.
+(c) "Dedicated trust account" denotes a trust account that is maintained for the sole benefit of a single client or with respect to a single transaction or series of integrated transactions.
+(d) "Demand deposit" denotes any account from which deposited funds can be withdrawn at any time without notice to the depository institution.
+(e) "Electronic transfer" denotes a paperless transfer of funds.
+(f) "Entrusted property" denotes trust funds, fiduciary funds and other property belonging to someone other than the lawyer which is in the lawyer's possession or control in connection with the performance of legal services or professional fiduciary services.
+(g) "Fiduciary account" denotes an account, designated as such, maintained by a lawyer solely for the deposit of fiduciary funds or other entrusted property of a particular person or entity.
+(h) "Fiduciary funds" denotes funds belonging to someone other than the lawyer that are received by or placed under the control of the lawyer in connection with the performance of professional fiduciary services.
+(i) "Funds" denotes any form of money, including cash, payment instruments such as checks, money orders, or sales drafts, and receipts from electronic fund transfers.
+(j) "General trust account" denotes any trust account other than a dedicated trust account.
+(k) "Item" denotes any means or method by which funds are credited to or debited from an account; for example: a check, substitute check, remotely created check, draft, withdrawal order, automated clearinghouse (ACH) or electronic transfer, electronic or wire funds transfer, electronic image of an item and/or information in electronic form describing an item, or instructions given in person or by telephone, mail, or computer.
+(l) "Legal services" denotes services (other than professional fiduciary services) rendered by a lawyer in a client-lawyer relationship.
+(m) "Professional fiduciary services" denotes compensated services (other than legal services) rendered by a lawyer as a trustee, guardian, personal representative of an estate, attorney-in-fact, or escrow agent, or in any other fiduciary role customary to the practice of law.
+(n) "Trust account" denotes an account, designated as such, maintained by a lawyer for the deposit of trust funds.
+(o) "Trust funds" denotes funds belonging to someone other than the lawyer that are received by or placed under the control of the lawyer in connection with the performance of legal services.
 
 History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: May 4, 2000; March 1, 2003; March 6, 2008; October 8, 2009; August 23, 2012; June 9, 2016; April 5, 2018.
 
-# 27 NCAC 02 Rule 1.15-2	General Rules
-(a)  Entrusted Property. All entrusted property shall be identified, held, and maintained separate from the property of the lawyer, and shall be deposited, disbursed, and distributed only in accordance with this Rule 1.15.
-(b)  Deposit of Trust Funds. All trust funds received by or placed under the control of a lawyer shall be promptly deposited in either a general trust account or a dedicated trust account of the lawyer. Trust funds placed in a general account are those which, in the lawyer's good faith judgment, are nominal or short-term. General trust accounts are to be administered in accordance with the Rules of Professional Conduct and the provisions of 27 NCAC Chapter 1, Subchapter D, Sections .1300.
-(c)  Deposit of Fiduciary Funds. All fiduciary funds received by or placed under the control of a lawyer shall be promptly deposited in a fiduciary account or a general trust account of the lawyer.
-(d)  Safekeeping of Other Entrusted Property. A lawyer may also hold entrusted property other than fiduciary funds (such as securities) in a fiduciary account. All entrusted property received by a lawyer that is not deposited in a trust account or fiduciary account (such as a stock certificate) shall be promptly identified, labeled as property of the person or entity for whom it is to be held, and placed in a safe deposit box or other suitable place of safekeeping. The lawyer shall disclose the location of the property to the client or other person for whom it is held. Any safe deposit box or other place of safekeeping shall be located in this state, unless the lawyer has been otherwise authorized in writing by the client or other person for whom it is held.
-(e)  Location of Accounts. All trust accounts shall be maintained at a bank in North Carolina or a bank with branch offices in North Carolina except that, with the written consent of the client, a dedicated trust account may be maintained at a bank that does not have offices in North Carolina or at a financial institution other than a bank in or outside of North Carolina. A lawyer may maintain a fiduciary account at any bank or other financial institution in or outside of North Carolina selected by the lawyer in the exercise of the lawyer's fiduciary responsibility.
-(f)  Funds in Accounts. A trust or fiduciary account may only hold entrusted property. Third party funds that are not received by or placed under the control of the lawyer in connection with the performance of legal services or professional fiduciary services may not be deposited or maintained in a trust or fiduciary account. Additionally, no funds belonging to a the lawyer shall be deposited or maintained in a trust account or fiduciary account of the lawyer except:
+## Rule 1.15-2	General Rules
+(a) Entrusted Property. All entrusted property shall be identified, held, and maintained separate from the property of the lawyer, and shall be deposited, disbursed, and distributed only in accordance with this Rule 1.15.
+(b) Deposit of Trust Funds. All trust funds received by or placed under the control of a lawyer shall be promptly deposited in either a general trust account or a dedicated trust account of the lawyer. Trust funds placed in a general account are those which, in the lawyer's good faith judgment, are nominal or short-term. General trust accounts are to be administered in accordance with the Rules of Professional Conduct and the provisions of 27 NCAC Chapter 1, Subchapter D, Sections .1300.
+(c) Deposit of Fiduciary Funds. All fiduciary funds received by or placed under the control of a lawyer shall be promptly deposited in a fiduciary account or a general trust account of the lawyer.
+(d) Safekeeping of Other Entrusted Property. A lawyer may also hold entrusted property other than fiduciary funds (such as securities) in a fiduciary account. All entrusted property received by a lawyer that is not deposited in a trust account or fiduciary account (such as a stock certificate) shall be promptly identified, labeled as property of the person or entity for whom it is to be held, and placed in a safe deposit box or other suitable place of safekeeping. The lawyer shall disclose the location of the property to the client or other person for whom it is held. Any safe deposit box or other place of safekeeping shall be located in this state, unless the lawyer has been otherwise authorized in writing by the client or other person for whom it is held.
+(e) Location of Accounts. All trust accounts shall be maintained at a bank in North Carolina or a bank with branch offices in North Carolina except that, with the written consent of the client, a dedicated trust account may be maintained at a bank that does not have offices in North Carolina or at a financial institution other than a bank in or outside of North Carolina. A lawyer may maintain a fiduciary account at any bank or other financial institution in or outside of North Carolina selected by the lawyer in the exercise of the lawyer's fiduciary responsibility.
+(f) Funds in Accounts. A trust or fiduciary account may only hold entrusted property. Third party funds that are not received by or placed under the control of the lawyer in connection with the performance of legal services or professional fiduciary services may not be deposited or maintained in a trust or fiduciary account. Additionally, no funds belonging to a the lawyer shall be deposited or maintained in a trust account or fiduciary account of the lawyer except:
 (1)	funds sufficient to open or maintain an account, pay any bank service charges, or pay any tax levied on the account; or
 (2)	funds belonging in part to a client or other third party and in part currently or conditionally to the lawyer.
-(g)  Mixed Funds Deposited Intact. When funds belonging to the lawyer are received in combination with funds belonging to the client or other persons, all of the funds shall be deposited intact. The amounts currently or conditionally belonging to the lawyer shall be identified on the deposit slip or other record. After the deposit has been finally credited to the account, the lawyer shall withdraw the amounts to which the lawyer is or becomes entitled. If the lawyer's entitlement is disputed, the disputed amounts shall remain in the trust account or fiduciary account until the dispute is resolved.
-(h)  Items Payable to Lawyer. Any item drawn on a trust account or fiduciary account for the payment of the lawyer's fees or expenses shall be made payable to the lawyer and shall indicate on the item by client name, file number, or other identifying information the client from whose balance the item is drawn. Any item that does not include this information may not be used to withdraw funds from a trust account or a fiduciary account for payment of the lawyer's fees or expenses.
-(i)  No Bearer Items. No item shall be drawn on a trust account or fiduciary account made payable to cash or bearer and no cash shall be withdrawn from a trust account or fiduciary account by any means.
-(j)  Debit Cards Prohibited. Use of a debit card to withdraw funds from a general or dedicated trust account or a fiduciary account is prohibited.
-(k)  No Benefit to Lawyer or Third Party. A lawyer shall not use or pledge any entrusted property to obtain credit or other personal benefit for the lawyer or any person other than the legal or beneficial owner of that property.
-(l)  Bank Directive. Every lawyer maintaining a trust account or fiduciary account with demand deposit at a bank or other financial institution shall file with the bank or other financial institution a written directive requiring the bank or other financial institution to report to the executive director of the North Carolina State Bar when an instrument drawn on the account is presented for payment against insufficient funds. No trust account or fiduciary account shall be maintained in a bank or other financial institution that does not agree to make such reports.
-(m)  Notification of Receipt. A lawyer shall promptly notify his or her client of the receipt of any entrusted property belonging in whole or in part to the client.
-(n)  Delivery of Client Property. A lawyer shall promptly pay or deliver to the client, or to third persons as directed by the client, any entrusted property belonging to the client and to which the client is currently entitled.
-(o)  Property Received as Security. Any entrusted property or document of title delivered to a lawyer as security for the payment of a fee or other obligation to the lawyer shall be held in trust in accordance with this Rule 1.15 and shall be clearly identified as property held as security and not as a completed transfer of beneficial ownership to the lawyer. This provision does not apply to property received by a lawyer on account of fees or other amounts owed to the lawyer at the time of receipt; however, such transfers are subject to the rules governing legal fees or business transactions between a lawyer and client.
-(p)  Duty to Report Misappropriation. A lawyer who discovers or reasonably believes that entrusted property has been misappropriated or misapplied shall promptly inform the Trust Account Compliance Counsel (TACC) in the North Carolina State Bar Office of Counsel. Discovery of intentional theft or fraud must be reported to the TACC immediately. When an accounting or bank error results in an unintentional and inadvertent use of one client's trust funds to pay the obligations of another client, the event must be reported unless the misapplication is discovered and rectified on or before the next quarterly reconciliation required by Rule 1.15-3(d)(1). This rule requires disclosure of information otherwise protected by Rule 1.6 if necessary to report the misappropriation or misapplication.	
-(q)  Interest on Deposited Funds. Under no circumstances shall the lawyer be entitled to any interest earned on funds deposited in a trust account or fiduciary account. Except as authorized by Rule .1316 of subchapter 1D of the Rules and Regulations of the North Carolina State Bar, any interest earned on a trust account or fiduciary account, less any amounts deducted for bank service charges and taxes, shall belong to the client or other person or entity entitled to the corresponding principal amount.
-(r)  Abandoned Property. If entrusted property is unclaimed, the lawyer shall make due inquiry of his or her personnel, records and other sources of information in an effort to determine the identity and location of the owner of the property. If that effort is successful, the entrusted property shall be promptly transferred to the person or entity to whom it belongs. If the effort is unsuccessful and the provisions of G.S. 116B-53 are satisfied, the property shall be deemed abandoned, and the lawyer shall comply with the requirements of Chapter 116B of the General Statutes concerning the escheat of abandoned property.
-(s)  Check Signing and Electronic Transfer Authority.
+(g) Mixed Funds Deposited Intact. When funds belonging to the lawyer are received in combination with funds belonging to the client or other persons, all of the funds shall be deposited intact. The amounts currently or conditionally belonging to the lawyer shall be identified on the deposit slip or other record. After the deposit has been finally credited to the account, the lawyer shall withdraw the amounts to which the lawyer is or becomes entitled. If the lawyer's entitlement is disputed, the disputed amounts shall remain in the trust account or fiduciary account until the dispute is resolved.
+(h) Items Payable to Lawyer. Any item drawn on a trust account or fiduciary account for the payment of the lawyer's fees or expenses shall be made payable to the lawyer and shall indicate on the item by client name, file number, or other identifying information the client from whose balance the item is drawn. Any item that does not include this information may not be used to withdraw funds from a trust account or a fiduciary account for payment of the lawyer's fees or expenses.
+(i) No Bearer Items. No item shall be drawn on a trust account or fiduciary account made payable to cash or bearer and no cash shall be withdrawn from a trust account or fiduciary account by any means.
+(j) Debit Cards Prohibited. Use of a debit card to withdraw funds from a general or dedicated trust account or a fiduciary account is prohibited.
+(k) No Benefit to Lawyer or Third Party. A lawyer shall not use or pledge any entrusted property to obtain credit or other personal benefit for the lawyer or any person other than the legal or beneficial owner of that property.
+(l) Bank Directive. Every lawyer maintaining a trust account or fiduciary account with demand deposit at a bank or other financial institution shall file with the bank or other financial institution a written directive requiring the bank or other financial institution to report to the executive director of the North Carolina State Bar when an instrument drawn on the account is presented for payment against insufficient funds. No trust account or fiduciary account shall be maintained in a bank or other financial institution that does not agree to make such reports.
+(m) Notification of Receipt. A lawyer shall promptly notify his or her client of the receipt of any entrusted property belonging in whole or in part to the client.
+(n) Delivery of Client Property. A lawyer shall promptly pay or deliver to the client, or to third persons as directed by the client, any entrusted property belonging to the client and to which the client is currently entitled.
+(o) Property Received as Security. Any entrusted property or document of title delivered to a lawyer as security for the payment of a fee or other obligation to the lawyer shall be held in trust in accordance with this Rule 1.15 and shall be clearly identified as property held as security and not as a completed transfer of beneficial ownership to the lawyer. This provision does not apply to property received by a lawyer on account of fees or other amounts owed to the lawyer at the time of receipt; however, such transfers are subject to the rules governing legal fees or business transactions between a lawyer and client.
+(p) Duty to Report Misappropriation. A lawyer who discovers or reasonably believes that entrusted property has been misappropriated or misapplied shall promptly inform the Trust Account Compliance Counsel (TACC) in the North Carolina State Bar Office of Counsel. Discovery of intentional theft or fraud must be reported to the TACC immediately. When an accounting or bank error results in an unintentional and inadvertent use of one client's trust funds to pay the obligations of another client, the event must be reported unless the misapplication is discovered and rectified on or before the next quarterly reconciliation required by Rule 1.15-3(d)(1). This rule requires disclosure of information otherwise protected by Rule 1.6 if necessary to report the misappropriation or misapplication.	
+(q) Interest on Deposited Funds. Under no circumstances shall the lawyer be entitled to any interest earned on funds deposited in a trust account or fiduciary account. Except as authorized by Rule .1316 of subchapter 1D of the Rules and Regulations of the North Carolina State Bar, any interest earned on a trust account or fiduciary account, less any amounts deducted for bank service charges and taxes, shall belong to the client or other person or entity entitled to the corresponding principal amount.
+(r) Abandoned Property. If entrusted property is unclaimed, the lawyer shall make due inquiry of his or her personnel, records and other sources of information in an effort to determine the identity and location of the owner of the property. If that effort is successful, the entrusted property shall be promptly transferred to the person or entity to whom it belongs. If the effort is unsuccessful and the provisions of G.S. 116B-53 are satisfied, the property shall be deemed abandoned, and the lawyer shall comply with the requirements of Chapter 116B of the General Statutes concerning the escheat of abandoned property.
+(s) Check Signing and Electronic Transfer Authority.
 (1)	Every trust account check must be signed by a lawyer, or by an employee who is not responsible for performing monthly or quarterly reconciliations and who is supervised by a lawyer.
 (2)	Every electronic transfer from a trust account must be initiated by a lawyer, or by an employee who is not responsible for performing monthly or quarterly reconciliations and who is supervised by a lawyer.
 (3)	Prior to exercising signature or electronic transfer authority, a lawyer or supervised employee shall take a one-hour trust account management continuing legal education (CLE) course approved by the State Bar for this purpose. The CLE course must be taken at least once for every law firm at which the lawyer or the supervised employee is given signature or transfer authority.
@@ -1220,9 +1229,9 @@ History Note:	Authority G.S. 84-23;
 Adopted July 24, 1997;
 Amended March 1, 2003; March 6, 2008; February 5, 2009; August 23, 2012; June 9, 2016; April 5, 2018.
 
-# 27 NCAC 02 Rule 1.15-3	Records and Accountings
-(a)  Check Format. All general trust accounts, dedicated trust accounts, and fiduciary accounts must use business-size checks that contain an Auxiliary On-Us field in the MICR line of the check.
-(b)  Minimum Records for Accounts at Banks. The minimum records required for general trust accounts, dedicated trust accounts, and fiduciary accounts maintained at a bank shall consist of the following:
+## Rule 1.15-3	Records and Accountings
+(a) Check Format. All general trust accounts, dedicated trust accounts, and fiduciary accounts must use business-size checks that contain an Auxiliary On-Us field in the MICR line of the check.
+(b) Minimum Records for Accounts at Banks. The minimum records required for general trust accounts, dedicated trust accounts, and fiduciary accounts maintained at a bank shall consist of the following:
 (1)	all records listing the source and date of receipt of any funds deposited in the account including, but not limited to, bank receipts, deposit slips and wire and electronic transfer confirmations, and, in the case of a general trust account, all records also listing the name of the client or other person to whom the funds belong;
 (2)	all canceled checks or other items drawn on the account, or digital images thereof furnished by the bank, showing the amount, date, and recipient of the disbursement, and, in the case of a general trust account, the client name, file number, or other identifying information of the client from whose balance each item is drawn, provided, that:
 (A)	digital images must be legible reproductions of the front and back of the original items with no more than six images per page and no images smaller than 1-3/16 x 3 inches; and
@@ -1231,30 +1240,30 @@ Amended March 1, 2003; March 6, 2008; February 5, 2009; August 23, 2012; June 9,
 (4)	all bank statements and other documents received from the bank with respect to the trust account, including, but not limited to notices of return or dishonor of any item drawn on the account against insufficient funds;
 (5)	in the case of a general trust account, a ledger containing a record of receipts and disbursements for each person or entity from whom and for whom funds are received and showing the current balance of funds held in the trust account for each such person or entity; and
 (6)	any other records required by law to be maintained for the trust account.
-(c)  Minimum Records for Accounts at Other Financial Institutions. The minimum records required for dedicated trust accounts and fiduciary accounts at financial institutions other than a bank shall consist of the following:
+(c) Minimum Records for Accounts at Other Financial Institutions. The minimum records required for dedicated trust accounts and fiduciary accounts at financial institutions other than a bank shall consist of the following:
 (1)	all records listing the source and date of receipt of all funds deposited in the account including, but not limited to, depository receipts, deposit slips, and wire and electronic transfer confirmations;
 (2)	a copy of all checks or other items drawn on the account, or digital images thereof furnished by the depository, showing the amount, date, and recipient of the disbursement, provided, that the images satisfy the requirements set forth in Rule 1.15-3(b)(2);
 (3)	all instructions or authorizations to transfer, disburse, or withdraw funds from the account (including electronic transfers or debits) or a written or electronic record of any such transfer, disbursement, or withdrawal showing the amount, date, and recipient of the transfer or disbursement;
 (4)	all statements and other documents received from the depository with respect to the account, including, but not limited to notices of return or dishonor of any item drawn on the account for insufficient funds; and
 (5)	any other records required by law to be maintained for the account.
-(d)  Reconciliations of General Trust Accounts.
+(d) Reconciliations of General Trust Accounts.
 (1)	Quarterly Reconciliations. For each general trust account, a reconciliation report shall be prepared at least quarterly. Each reconciliation report shall show all of the following balances and verify that they are identical:
 (A)	The balance that appears in the general ledger as of the reporting date;
 (B)	The total of all subsidiary ledger balances in the general trust account, determined by listing and totaling the positive balances in the individual client ledgers and the administrative ledger maintained for servicing the account, as of the reporting date; and
 (C)	The adjusted bank balance, determined by adding outstanding deposits and other credits to the ending balance in the monthly bank statement and subtracting outstanding checks and other deductions from the balance in the monthly statement.
 (2)	Monthly Reconciliations. Each month, the balance of the trust account as shown on the lawyer's records shall be reconciled with the current bank statement balance for the trust account.
 (3)	The lawyer shall review, sign, date, and retain a copy of the reconciliations of the general trust account for a period of six years in accordance with Rule 1.15-3(g).
-(e)  Accountings for Trust Funds. The lawyer shall render to the client a written accounting of the receipts and disbursements of all trust funds (i) upon the complete disbursement of the trust funds, (ii) at such other times as may be reasonably requested by the client, and (iii) at least annually if the funds are retained for a period of more than one year.
-(f)  Accountings for Fiduciary Property. Inventories and accountings of fiduciary funds and other entrusted property received in connection with professional fiduciary services shall be rendered to judicial officials or other persons as required by law. If an annual or more frequent accounting is not required by law, a written accounting of all transactions concerning the fiduciary funds and other entrusted property shall be rendered to the beneficial owners, or their representatives, at least annually and upon the termination of the lawyer's professional fiduciary services.
-(g)  Minimum Record Keeping Period. A lawyer shall maintain, in accordance with this Rule 1.15, complete and accurate records of all entrusted property received by the lawyer, which records shall be maintained for at least the six (6) year period immediately preceding the lawyer's most recent fiscal year end.
-(h)  Audit by State Bar. The financial records required by this Rule 1.15 shall be subject to audit for cause and to random audit by the North Carolina State Bar; and such records shall be produced for inspection and copying in North Carolina upon request by the State Bar.
-(i)  Reviews.
+(e) Accountings for Trust Funds. The lawyer shall render to the client a written accounting of the receipts and disbursements of all trust funds (i) upon the complete disbursement of the trust funds, (ii) at such other times as may be reasonably requested by the client, and (iii) at least annually if the funds are retained for a period of more than one year.
+(f) Accountings for Fiduciary Property. Inventories and accountings of fiduciary funds and other entrusted property received in connection with professional fiduciary services shall be rendered to judicial officials or other persons as required by law. If an annual or more frequent accounting is not required by law, a written accounting of all transactions concerning the fiduciary funds and other entrusted property shall be rendered to the beneficial owners, or their representatives, at least annually and upon the termination of the lawyer's professional fiduciary services.
+(g) Minimum Record Keeping Period. A lawyer shall maintain, in accordance with this Rule 1.15, complete and accurate records of all entrusted property received by the lawyer, which records shall be maintained for at least the six (6) year period immediately preceding the lawyer's most recent fiscal year end.
+(h) Audit by State Bar. The financial records required by this Rule 1.15 shall be subject to audit for cause and to random audit by the North Carolina State Bar; and such records shall be produced for inspection and copying in North Carolina upon request by the State Bar.
+(i) Reviews.
 (1)	Each month, for each general trust account, dedicated trust account, and fiduciary account, the lawyer shall review the bank statement and cancelled checks for the month covered by the bank statement.
 (2)	Each quarter, for each general trust account and dedicated trust account, the lawyer shall review the statement of costs and receipts, client ledger, and cancelled checks of a random sample of representative transactions completed during the quarter to verify that the disbursements were properly made. The transactions reviewed must involve multiple disbursements unless no such transactions are processed through the account, in which case a single disbursement is considered a transaction for the purpose of this paragraph. A sample of three representative transactions shall satisfy this requirement, but a larger sample may be advisable.
 (3)	Each quarter, for each fiduciary account, the lawyer shall engage in a review as described in Rule 1.15-3(i)(2); however, if the lawyer manages more than ten fiduciary accounts, the lawyer may perform reviews on a random sample of at least ten fiduciary accounts in lieu of performing reviews on all such accounts.
 (4)	The lawyer shall take the necessary steps to investigate, identify, and resolve within ten days any discrepancies discovered during the monthly and quarterly reviews.
 (5)	A report of each monthly and quarterly review, including a description of the review, the transactions sampled, and any remedial action taken, shall be prepared. The lawyer shall sign, date, and retain a copy of the report and associated documentation for a period of six years in accordance with Rule 1.15-3(g).
-(j)  Retention of Records in Electronic Format. Records required by Rule 1.15-3 may be created, updated, and maintained electronically, provided:
+(j) Retention of Records in Electronic Format. Records required by Rule 1.15-3 may be created, updated, and maintained electronically, provided:
 (1)	the records otherwise comply with Rule 1.15-3, to wit: electronically created reconciliations and reviews that are not printed must be reviewed by the lawyer and electronically signed using a "digital signature" as defined in 21 CFR 11.3(b)(5);
 (2)	printed and electronic copies of the records in industry-standard formats can be made on demand; and
 (3)	the records are regularly backed up by an appropriate storage device.
@@ -1263,31 +1272,31 @@ History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; October 6, 2004; March 6, 2008; June 9, 2016; April 5, 2018.
 
-# 27 NCAC 02 Rule 1.15-4	Trust Account Management in a Multi-Member Firm 
-(a)  Trust Account Oversight Officer (TAOO). Lawyers in a law firm of two or more lawyers may designate a partner in the firm to serve as the trust account oversight officer (TAOO) for any general trust account into which more than one firm lawyer deposits trust funds. The TAOO and the partners of the firm, or those with comparable managerial authority (managing lawyers), shall agree in writing that the TAOO will oversee the administration of any such trust account in conformity with the requirements of Rule 1.15, including, specifically, the requirements of this Rule 1.15-4. More than one partner may be designated as a TAOO for a law firm.
-(b)  Limitations on Delegation. Designation of a TAOO does not relieve any lawyer in the law firm of responsibility for the following:
+## Rule 1.15-4	Trust Account Management in a Multi-Member Firm 
+(a) Trust Account Oversight Officer (TAOO). Lawyers in a law firm of two or more lawyers may designate a partner in the firm to serve as the trust account oversight officer (TAOO) for any general trust account into which more than one firm lawyer deposits trust funds. The TAOO and the partners of the firm, or those with comparable managerial authority (managing lawyers), shall agree in writing that the TAOO will oversee the administration of any such trust account in conformity with the requirements of Rule 1.15, including, specifically, the requirements of this Rule 1.15-4. More than one partner may be designated as a TAOO for a law firm.
+(b) Limitations on Delegation. Designation of a TAOO does not relieve any lawyer in the law firm of responsibility for the following:
 (1)	oversight of the administration of any dedicated trust account or fiduciary account that is associated with a legal matter for which the lawyer is primary legal counsel or with the lawyer’s performance of professional fiduciary services; and
 (2)	review of the disbursement sheets or statements of costs and receipts, client ledgers, and trust account balances for those legal matters for which the lawyer is primary legal counsel.
-(c)  Training of the TAOO.
+(c) Training of the TAOO.
 (1)	Within the six months prior to beginning service as a TAOO, a lawyer shall,
 (A)	read all subparts and Comments to Rule 1.15, all formal ethics opinions of the North Carolina State Bar interpreting Rule 1.15, and the North Carolina State Bar Trust Account Handbook;
 (B)	complete one hour of accredited continuing legal education (CLE) on trust account management approved by the State Bar for the purpose of training a lawyer to serve as a TAOO;
 (C)	complete two hours of training (live, online, or self-guided) presented by a qualified educational provider on one or more of the following topics: (i) financial fraud, (ii) safeguarding funds from embezzlement, (iii) risk assessment and management for bank accounts, (iv) information security and online banking, or (v) accounting basics; and
 (D)	become familiar with the law firm’s accounting system for trust accounts.
 (2)	During each year of service as a TAOO, the designated lawyer shall attend one hour of accredited continuing legal education (CLE) on trust account management approved by the State Bar for the purpose of training a TAOO or one hour of training, presented by a qualified educational provider, on one or more of the subjects listed in paragraph (c)(1)(C).
-(d)  Designation and Annual Certification. The written agreement designating a lawyer as the TAOO described in paragraph (a) shall contain the following:
+(d) Designation and Annual Certification. The written agreement designating a lawyer as the TAOO described in paragraph (a) shall contain the following:
 (1)	A statement by the TAOO that the TAOO agrees to oversee the operation of the firm’s general trust accounts in compliance with the requirements of all subparts of Rule 1.15, specifically including the mandatory oversight measures in paragraph (e) of this rule;
 (2)	Identification of the trust accounts that the TAOO will oversee;
 (3)	An acknowledgement that the TAOO has completed the training described in paragraph (c)(1) and a description of that training;
 (4)	A statement certifying that the TAOO understands the law firm’s accounting system for trust accounts; and
 (5)	An acknowledgement that the lawyers in the firm remain professionally responsible for the operation of the firm’s trust accounts in compliance with Rule 1.15.
 Each year on the anniversary of the execution of the agreement, the TAOO and the managing lawyers shall execute a statement confirming the continuing designation of the lawyer as the TAOO, certifying compliance with the requirements of this rule, describing the training undertaken by the TAOO as required by paragraph (c)(2), and reciting the statements required by subparagraphs (d)(1), (2), (4), and (5). During the lawyer’s tenure as TAOO and for six years thereafter, the agreement and all subsequent annual statements shall be maintained with the trust account records (see Rule 1.15-3(g)). 
-(e)  Mandatory Oversight Measures. In addition to any other record keeping or accounting requirement set forth in Rule 1.15-2 and Rule 1.15-3, the firm shall adopt a written policy detailing the firm’s trust account management procedures which shall annually be reviewed, updated, and signed by the TAOO and the managing lawyers. Each version of the policy shall be retained for the minimum record keeping period set forth in Rule 1.15-3(g).
+(e) Mandatory Oversight Measures. In addition to any other record keeping or accounting requirement set forth in Rule 1.15-2 and Rule 1.15-3, the firm shall adopt a written policy detailing the firm’s trust account management procedures which shall annually be reviewed, updated, and signed by the TAOO and the managing lawyers. Each version of the policy shall be retained for the minimum record keeping period set forth in Rule 1.15-3(g).
 
 History Note:	Authority G.S. 84-23;
 Eff. June 9, 2016.
 
-# 27 NCAC 02 Rule 1.15	
+## Rule 1.15	
 
 Comment TO rule 1.15 and all subparts
 
@@ -1335,10 +1344,10 @@ Fraud Prevention Measures
 [24] The mandatory monthly and quarterly reviews and oversight measures in Rule 1.15-3(i) facilitate early detection of internal theft and early detection and correction of errors. They are minimum fraud prevention measures necessary for the protection of funds on deposit in a firm trust or fiduciary account from theft by any person with access to the account. Internal theft from trust accounts by insiders at a law firm can only be timely detected if the records of the firm's trust accounts are routinely reviewed. For this reason, Rule 1.15-3(i)(1) requires monthly reviews of the bank statements and cancelled checks for all general, dedicated, and fiduciary accounts. In addition, Rule 1.15-3(i)(2) requires quarterly reviews of a random sample of three transactions for each trust account, dedicated trust account, and fiduciary account including examination of the statement of costs and receipts, client ledger, and cancelled checks for the transactions. Review of these documents will enable the lawyer to verify that the disbursements were made properly. Although not required by the rule, a larger sample than three transactions is advisable to increase the likelihood that internal theft will be detected.
 [25] Another internal control to prevent fraud is found in Rule 1.15-2(s) which addresses the signature authority for trust account checks. The provision prohibits an employee who is responsible for performing the monthly or quarterly reconciliations for a trust account from being a signatory on a check for that account. Dividing the check signing and reconciliation responsibilities makes it more difficult for one employee to hide fraudulent transactions. Similarly, signature stamps, preprinted signature lines on checks, and electronic signatures are prohibited to prevent their use for fraudulent purposes.
 [26] In addition to the recommendations in the North Carolina State Bar Trust Account Handbook (see the chapter on Safeguarding Funds from Embezzlement), the following fraud prevention measures are recommended:
-(1)  Enrolling the trust account in an automated fraud detection program;
-(2)  Implementation of security measures to prevent fraudulent wire transfers of funds;
-(3)  Actively maintaining end-user security at the law firm through safety practices such as strong password policies and procedures, the use of encryption and security software, and periodic consultation with an information technology security professional to advise firm employees; and
-(4)  Insuring that all staff members who assist with the management of the trust account receive training on and abide by the security measures adopted by the firm.	
+(1) Enrolling the trust account in an automated fraud detection program;
+(2) Implementation of security measures to prevent fraudulent wire transfers of funds;
+(3) Actively maintaining end-user security at the law firm through safety practices such as strong password policies and procedures, the use of encryption and security software, and periodic consultation with an information technology security professional to advise firm employees; and
+(4) Insuring that all staff members who assist with the management of the trust account receive training on and abide by the security measures adopted by the firm.	
 Lawyers should frequently evaluate whether additional fraud control measures are necessary and appropriate.
 Duty to Report Misappropriation or Misapplication
 [27] A lawyer is required by Rule 1.15-2(p) to report to the Trust Account Compliance Counsel of the North Carolina State Bar Office of Counsel if the lawyer knows or reasonably believes that entrusted property, including trust funds, has been misappropriated or misapplied. The rule requires the reporting of an unintentional misapplication of trust funds, such as the inadvertent use of one client's funds on deposit in a general trust account to pay the obligations of another client, unless the lawyer discovers and rectifies the error on or before the next scheduled quarterly reconciliation. A lawyer is required to report the conduct of lawyers and non-lawyers as well as the lawyer's own conduct. A report is required regardless of whether information leading to the discovery of the misappropriation or misapplication would otherwise be protected by Rule 1.6. If disclosure of confidential client information is necessary to comply with this rule, the lawyer's disclosure should be limited to the information that is necessary to enable the State Bar to investigate. See Rule 1.6, cmt. [15].
@@ -1353,7 +1362,7 @@ Training for Service as a TAOO
 History Note:	Authority G.S. 84-23;
 Amendments Approved by the Supreme Court: March 1, 2003; March 6, 2008; June 9, 2016; March 27, 2019.
 
-# 27 NCAC 02 Rule 1.16	DECLINING OR TERMINATING REPRESENTATION
+## Rule 1.16	DECLINING OR TERMINATING REPRESENTATION
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 (1)	the representation will result in violation of law or the Rules of Professional Conduct;
 (2)	the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
@@ -1396,18 +1405,18 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.17		Sale of a Law Practice
+## Rule 1.17		Sale of a Law Practice
 A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
-(a)  The seller ceases to engage in the private practice of law, or in the area of practice that has been sold, from an office that is within a one-hundred (100) mile radius of the purchased law practice, except the seller may continue to practice law with the purchaser and may provide legal representation at no charge to indigent persons or to members of the seller's family;
-(b)  The entire practice, or the entire area of practice, is sold to one or more lawyers or law firms;
-(c)  Written notice is sent to each of the seller's clients regarding:
+(a) The seller ceases to engage in the private practice of law, or in the area of practice that has been sold, from an office that is within a one-hundred (100) mile radius of the purchased law practice, except the seller may continue to practice law with the purchaser and may provide legal representation at no charge to indigent persons or to members of the seller's family;
+(b) The entire practice, or the entire area of practice, is sold to one or more lawyers or law firms;
+(c) Written notice is sent to each of the seller's clients regarding:
 (1)	the proposed sale, including the identity of the purchaser;
 (2)	the client's right to retain other counsel and to take possession of the client's files prior to the sale or at any time thereafter; and
 (3)	the fact that the client's consent to the transfer of the client's files and legal representation to the purchaser will be presumed if the client does not take any action or does not otherwise object within thirty (30) days of receipt of the notice.
-(d)  If the seller or the purchaser identifies a conflict of interest that prohibits the purchaser from representing the client, the seller's notice to the client shall advise the client to retain substitute counsel.
-(e)  If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file. In the event the court fails to grant a substitution of counsel in a matter, that matter shall not be included in the sale and the sale otherwise shall be unaffected.
-(f)  The fees charged clients shall not be increased by reason of the sale.
-(g)  The seller and purchaser may agree that the purchaser does not have to pay the entire sales price for the seller's law practice in one lump sum.  The seller and purchaser may enter into reasonable arrangements to finance the purchaser's acquisition of the seller's law practice without violating Rules 1.5(e) and 5.4(a).  The seller, however, shall have no say regarding the purchaser's conduct of the law practice.
+(d) If the seller or the purchaser identifies a conflict of interest that prohibits the purchaser from representing the client, the seller's notice to the client shall advise the client to retain substitute counsel.
+(e) If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file. In the event the court fails to grant a substitution of counsel in a matter, that matter shall not be included in the sale and the sale otherwise shall be unaffected.
+(f) The fees charged clients shall not be increased by reason of the sale.
+(g) The seller and purchaser may agree that the purchaser does not have to pay the entire sales price for the seller's law practice in one lump sum. The seller and purchaser may enter into reasonable arrangements to finance the purchaser's acquisition of the seller's law practice without violating Rules 1.5(e) and 5.4(a). The seller, however, shall have no say regarding the purchaser's conduct of the law practice.
 
 ##### Comment
 
@@ -1442,31 +1451,31 @@ Amendments Approved by the Supreme Court: September 22, 2016; October 2, 2014; 
 Ethics Opinion Notes
 98 Formal Ethics Opinion 6. Opinion rules that the requirements set forth in Rule 1.17 relative to the sale of a law practice to a lawyer who is a stranger to the firm do not apply to the sale of a law practice to lawyers who are current employees of the firm.
 
-# 27 NCAC 02 Rule 1.18	Duties to Prospective Client
-(a)  A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
-(b)  Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
-(c)  A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
-(d)  Representation is permissible if both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+## Rule 1.18	Duties to Prospective Client
+(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+(d) Representation is permissible if both the affected client and the prospective client have given informed consent, confirmed in writing, or:
 (1)	the disqualified lawyer is timely screened from any participation in the matter; and
 (2)	written notice is promptly given to the prospective client.
 
 ##### Comment
 
-[1]  Prospective clients, like clients, may disclose information to a lawyer, place documents or other property in the lawyer's custody, or rely on the lawyer's advice. A lawyer's consultations with a prospective client usually are limited in time and depth and leave both the prospective client and the lawyer free (and sometimes required) to proceed no further. Hence, prospective clients should receive some but not all of the protection afforded clients.
-[2]  A person becomes a prospective client by consulting with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter. Whether communications, including written, oral, or electronic communications, constitute a consultation depends on the circumstances. For example, a consultation is likely to have occurred if a lawyer, either in person or through the lawyer's advertising in any medium, specifically requests or invites the submission of information about a potential representation without clear and reasonably understandable warnings and cautionary statements that limit the lawyer's obligations, and a person provides information in response. In such a situation, to avoid the creation of a duty to the person under this Rule, a lawyer has an affirmative obligation to warn the person that a communication with the lawyer will not create a client-lawyer relationship and information conveyed to the lawyer will not be confidential or privileged. See also Comment [4]. In contrast, a consultation does not occur if a person provides information to a lawyer in response to advertising that merely describes the lawyer's education, experience, areas of practice, and contact information, or provides legal information of general interest. Such a person is communicating information unilaterally to a lawyer, without any reasonable expectation that the lawyer is willing to discuss the possibility of forming a client-lawyer relationship, and is thus not a "prospective client." Moreover, a person who communicates with a lawyer for the purpose of disqualifying the lawyer is not a "prospective client." 
-[3]  It is often necessary for a prospective client to reveal information to the lawyer during an initial consultation prior to the decision about formation of a client-lawyer relationship. The lawyer often must learn such information to determine whether there is a conflict of interest with an existing client and whether the matter is one that the lawyer is willing to undertake. Paragraph (b) prohibits the lawyer from using or revealing that information, except as permitted by Rule 1.9, even if the client or lawyer decides not to proceed with the representation. The duty exists regardless of how brief the initial conference may be.
-[4]  In order to avoid acquiring disqualifying information from a prospective client, a lawyer considering whether or not to undertake a new matter should limit the initial consultation to only such information as reasonably appears necessary for that purpose. Where the information indicates that a conflict of interest or other reason for non-representation exists, the lawyer should so inform the prospective client or decline the representation. If the prospective client wishes to retain the lawyer, and if consent is possible under Rule 1.7, then consent from all affected present or former clients must be obtained before accepting the representation.
-[5]  A lawyer may condition a consultation with a prospective client on the person's informed consent that no information disclosed during the consultation will prohibit the lawyer from representing a different client in the matter. See Rule 1.0(f) for the definition of informed consent. If the agreement expressly so provides, the prospective client may also consent to the lawyer's subsequent use of information received from the prospective client.
-[6]  Even in the absence of an agreement, under paragraph (c), the lawyer is not prohibited from representing a client with interests adverse to those of the prospective client in the same or a substantially related matter unless the lawyer has received from the prospective client information that could be significantly harmful if used in the matter.
-[7]  Under paragraph (c), the prohibition in this Rule is imputed to other lawyers as provided in Rule 1.10, but, under paragraph (d), imputation may be avoided if the lawyer obtains the informed consent, confirmed in writing, of both the prospective and affected clients. In the alternative, imputation may be avoided if all disqualified lawyers are timely screened and written notice is promptly given to the prospective client. See Rule 1.0(l) (requirements for screening procedures). Paragraph (d)(1) does not prohibit the screened lawyer from receiving a salary or partnership share established by prior independent agreement nor does it specifically prohibit the receipt of a part of the fee from the screened matter. However, Rule 8.4(c) prohibits the screened lawyer from participating in the fee if such participation was impliedly or explicitly offered as an inducement to the lawyer to become associated with the firm.
-[8]  Notice, including a description of the screened lawyer's prior representation and of the screening procedures employed, generally should be given as soon as practicable after the need for screening becomes apparent. When disclosure is likely to significantly injure the client, a reasonable delay may be justified.
+[1] Prospective clients, like clients, may disclose information to a lawyer, place documents or other property in the lawyer's custody, or rely on the lawyer's advice. A lawyer's consultations with a prospective client usually are limited in time and depth and leave both the prospective client and the lawyer free (and sometimes required) to proceed no further. Hence, prospective clients should receive some but not all of the protection afforded clients.
+[2] A person becomes a prospective client by consulting with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter. Whether communications, including written, oral, or electronic communications, constitute a consultation depends on the circumstances. For example, a consultation is likely to have occurred if a lawyer, either in person or through the lawyer's advertising in any medium, specifically requests or invites the submission of information about a potential representation without clear and reasonably understandable warnings and cautionary statements that limit the lawyer's obligations, and a person provides information in response. In such a situation, to avoid the creation of a duty to the person under this Rule, a lawyer has an affirmative obligation to warn the person that a communication with the lawyer will not create a client-lawyer relationship and information conveyed to the lawyer will not be confidential or privileged. See also Comment [4]. In contrast, a consultation does not occur if a person provides information to a lawyer in response to advertising that merely describes the lawyer's education, experience, areas of practice, and contact information, or provides legal information of general interest. Such a person is communicating information unilaterally to a lawyer, without any reasonable expectation that the lawyer is willing to discuss the possibility of forming a client-lawyer relationship, and is thus not a "prospective client." Moreover, a person who communicates with a lawyer for the purpose of disqualifying the lawyer is not a "prospective client." 
+[3] It is often necessary for a prospective client to reveal information to the lawyer during an initial consultation prior to the decision about formation of a client-lawyer relationship. The lawyer often must learn such information to determine whether there is a conflict of interest with an existing client and whether the matter is one that the lawyer is willing to undertake. Paragraph (b) prohibits the lawyer from using or revealing that information, except as permitted by Rule 1.9, even if the client or lawyer decides not to proceed with the representation. The duty exists regardless of how brief the initial conference may be.
+[4] In order to avoid acquiring disqualifying information from a prospective client, a lawyer considering whether or not to undertake a new matter should limit the initial consultation to only such information as reasonably appears necessary for that purpose. Where the information indicates that a conflict of interest or other reason for non-representation exists, the lawyer should so inform the prospective client or decline the representation. If the prospective client wishes to retain the lawyer, and if consent is possible under Rule 1.7, then consent from all affected present or former clients must be obtained before accepting the representation.
+[5] A lawyer may condition a consultation with a prospective client on the person's informed consent that no information disclosed during the consultation will prohibit the lawyer from representing a different client in the matter. See Rule 1.0(f) for the definition of informed consent. If the agreement expressly so provides, the prospective client may also consent to the lawyer's subsequent use of information received from the prospective client.
+[6] Even in the absence of an agreement, under paragraph (c), the lawyer is not prohibited from representing a client with interests adverse to those of the prospective client in the same or a substantially related matter unless the lawyer has received from the prospective client information that could be significantly harmful if used in the matter.
+[7] Under paragraph (c), the prohibition in this Rule is imputed to other lawyers as provided in Rule 1.10, but, under paragraph (d), imputation may be avoided if the lawyer obtains the informed consent, confirmed in writing, of both the prospective and affected clients. In the alternative, imputation may be avoided if all disqualified lawyers are timely screened and written notice is promptly given to the prospective client. See Rule 1.0(l) (requirements for screening procedures). Paragraph (d)(1) does not prohibit the screened lawyer from receiving a salary or partnership share established by prior independent agreement nor does it specifically prohibit the receipt of a part of the fee from the screened matter. However, Rule 8.4(c) prohibits the screened lawyer from participating in the fee if such participation was impliedly or explicitly offered as an inducement to the lawyer to become associated with the firm.
+[8] Notice, including a description of the screened lawyer's prior representation and of the screening procedures employed, generally should be given as soon as practicable after the need for screening becomes apparent. When disclosure is likely to significantly injure the client, a reasonable delay may be justified.
 [9] For the duty of competence of a lawyer who gives assistance on the merits of a matter to a prospective client, see Rule 1.1. For a lawyer's duties when a prospective client entrusts valuables or papers to the lawyer's care, see Rule 1.15. For the special considerations when a prospective client has diminished capacity, see Rule 1.14.
 
 History Note:	Authority G.S. 84-23;
 Eff. March 1, 2003;
 Amended Eff. October 2, 2014.
 
-# 27 NCAC 02 Rule 1.19	Sexual Relations With Clients Prohibited
+## Rule 1.19	Sexual Relations With Clients Prohibited
 (a) A lawyer shall not have sexual relations with a current client of the lawyer.
 (b) Paragraph (a) shall not apply if a consensual sexual relationship existed between the lawyer and the client before the legal representation commenced.
 (c) A lawyer shall not require or demand sexual relations with a client incident to or as a condition of any professional representation.
@@ -1501,9 +1510,9 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-SECTION .0200 - COUNSELOR
+Section .0200 - COUNSELOR
 
-# 27 NCAC 02 Rule 2.1	Advisor
+## Rule 2.1	Advisor
 In representing a client, a lawyer shall exercise independent, professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law, but also to other considerations such as moral, economic, social, and political factors that may be relevant to the client's situation.
 
 ##### Comment
@@ -1521,9 +1530,9 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 2.2	reserved
+## Rule 2.2	reserved
 
-# 27 NCAC 02 Rule 2.3	EVALUATION FOR USE BY THIRD PERSONS
+## Rule 2.3	EVALUATION FOR USE BY THIRD PERSONS
 (a) A lawyer may undertake an evaluation of a matter affecting a client for the use of someone other than the client if:
 (1)	the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client; and
 (2)	the client so requests or the client consents after consultation 
@@ -1548,7 +1557,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 2.4	LAWYER SERVING AS THIRD-PARTY NEUTRAL
+## Rule 2.4	LAWYER SERVING AS THIRD-PARTY NEUTRAL
 (a) A lawyer serves as a third-party neutral when the lawyer assists two or more persons who are not clients of the lawyer to reach a resolution of a dispute or other matter that has arisen between them. Service as a third-party neutral may include service as an arbitrator, a mediator or in such other capacity as will enable the lawyer to assist the parties to resolve the matter.
 (b) A lawyer serving as a third-party neutral shall inform unrepresented parties that the lawyer is not representing them. When the lawyer knows or reasonably should know that a party does not understand the lawyer's role in the matter, the lawyer shall explain the difference between the lawyer's role as a third-party neutral and a lawyer's role as one who represents a client.
 
@@ -1563,9 +1572,9 @@ Amended Eff. February 27, 2003.
 History Note:	Authority G.S. 84-17; 84-21; 84-21;
 Eff. February 27, 2003.
 
-SECTION .0300 - ADVOCATE
+Section .0300 - ADVOCATE
 
-# 27 NCAC 02 Rule 3.1	MERITORIOUS CLAIMS AND CONTENTIONS
+## Rule 3.1	MERITORIOUS CLAIMS AND CONTENTIONS
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
 ##### Comment
@@ -1578,7 +1587,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 3.2	EXPEDITING LITIGATION
+## Rule 3.2	EXPEDITING LITIGATION
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client. 
 
 ##### Comment
@@ -1589,7 +1598,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 3.3	CANDOR TOWARD THE TRIBUNAL
+## Rule 3.3	CANDOR TOWARD THE TRIBUNAL
 (a) A lawyer shall not knowingly:
 (1)	make a false statement of material fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer;
 (2)	fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
@@ -1637,7 +1646,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 3.4	Fairness to Opposing Party and Counsel
+## Rule 3.4	Fairness to Opposing Party and Counsel
 A lawyer shall not:
 (1)	unlawfully obstruct another party's access to evidence or unlawfully alter, destroy or conceal a document or other material having potential evidentiary value. A lawyer shall not counsel or assist another person to do any such act;
 (2)	falsify evidence, counsel or assist a witness to testify falsely, counsel or assist a witness to hide or leave the jurisdiction for the purpose of being unavailable as a witness, or offer an inducement to a witness that is prohibited by law;
@@ -1653,20 +1662,20 @@ A lawyer shall not:
 
 ##### Comment
 
-[1]  The procedure of the adversary system contemplates that the evidence in a case is to be marshaled competitively by the contending parties. Fair competition in the adversary system is secured by prohibitions against destruction or concealment of evidence, improperly influencing witnesses, obstructive tactics in discovery procedure, and the like.
-[2]  Documents and other items of evidence are often essential to establish a claim or defense. Subject to evidentiary privileges, the right of an opposing party, including the government, to obtain evidence through discovery or subpoena is an important procedural right. The exercise of that right can be frustrated if relevant material is altered, concealed or destroyed. Applicable law in many jurisdictions makes it an offense to destroy material for the purpose of impairing its availability in a pending proceeding or one whose commencement can be foreseen. Falsifying evidence is also generally a criminal offense. Paragraph (a) applies to evidentiary material generally, including computerized information. Applicable law may permit a lawyer to take temporary possession of physical evidence of client crimes for the purpose of conducting a limited examination that will not alter or destroy material characteristics of the evidence. In such a case, applicable law may require the lawyer to turn the evidence over to the police or other prosecuting authority, depending on the circumstances.
-[3]  With regard to paragraph (b), it is not improper to pay a witness's expenses, including lost income, or to compensate an expert witness on terms permitted by law. The common law rule in most jurisdictions is that it is improper to pay an occurrence witness any fee for testifying and that it is improper to pay an expert witness a contingent fee.
-[4]  Rules of evidence and procedure are designed to lead to just decisions and are part of the framework of the law. Paragraph (c) permits a lawyer to take steps in good faith and within the framework of the law to test the validity of rules; however, the lawyer is not justified in consciously violating such rules and the lawyer should be diligent in the effort to guard against the unintentional violation of them. As examples, a lawyer should subscribe to or verify only those pleadings that the lawyer believes are in compliance with applicable law and rules; a lawyer should not make any prefatory statement before a tribunal in regard to the purported facts of the case on trial unless the lawyer believes that the statement will be supported by admissible evidence; a lawyer should not ask a witness a question solely for the purpose of harassing or embarrassing the witness; and a lawyer should not, by subterfuge, put before a jury matters which it cannot properly consider.
-[5]  Paragraph (d) makes it clear that a lawyer must be reasonably diligent in making inquiry of the client, or third party, about information or documents responsive to discovery requests or disclosure requirements arising from statutory law, rules of procedure, or caselaw. "Reasonably" is defined in Rule 0.1, Terminology, as meaning "conduct of a reasonably prudent and competent lawyer." Rule 0.1(i). When responding to a discovery request or disclosure requirement, a lawyer must act in good faith. The lawyer should impress upon the client the importance of making a thorough search of the client's records and responding honestly. If the lawyer has reason to believe that a client has not been forthcoming, the lawyer may not rely solely upon the client's assertion that the response is truthful or complete.
-[6]  To bring about just and informed decisions, evidentiary and procedural rules have been established by tribunals to permit the inclusion of relevant evidence and argument and the exclusion of all other considerations. The expression by a lawyer of a personal opinion as to the justness of a cause, as to the credibility of a witness, as to the culpability of a civil litigant, and as to the guilt or innocence of an accused is not a proper subject for argument to the trier of fact and is prohibited by paragraph (e). However, a lawyer may argue, on an analysis of the evidence, for any position or conclusion with respect to any of the foregoing matters.
-[7]  Paragraph (f) permits a lawyer to advise managerial employees of a client to refrain from giving information to another party because the statements of employees with managerial responsibility may be imputed to the client. See also Rule 4.2.
+[1] The procedure of the adversary system contemplates that the evidence in a case is to be marshaled competitively by the contending parties. Fair competition in the adversary system is secured by prohibitions against destruction or concealment of evidence, improperly influencing witnesses, obstructive tactics in discovery procedure, and the like.
+[2] Documents and other items of evidence are often essential to establish a claim or defense. Subject to evidentiary privileges, the right of an opposing party, including the government, to obtain evidence through discovery or subpoena is an important procedural right. The exercise of that right can be frustrated if relevant material is altered, concealed or destroyed. Applicable law in many jurisdictions makes it an offense to destroy material for the purpose of impairing its availability in a pending proceeding or one whose commencement can be foreseen. Falsifying evidence is also generally a criminal offense. Paragraph (a) applies to evidentiary material generally, including computerized information. Applicable law may permit a lawyer to take temporary possession of physical evidence of client crimes for the purpose of conducting a limited examination that will not alter or destroy material characteristics of the evidence. In such a case, applicable law may require the lawyer to turn the evidence over to the police or other prosecuting authority, depending on the circumstances.
+[3] With regard to paragraph (b), it is not improper to pay a witness's expenses, including lost income, or to compensate an expert witness on terms permitted by law. The common law rule in most jurisdictions is that it is improper to pay an occurrence witness any fee for testifying and that it is improper to pay an expert witness a contingent fee.
+[4] Rules of evidence and procedure are designed to lead to just decisions and are part of the framework of the law. Paragraph (c) permits a lawyer to take steps in good faith and within the framework of the law to test the validity of rules; however, the lawyer is not justified in consciously violating such rules and the lawyer should be diligent in the effort to guard against the unintentional violation of them. As examples, a lawyer should subscribe to or verify only those pleadings that the lawyer believes are in compliance with applicable law and rules; a lawyer should not make any prefatory statement before a tribunal in regard to the purported facts of the case on trial unless the lawyer believes that the statement will be supported by admissible evidence; a lawyer should not ask a witness a question solely for the purpose of harassing or embarrassing the witness; and a lawyer should not, by subterfuge, put before a jury matters which it cannot properly consider.
+[5] Paragraph (d) makes it clear that a lawyer must be reasonably diligent in making inquiry of the client, or third party, about information or documents responsive to discovery requests or disclosure requirements arising from statutory law, rules of procedure, or caselaw. "Reasonably" is defined in Rule 0.1, Terminology, as meaning "conduct of a reasonably prudent and competent lawyer." Rule 0.1(i). When responding to a discovery request or disclosure requirement, a lawyer must act in good faith. The lawyer should impress upon the client the importance of making a thorough search of the client's records and responding honestly. If the lawyer has reason to believe that a client has not been forthcoming, the lawyer may not rely solely upon the client's assertion that the response is truthful or complete.
+[6] To bring about just and informed decisions, evidentiary and procedural rules have been established by tribunals to permit the inclusion of relevant evidence and argument and the exclusion of all other considerations. The expression by a lawyer of a personal opinion as to the justness of a cause, as to the credibility of a witness, as to the culpability of a civil litigant, and as to the guilt or innocence of an accused is not a proper subject for argument to the trier of fact and is prohibited by paragraph (e). However, a lawyer may argue, on an analysis of the evidence, for any position or conclusion with respect to any of the foregoing matters.
+[7] Paragraph (f) permits a lawyer to advise managerial employees of a client to refrain from giving information to another party because the statements of employees with managerial responsibility may be imputed to the client. See also Rule 4.2.
 
 History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. November 16, 2006; October 1, 2003; February 27, 2003.
 
-# 27 NCAC 02 Rule 3.5	IMPARTIALITY AND DECORUM OF THE TRIBUNAL
-(a)  A lawyer representing a party in a matter pending before a tribunal shall not:
+## Rule 3.5	IMPARTIALITY AND DECORUM OF THE TRIBUNAL
+(a) A lawyer representing a party in a matter pending before a tribunal shall not:
 (1)	seek to influence a judge, juror, member of the jury venire, or other official by means prohibited by law;
 (2)	communicate ex parte with a juror or member of the jury venire except as permitted by law;
 (3)	unless authorized to do so by law or court order, communicate ex parte with the judge or other official regarding a matter pending before the judge or official;
@@ -1679,9 +1688,9 @@ tribunal without giving opposing counsel timely notice of the intent not to comp
 (A)	the communication is prohibited by law or court order;
 (B)	the juror has made known to the lawyer a desire not to communicate; or
 (C)	the communication involves misrepresentation, coercion, duress or harassment.
-(b)  All restrictions imposed by this rule also apply to communications with, or investigations of, family members of a juror or of a member of the jury venire.
-(c)  A lawyer shall reveal promptly to the court improper conduct by a juror or a member of the jury venire, and improper conduct by another person toward a juror, a member of the jury venire, or the family members of a juror or a member of the jury venire.
-(d)  For purposes of this rule:
+(b) All restrictions imposed by this rule also apply to communications with, or investigations of, family members of a juror or of a member of the jury venire.
+(c) A lawyer shall reveal promptly to the court improper conduct by a juror or a member of the jury venire, and improper conduct by another person toward a juror, a member of the jury venire, or the family members of a juror or a member of the jury venire.
+(d) For purposes of this rule:
 (1)	Ex parte communication means a communication on behalf of a party to a matter pending before a tribunal that occurs in the absence of an opposing party, without notice to that party, and outside the record.
 (2)	A matter is "pending" before a particular tribunal when that tribunal has been selected to determine the matter or when it is reasonably foreseeable that the tribunal will be so selected.
 
@@ -1703,7 +1712,7 @@ History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; March 5, 2015; April 5, 2018; March 27, 2019.
 
-# 27 NCAC 02 Rule 3.6	TRIAL PUBLICITY
+## Rule 3.6	TRIAL PUBLICITY
 (a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 (b) Notwithstanding paragraph (a), a lawyer may state:
 (1)	the claim, offense or defense involved and, except when prohibited by law, the identity of the persons involved;
@@ -1742,7 +1751,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. October 9, 2008; March 1, 2003.
 
-# 27 NCAC 02 Rule 3.7	LAWYER AS WITNESS
+## Rule 3.7	LAWYER AS WITNESS
 (a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 (1)	the testimony relates to an uncontested issue;
 (2)	the testimony relates to the nature and value of legal services rendered in the case; or
@@ -1767,21 +1776,21 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 3.8	Special Responsibilities of a Prosecutor
+## Rule 3.8	Special Responsibilities of a Prosecutor
 The prosecutor in a criminal case shall:
-(a)  refrain from prosecuting a charge that the prosecutor knows is not supported by probable cause;
+(a) refrain from prosecuting a charge that the prosecutor knows is not supported by probable cause;
 (b) make reasonable efforts to assure that the accused has been advised of the right to, and the procedure for obtaining, counsel and has been given reasonable opportunity to obtain counsel;
-(c)  not seek to obtain from an unrepresented accused a waiver of important pretrial rights, such as the right to a preliminary hearing;
-(d)  after reasonably diligent inquiry, make timely disclosure to the defense of all evidence or information required to be disclosed by applicable law, rules of procedure, or court opinions including all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all unprivileged mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal;
-(e)  not subpoena a lawyer in a grand jury or other criminal proceeding to present evidence about a past or present client, or participate in the application for the issuance of a search warrant to a lawyer for the seizure of information of a past or present client in connection with an investigation of someone other than the lawyer, unless:
+(c) not seek to obtain from an unrepresented accused a waiver of important pretrial rights, such as the right to a preliminary hearing;
+(d) after reasonably diligent inquiry, make timely disclosure to the defense of all evidence or information required to be disclosed by applicable law, rules of procedure, or court opinions including all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all unprivileged mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal;
+(e) not subpoena a lawyer in a grand jury or other criminal proceeding to present evidence about a past or present client, or participate in the application for the issuance of a search warrant to a lawyer for the seizure of information of a past or present client in connection with an investigation of someone other than the lawyer, unless:
 (1)	the information sought is not protected from disclosure by any applicable privilege;
 (2)	the evidence sought is essential to the successful completion of an ongoing investigation or prosecution; and
 (3)	there is no other feasible alternative to obtain the information;
-(f)  except for statements that are necessary to inform the public of the nature and extent of the prosecutor's action and that serve a legitimate law enforcement purpose, refrain from making extrajudicial Comments that have a substantial likelihood of heightening public condemnation of the accused and exercise reasonable care to prevent investigators, law enforcement personnel, employees or other persons assisting or associated with the prosecutor in a criminal case from making an extrajudicial statement that the prosecutor would be prohibited from making under Rule 3.6 or this Rule.
-(g)  When a prosecutor knows of new, credible evidence or information creating a reasonable likelihood that a convicted defendant did not commit an offense for which the defendant was convicted, the prosecutor shall:
+(f) except for statements that are necessary to inform the public of the nature and extent of the prosecutor's action and that serve a legitimate law enforcement purpose, refrain from making extrajudicial Comments that have a substantial likelihood of heightening public condemnation of the accused and exercise reasonable care to prevent investigators, law enforcement personnel, employees or other persons assisting or associated with the prosecutor in a criminal case from making an extrajudicial statement that the prosecutor would be prohibited from making under Rule 3.6 or this Rule.
+(g) When a prosecutor knows of new, credible evidence or information creating a reasonable likelihood that a convicted defendant did not commit an offense for which the defendant was convicted, the prosecutor shall:
 (1)	if the conviction was obtained in the prosecutor's jurisdiction, promptly disclose that evidence or information to (i) the defendant or defendant's counsel of record if any, and (ii) the North Carolina Office of Indigent Defense Services or, in the case of a federal conviction, the federal public defender for the jurisdiction; or
 (2)	if the conviction was obtained in another jurisdiction, promptly disclose that evidence or information to the prosecutor's office in the jurisdiction of the conviction or to (i) the defendant or defendant's counsel of record if any, and (ii) the North Carolina Office of Indigent Defense Services or, in the case of a federal conviction, the federal public defender for the jurisdiction of conviction.
-(h)  A prosecutor who concludes in good faith that evidence or information is not subject to disclosure under paragraph (g) does not violate this rule even if the prosecutor's conclusion is subsequently determined to be erroneous.
+(h) A prosecutor who concludes in good faith that evidence or information is not subject to disclosure under paragraph (g) does not violate this rule even if the prosecutor's conclusion is subsequently determined to be erroneous.
 
 ##### Comment
 
@@ -1799,11 +1808,11 @@ The prosecutor in a criminal case shall:
 
 History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
-Amendments Approved by the Supreme Court: March 16, 2017; November 16, 2006;  March 1, 2003.
+Amendments Approved by the Supreme Court: March 16, 2017; November 16, 2006; March 1, 2003.
 
-SECTION .0400 - TRANSACTIONS WITH PERSON OTHER THAN CLIENTS
+Section .0400 - TRANSACTIONS WITH PERSON OTHER THAN CLIENTS
 
-# 27 NCAC 02 Rule 4.1	TRUTHFULNESS IN STATEMENTS TO OTHERS
+## Rule 4.1	TRUTHFULNESS IN STATEMENTS TO OTHERS
 In the course of representing a client a lawyer shall not knowingly make a false statement of material fact or law to a third person.
 
 ##### Comment
@@ -1821,7 +1830,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 4.2	COMMUNICATION WITH PERSON REPRESENTED BY COUNSEL
+## Rule 4.2	COMMUNICATION WITH PERSON REPRESENTED BY COUNSEL
 (a) During the representation of a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order. It is not a violation of this rule for a lawyer to encourage his or her client to discuss the subject of the representation with the opposing party in a good-faith attempt to resolve the controversy.
 (b) Notwithstanding section (a) above, in representing a client who has a dispute with a government agency or body, a lawyer may communicate about the subject of the representation with the elected officials who have authority over such government agency or body even if the lawyer knows that the government agency or body is represented by another lawyer in the matter, but such communications may only occur under the following circumstances:
 (1)	in writing, if a copy of the writing is promptly delivered to opposing counsel;
@@ -1846,7 +1855,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 4.3	DEALING WITH UNREPRESENTED PERSON
+## Rule 4.3	DEALING WITH UNREPRESENTED PERSON
 In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not:
 (1)	give legal advice to the person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such person are or have a reasonable possibility of being in conflict with the interests of the client; and
 (2)	state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer's role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding.
@@ -1860,9 +1869,9 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003..
 
-# 27 NCAC 02 Rule 4.4	Respect for Rights of Third Persons
-(a)  In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
-(b)  A lawyer who receives a writing relating to the representation of the lawyer's client and knows or reasonably should know that the writing was inadvertently sent shall promptly notify the sender.
+## Rule 4.4	Respect for Rights of Third Persons
+(a) In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
+(b) A lawyer who receives a writing relating to the representation of the lawyer's client and knows or reasonably should know that the writing was inadvertently sent shall promptly notify the sender.
 
 ##### Comment
 
@@ -1878,10 +1887,10 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. March 5, 2015; October 2, 2014; August 18, 2005; March 1, 2003.
 
-# 27 NCAC 02 Rule 5.1	Responsibilities of Principals, Managers, and Supervisory Lawyers
-(a)  A principal in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority, shall make reasonable efforts to ensure that the firm or the organization has in effect measures giving reasonable assurance that all lawyers in the firm or the organization conform to the Rules of Professional Conduct.
-(b)  A lawyer having direct supervisory authority over another lawyer shall make reasonable efforts to ensure that the other lawyer conforms to the Rules of Professional Conduct.
-(c)  A lawyer shall be responsible for another lawyer's violation of the Rules of Professional Conduct if:
+## Rule 5.1	Responsibilities of Principals, Managers, and Supervisory Lawyers
+(a) A principal in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority, shall make reasonable efforts to ensure that the firm or the organization has in effect measures giving reasonable assurance that all lawyers in the firm or the organization conform to the Rules of Professional Conduct.
+(b) A lawyer having direct supervisory authority over another lawyer shall make reasonable efforts to ensure that the other lawyer conforms to the Rules of Professional Conduct.
+(c) A lawyer shall be responsible for another lawyer's violation of the Rules of Professional Conduct if:
 (1)	the lawyer orders or, with knowledge of the specific conduct, ratifies the conduct involved; or
 (2)	the lawyer is a principal or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action to avoid the consequences.
 
@@ -1905,7 +1914,7 @@ Ethics Opinion Notes
 2013 Formal Ethics Opinion 8. Opinion analyzes the responsibilities of the partners and supervisory lawyers in a firm when another firm lawyer has a mental impairment.
 2013 Formal Ethics Opinion 9. Opinion provides guidance to lawyers who work for a public interest law organization that provides legal and non-legal services to its clientele and that has an executive director who is not a lawyer.
 
-# 27 NCAC 02 Rule 5.2	RESPONSIBILITIES OF A SUBORDINATE LAWYER
+## Rule 5.2	RESPONSIBILITIES OF A SUBORDINATE LAWYER
 (a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 (b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer’s reasonable resolution of an arguable question of professional duty.
 
@@ -1918,11 +1927,11 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003..
 
-# 27 NCAC 02 Rule 5.3	Responsibilities Regarding Nonlawyer Assistants
+## Rule 5.3	Responsibilities Regarding Nonlawyer Assistants
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
-(a)  a principal, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm or organization shall make reasonable efforts to ensure that the firm or organization has in effect measures giving reasonable assurance that the nonlawyer's conduct is compatible with the professional obligations of the lawyer;
-(b)  a lawyer having direct supervisory authority over the nonlawyer shall make reasonable efforts to ensure that the nonlawyer's conduct is compatible with the professional obligations of the lawyer; and
-(c)  a lawyer shall be responsible for conduct of such a nonlawyer that would be a violation of the Rules of Professional Conduct if engaged in by a lawyer if:
+(a) a principal, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm or organization shall make reasonable efforts to ensure that the firm or organization has in effect measures giving reasonable assurance that the nonlawyer's conduct is compatible with the professional obligations of the lawyer;
+(b) a lawyer having direct supervisory authority over the nonlawyer shall make reasonable efforts to ensure that the nonlawyer's conduct is compatible with the professional obligations of the lawyer; and
+(c) a lawyer shall be responsible for conduct of such a nonlawyer that would be a violation of the Rules of Professional Conduct if engaged in by a lawyer if:
 (1)	the lawyer orders or, with the knowledge of the specific conduct, ratifies the conduct involved; or
 (2)	the lawyer is a principal or has comparable managerial authority in the law firm or organization in which the person is employed, or has direct supervisory authority over the nonlawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action to avoid the consequences.
 
@@ -1972,17 +1981,17 @@ RPC 238. Opinion rules that a lawyer is subject to the Rules of Professional Con
 2012 Formal Ethics Opinion 11. Opinion rules that a law firm may send a nonlawyer field representative to meet with a prospective client and obtain a representation contract if a lawyer at the firm has reviewed sufficient information from the prospective client to determine that an offer of representation is appropriate.
 2013 Formal Ethics Opinion 9. Opinion provides guidance to lawyers who work for a public interest law organization that provides legal and non-legal services to its clientele and that has an executive director who is not a lawyer.
 
-# 27 NCAC 02 Rule 5.4	PROFESSIONAL INDEPENDENCE OF A LAWYER
-(a)  A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
+## Rule 5.4	PROFESSIONAL INDEPENDENCE OF A LAWYER
+(a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 (1)	an agreement by a lawyer with the lawyer's firm, principal, or associate may provide for the payment of money, over a reasonable period of time after the lawyer's death, to the lawyer's estate or to one or more specified persons;
 (2)	a lawyer who purchases the practice of a deceased, disabled, or disappeared lawyer may, pursuant to the provisions of Rule 1.17, pay to the estate or other representative of that lawyer the agreed-upon purchase price;
 (3)	a lawyer who undertakes to complete unfinished legal business of a deceased lawyer or a disbarred lawyer may pay to the estate of the deceased lawyer or to the disbarred lawyer that portion of the total compensation that fairly represents the services rendered by the deceased lawyer or the disbarred lawyer;
 (4)	a lawyer or law firm may include nonlawyer employees in a compensation or retirement plan even though the plan is based in whole or in part on a profit-sharing arrangement;
 (5)	a lawyer may share court-awarded legal fees with a nonprofit organization that employed, retained or recommended employment of the lawyer in the matter; and
 (6)	a lawyer or law firm may pay a portion of a legal fee to a credit card processor, group advertising provider, or online marketing platform if the amount paid is for payment processing or for administrative or marketing services, and there is no interference with the lawyer's independent professional judgment or with the client-lawyer relationship.
-(b)  A lawyer shall not form a partnership with a nonlawyer if any of the activities of the partnership consist of the practice of law.
-(c)  A lawyer shall not permit a person who recommends, engages, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services.
-(d)  A lawyer shall not practice with or in the form of a professional corporation or association authorized to practice law for a profit, if:
+(b) A lawyer shall not form a partnership with a nonlawyer if any of the activities of the partnership consist of the practice of law.
+(c) A lawyer shall not permit a person who recommends, engages, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services.
+(d) A lawyer shall not practice with or in the form of a professional corporation or association authorized to practice law for a profit, if:
 (1)	a nonlawyer owns any interest therein, except that a fiduciary representative of the estate of a lawyer may hold the stock or interest of the lawyer for a reasonable time during administration; or
 (2)	a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
@@ -1997,30 +2006,30 @@ History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; September 22, 2016; March 27, 2019.
 
-# 27 NCAC 02 Rule 5.5	Unauthorized Practice of Law
-(a)  A lawyer shall not practice law in a jurisdiction where doing so violates the regulation of the legal profession in that jurisdiction.
-(b)  A lawyer who is not admitted to practice in this jurisdiction shall not:
+## Rule 5.5	Unauthorized Practice of Law
+(a) A lawyer shall not practice law in a jurisdiction where doing so violates the regulation of the legal profession in that jurisdiction.
+(b) A lawyer who is not admitted to practice in this jurisdiction shall not:
 (1)	except as authorized by these rules or other law, establish an office or other systematic and continuous presence in this jurisdiction for the practice of law; or
 (2)	hold out to the public or otherwise represent that the lawyer is admitted to practice law in this jurisdiction.
-(c)  A lawyer admitted to practice in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, does not engage in the unauthorized practice of law in this jurisdiction if the lawyer's conduct is in accordance with these rules and:
+(c) A lawyer admitted to practice in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, does not engage in the unauthorized practice of law in this jurisdiction if the lawyer's conduct is in accordance with these rules and:
 (1)	the lawyer is authorized by law or order to appear before a tribunal or administrative agency in this jurisdiction or is preparing for a potential proceeding or hearing in which the lawyer reasonably expects to be so authorized;
 (2)	the lawyer acts with respect to a matter that arises out of or is otherwise reasonably related to the lawyer's representation of a client in a jurisdiction in which the lawyer is admitted to practice and the lawyer's services are not services for which pro hac vice admission is required;
 (3)	the lawyer acts with respect to a matter that is in or is reasonably related to a pending or potential arbitration, mediation, or other alternative dispute resolution proceeding in this or another jurisdiction, if the lawyer's services arise out of or are reasonably related to the lawyer's representation of a client in a jurisdiction in which the lawyer is admitted to practice and are not services for which pro hac vice admission is required; or
 (4)	the lawyer is associated in the matter with a lawyer admitted to practice in this jurisdiction who actively participates in the representation and the lawyer is admitted pro hac vice or the lawyer's services are not services for which pro hac vice admission is required.
-(d)  A lawyer admitted to practice in another United States jurisdiction or in a foreign jurisdiction, and not disbarred or suspended from practice in any jurisdiction, or the equivalent thereof, does not engage in the unauthorized practice of law in this jurisdiction and may establish an office or other systematic and continuous presence in this jurisdiction for the practice of law if the lawyer's conduct is in accordance with these rules and:
+(d) A lawyer admitted to practice in another United States jurisdiction or in a foreign jurisdiction, and not disbarred or suspended from practice in any jurisdiction, or the equivalent thereof, does not engage in the unauthorized practice of law in this jurisdiction and may establish an office or other systematic and continuous presence in this jurisdiction for the practice of law if the lawyer's conduct is in accordance with these rules and:
 (1)	the lawyer provides legal services to the lawyer's employer or its organizational affiliates; the services are not services for which pro hac vice admission is required; and, when the services are performed by a foreign lawyer and require advice on the law of this or another US jurisdiction or of the United States, such advice is based upon the advice of a lawyer who is duly licensed and authorized by the jurisdiction to provide such advice; or
 (2)	the lawyer is providing services limited to federal law, international law, the law of a foreign jurisdiction or the law of the jurisdiction in which the lawyer is admitted to practice, or the lawyer is providing services that the lawyer is authorized by federal or other law or rule to provide in this jurisdiction.
-(e)  A lawyer admitted to practice in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, does not engage in the unauthorized practice of law in this jurisdiction and may establish an office or other systematic and continuous presence in this jurisdiction for the practice of law if the lawyer's conduct is in accordance with these rules, the lawyer is the subject of a pending application for admission to the North Carolina State Bar by comity, having never previously been denied admission to the North Carolina State Bar for any reason, and the lawyer satisfies the following conditions:
+(e) A lawyer admitted to practice in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, does not engage in the unauthorized practice of law in this jurisdiction and may establish an office or other systematic and continuous presence in this jurisdiction for the practice of law if the lawyer's conduct is in accordance with these rules, the lawyer is the subject of a pending application for admission to the North Carolina State Bar by comity, having never previously been denied admission to the North Carolina State Bar for any reason, and the lawyer satisfies the following conditions:
 (1)	is licensed to practice law in a state with which North Carolina has comity in regard to admission to practice law;
 (2)	is a member in good standing in every jurisdiction in which the lawyer is licensed to practice law;
 (3)	has satisfied the educational and experiential requirements prerequisite to comity admission to the North Carolina State Bar;
 (4)	is domiciled in North Carolina;
 (5)	has established a professional relationship with a North Carolina law firm and is actively supervised by at least one licensed North Carolina attorney affiliated with that law firm; and
 (6)	gives written notice to the secretary of the North Carolina State Bar that the lawyer intends to begin the practice of law pursuant to this provision, provides the secretary with a copy of the lawyer's application for admission to the State Bar, and agrees that the lawyer is subject to these rules and the disciplinary jurisdiction of the North Carolina State Bar. A lawyer acting pursuant to this provision may not provide services for which pro hac vice admission is required, and shall be ineligible to practice law in this jurisdiction immediately upon being advised that the lawyer's application for comity admission has been denied.
-(f)  A lawyer shall not assist another person in the unauthorized practice of law.
-(g)  A lawyer or law firm shall not employ a disbarred or suspended lawyer as a law clerk or legal assistant if that individual was associated with such lawyer or law firm at any time on or after the date of the acts which resulted in disbarment or suspension through and including the effective date of disbarment or suspension.
-(h)  A lawyer or law firm employing a disbarred or suspended lawyer as a law clerk or legal assistant shall not represent any client represented by the disbarred or suspended lawyer or by any lawyer with whom the disbarred or suspended lawyer practiced during the period on or after the date of the acts which resulted in disbarment or suspension through and including the effective date of disbarment or suspension.
-(i)  For the purposes of Paragraph (d), the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and are subject to effective regulation and discipline by a duly constituted professional body or a public authority.
+(f) A lawyer shall not assist another person in the unauthorized practice of law.
+(g) A lawyer or law firm shall not employ a disbarred or suspended lawyer as a law clerk or legal assistant if that individual was associated with such lawyer or law firm at any time on or after the date of the acts which resulted in disbarment or suspension through and including the effective date of disbarment or suspension.
+(h) A lawyer or law firm employing a disbarred or suspended lawyer as a law clerk or legal assistant shall not represent any client represented by the disbarred or suspended lawyer or by any lawyer with whom the disbarred or suspended lawyer practiced during the period on or after the date of the acts which resulted in disbarment or suspension through and including the effective date of disbarment or suspension.
+(i) For the purposes of Paragraph (d), the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and are subject to effective regulation and discipline by a duly constituted professional body or a public authority.
 
 ##### Comment
 
@@ -2070,7 +2079,7 @@ Authorized Practice Advisory Opinion 2002-1. Revised January 26, 2012
 
 The North Carolina State Bar has been requested to interpret the North Carolina unauthorized practice of law statutes (N.C. Gen. Stat. §§84-2.1 to 84-5) as they apply to residential real estate transactions. The State Bar issues the following authorized practice of law advisory opinion pursuant to N.C. Gen. Stat. §84-37(f) after careful consideration and investigation. This opinion supersedes any prior opinions and decisions of any standing committee of the State Bar interpreting the unauthorized practice of law statutes to the extent those opinions and decisions are inconsistent with the conclusions expressed herein.As a result of its review of the activities of more than 50 nonlawyer service providers since the adoption of this opinion on January 24, 2003, including injunctions issued against two companies, the Committee is clarifying the opinion concerning issues that it has addressed since adoption of the opinion.
 
-# 27 NCAC 02 Rule 5.6	Restrictions on Right to Practice
+## Rule 5.6	Restrictions on Right to Practice
 A lawyer shall not participate in offering or making:
 (a)	a partnership, shareholders, operating, employment, or other similar type of agreement that restricts the right of a lawyer to practice after termination of the relationship, except an agreement concerning benefits upon retirement; or
 (b)	an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
@@ -2081,7 +2090,7 @@ A lawyer shall not participate in offering or making:
 
 [2] Paragraph (b) prohibits a lawyer from agreeing not to represent other persons in connection with settling a claim on behalf of a client.
 
-[3] This Rule does not prohibit restrictions that may be included in the terms of the sale of a law practice pursuant to Rule 1.17.  The Rule also does not prohibit restrictions on a lawyer’s right to practice that are included in a plea agreement or other settlement of a criminal matter or the resolution of a disciplinary proceeding where the accused is a lawyer.
+[3] This Rule does not prohibit restrictions that may be included in the terms of the sale of a law practice pursuant to Rule 1.17. The Rule also does not prohibit restrictions on a lawyer’s right to practice that are included in a plea agreement or other settlement of a criminal matter or the resolution of a disciplinary proceeding where the accused is a lawyer.
 
 History Note:	Authority G.S. 84-23;
 Adopted September 24, 2015; March 1, 2003; July 24, 1997.
@@ -2094,7 +2103,7 @@ RPC 179. A lawyer may not offer or enter into a settlement agreement that contai
 
 2001 Formal Ethics Opinion 10. Opinion prohibits a lawyer from entering into an employment agreement with a law firm that includes a provision reducing the amount of deferred compensation the lawyer will receive if the lawyer leaves the firm before retirement to engage in the private practice of law within a 50-mile radius of the firm's offices.
 
-# 27 NCAC 02 Rule 5.7	RESPONSIBILITIES REGARDING LAW-RELATED SERVICES
+## Rule 5.7	RESPONSIBILITIES REGARDING LAW-RELATED SERVICES
 (a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 (1)	by the lawyer in circumstances that are not distinct from the lawyer's provision of legal services to clients; or
 (2)	by a separate entity controlled by the lawyer individually or with others if the lawyer fails to take reasonable measures to assure that a person obtaining the law-related services knows that the services of the separate entity are not legal services and that the protections of the client-lawyer relationship do not exist.
@@ -2117,8 +2126,8 @@ RPC 179. A lawyer may not offer or enter into a settlement agreement that contai
 History Note:	Authority G.S. 84-17; 84-21; 84-23;
 Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 6.1	VOLUNTARY PRO BONO PUBLICO SERVICE
-Every lawyer has a professional responsibility to provide legal services to those unable to pay.  A lawyer should aspire to render at least 50 hours of pro bono publico legal services per year.  In fulfilling this responsibility, the lawyer should:
+## Rule 6.1	VOLUNTARY PRO BONO PUBLICO SERVICE
+Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer should aspire to render at least 50 hours of pro bono publico legal services per year. In fulfilling this responsibility, the lawyer should:
 (a)	provide a substantial majority of the 50 hours of legal services without fee or expectation of fee to:
 (1)	persons of limited means;
 (2)	charitable, religious, civic, community, governmental and educational organizations in matters that are designed primarily to address the needs of persons of limited means; or
@@ -2130,25 +2139,25 @@ In addition, a lawyer should voluntarily contribute financial support to organiz
 
 ##### Comment
 
-[1]  Every lawyer, regardless of professional prominence or professional work load, has a responsibility to provide legal services to those unable to pay, and personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer.  The North Carolina State Bar urges all lawyers to provide a minimum of 50 hours of pro bono services annually.  It is recognized that in some years a lawyer may render greater or fewer hours than the annual standard specified, but during the course of his or her legal career, each lawyer should render on average per year the number of hours set forth in this Rule.  Services can be performed in civil matters or in criminal or quasi-criminal matters for which there is no government obligation to provide funds for legal representation, such as post-conviction death penalty appeal cases.
-[2]  The critical need for legal services among persons of limited means is recognized in Paragraphs (a)(1) and (2) of the Rule.  Legal services to persons of limited means consists of a full range of activities, including individual and class representation, the provision of legal advice, legislative lobbying, administrative rule making and the provision of free training or mentoring to those who represent persons of limited means.  The variety of these activities should facilitate participation by government lawyers, even when restrictions exist on their engaging in the outside practice of law.
-[3]  Persons eligible for legal services under Paragraphs (a)(1) and (2) are those who qualify for participation in programs funded by the Legal Services Corporation and those whose incomes and financial resources are slightly above the guidelines utilized by such programs but, nevertheless, cannot afford counsel.  Legal services can be rendered to individuals or to organizations such as homeless shelters, battered women's centers and food pantries that serve those of limited means.  The term "governmental organizations" includes, but is not limited to, public protection programs and sections of governmental or public sector agencies.
-[4]  Because service must be provided without fee or expectation of fee, the intent of the lawyer to render free legal services is essential for the work performed to fall within the meaning of Paragraph (a).  Accordingly, services rendered cannot be considered pro bono if an anticipated fee is uncollected, but the award of statutory attorneys' fees in a case originally accepted as pro bono would not disqualify such services from inclusion under this section.  Lawyers who do receive fees in such cases are encouraged to contribute an appropriate portion of such fees to organizations described in Paragraphs (a)(2) and (3).
-[5]  Constitutional, statutory or regulatory restrictions may prohibit or impede government and public sector lawyers and judges from performing the pro bono services outlined in Paragraphs (a)(1), (2), and (3), and (b) (1).  Accordingly, where those restrictions apply, government and public sector lawyers and judges may fulfill their pro bono responsibility by performing services outlined in Paragraph (b)(2).  Such lawyers and judges are not expected to undertake the reporting outlined in Paragraph [12] of this Comment.
-[6]  Paragraph (a)(3) includes the provision of certain types of legal services to those whose incomes and financial resources place them above limited means.  Examples of the types of issues that may be addressed under this Paragraph include First Amendment claims, Title VII claims and environmental protection claims.  Additionally, a wide range of organizations may be represented, including social service, medical research, cultural and religious groups.
-[7]  Paragraph (b)(1) covers instances in which lawyers agree to and receive a modest fee for furnishing legal services to persons of limited means.  Participation in judicare programs and acceptance of court appointments in which the fee is substantially below a lawyer's usual rate are encouraged under this section.
-[8]  Paragraph (b)(2) recognizes the value of lawyers engaging in activities that improve the law, the legal system or the legal profession.  Serving on bar association committees; serving on boards of pro bono or legal services programs; taking part in Law Day activities; acting as a continuing legal education instructor, a mediator or an arbitrator; and engaging in legislative lobbying to improve the law, the legal system or the profession are a few examples of the many activities that fall within this Paragraph.
-[9] Because the efforts of individual lawyers are not enough to meet the need for free legal services that exists among persons of limited means, the government and the profession have instituted additional programs to provide those services.  Every lawyer should financially support such programs, in addition to either providing direct pro bono services or making financial contributions when pro bono service is not feasible.
-[10]  Law firms should act reasonably to enable and encourage all lawyers in the firm to provide the pro bono legal services called for by this Rule.
-[11]  The responsibility set forth in this Rule is not intended to be enforced through disciplinary process.
-[12]  Lawyers are encouraged to report pro bono legal services to Legal Aid of North Carolina, the North Carolina Equal Access to Justice Commission, or other similar agency as appropriate in order that such service might be recognized and serve as an inspiration to others.
+[1] Every lawyer, regardless of professional prominence or professional work load, has a responsibility to provide legal services to those unable to pay, and personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer. The North Carolina State Bar urges all lawyers to provide a minimum of 50 hours of pro bono services annually. It is recognized that in some years a lawyer may render greater or fewer hours than the annual standard specified, but during the course of his or her legal career, each lawyer should render on average per year the number of hours set forth in this Rule. Services can be performed in civil matters or in criminal or quasi-criminal matters for which there is no government obligation to provide funds for legal representation, such as post-conviction death penalty appeal cases.
+[2] The critical need for legal services among persons of limited means is recognized in Paragraphs (a)(1) and (2) of the Rule. Legal services to persons of limited means consists of a full range of activities, including individual and class representation, the provision of legal advice, legislative lobbying, administrative rule making and the provision of free training or mentoring to those who represent persons of limited means. The variety of these activities should facilitate participation by government lawyers, even when restrictions exist on their engaging in the outside practice of law.
+[3] Persons eligible for legal services under Paragraphs (a)(1) and (2) are those who qualify for participation in programs funded by the Legal Services Corporation and those whose incomes and financial resources are slightly above the guidelines utilized by such programs but, nevertheless, cannot afford counsel. Legal services can be rendered to individuals or to organizations such as homeless shelters, battered women's centers and food pantries that serve those of limited means. The term "governmental organizations" includes, but is not limited to, public protection programs and sections of governmental or public sector agencies.
+[4] Because service must be provided without fee or expectation of fee, the intent of the lawyer to render free legal services is essential for the work performed to fall within the meaning of Paragraph (a). Accordingly, services rendered cannot be considered pro bono if an anticipated fee is uncollected, but the award of statutory attorneys' fees in a case originally accepted as pro bono would not disqualify such services from inclusion under this section. Lawyers who do receive fees in such cases are encouraged to contribute an appropriate portion of such fees to organizations described in Paragraphs (a)(2) and (3).
+[5] Constitutional, statutory or regulatory restrictions may prohibit or impede government and public sector lawyers and judges from performing the pro bono services outlined in Paragraphs (a)(1), (2), and (3), and (b) (1). Accordingly, where those restrictions apply, government and public sector lawyers and judges may fulfill their pro bono responsibility by performing services outlined in Paragraph (b)(2). Such lawyers and judges are not expected to undertake the reporting outlined in Paragraph [12] of this Comment.
+[6] Paragraph (a)(3) includes the provision of certain types of legal services to those whose incomes and financial resources place them above limited means. Examples of the types of issues that may be addressed under this Paragraph include First Amendment claims, Title VII claims and environmental protection claims. Additionally, a wide range of organizations may be represented, including social service, medical research, cultural and religious groups.
+[7] Paragraph (b)(1) covers instances in which lawyers agree to and receive a modest fee for furnishing legal services to persons of limited means. Participation in judicare programs and acceptance of court appointments in which the fee is substantially below a lawyer's usual rate are encouraged under this section.
+[8] Paragraph (b)(2) recognizes the value of lawyers engaging in activities that improve the law, the legal system or the legal profession. Serving on bar association committees; serving on boards of pro bono or legal services programs; taking part in Law Day activities; acting as a continuing legal education instructor, a mediator or an arbitrator; and engaging in legislative lobbying to improve the law, the legal system or the profession are a few examples of the many activities that fall within this Paragraph.
+[9] Because the efforts of individual lawyers are not enough to meet the need for free legal services that exists among persons of limited means, the government and the profession have instituted additional programs to provide those services. Every lawyer should financially support such programs, in addition to either providing direct pro bono services or making financial contributions when pro bono service is not feasible.
+[10] Law firms should act reasonably to enable and encourage all lawyers in the firm to provide the pro bono legal services called for by this Rule.
+[11] The responsibility set forth in this Rule is not intended to be enforced through disciplinary process.
+[12] Lawyers are encouraged to report pro bono legal services to Legal Aid of North Carolina, the North Carolina Equal Access to Justice Commission, or other similar agency as appropriate in order that such service might be recognized and serve as an inspiration to others.
 
 History Note:	Authority G.S. 84-23;
 Adopted Eff. January 28, 2010.
 
-# 27 NCAC 02 Rule 6.2		RESERVED
+## Rule 6.2		RESERVED
 
-# 27 NCAC 02 Rule 6.3	MEMBERSHIP IN LEGAL SERVICES ORGANIZATION
+## Rule 6.3	MEMBERSHIP IN LEGAL SERVICES ORGANIZATION
 A lawyer may serve as a director, officer or member of a legal services organization, apart from the law firm in which the lawyer practices, notwithstanding that the organization serves persons having interests adverse to a client of the lawyer. The lawyer shall not knowingly participate in a decision or action of the organization:
 (1)	if participating in the decision or action would be incompatible with the lawyer's obligations to a client under Rule 1.7; or
 (2)	where the decision or action could have a material adverse effect on the representation of a client of the organization whose interests are adverse to a client of the lawyer.
@@ -2162,7 +2171,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 6.4	LAW REFORM ACTIVITIES AFFECTING CLIENT INTERESTS
+## Rule 6.4	LAW REFORM ACTIVITIES AFFECTING CLIENT INTERESTS
 A lawyer may serve as a director, officer or member of an organization involved in reform of the law or its administration notwithstanding that the reform may affect the interests of a client of the lawyer. When the lawyer knows that the interests of a client may be materially benefited by a decision in which the lawyer participates, the lawyer shall disclose that fact but need not identify the client.
 
 ##### Comment
@@ -2173,7 +2182,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 6.5	LIMITED LEGAL SERVICES PROGRAMS
+## Rule 6.5	LIMITED LEGAL SERVICES PROGRAMS
 (a) A lawyer who, under the auspices of a program sponsored by a nonprofit organization or court, provides short-term limited legal services to a client without expectation by either the lawyer or the client that the lawyer will provide continuing representation in the matter:
 (1)	is subject to Rules 1.7 and 1.9(a) only if the lawyer knows that the representation of the client involves a conflict of interest; and 
 (2)	is subject to Rule 1.10 only if the lawyer knows that another lawyer associated with the lawyer in a law firm is disqualified by Rule 1.7 or 1.9(a) with respect to the matter.
@@ -2190,7 +2199,7 @@ Amended Eff. February 27, 2003.
 History Note:	Authority G.S. 84-17; 84-21; 84-23;
 Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 6.6	ACTION AS A PUBLIC OFFICIAL
+## Rule 6.6	ACTION AS A PUBLIC OFFICIAL
 A lawyer who holds public office shall not:
 (a)	use his or her public position to obtain, or attempt to obtain, a special advantage in legislative matters for himself or herself or for a client under circumstances where the lawyer knows, or it is obvious, that such action is not in the public interest;
 (b)	use his or her public position to influence, or attempt to influence, a tribunal to act in favor of himself or herself or his or her client; or
@@ -2204,34 +2213,34 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-SECTION .0700 - INFORMATION ABOUT LEGAL SERVICES
+Section .0700 - INFORMATION ABOUT LEGAL SERVICES
 
 27 NCAC Rule 7.1	Communications Concerning a Lawyer's Services
-(a)  A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it:
+(a) A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it:
 (1)	contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading;
 (2)	is likely to create an unjustified expectation about results the lawyer can achieve, or states or implies that the lawyer can achieve results by means that violate the Rules of Professional Conduct or other law; or
 (3)	compares the lawyer's services with other lawyers' services, unless the comparison can be factually substantiated.
-(b)  A communication by a lawyer that contains a dramatization depicting a fictional situation is misleading unless it complies with paragraph (a) above and contains a conspicuous written or oral statement, at the beginning and the end of the communication, explaining that the communication contains a dramatization and does not depict actual events or real persons.
+(b) A communication by a lawyer that contains a dramatization depicting a fictional situation is misleading unless it complies with paragraph (a) above and contains a conspicuous written or oral statement, at the beginning and the end of the communication, explaining that the communication contains a dramatization and does not depict actual events or real persons.
 
 ##### Comment
 
-[1]  This Rule governs all communications about a lawyer's services, including advertising permitted by Rule 7.2. Whatever means are used to make known a lawyer's services, statements about them must be truthful. 
-[2]  Truthful statements that are misleading are also prohibited by this Rule. A truthful statement is misleading if it omits a fact necessary to make the lawyer's communication considered as a whole not materially misleading. A truthful statement is also misleading if there is a substantial likelihood that it will lead a reasonable person to formulate a specific conclusion about the lawyer or the lawyer's services for which there is no reasonable factual foundation.
-[3]  An advertisement that truthfully reports a lawyer's achievements on behalf of clients or former clients may be misleading if presented so as to lead a reasonable person to form an unjustified expectation that the same results could be obtained for other clients in similar matters without reference to the specific factual and legal circumstances of each client's case. Similarly, an unsubstantiated comparison of the lawyer's services or fees with the services or fees of other lawyers may be misleading if presented with such specificity as would lead a reasonable person to conclude that the comparison can be substantiated. The inclusion of an appropriate disclaimer or qualifying language may preclude a finding that a statement is likely to create unjustified expectations or otherwise mislead the public.
-[4]  See also Rule 8.4(e) for the prohibition against stating or implying an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law.
+[1] This Rule governs all communications about a lawyer's services, including advertising permitted by Rule 7.2. Whatever means are used to make known a lawyer's services, statements about them must be truthful. 
+[2] Truthful statements that are misleading are also prohibited by this Rule. A truthful statement is misleading if it omits a fact necessary to make the lawyer's communication considered as a whole not materially misleading. A truthful statement is also misleading if there is a substantial likelihood that it will lead a reasonable person to formulate a specific conclusion about the lawyer or the lawyer's services for which there is no reasonable factual foundation.
+[3] An advertisement that truthfully reports a lawyer's achievements on behalf of clients or former clients may be misleading if presented so as to lead a reasonable person to form an unjustified expectation that the same results could be obtained for other clients in similar matters without reference to the specific factual and legal circumstances of each client's case. Similarly, an unsubstantiated comparison of the lawyer's services or fees with the services or fees of other lawyers may be misleading if presented with such specificity as would lead a reasonable person to conclude that the comparison can be substantiated. The inclusion of an appropriate disclaimer or qualifying language may preclude a finding that a statement is likely to create unjustified expectations or otherwise mislead the public.
+[4] See also Rule 8.4(e) for the prohibition against stating or implying an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law.
 
 History Note:	Authority G.S. 84-23;
 Adopted July 24, 1997;
 Amended Eff. October 2, 2014; March 1, 2003.
 
-# 27 NCAC 02 Rule 7.2	Advertising
-(a)  Subject to the requirements of Rules 7.1 and 7.3, a lawyer may advertise services through written, recorded or electronic communication, including public media.
-(b)  A lawyer shall not give anything of value to a person for recommending the lawyer's services except that a lawyer may
+## Rule 7.2	Advertising
+(a) Subject to the requirements of Rules 7.1 and 7.3, a lawyer may advertise services through written, recorded or electronic communication, including public media.
+(b) A lawyer shall not give anything of value to a person for recommending the lawyer's services except that a lawyer may
 (1)	pay the reasonable costs of advertisements or communications permitted by this Rule;
 (2)	pay the usual charges of a not-for-profit lawyer referral service that complies with Rule 7.2(d), or a prepaid or group legal services plan that complies with Rule 7.3(d); and
 (3)	pay for a law practice in accordance with Rule 1.17.
-(c)  Any communication made pursuant to this rule, other than that of a lawyer referral service as described in paragraph (d), shall include the name and office address of at least one lawyer or law firm responsible for its content.
-(d)  A lawyer may participate in a lawyer referral service subject to the following conditions:
+(c) Any communication made pursuant to this rule, other than that of a lawyer referral service as described in paragraph (d), shall include the name and office address of at least one lawyer or law firm responsible for its content.
+(d) A lawyer may participate in a lawyer referral service subject to the following conditions:
 (1)	the lawyer is professionally responsible for its operation including the use of a false, deceptive, or misleading name by the referral service;
 (2)	the referral service is not operated for a profit;
 (3)	the lawyer may pay to the lawyer referral service only a reasonable sum which represents a proportionate share of the referral service's administrative and advertising costs;
@@ -2258,18 +2267,18 @@ History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; October 2, 2014; September 28, 2017.
 
-# 27 NCAC 02 Rule 7.3	DIRECT CONTACT WITH POTENTIAL CLIENTS
-(a)  A lawyer shall not by in-person, live telephone, or real-time electronic contact solicit professional employment when a significant motive for the lawyer's doing so is the lawyer's pecuniary gain, unless the person contacted:
+## Rule 7.3	DIRECT CONTACT WITH POTENTIAL CLIENTS
+(a) A lawyer shall not by in-person, live telephone, or real-time electronic contact solicit professional employment when a significant motive for the lawyer's doing so is the lawyer's pecuniary gain, unless the person contacted:
 (1)	is a lawyer; or
 (2)	has a family, close personal, or prior professional relationship with the lawyer.
-(b)  A lawyer shall not solicit professional employment from a potential client by written, recorded or electronic communication or by in-person, telephone or real-time electronic contact even when not otherwise prohibited by paragraph (a), if:
+(b) A lawyer shall not solicit professional employment from a potential client by written, recorded or electronic communication or by in-person, telephone or real-time electronic contact even when not otherwise prohibited by paragraph (a), if:
 (1)	the target of the solicitation has made known to the lawyer a desire not to be solicited by the lawyer; or
 (2)	the solicitation involves coercion, duress, harassment, compulsion, intimidation, or threats.
-(c)  Targeted Communications. Unless the recipient of the communication is a person specified in paragraphs (a)(1) or (a)(2), every written, recorded, or electronic communication from a lawyer soliciting professional employment from anyone known to be in need of legal services in a particular matter shall include the statement, in capital letters, "THIS IS AN ADVERTISEMENT FOR LEGAL SERVICES" (the advertising notice), which shall be conspicuous and subject to the following requirements:
+(c) Targeted Communications. Unless the recipient of the communication is a person specified in paragraphs (a)(1) or (a)(2), every written, recorded, or electronic communication from a lawyer soliciting professional employment from anyone known to be in need of legal services in a particular matter shall include the statement, in capital letters, "THIS IS AN ADVERTISEMENT FOR LEGAL SERVICES" (the advertising notice), which shall be conspicuous and subject to the following requirements:
 (1)	Written Communications. Written communications shall be mailed in an envelope. The advertising notice shall be printed on the front of the envelope, in a font that is as large as any other printing on the front or the back of the envelope. If more than one color or type of font is used on the front or the back of the envelope, the font used for the advertising notice shall match in color, type, and size the largest and widest of the fonts. The front of the envelope shall contain no printing other than the name of the lawyer or law firm and return address, the name and address of the recipient, and the advertising notice. The advertising notice shall also be printed at the beginning of the body of the enclosed written communication in a font as large as or larger than any other printing contained in the enclosed written communication. If more than one color or type of font is used on the enclosed written communication, then the font of the advertising notice shall match in color, type, and size the largest and widest of the fonts. Nothing on the envelope or the enclosed written communication shall be more conspicuous than the advertising notice.
 (2)	Electronic Communications. The advertising notice shall appear in the "in reference" or subject box of the address or header section of the communication. No other statement shall appear in this block. The advertising notice shall also appear, at the beginning and ending of the electronic communication, in a font as large as or larger than any other printing in the body of the communication or in any masthead on the communication. If more than one color or type of font is used in the electronic communication, then the font of the advertising notice shall match in color, type, and size the largest and widest of the fonts. Nothing in the electronic communication shall be more conspicuous than the advertising notice.
 (3)	Recorded Communications. The advertising notice shall be clearly articulated at the beginning and ending of the recorded communication.
-(d)  Notwithstanding the prohibitions in paragraph (a), a lawyer may participate with a prepaid or group legal service plan subject to the following:
+(d) Notwithstanding the prohibitions in paragraph (a), a lawyer may participate with a prepaid or group legal service plan subject to the following:
 (1)	Definition. A prepaid legal services plan or a group legal services plan ("a plan") is any arrangement by which a person, firm, or corporation, not otherwise authorized to engage in the practice of law, in exchange for any valuable consideration, offers to provide or arranges the provision of legal services that are paid for in advance of any immediate need for the specified legal service ("covered services"). In addition to covered services, a plan may provide specified legal services at fees that are less than what a non-member of the plan would normally pay. The North Carolina legal services offered by a plan must be provided by a licensed lawyer who is not an employee, director or owner of the plan. A prepaid legal services plan does not include the sale of an identified, limited legal service, such as drafting a will, for a fixed, one-time fee.
 (2)	Conditions for Participation.
 (A)	The plan must be operated by an organization that is not owned or directed by the lawyer;
@@ -2298,7 +2307,7 @@ History Note: 	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; October 6, 2004; November 16, 2006; August 23, 2007; August 25, 2011; October 2, 2014; September 28, 2017.
 
-# 27 NCAC 02 Rule 7.4	COMMUNICATION OF FIELDS OF PRACTICE AND SPECIALIZATION
+## Rule 7.4	COMMUNICATION OF FIELDS OF PRACTICE AND SPECIALIZATION
 (a) A lawyer may communicate the fact that the lawyer does or does not practice in particular fields of law.
 (b) A lawyer shall not state or imply that the lawyer is certified as a specialist in a field of practice unless:
 (1)	the certification was granted by the North Carolina State Bar; 
@@ -2316,18 +2325,18 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 7.5	Firm Names and Letterheads
-(a)  A lawyer shall not use a firm name, letterhead, or other professional designation that violates Rule 7.1. A trade name may be used by a lawyer in private practice if it does not imply a connection with a government agency or with a public or charitable legal services organization and is not false or misleading in violation of Rule 7.1. Every trade name used by a law firm shall be registered with the North Carolina State Bar for a determination of whether the name is misleading. 
-(b)  A law firm with offices in more than one jurisdiction may use the same name or other professional designation in each jurisdiction, but identification of the lawyers in an office of the firm shall indicate the jurisdictional limitations on those not licensed to practice in the jurisdiction where the office is located.
-(c)  A law firm maintaining offices only in North Carolina may not list any person not licensed to practice law in North Carolina as a lawyer affiliated with the firm unless the listing properly identifies the jurisdiction in which the lawyer is licensed and states that the lawyer is not licensed in North Carolina.
-(d)  The name of a lawyer holding a public office shall not be used in the name of a law firm, or in communications on its behalf, during any substantial period in which the lawyer is not actively and regularly practicing with the firm, whether or not the lawyer is precluded from practicing law.
-(e)  Lawyers may state or imply that they practice in a partnership or other professional organization only when that is the fact.
+## Rule 7.5	Firm Names and Letterheads
+(a) A lawyer shall not use a firm name, letterhead, or other professional designation that violates Rule 7.1. A trade name may be used by a lawyer in private practice if it does not imply a connection with a government agency or with a public or charitable legal services organization and is not false or misleading in violation of Rule 7.1. Every trade name used by a law firm shall be registered with the North Carolina State Bar for a determination of whether the name is misleading. 
+(b) A law firm with offices in more than one jurisdiction may use the same name or other professional designation in each jurisdiction, but identification of the lawyers in an office of the firm shall indicate the jurisdictional limitations on those not licensed to practice in the jurisdiction where the office is located.
+(c) A law firm maintaining offices only in North Carolina may not list any person not licensed to practice law in North Carolina as a lawyer affiliated with the firm unless the listing properly identifies the jurisdiction in which the lawyer is licensed and states that the lawyer is not licensed in North Carolina.
+(d) The name of a lawyer holding a public office shall not be used in the name of a law firm, or in communications on its behalf, during any substantial period in which the lawyer is not actively and regularly practicing with the firm, whether or not the lawyer is precluded from practicing law.
+(e) Lawyers may state or imply that they practice in a partnership or other professional organization only when that is the fact.
 
 ##### Comment
 
 [1] A firm may be designated by the names of all or some of its members, by the names of deceased or retired members where there has been a continuing succession in the firm's identity, or by a trade name such as the "ABC Legal Clinic." A lawyer or law firm may also be designated by a distinctive website address or comparable professional designation. Use of trade names in law practice is acceptable so long as they are not misleading and are otherwise in conformance with the rules and regulations of the State Bar. If a private firm uses a trade name that includes a geographical name such as "Springfield Legal Clinic," an express disclaimer that it is not a public legal aid agency may be required to avoid a misleading implication. A firm name that includes the surname of a deceased or retired principal is, strictly speaking, a trade name. However, the use of such names, as well as designations such as "Law Offices of John Doe," "Smith and Associates," and "Jones Law Firm" are useful means of identification and are permissible without registration with the State Bar. However, it is misleading to use the surname of a lawyer not associated with the firm or a predecessor of the firm. It is also misleading to use a designation such as "Smith and Associates" for a solo practice. The name of a retired principal may be used in the name of a law firm only if the principal has ceased the practice of law. 
 [2] This rule does not prohibit the employment by a law firm of a lawyer who is licensed to practice in another jurisdiction, but not in North Carolina, provided the lawyer's practice is limited to areas that do not require a North Carolina law license such as immigration law, federal tort claims, military law, and the like. The lawyer's name may be included in the firm letterhead, provided all communications by such lawyer on behalf of the firm indicate the jurisdiction in which the lawyer is licensed as well as the fact that the lawyer is not licensed in North Carolina. If law offices are maintained in another jurisdiction, the law firm is an interstate law firm and must register with the North Carolina State Bar as required by 27 NCAC 1E, Section .0200.
-[3] Nothing in these rules shall be construed to confer the right to practice North Carolina law upon any lawyer not licensed to practice law in North Carolina.  See, however, Rule 5.5.
+[3] Nothing in these rules shall be construed to confer the right to practice North Carolina law upon any lawyer not licensed to practice law in North Carolina. See, however, Rule 5.5.
 [4] With regard to Paragraph (e), lawyers sharing office facilities, but who are not in fact associated with each other in a law firm, may not denominate themselves as, for example, "Smith and Jones," for that title suggests that they are practicing law together in a firm.
 
 History Note:	Authority G.S. 84-23;
@@ -2360,11 +2369,11 @@ RPC 126. Opinion rules that nonlawyers may be listed as such on the letterhead o
 2006 Formal Ethics Opinion 20. Opinion rules that a law firm may not continue to use a former member's surname in the law firm name if the member continues the practice of law with another firm.
 2010 Formal Ethics Opinion 11. Opinion rules that a lawyer may list membership in Million Dollar Advocates Forum, or another organization with a self-laudatory name, on his letterhead only if a disclaimer of similar results and information about the criteria for membership also appears on the letterhead. 
 
-# 27 NCAC 02 Rule 7.6	reserved
+## Rule 7.6	reserved
 
-SECTION .0800 - MAINTAINING THE INTEGRITY OF THE PROFESSION
+Section .0800 - MAINTAINING THE INTEGRITY OF THE PROFESSION
 
-# 27 NCAC 02 Rule 8.1	BAR ADMISSION AND DISCIPLINARY MATTERS
+## Rule 8.1	BAR ADMISSION AND DISCIPLINARY MATTERS
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 (1)	knowingly make a false statement of material fact; or
 (2)	fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
@@ -2379,7 +2388,7 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003..
 
-# 27 NCAC 02 Rule 8.2	JUDICIAL AND LEGAL OFFICIALS
+## Rule 8.2	JUDICIAL AND LEGAL OFFICIALS
 (a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, or other adjudicatory officer or of a candidate for election or appointment to judicial office.
 (b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
@@ -2394,26 +2403,26 @@ History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 8.3	REPORTING PROFESSIONAL MISCONDUCT
-(a)  A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the North Carolina State Bar or the court having jurisdiction over the matter.
-(b)  A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the North Carolina Judicial Standards Commission or other appropriate authority.
-(c)  This Rule does not require disclosure of information otherwise protected by Rule 1.6.
-(d)  A lawyer who is disciplined in any state or federal court for a violation of the Rules of Professional Conduct in effect in such state or federal court shall inform the secretary of the North Carolina State Bar of such action in writing no later than 30 days after entry of the order of discipline.
-(e)  A lawyer who is serving as a mediator and who is subject to the North Carolina Supreme Court Standards of Professional Conduct for Mediators (the Standards) is not required to disclose information learned during a mediation if the Standards do not allow disclosure. If disclosure is allowed by the Standards, the lawyer is required to report professional misconduct consistent with the duty to report set forth in paragraph (a).
+## Rule 8.3	REPORTING PROFESSIONAL MISCONDUCT
+(a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the North Carolina State Bar or the court having jurisdiction over the matter.
+(b) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the North Carolina Judicial Standards Commission or other appropriate authority.
+(c) This Rule does not require disclosure of information otherwise protected by Rule 1.6.
+(d) A lawyer who is disciplined in any state or federal court for a violation of the Rules of Professional Conduct in effect in such state or federal court shall inform the secretary of the North Carolina State Bar of such action in writing no later than 30 days after entry of the order of discipline.
+(e) A lawyer who is serving as a mediator and who is subject to the North Carolina Supreme Court Standards of Professional Conduct for Mediators (the Standards) is not required to disclose information learned during a mediation if the Standards do not allow disclosure. If disclosure is allowed by the Standards, the lawyer is required to report professional misconduct consistent with the duty to report set forth in paragraph (a).
 
 History Note:	Authority G.S. 84-23;
 Eff. July 24, 1997;
 Amended Eff. June 9, 2016; October 7, 2010; March 1, 2003.
 
-# 27 NCAC 02 Rule 8.4	MISCONDUCT
+## Rule 8.4	MISCONDUCT
 It is professional misconduct for a lawyer to:
-(a)  violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
-(b)  commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
-(c)  engage in conduct involving dishonesty, fraud, deceit or misrepresentation that reflects adversely on the lawyer's fitness as a lawyer;
-(d)  engage in conduct that is prejudicial to the administration of justice;
-(e)  state or imply an ability to influence improperly a government agency or official;
-(f)  knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
-(g)  intentionally prejudice or damage his or her client during the course of the professional relationship, except as may be required by Rule 3.3.
+(a) violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
+(b) commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
+(c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation that reflects adversely on the lawyer's fitness as a lawyer;
+(d) engage in conduct that is prejudicial to the administration of justice;
+(e) state or imply an ability to influence improperly a government agency or official;
+(f) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
+(g) intentionally prejudice or damage his or her client during the course of the professional relationship, except as may be required by Rule 3.3.
 
 ##### Comment
 
@@ -2431,37 +2440,37 @@ History Note:	Authority G.S. 84-23;
 Adopted by the Supreme Court: July 24, 1997;
 Amendments Approved by the Supreme Court: March 1, 2003; March 5, 2015; September 28, 2017.
 
-# 27 NCAC 02 Rule 8.5	Disciplinary Authority; Choice of Law
-(a)  Disciplinary Authority. A lawyer admitted to practice in North Carolina is subject to the disciplinary authority of North Carolina, regardless of where the lawyer's conduct occurs. A lawyer not admitted in North Carolina is also subject to the disciplinary authority of North Carolina if the lawyer renders or offers to render any legal services in North Carolina. A lawyer may be subject to the disciplinary authority of both North Carolina and another jurisdiction for the same conduct.
-(b)  Choice of Law. In any exercise of the disciplinary authority of North Carolina, the rules of professional conduct to be applied shall be as follows:
+## Rule 8.5	Disciplinary Authority; Choice of Law
+(a) Disciplinary Authority. A lawyer admitted to practice in North Carolina is subject to the disciplinary authority of North Carolina, regardless of where the lawyer's conduct occurs. A lawyer not admitted in North Carolina is also subject to the disciplinary authority of North Carolina if the lawyer renders or offers to render any legal services in North Carolina. A lawyer may be subject to the disciplinary authority of both North Carolina and another jurisdiction for the same conduct.
+(b) Choice of Law. In any exercise of the disciplinary authority of North Carolina, the rules of professional conduct to be applied shall be as follows:
 (1)	for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
 (2)	for any other conduct, the rules of the jurisdiction in which the lawyer's conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer is not subject to discipline if the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer's conduct will occur.
 
 ##### Comment
 
 Disciplinary Authority
-[1]  It is longstanding law that conduct of a lawyer admitted to practice in North Carolina is subject to the disciplinary authority of North Carolina. Extension of the disciplinary authority of North Carolina to other lawyers who render or offer to render legal services in North Carolina is for the protection of the citizens of North Carolina.
+[1] It is longstanding law that conduct of a lawyer admitted to practice in North Carolina is subject to the disciplinary authority of North Carolina. Extension of the disciplinary authority of North Carolina to other lawyers who render or offer to render legal services in North Carolina is for the protection of the citizens of North Carolina.
 
 Choice of Law
-[2]  A lawyer may be potentially subject to more than one set of rules of professional conduct which impose different obligations. The lawyer may be licensed to practice in more than one jurisdiction with differing rules, or may be admitted to practice before a particular court with rules that differ from those of the jurisdiction or jurisdictions in which the lawyer is licensed to practice. Additionally, the lawyer's conduct might involve significant contacts with more than one jurisdiction.
-[3]  Paragraph (b) seeks to resolve such potential conflicts. Its premise is that minimizing conflicts between rules, as well as uncertainty about which rules are applicable, is in the best interest of both clients and the profession (as well as the bodies having authority to regulate the profession). Accordingly, it takes the approach of (i) providing that any particular conduct of a lawyer shall be subject to only one set of rules of professional conduct, (ii) making the determination of which set of rules applies to particular conduct as straightforward as possible, consistent with recognition of appropriate regulatory interests of relevant jurisdictions, and (iii) providing a safe harbor for lawyers who act reasonably in the face of uncertainty.
-[4]  Paragraph (b)(1) provides that as to a lawyer's conduct relating to a proceeding pending before a tribunal, the lawyer shall be subject only to the rules of the jurisdiction in which the tribunal sits unless the rules of the tribunal, including its choice of law rule, provide otherwise. As to all other conduct, including conduct in anticipation of a proceeding not yet pending before a tribunal, paragraph (b)(2) provides that a lawyer shall be subject to the rules of the jurisdiction in which the lawyer conduct occurred, or, if the predominant effect of the conduct is in another jurisdiction, the rules of that jurisdiction shall be applied to the conduct. In the case of conduct in anticipation of a proceeding that is likely to be before a tribunal, the predominant effect of such conduct could be where the conduct occurred, where the tribunal sits or in another jurisdiction.
-[5]  When a lawyer's conduct involves significant contacts with more than one jurisdiction, it may not be clear whether the predominant effect of the lawyer's conduct will occur in a jurisdiction other than the one in which the conduct occurred. So long as the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect will occur, the lawyer is not subject to discipline under this Rule. With respect to conflicts of interest, in determining a lawyer’s reasonable belief under paragraph (b)(2), a written agreement between the lawyer and client that reasonably specifies a particular jurisdiction as within the scope of that paragraph may be considered if the agreement was obtained with the client’s informed consent confirmed in the agreement.
-[6]  If North Carolina and another admitting jurisdiction were to proceed against a lawyer for the same conduct, they should, applying this rule, identify the same governing ethics rules. They should take all appropriate steps to see that they do apply the same rule to the same conduct, and in all events should avoid proceeding against a lawyer on the basis of two inconsistent rules.
-[7]  The choice of law provision applies to lawyers engaged in transnational practice, unless international law, treaties or other agreements between competent regulatory authorities in the affected jurisdictions provide otherwise.
+[2] A lawyer may be potentially subject to more than one set of rules of professional conduct which impose different obligations. The lawyer may be licensed to practice in more than one jurisdiction with differing rules, or may be admitted to practice before a particular court with rules that differ from those of the jurisdiction or jurisdictions in which the lawyer is licensed to practice. Additionally, the lawyer's conduct might involve significant contacts with more than one jurisdiction.
+[3] Paragraph (b) seeks to resolve such potential conflicts. Its premise is that minimizing conflicts between rules, as well as uncertainty about which rules are applicable, is in the best interest of both clients and the profession (as well as the bodies having authority to regulate the profession). Accordingly, it takes the approach of (i) providing that any particular conduct of a lawyer shall be subject to only one set of rules of professional conduct, (ii) making the determination of which set of rules applies to particular conduct as straightforward as possible, consistent with recognition of appropriate regulatory interests of relevant jurisdictions, and (iii) providing a safe harbor for lawyers who act reasonably in the face of uncertainty.
+[4] Paragraph (b)(1) provides that as to a lawyer's conduct relating to a proceeding pending before a tribunal, the lawyer shall be subject only to the rules of the jurisdiction in which the tribunal sits unless the rules of the tribunal, including its choice of law rule, provide otherwise. As to all other conduct, including conduct in anticipation of a proceeding not yet pending before a tribunal, paragraph (b)(2) provides that a lawyer shall be subject to the rules of the jurisdiction in which the lawyer conduct occurred, or, if the predominant effect of the conduct is in another jurisdiction, the rules of that jurisdiction shall be applied to the conduct. In the case of conduct in anticipation of a proceeding that is likely to be before a tribunal, the predominant effect of such conduct could be where the conduct occurred, where the tribunal sits or in another jurisdiction.
+[5] When a lawyer's conduct involves significant contacts with more than one jurisdiction, it may not be clear whether the predominant effect of the lawyer's conduct will occur in a jurisdiction other than the one in which the conduct occurred. So long as the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect will occur, the lawyer is not subject to discipline under this Rule. With respect to conflicts of interest, in determining a lawyer’s reasonable belief under paragraph (b)(2), a written agreement between the lawyer and client that reasonably specifies a particular jurisdiction as within the scope of that paragraph may be considered if the agreement was obtained with the client’s informed consent confirmed in the agreement.
+[6] If North Carolina and another admitting jurisdiction were to proceed against a lawyer for the same conduct, they should, applying this rule, identify the same governing ethics rules. They should take all appropriate steps to see that they do apply the same rule to the same conduct, and in all events should avoid proceeding against a lawyer on the basis of two inconsistent rules.
+[7] The choice of law provision applies to lawyers engaged in transnational practice, unless international law, treaties or other agreements between competent regulatory authorities in the affected jurisdictions provide otherwise.
 
 History Note:	Authority G.S. 84-23
 Eff. July 24, 1997; 
 Amended October 2, 2014; March 1, 2003.
 
-# 27 NCAC 02 Rule 8.6	Information About a Possible Wrongful Conviction
-(a)  Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
-(b)  Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
+## Rule 8.6	Information About a Possible Wrongful Conviction
+(a) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
+(b) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
 (1)	the evidence or information is protected from disclosure by law, court order, or 27 N.C. Admin. Code Ch. 1B §.0129;
 (2)	disclosure would criminally implicate a current or former client or otherwise substantially prejudice a current or former client's interests; or
 (3)	disclosure would violate the attorney-client privilege applicable to communications between the lawyer and a current or former client.
-(c)  A lawyer who in good faith concludes that information is not subject to disclosure under this rule does not violate the rule even if that conclusion is subsequently determined to be erroneous.
-(d)  This rule does not require disclosure if the lawyer knows an appropriate governmental authority, the convicted defendant, or the defendant's lawyer already possesses the information.
+(c) A lawyer who in good faith concludes that information is not subject to disclosure under this rule does not violate the rule even if that conclusion is subsequently determined to be erroneous.
+(d) This rule does not require disclosure if the lawyer knows an appropriate governmental authority, the convicted defendant, or the defendant's lawyer already possesses the information.
 
 ##### Comment
 

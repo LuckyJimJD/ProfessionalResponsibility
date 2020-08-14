@@ -33,7 +33,7 @@ _Part_ \dotfill _page_
 7. Information About Legal Services \dotfill 14 
 8. Maintaining the Integrity of the Profession \dotfill 15 
 
-#### Rule 1.0: Terminology
+##### Rule 1.0: Terminology
 
 (a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
@@ -65,11 +65,11 @@ _Part_ \dotfill _page_
 
 ### Client-Lawyer Relationship
 
-#### Rule 1.1: Competence
+##### Rule 1.1: Competence
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-#### Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+##### Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
 
@@ -79,11 +79,11 @@ A lawyer shall provide competent representation to a client. Competent represent
 
 (d) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
 
-#### Rule 1.3: Diligence
+##### Rule 1.3: Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-#### Rule 1.4: Communications
+##### Rule 1.4: Communications
 
 (a) A lawyer shall:
 
@@ -99,7 +99,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-#### Rule 1.5: Fees
+##### Rule 1.5: Fees
 
 (a) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 
@@ -137,7 +137,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
     (3) the total fee is reasonable.
 
-#### Rule 1.6: Confidentiality of Information
+##### Rule 1.6: Confidentiality of Information
 
 (a) A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
@@ -157,7 +157,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (c) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
-#### Rule 1.7: Conflict of Interest: Current Clients
+##### Rule 1.7: Conflict of Interest: Current Clients
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 
@@ -175,7 +175,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
     (4) each affected client gives informed consent, confirmed in writing.
 
-#### Rule 1.8: Current Clients: Specific Rules
+##### Rule 1.8: Current Clients: Specific Rules
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
 
@@ -223,7 +223,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (k) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
 
-#### Rule 1.9: Duties to Former Clients
+##### Rule 1.9: Duties to Former Clients
 
 (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 
@@ -239,7 +239,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
     (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-#### Rule 1.10: Imputation of Conflicts of Interest: General Rule
+##### Rule 1.10: Imputation of Conflicts of Interest: General Rule
 
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless
     
@@ -263,7 +263,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (d) The disqualification of lawyers associated in a firm with former or current government lawyers is governed by Rule 1.11.
 
-#### Rule 1.11: Special Conflicts of Interest for Former & Current Government Officers & Employees
+##### Rule 1.11: Special Conflicts of Interest for Former & Current Government Officers & Employees
 
 (a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 
@@ -295,11 +295,11 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
     
     (2) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
-#### Rule 1.12: Former Judge, Arbitrator, Mediator or Other Third-Party Nautral
+##### Rule 1.12: Former Judge, Arbitrator, Mediator or Other Third-Party Nautral
 
 (Omitted)
 
-#### Rule 1.13: Organization as Client
+##### Rule 1.13: Organization as Client
 
 (a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
@@ -319,7 +319,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
-#### Rule 1.14: Client with Diminished Capacity
+##### Rule 1.14: Client with Diminished Capacity
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -327,7 +327,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
 
-#### Rule 1.15: Safekeeping Property
+##### Rule 1.15: Safekeeping Property
 
 (a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
 
@@ -339,7 +339,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (e) When in the course of representation a lawyer is in possession of property in which two or more persons (one of whom may be the lawyer) claim interests, the property shall be kept separate by the lawyer until the dispute is resolved. The lawyer shall promptly distribute all portions of the property as to which the interests are not in dispute.
 
-#### Rule 1.16: Declining or Terminating Representation
+##### Rule 1.16: Declining or Terminating Representation
 
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
@@ -369,7 +369,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
 
-#### Rule 1.17: Sale of Law Practice
+##### Rule 1.17: Sale of Law Practice
 
 A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
 
@@ -389,7 +389,7 @@ A lawyer or a law firm may sell or purchase a law practice, or an area of law pr
 
 (d) The fees charged clients shall not be increased by reason of the sale.
 
-#### Rule 1.18: Duties to Prospective Client
+##### Rule 1.18: Duties to Prospective Client
 
 (a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 
@@ -411,11 +411,11 @@ A lawyer or a law firm may sell or purchase a law practice, or an area of law pr
 
 ### Counselor
 
-#### Rule 2.1: Advisor
+##### Rule 2.1: Advisor
 
 In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
 
-#### Rule 2.3: Evaluation for Use by Third Persons
+##### Rule 2.3: Evaluation for Use by Third Persons
 
 (a) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
 
@@ -423,21 +423,21 @@ In representing a client, a lawyer shall exercise independent professional judgm
 
 (c) Except as disclosure is authorized in connection with a report of an evaluation, information relating to the evaluation is otherwise protected by Rule 1.6.
 
-#### Rule 2.4: Lawyer Serving as Third-Party Neutral 
+##### Rule 2.4: Lawyer Serving as Third-Party Neutral 
 
 (Omitted)
 
 ### Advocate
 
-#### Rule 3.1: Meritorious Claims & Contentions
+##### Rule 3.1: Meritorious Claims & Contentions
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
-#### Rule 3.2: Expediting Litigation
+##### Rule 3.2: Expediting Litigation
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
-#### Rule 3.3: Candor Toward the Tribunal
+##### Rule 3.3: Candor Toward the Tribunal
 
 (a) A lawyer shall not knowingly:
 
@@ -453,7 +453,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 (d) In an ex parte proceeding, a lawyer shall inform the tribunal of all material facts known to the lawyer that will enable the tribunal to make an informed decision, whether or not the facts are adverse.
 
-#### Rule 3.4: Fairness to Opposing Party & Counsel
+##### Rule 3.4: Fairness to Opposing Party & Counsel
 
 A lawyer shall not:
 
@@ -473,7 +473,7 @@ A lawyer shall not:
 
 	(2) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
-#### Rule 3.5: Impartiality & Decorum of the Tribunal
+##### Rule 3.5: Impartiality & Decorum of the Tribunal
 
 A lawyer shall not:
 
@@ -491,7 +491,7 @@ A lawyer shall not:
 
 (d) engage in conduct intended to disrupt a tribunal.
 
-#### Rule 3.6: Trial Publicity
+##### Rule 3.6: Trial Publicity
 
 (a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 
@@ -523,7 +523,7 @@ A lawyer shall not:
 
 (d) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
 
-#### Rule 3.7: Lawyer as Witness
+##### Rule 3.7: Lawyer as Witness
 
 (a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 
@@ -535,7 +535,7 @@ A lawyer shall not:
 
 (b) A lawyer may act as advocate in a trial in which another lawyer in the lawyer's firm is likely to be called as a witness unless precluded from doing so by Rule 1.7 or Rule 1.9.
 
-#### Rule 3.8: Special Responsibilities of a Prosecutor
+##### Rule 3.8: Special Responsibilities of a Prosecutor
 
 The prosecutor in a criminal case shall:
 
@@ -569,13 +569,13 @@ The prosecutor in a criminal case shall:
 
 (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor’s jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
-#### Rule 3.9: Advocate in Nonadjudicative Proceedings
+##### Rule 3.9: Advocate in Nonadjudicative Proceedings
 
 A lawyer representing a client before a legislative body or administrative agency in a nonadjudicative proceeding shall disclose that the appearance is in a representative capacity and shall conform to the provisions of Rules 3.3(a) through (c), 3.4(a) through (c), and 3.5.
 
 ### Transactions with Persons Other Than Clients 
 
-#### Rule 4.1: Truthfulness in Statements to Others
+##### Rule 4.1: Truthfulness in Statements to Others
 
 In the course of representing a client a lawyer shall not knowingly:
 
@@ -583,15 +583,15 @@ In the course of representing a client a lawyer shall not knowingly:
 
 (b) fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
-#### Rule 4.2: Communication with Person Represented by Counsel
+##### Rule 4.2: Communication with Person Represented by Counsel
 
 In representing a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order.
 
-#### Rule 4.3: Dealing with Unrepresented Person
+##### Rule 4.3: Dealing with Unrepresented Person
 
 In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer’s role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
 
-#### Rule 4.4: Respect for Rights of Third Persons
+##### Rule 4.4: Respect for Rights of Third Persons
 
 (a) In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
 
@@ -599,7 +599,7 @@ In dealing on behalf of a client with a person who is not represented by counsel
 
 ### Law Firms & Associations
 
-#### Rule 5.1: Responsibilities of a Partner or Supervisory Lawyer
+##### Rule 5.1: Responsibilities of a Partner or Supervisory Lawyer
 
 (a) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
 
@@ -611,13 +611,13 @@ In dealing on behalf of a client with a person who is not represented by counsel
 
 	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
  
-#### Rule 5.2: Responsibilities of a Subordinate Lawyer
+##### Rule 5.2: Responsibilities of a Subordinate Lawyer
 
 (a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 
 (b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer's reasonable resolution of an arguable question of professional duty.
 
-#### Rule 5.3: Responsibilities Regarding Nonlawyer Assistance
+##### Rule 5.3: Responsibilities Regarding Nonlawyer Assistance
 
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
@@ -631,7 +631,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the person is employed, or has direct supervisory authority over the person, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-#### Rule 5.4: Professional Independence of a Lawyer
+##### Rule 5.4: Professional Independence of a Lawyer
 
 (a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 
@@ -655,7 +655,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 	(3) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
-#### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practice of Law
+##### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practice of Law
 
 (a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
 
@@ -687,7 +687,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 	(2) the person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction must be authorized to practice under this Rule by, in the exercise of its discretion, [the highest court of this jurisdiction].
 
-#### Rule 5.6: Restrictions on Rights to Practice
+##### Rule 5.6: Restrictions on Rights to Practice
 
 A lawyer shall not participate in offering or making:
 
@@ -695,7 +695,7 @@ A lawyer shall not participate in offering or making:
 
 (b) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-#### Rule 5.7: Responsibilities Regarding Law-related Services
+##### Rule 5.7: Responsibilities Regarding Law-related Services
 
 (a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 
@@ -709,11 +709,11 @@ A lawyer shall not participate in offering or making:
 
 ### Public Service 
 
-#### Rule 6.2: Voluntary Pro Bono Publico Service 
+##### Rule 6.2: Voluntary Pro Bono Publico Service 
 
 (Omitted)
 
-#### Rule 6.2: Accepting Appointments
+##### Rule 6.2: Accepting Appointments
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
@@ -723,7 +723,7 @@ A lawyer shall not seek to avoid appointment by a tribunal to represent a person
 
 (c) the client or the cause is so repugnant to the lawyer as to be likely to impair the client-lawyer relationship or the lawyer's ability to represent the client.
 
-#### Rule 6.3: Membership in Legal Services Organization
+##### Rule 6.3: Membership in Legal Services Organization
 
 A lawyer may serve as a director, officer or member of a legal services organization, apart from the law firm in which the lawyer practices, notwithstanding that the organization serves persons having interests adverse to a client of the lawyer. The lawyer shall not knowingly participate in a decision or action of the organization:
 
@@ -731,21 +731,21 @@ A lawyer may serve as a director, officer or member of a legal services organiza
 
 (b) where the decision or action could have a material adverse effect on the representation of a client of the organization whose interests are adverse to a client of the lawyer
 
-#### Rule 6.4: Law Reform Activities Affecting Client Interests
+##### Rule 6.4: Law Reform Activities Affecting Client Interests
 
 A lawyer may serve as a director, officer or member of an organization involved in reform of the law or its administration notwithstanding that the reform may affect the interests of a client of the lawyer. When the lawyer knows that the interests of a client may be materially benefitted by a decision in which the lawyer participates, the lawyer shall disclose that fact but need not identify the client.
 
-#### Rule 6.5: Nonprofit and Court Annexed Limited Legal Services Programs 
+##### Rule 6.5: Nonprofit and Court Annexed Limited Legal Services Programs 
 
 (Omitted) 
 
 ### Information About Legal Services 
 
-#### Rule 7.1: Communications Concerning a Lawyer's Services
+##### Rule 7.1: Communications Concerning a Lawyer's Services
 
 A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-#### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
+##### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 (a) A lawyer may communicate information regarding the lawyer’s services through any media.
 
@@ -773,7 +773,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (d) Any communication made under this Rule must include the name and contact information of at least one lawyer or law firm responsible for its content.
 
-#### Rule 7.3 Solicitation of Clients
+##### Rule 7.3 Solicitation of Clients
 
 (a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
@@ -795,13 +795,13 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-#### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
+##### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
 ### Maintaining the Integrity of the Profession 
 
-#### Rule 8.1: Bar Admission & Disciplinary Matters
+##### Rule 8.1: Bar Admission & Disciplinary Matters
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
@@ -809,13 +809,13 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 (b) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
 
-#### Rule 8.2: Judicial & Legal Officials
+##### Rule 8.2: Judicial & Legal Officials
 
 (a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 
 (b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-#### Rule 8.3: Reporting Professional Misconduct
+##### Rule 8.3: Reporting Professional Misconduct
 
 (a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 
@@ -823,7 +823,7 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 (c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
 
-#### Rule 8.4: Misconduct
+##### Rule 8.4: Misconduct
 
 It is professional misconduct for a lawyer to:
 
@@ -841,7 +841,7 @@ It is professional misconduct for a lawyer to:
 
 (g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
 
-#### Rule 8.5: Disciplinary Authority; Choice of Law
+##### Rule 8.5: Disciplinary Authority; Choice of Law
 
 (a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
 

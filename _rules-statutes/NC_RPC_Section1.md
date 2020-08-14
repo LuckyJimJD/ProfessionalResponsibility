@@ -1,6 +1,15 @@
-﻿SECTION .0100 - CLIENT-LAWYER RELATIONSHIP
+---
+layout: statute
 
-# 27 NCAC 02 Rule 1.01	Competence
+course: Professional Responsibility
+title: NC Rules of Professional Conduct 
+subtitle: 27 NCAC 02
+    
+---
+
+﻿Section .0100 - Client-Lawyer Relationship
+
+## Rule 1.01	Competence
 
 A lawyer shall not handle a legal matter that the lawyer knows or should know he or she is not competent to handle without associating with a lawyer who is competent to handle the matter. Competent representation requires the legal knowledge, skill, thoroughness, and preparation reasonably necessary for the representation.
 
@@ -8,33 +17,33 @@ A lawyer shall not handle a legal matter that the lawyer knows or should know he
 
 Legal Knowledge and Skill
 
-[1]  In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter, and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
+[1] In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter, and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
 
-[2]  A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence, and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
+[2] A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence, and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
 
-[3]  In an emergency, a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to, or consultation or association with, another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that which is reasonably necessary under the circumstances, for ill-considered action under emergency conditions can jeopardize the client's interest.
+[3] In an emergency, a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to, or consultation or association with, another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that which is reasonably necessary under the circumstances, for ill-considered action under emergency conditions can jeopardize the client's interest.
 
-[4]  A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person.
+[4] A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person.
 
 Thoroughness and Preparation
 
-[5]  Competent handling of a particular matter includes inquiry into, and analysis of, the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined, in part, by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity or consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
+[5] Competent handling of a particular matter includes inquiry into, and analysis of, the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined, in part, by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity or consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
 
 Retaining or Contracting with Other Lawyers
 
-[6]  Before a lawyer retains or contracts with other lawyers outside the lawyer’s own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers’ services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee division), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer’s own firm will depend upon the circumstances, including the education, experience, and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
+[6] Before a lawyer retains or contracts with other lawyers outside the lawyer’s own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers’ services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee division), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer’s own firm will depend upon the circumstances, including the education, experience, and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
 
-[7]  When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
+[7] When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
 
 Maintaining Competence
 
-[8]  To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with the technology relevant to the lawyer’s practice, engage in continuing study and education, and comply with all continuing legal education requirements to which the lawyer is subject.
+[8] To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with the technology relevant to the lawyer’s practice, engage in continuing study and education, and comply with all continuing legal education requirements to which the lawyer is subject.
 
 Distinguishing Professional Negligence
 
-[9]  An error by a lawyer may constitute professional malpractice under the applicable standard of care and subject the lawyer to civil liability. However, conduct that constitutes a breach of the civil standard of care owed to a client giving rise to liability for professional malpractice does not necessarily constitute a violation of the ethical duty to represent a client competently. A lawyer who makes a good-faith effort to be prepared and to be thorough will not generally be subject to professional discipline, although he or she may be subject to a claim for malpractice. For example, a single error or omission made in good faith, absent aggravating circumstances, such as an error while performing a public records search, is not usually indicative of a violation of the duty to represent a client competently.
+[9] An error by a lawyer may constitute professional malpractice under the applicable standard of care and subject the lawyer to civil liability. However, conduct that constitutes a breach of the civil standard of care owed to a client giving rise to liability for professional malpractice does not necessarily constitute a violation of the ethical duty to represent a client competently. A lawyer who makes a good-faith effort to be prepared and to be thorough will not generally be subject to professional discipline, although he or she may be subject to a claim for malpractice. For example, a single error or omission made in good faith, absent aggravating circumstances, such as an error while performing a public records search, is not usually indicative of a violation of the duty to represent a client competently.
 
-[10]  Repeated failure to perform legal services competently is a violation of this rule. A pattern of incompetent behavior demonstrates that a lawyer cannot or will not acquire the knowledge and skills necessary for minimally competent practice. For example, a lawyer who repeatedly provides legal services that are inadequate or who repeatedly provides legal services that are unnecessary is not fulfilling his or her duty to be competent. This pattern of behavior does not have to be the result of a dishonest or sinister motive, nor does it have to result in damages to a client giving rise to a civil claim for malpractice in order to cast doubt on the lawyer's ability to fulfill his or her professional responsibilities.
+[10] Repeated failure to perform legal services competently is a violation of this rule. A pattern of incompetent behavior demonstrates that a lawyer cannot or will not acquire the knowledge and skills necessary for minimally competent practice. For example, a lawyer who repeatedly provides legal services that are inadequate or who repeatedly provides legal services that are unnecessary is not fulfilling his or her duty to be competent. This pattern of behavior does not have to be the result of a dishonest or sinister motive, nor does it have to result in damages to a client giving rise to a civil claim for malpractice in order to cast doubt on the lawyer's ability to fulfill his or her professional responsibilities.
 
 History Note:	Authority G.S. 84-23;
 
@@ -42,7 +51,7 @@ Eff. July 24, 1997;
 
 Amended Eff. October 2, 2014; March 1, 2003.
 
-# 27 NCAC 02 Rule 1.02	SCOPE OF REPRESENTATION AND ALLOCATION OF AUTHORITY BETWEEN CLIENT AND LAWYER 
+## Rule 1.02 Scope of Representation and Allocation of Authority Between Client and Lawyer 
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. 
 
@@ -102,7 +111,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.3	Diligence
+## Rule 1.3	Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
@@ -130,9 +139,9 @@ Adopted by the Supreme Court July 24, 1997;
 
 Amendments Approved by the Supreme Court: March 1, 2003; September 28, 2017.
 
-# 27 NCAC 02 Rule 1.04	Communication
+## Rule 1.04 Communication
 
-(a)  A lawyer shall:
+(a) A lawyer shall:
 
 	(1)	promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(f), is required by these Rules; 
 
@@ -144,29 +153,29 @@ Amendments Approved by the Supreme Court: March 1, 2003; September 28, 2017.
 
 	(5)	consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 
-(b)  A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+(b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
 ##### Comment
 
-[1]  Reasonable communication between the lawyer and the client is necessary for the client effectively to participate in the representation.
+[1] Reasonable communication between the lawyer and the client is necessary for the client effectively to participate in the representation.
 
 Communicating with Client
 
-[2]  If these Rules require that a particular decision about the representation be made by the client, paragraph (a)(1) requires that the lawyer promptly consult with and secure the client's consent prior to taking action unless prior discussions with the client have resolved what action the client wants the lawyer to take. For example, a lawyer who receives from opposing counsel an offer of settlement in a civil controversy or a proffered plea bargain in a criminal case must promptly inform the client of its substance unless the client has previously indicated that the proposal will be acceptable or unacceptable or has authorized the lawyer to accept or to reject the offer. See Rule 1.2(a).
+[2] If these Rules require that a particular decision about the representation be made by the client, paragraph (a)(1) requires that the lawyer promptly consult with and secure the client's consent prior to taking action unless prior discussions with the client have resolved what action the client wants the lawyer to take. For example, a lawyer who receives from opposing counsel an offer of settlement in a civil controversy or a proffered plea bargain in a criminal case must promptly inform the client of its substance unless the client has previously indicated that the proposal will be acceptable or unacceptable or has authorized the lawyer to accept or to reject the offer. See Rule 1.2(a).
 
-[3]  Paragraph (a)(2) requires the lawyer to consult with the client about the means to be used to accomplish the client's objectives. In some situations - depending on both the importance of the action under consideration and the feasibility of consulting with the client - this duty will require consultation prior to taking action. In other circumstances, such as during a trial when an immediate decision must be made, the exigency of the situation may require the lawyer to act without prior consultation. In such cases the lawyer must nonetheless act reasonably to inform the client of actions the lawyer has taken on the client's behalf. Additionally, paragraph (a)(3) requires that the lawyer keep the client reasonably informed about the status of the matter, such as significant developments affecting the timing or the substance of the representation.
+[3] Paragraph (a)(2) requires the lawyer to consult with the client about the means to be used to accomplish the client's objectives. In some situations - depending on both the importance of the action under consideration and the feasibility of consulting with the client - this duty will require consultation prior to taking action. In other circumstances, such as during a trial when an immediate decision must be made, the exigency of the situation may require the lawyer to act without prior consultation. In such cases the lawyer must nonetheless act reasonably to inform the client of actions the lawyer has taken on the client's behalf. Additionally, paragraph (a)(3) requires that the lawyer keep the client reasonably informed about the status of the matter, such as significant developments affecting the timing or the substance of the representation.
 
-[4]  A lawyer's regular communication with clients will minimize the occasions on which a client will need to request information concerning the representation. When a client makes a reasonable request for information, however, paragraph (a)(4) requires prompt compliance with the request, or if a prompt response is not feasible, that the lawyer, or a member of the lawyer's staff, acknowledge receipt of the request and advise the client when a response may be expected. A lawyer should address with the client how the lawyer and the client will communicate, and should respond to or acknowledge client communications in a reasonable and timely manner.
+[4] A lawyer's regular communication with clients will minimize the occasions on which a client will need to request information concerning the representation. When a client makes a reasonable request for information, however, paragraph (a)(4) requires prompt compliance with the request, or if a prompt response is not feasible, that the lawyer, or a member of the lawyer's staff, acknowledge receipt of the request and advise the client when a response may be expected. A lawyer should address with the client how the lawyer and the client will communicate, and should respond to or acknowledge client communications in a reasonable and timely manner.
 
 Explaining Matters
 
-[5]  The client should have sufficient information to participate intelligently in decisions concerning the objectives of the representation and the means by which they are to be pursued, to the extent the client is willing and able to do so. Adequacy of communication depends in part on the kind of advice or assistance that is involved. For example, when there is time to explain a proposal made in a negotiation, the lawyer should review all important provisions with the client before proceeding to an agreement. In litigation a lawyer should explain the general strategy and prospects of success and ordinarily should consult the client on tactics that are likely to result in significant expense or to injure or coerce others. On the other hand, a lawyer ordinarily will not be expected to describe trial or negotiation strategy in detail. The guiding principle is that the lawyer should fulfill reasonable client expectations for information consistent with the duty to act in the client's best interests, and the client's overall requirements as to the character of representation. In certain circumstances, such as when a lawyer asks a client to consent to a representation affected by a conflict of interest, the client must give informed consent, as defined in Rule 1.0(f).
+[5] The client should have sufficient information to participate intelligently in decisions concerning the objectives of the representation and the means by which they are to be pursued, to the extent the client is willing and able to do so. Adequacy of communication depends in part on the kind of advice or assistance that is involved. For example, when there is time to explain a proposal made in a negotiation, the lawyer should review all important provisions with the client before proceeding to an agreement. In litigation a lawyer should explain the general strategy and prospects of success and ordinarily should consult the client on tactics that are likely to result in significant expense or to injure or coerce others. On the other hand, a lawyer ordinarily will not be expected to describe trial or negotiation strategy in detail. The guiding principle is that the lawyer should fulfill reasonable client expectations for information consistent with the duty to act in the client's best interests, and the client's overall requirements as to the character of representation. In certain circumstances, such as when a lawyer asks a client to consent to a representation affected by a conflict of interest, the client must give informed consent, as defined in Rule 1.0(f).
 
-[6]  Ordinarily, the information to be provided is that appropriate for a client who is a comprehending and responsible adult. However, fully informing the client according to this standard may be impracticable, for example, where the client is a child or suffers from diminished capacity. See Rule 1.14. When the client is an organization or group, it is often impossible or inappropriate to inform every one of its members about its legal affairs; ordinarily, the lawyer should address communications to the appropriate officials of the organization. See Rule 1.13. Where many routine matters are involved, a system of limited or occasional reporting may be arranged with the client. 
+[6] Ordinarily, the information to be provided is that appropriate for a client who is a comprehending and responsible adult. However, fully informing the client according to this standard may be impracticable, for example, where the client is a child or suffers from diminished capacity. See Rule 1.14. When the client is an organization or group, it is often impossible or inappropriate to inform every one of its members about its legal affairs; ordinarily, the lawyer should address communications to the appropriate officials of the organization. See Rule 1.13. Where many routine matters are involved, a system of limited or occasional reporting may be arranged with the client. 
 
 Withholding Information
 
-[7]  In some circumstances, a lawyer may be justified in delaying transmission of information when the client would be likely to react imprudently to an immediate communication. Thus, a lawyer might withhold a psychiatric diagnosis of a client when the examining psychiatrist indicates that disclosure would harm the client. A lawyer may not withhold information to serve the lawyer's own interest or convenience or the interests or convenience of another person. Rules or court orders governing litigation may provide that information supplied to a lawyer may not be disclosed to the client. Rule 3.4(c) directs compliance with such rules or orders.
+[7] In some circumstances, a lawyer may be justified in delaying transmission of information when the client would be likely to react imprudently to an immediate communication. Thus, a lawyer might withhold a psychiatric diagnosis of a client when the examining psychiatrist indicates that disclosure would harm the client. A lawyer may not withhold information to serve the lawyer's own interest or convenience or the interests or convenience of another person. Rules or court orders governing litigation may provide that information supplied to a lawyer may not be disclosed to the client. Rule 3.4(c) directs compliance with such rules or orders.
 
 History Note:	Authority G.S. 84-23;
 
@@ -174,7 +183,7 @@ Eff. July 24, 1997;
 
 Amended Eff. October 2, 2014; March 1, 2003.
 
-# 27 NCAC 02 Rule 1.05	FEES
+## Rule 1.05 Fees
 
 (a) A lawyer shall not make an agreement for, charge, or collect an illegal or clearly excessive fee or charge or collect a clearly excessive amount for expenses. The factors to be considered in determining whether a fee is clearly excessive include the following:
 
@@ -262,11 +271,11 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003; May 4, 2000.
 
-# 27 NCAC 02 Rule 1.06	Confidentiality of Information 
+## Rule 1.06 Confidentiality of Information 
 
-(a)  A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
+(a) A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
-(b)  A lawyer may reveal information protected from disclosure by paragraph (a) to the extent the lawyer reasonably believes necessary:
+(b) A lawyer may reveal information protected from disclosure by paragraph (a) to the extent the lawyer reasonably believes necessary:
 
 	(1)	to comply with the Rules of Professional Conduct, the law or court order;
 
@@ -352,7 +361,7 @@ Adopted by the Supreme Court: July 24, 1997;
 
 Amendments Approved by the Supreme Court: March 16, 2017; October 2, 2014; March 1, 2003.
 
-# 27 NCAC 02 Rule 1.07	CONFLICT OF INTEREST: CURRENT CLIENTS
+## Rule 1.07 Conflict of Interrest: Current Clients 
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 
@@ -378,7 +387,7 @@ General Principles
 
 [2] Resolution of a conflict of interest problem under this Rule requires the lawyer to: 1) clearly identify the client or clients; 2) determine whether a conflict of interest exists; 3) decide whether the representation may be undertaken despite the existence of a conflict, i.e., whether the conflict is consentable; and 4) if so, consult with the clients affected under paragraph (a) and obtain their informed consent, confirmed in writing. The clients affected under paragraph (a) include both of the clients referred to in paragraph (a)(1) and the one or more clients whose representation might be materially limited under paragraph (a)(2).
 
-[3] A conflict of interest may exist before representation is undertaken, in which event the representation must be declined, unless the lawyer obtains the informed consent of each client under the conditions of paragraph (b). To determine whether a conflict of interest exists, a lawyer should adopt reasonable procedures, appropriate for the size and type of firm and practice, to determine in both litigation and non-litigation matters the persons and issues involved. See also Comment to Rule 5.1. Ignorance caused by a failure to institute such procedures will not excuse a lawyer's violation of this Rule. As to whether a client-lawyer relationship exists or, having once been established, is continuing, see  Comment to Rule 1.3 and Scope.
+[3] A conflict of interest may exist before representation is undertaken, in which event the representation must be declined, unless the lawyer obtains the informed consent of each client under the conditions of paragraph (b). To determine whether a conflict of interest exists, a lawyer should adopt reasonable procedures, appropriate for the size and type of firm and practice, to determine in both litigation and non-litigation matters the persons and issues involved. See also Comment to Rule 5.1. Ignorance caused by a failure to institute such procedures will not excuse a lawyer's violation of this Rule. As to whether a client-lawyer relationship exists or, having once been established, is continuing, see Comment to Rule 1.3 and Scope.
 
 [4] If a conflict arises after representation has been undertaken, the lawyer ordinarily must withdraw from the representation, unless the lawyer has obtained the informed consent of the client under the conditions of paragraph (b). See Rule 1.16. Where more than one client is involved, whether the lawyer may continue to represent any of the clients is determined both by the lawyer's ability to comply with duties owed to the former client and by the lawyer's ability to represent adequately the remaining client or clients, given the lawyer's duties to the former client. See Rule 1.9. See also Comments [5] and [29] to this Rule.
 
@@ -448,7 +457,7 @@ Conflicts in Litigation
 
 Nonlitigation Conflicts
 
-[26] Conflicts of interest under paragraphs (a)(1) and (a)(2) arise in contexts other than litigation. For a discussion of directly adverse conflicts in transactional matters,  [7]. Relevant factors in determining whether there is significant potential for material limitation include the duration and intimacy of the lawyer's relationship with the client or clients involved, the functions being performed by the lawyer, the likelihood that disagreements will arise and the likely prejudice to the client from the conflict. The question is often one of proximity and degree. See Comment [8].
+[26] Conflicts of interest under paragraphs (a)(1) and (a)(2) arise in contexts other than litigation. For a discussion of directly adverse conflicts in transactional matters, [7]. Relevant factors in determining whether there is significant potential for material limitation include the duration and intimacy of the lawyer's relationship with the client or clients involved, the functions being performed by the lawyer, the likelihood that disagreements will arise and the likely prejudice to the client from the conflict. The question is often one of proximity and degree. See Comment [8].
 
 [27] For example, conflict questions may arise in estate planning and estate administration. A lawyer may be called upon to prepare wills for several family members, such as husband and wife, and, depending upon the circumstances, a conflict of interest may be present. In estate administration the identity of the client may be unclear under the law of a particular jurisdiction. Under one view, the client is the fiduciary; under another view the client is the estate or trust, including its beneficiaries. In order to comply with conflict of interest rules, the lawyer should make clear the lawyer's relationship to the parties involved.
 
@@ -478,7 +487,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.08	CONFLICT OF INTEREST: CURRENT CLIENTS: SPECIFIC RULES
+## Rule 1.08 Conflict of Interest: Current Clients: Specific Rules
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest directly adverse to a client unless:
 
@@ -585,10 +594,12 @@ Imputation of Prohibitions
 [18] Under paragraph (j), a prohibition on conduct by an individual lawyer in paragraphs (a) through (i) also applies to all lawyers associated in a firm with the personally prohibited lawyer. For example, one lawyer in a firm may not enter into a business transaction with a client of another member of the firm without complying with paragraph (a), even if the first lawyer is not personally involved in the representation of the client.
 
 History Note:	Authority G.S. 84-23;
+
 Eff. July 24, 1997;
+
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.09	DUTIES TO FORMER CLIENTS
+## Rule 1.09 Duties to Former Clients
 
 (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 
@@ -597,6 +608,7 @@ Amended Eff. February 27, 2003.
 	(1)	whose interests are materially adverse to that person; and
 
 	(2)	about whom the lawyer had acquired information protected by Rules 1.6 and 1.9(c) that is material to the matter;
+
 unless the former client gives informed consent, confirmed in writing.
 
 (c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter: 
@@ -633,7 +645,7 @@ Adopted Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003; October 7, 1999.
 
-# 27 NCAC 02 Rule 1.10	IMPUTATION OF CONFLICTS OF INTEREST: GENERAL RULE
+## Rule 1.10 Imputation of Conflicts of Interest: General Rule
 
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless the prohibition is based on a personal interest of the prohibited lawyer, including a prohibition under Rule 6.6, and the prohibition does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm.
 
@@ -657,7 +669,7 @@ Amended Eff. February 27, 2003; October 7, 1999.
 
 Definition of "Firm"
 
-[1] For purposes of the Rules of Professional Conduct, the term "firm" denotes lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization. See Rule 1.0(d). Whether two or more lawyers constitute a firm within this definition can depend on the specific facts. See Rule 1.0, Comments [2] - [4].
+[1] For purposes of the Rules of Professional Conduct, the term "firm" denotes lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization. See Rule 1.0(d). Whether two or more lawyers constitute a firm within this definition can depend on the specific facts. See Rule 1.0, Comments [2]-[4].
 
 Principles of Imputed Disqualification
 
@@ -687,23 +699,23 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-#  1.11	Special Conflicts of Interest for Former and Current Government Officers and Employees
+# 1.11 Special Conflicts of Interest for Former and Current Government Officers and Employees
 
-(a)  Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
+(a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 
 	(1)	is subject to Rule 1.9(c); and
 
 	(2)	shall not otherwise represent a client in connection with a matter in which the lawyer participated personally and substantially as a public officer or employee, unless the appropriate government agency gives its informed consent, confirmed in writing, to the representation.
 
-(b)  When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
+(b) When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
 
 	(1)	the disqualified lawyer is timely screened from any participation in the matter; and
 
 	(2)	written notice is promptly given to the appropriate government agency to enable it to ascertain compliance with the provisions of this rule.
 
-(c)  Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter. 
+(c) Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter. 
 
-(d)  Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
+(d) Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
 
 	(1) is subject to Rules 1.7 and 1.9; and
 
@@ -713,7 +725,7 @@ Amended Eff. February 27, 2003.
 
 		(B)	negotiate for private employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially, except that a lawyer serving as a law clerk to a judge, other adjudicative officer or arbitrator may negotiate for private employment as permitted by Rule 1.12(b) and subject to the conditions stated in Rule 1.12(b).
 
-(e)  As used in this Rule, the term "matter" includes:
+(e) As used in this Rule, the term "matter" includes:
 
 	(1)	any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
 
@@ -745,7 +757,7 @@ Adopted Eff. July 24, 1997;
 
 Amended Eff. October 6, 2004; February 27, 2003.
 
-# 27 NCAC 02 Rule 1.12	FORMER JUDGE, ARBITRATOR, MEDIATOR OR OTHER THIRD-PARTY NEUTRAL
+## Rule 1.12 Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
 
 (a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 
@@ -773,25 +785,25 @@ Amended Eff. October 6, 2004; February 27, 2003.
 
 History Note:	Authority G.S. 84-23;
 
-
 Eff. July 24, 1997;
+
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.13		ORGANIZATION AS CLIENT
+## Rule 1.13 Organization as Client
 
-(a)  A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
-(b)  If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law.  
+(b) If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law. 
 
-(c)  If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
+(c) If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
 
-(d)  Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
 
-(e)  A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
+(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
 
-(f)  In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+(f) In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
 
-(g)  A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
 ##### Comment
 
@@ -801,7 +813,7 @@ The Entity as the Client
 
 [2] When one of the constituents of an organizational client communicates with the organization's lawyer in that person's organizational capacity, the communication is protected by Rule 1.6. Thus, by way of example, if an organizational client requests its lawyer to investigate allegations of wrongdoing, interviews made in the course of that investigation between the lawyer and the client's employees or other constituents are covered by Rule 1.6. This does not mean, however, that constituents of an organizational client are the clients of the lawyer. The lawyer may not disclose to such constituents information relating to the representation except for disclosures explicitly or impliedly authorized by the organizational client in order to carry out the representation or as otherwise permitted by Rule 1.6.
 
-[3] When constituents of the organization make decisions for it, the decisions ordinarily must be accepted by the lawyer even if their utility or prudence is doubtful. Decisions concerning policy and operations, including ones entailing serious risk, are not as such in the lawyer's province. Paragraph (b) makes clear, however, that when the lawyer knows that the organization may be substantially injured by action of an officer or other constituent that violates a legal obligation to the organization or is a violation of the law that might be imputed to the organization, the lawyer must proceed as is reasonably necessary in the best interest of the organization. As defined in Rule 1.0(g), knowledge can be inferred from circumstances, and a lawyer cannot ignore the obvious.  
+[3] When constituents of the organization make decisions for it, the decisions ordinarily must be accepted by the lawyer even if their utility or prudence is doubtful. Decisions concerning policy and operations, including ones entailing serious risk, are not as such in the lawyer's province. Paragraph (b) makes clear, however, that when the lawyer knows that the organization may be substantially injured by action of an officer or other constituent that violates a legal obligation to the organization or is a violation of the law that might be imputed to the organization, the lawyer must proceed as is reasonably necessary in the best interest of the organization. As defined in Rule 1.0(g), knowledge can be inferred from circumstances, and a lawyer cannot ignore the obvious. 
 
 [4] In determining how to proceed under paragraph (b), the lawyer should give due consideration to the seriousness of the violation and its consequences, the responsibility in the organization and the apparent motivation of the person involved, the policies of the organization concerning such matters, and any other relevant considerations. Ordinarily, referral to a higher authority would be necessary. In some circumstances, however, it may be appropriate for the lawyer to ask the constituent to reconsider the matter; for example, if the circumstances involve a constituent's innocent misunderstanding of law and subsequent acceptance of the lawyer's advice, the lawyer may reasonably conclude that the best interest of the organization does not require that the matter be referred to higher authority. If a constituent persists in conduct contrary to the lawyer's advice, it will be necessary for the lawyer to take steps to have the matter reviewed by a higher authority in the organization. If the matter is of sufficient seriousness and importance or urgency to the organization, referral to higher authority in the organization may be necessary even if the lawyer has not communicated with the constituent. Any measures taken should, to the extent practicable, minimize the risk of revealing information relating to the representation to persons outside the organization. Even in circumstances where a lawyer is not obligated by Rule 1.13 to proceed, a lawyer may bring to the attention of an organizational client, including its highest authority, matters that the lawyer reasonably believes to be of sufficient importance to warrant doing so in the best interest of the organization.
 
@@ -841,7 +853,7 @@ Adopted July 24, 1997;
 
 Amended Effective March 2, 2006; March 1, 2003.
 
-# 27 NCAC 02 Rule 1.14	CLIENT WITH DIMINISHED CAPACITY
+## Rule 1.14 Client With Diminished Capacity
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -883,156 +895,280 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.15-1	Definitions
+## Rule 1.15-1[^1]	Definitions
 
-[Omitted]
+[^1]: The NC Rules on safekeeping client propery and funds (1.15-1 through 1.15-4) are far more detailed than [ABA Model Rule 1.15]({{ site.baseurl }}/rules_statutes/MRPC_Rule15). Most significantly, the NC Rules include specific provisions regarding the management and auditing of client trust accounts, most of which are omitted here. 
 
-# 27 NCAC 02 Rule 1.15-2	General Rules
+[ * * * ]
 
-[Omitted]
+## Rule 1.15-2 General Rules
 
-# 27 NCAC 02 Rule 1.15-3	Records and Accountings
+(a) Entrusted Property. All entrusted property shall be identified, held, and maintained separate from the property of the lawyer, and shall be deposited, disbursed, and distributed only in accordance with this Rule 1.15.
 
-[Omitted]
+(b) Deposit of Trust Funds. All trust funds received by or placed under the control of a lawyer shall be promptly deposited in either a general trust account or a dedicated trust account of the lawyer. Trust funds placed in a general account are those which, in the lawyer's good faith judgment, are nominal or short-term. General trust accounts are to be administered in accordance with the Rules of Professional Conduct and the provisions of 27 NCAC Chapter 1, Subchapter D, Sections .1300.
 
-# 27 NCAC 02 Rule 1.15-4	Trust Account Management in a Multi-Member Firm 
+(c) Deposit of Fiduciary Funds. All fiduciary funds received by or placed under the control of a lawyer shall be promptly deposited in a fiduciary account or a general trust account of the lawyer.
 
-[Omitted]
+(d) Safekeeping of Other Entrusted Property. A lawyer may also hold entrusted property other than fiduciary funds (such as securities) in a fiduciary account. All entrusted property received by a lawyer that is not deposited in a trust account or fiduciary account (such as a stock certificate) shall be promptly identified, labeled as property of the person or entity for whom it is to be held, and placed in a safe deposit box or other suitable place of safekeeping. The lawyer shall disclose the location of the property to the client or other person for whom it is held. Any safe deposit box or other place of safekeeping shall be located in this state, unless the lawyer has been otherwise authorized in writing by the client or other person for whom it is held.
+
+[ * * * ]
+
+(f) Funds in Accounts. A trust or fiduciary account may only hold entrusted property. Third party funds that are not received by or placed under the control of the lawyer in connection with the performance of legal services or professional fiduciary services may not be deposited or maintained in a trust or fiduciary account. Additionally, no funds belonging to a the lawyer shall be deposited or maintained in a trust account or fiduciary account of the lawyer except:
+
+	(1)	funds sufficient to open or maintain an account, pay any bank service charges, or pay any tax levied on the account; or
+
+	(2)	funds belonging in part to a client or other third party and in part currently or conditionally to the lawyer.
+
+(g) Mixed Funds Deposited Intact. When funds belonging to the lawyer are received in combination with funds belonging to the client or other persons, all of the funds shall be deposited intact. The amounts currently or conditionally belonging to the lawyer shall be identified on the deposit slip or other record. After the deposit has been finally credited to the account, the lawyer shall withdraw the amounts to which the lawyer is or becomes entitled. If the lawyer's entitlement is disputed, the disputed amounts shall remain in the trust account or fiduciary account until the dispute is resolved.
+
+(h) Items Payable to Lawyer. Any item drawn on a trust account or fiduciary account for the payment of the lawyer's fees or expenses shall be made payable to the lawyer and shall indicate on the item by client name, file number, or other identifying information the client from whose balance the item is drawn. Any item that does not include this information may not be used to withdraw funds from a trust account or a fiduciary account for payment of the lawyer's fees or expenses.
+
+[ * * * ]
+
+(j) Debit Cards Prohibited. Use of a debit card to withdraw funds from a general or dedicated trust account or a fiduciary account is prohibited.
+
+[ * * * ]
+
+(n) Delivery of Client Property. A lawyer shall promptly pay or deliver to the client, or to third persons as directed by the client, any entrusted property belonging to the client and to which the client is currently entitled.
+
+(o) Property Received as Security. Any entrusted property or document of title delivered to a lawyer as security for the payment of a fee or other obligation to the lawyer shall be held in trust in accordance with this Rule 1.15 and shall be clearly identified as property held as security and not as a completed transfer of beneficial ownership to the lawyer. This provision does not apply to property received by a lawyer on account of fees or other amounts owed to the lawyer at the time of receipt; however, such transfers are subject to the rules governing legal fees or business transactions between a lawyer and client.
+
+(p) Duty to Report Misappropriation. A lawyer who discovers or reasonably believes that entrusted property has been misappropriated or misapplied shall promptly inform the Trust Account Compliance Counsel (TACC) in the North Carolina State Bar Office of Counsel. Discovery of intentional theft or fraud must be reported to the TACC immediately. When an accounting or bank error results in an unintentional and inadvertent use of one client's trust funds to pay the obligations of another client, the event must be reported unless the misapplication is discovered and rectified on or before the next quarterly reconciliation required by Rule 1.15-3(d)(1). This rule requires disclosure of information otherwise protected by Rule 1.6 if necessary to report the misappropriation or misapplication.	
+
+(q) Interest on Deposited Funds. Under no circumstances shall the lawyer be entitled to any interest earned on funds deposited in a trust account or fiduciary account. Except as authorized by Rule .1316 of subchapter 1D of the Rules and Regulations of the North Carolina State Bar, any interest earned on a trust account or fiduciary account, less any amounts deducted for bank service charges and taxes, shall belong to the client or other person or entity entitled to the corresponding principal amount.
+
+(r) Abandoned Property. If entrusted property is unclaimed, the lawyer shall make due inquiry of his or her personnel, records and other sources of information in an effort to determine the identity and location of the owner of the property. If that effort is successful, the entrusted property shall be promptly transferred to the person or entity to whom it belongs. If the effort is unsuccessful and the provisions of G.S. 116B-53 are satisfied, the property shall be deemed abandoned, and the lawyer shall comply with the requirements of Chapter 116B of the General Statutes concerning the escheat of abandoned property.
+
+[ * * * ]
 
 
-# 27 NCAC 02 Rule 1.16	DECLINING OR TERMINATING REPRESENTATION
+## Rule 1.15-3 Records and Accountings
+
+[ * * * ]
+
+## Rule 1.15-4 Trust Account Management in a Multi-Member Firm 
+
+[ * * * ]
+
+
+## Rule 1.16 Declining or Terminating Representation
+
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
-(1)	the representation will result in violation of law or the Rules of Professional Conduct;
-(2)	the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
-(3)	the lawyer is discharged.
+
+	(1)	the representation will result in violation of law or the Rules of Professional Conduct;
+
+	(2)	the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
+
+	(3)	the lawyer is discharged.
+
 (b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if: 
-(1)	withdrawal can be accomplished without material adverse effect on the interests of the client; or
-(2)	the client knowingly and freely assents to the termination of the representation; or
-(3)	the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent; or
-(4)	the client insists upon taking action that the lawyer considers repugnant, imprudent, or contrary to the advice and judgment of the lawyer, or with which the lawyer has a fundamental disagreement; or
-(5)	the client has used the lawyer's services to perpetrate a crime or fraud; or
-(6)	the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled; or
-(7)	the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or 
-(8)	the client insists upon presenting a claim or defense that is not warranted under existing law and cannot be supported by good faith argument for an extension, modification, or reversal of existing law; or
-(9)	other good cause for withdrawal exists.
+
+	(1)	withdrawal can be accomplished without material adverse effect on the interests of the client; or
+
+	(2)	the client knowingly and freely assents to the termination of the representation; or
+
+	(3)	the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent; or
+
+	(4)	the client insists upon taking action that the lawyer considers repugnant, imprudent, or contrary to the advice and judgment of the lawyer, or with which the lawyer has a fundamental disagreement; or
+
+	(5)	the client has used the lawyer's services to perpetrate a crime or fraud; or
+
+	(6)	the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled; or
+
+	(7)	the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or 
+
+	(8)	the client insists upon presenting a claim or defense that is not warranted under existing law and cannot be supported by good faith argument for an extension, modification, or reversal of existing law; or
+
+	(9)	other good cause for withdrawal exists.
+
 (c) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
+
 (d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
 
 ##### Comment
 
 [1] A lawyer should not accept representation in a matter unless it can be performed competently, promptly, without improper conflict of interest and to completion. Ordinarily, a representation in a matter is completed when the agreed-upon assistance has been concluded. See Rules 1.2(c) and 6.5. See also Rule 1.3, Comment [4].
+
 Mandatory Withdrawal
+
 [2] A lawyer ordinarily must decline or withdraw from representation if the client demands that the lawyer engage in conduct that is illegal or violates the Rules of Professional Conduct or other law. The lawyer is not obliged to decline or withdraw simply because the client suggests such a course of conduct; a client may make such a suggestion in the hope that a lawyer will not be constrained by a professional obligation.
+
 [3] When a lawyer has been appointed to represent a client, withdrawal ordinarily requires approval of the appointing authority. Similarly, court approval or notice to the court is often required by applicable law before a lawyer withdraws from pending litigation. Difficulty may be encountered if withdrawal is based on the client's demand that the lawyer engage in unprofessional conduct. The court may request an explanation for the withdrawal, while the lawyer may be bound to keep confidential the facts that would constitute such an explanation. The lawyer's statement that professional considerations require termination of the representation ordinarily should be accepted as sufficient. Lawyers should be mindful of their obligations to both clients and the court under Rules 1.6 and 3.3.
 
 Discharge
+
 [4] A client has a right to discharge a lawyer at any time, with or without cause, subject to liability for payment for the lawyer's services. Where future dispute about the withdrawal may be anticipated, it may be advisable to prepare a written statement reciting the circumstances.
+
 [5] Whether a client can discharge appointed counsel may depend on applicable law. A client seeking to do so should be given a full explanation of the consequences. These consequences may include a decision by the appointing authority that appointment of successor counsel is unjustified, thus requiring self-representation by the client.
+
 [6] If the client has severely diminished capacity, the client may lack the legal capacity to discharge the lawyer, and in any event the discharge may be seriously adverse to the client's interests. The lawyer should make special effort to help the client consider the consequences and may take reasonably necessary protective action as provided in Rule 1.14.
 
 Optional Withdrawal
+
 [7] A lawyer may withdraw from representation in some circumstances. The lawyer has the option to withdraw if it can be accomplished without material adverse effect on the client's interests. Forfeiture by the client of a substantial financial investment in the representation may have such effect on the client's interests. Withdrawal is also justified if the client persists in a course of action that the lawyer reasonably believes is criminal or fraudulent, for a lawyer is not required to be associated with such conduct even if the lawyer does not further it. Withdrawal is also permitted if the lawyer's services were misused in the past even if that would materially prejudice the client. The lawyer may also withdraw where the client insists on taking action that the lawyer considers repugnant or imprudent or with which the lawyer has a fundamental disagreement.
+
 [8] A lawyer may withdraw if the client refuses to abide by the terms of an agreement relating to the representation, such as an agreement concerning fees or court costs or an agreement limiting the objectives of the representation.
 
 Assisting the Client upon Withdrawal
+
 [9] Even if the lawyer has been unfairly discharged by the client, a lawyer must take all reasonable steps to mitigate the consequences to the client. 
+
 [10] The lawyer may never retain papers to secure a fee. Generally, anything in the file that would be helpful to successor counsel should be turned over. This includes papers and other things delivered to the discharged lawyer by the client such as original instruments, correspondence, and canceled checks. Copies of all correspondence received and generated by the withdrawing or discharged lawyer should be released as well as legal instruments, pleadings, and briefs submitted by either side or prepared and ready for submission. The lawyer's personal notes and incomplete work product need not be released.
+
 [11] A lawyer who represented an indigent on an appeal which has been concluded and who obtained a trial transcript furnished by the state for use in preparing the appeal, must turn over the transcript to the former client upon request, the transcript being property to which the former client is entitled.
 
 History Note:	Authority G.S. 84-23;
+
 Eff. July 24, 1997;
+
 Amended Eff. February 27, 2003.
 
-# 27 NCAC 02 Rule 1.17		Sale of a Law Practice
+## Rule 1.17 Sale of a Law Practice
+
 A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
-(a)  The seller ceases to engage in the private practice of law, or in the area of practice that has been sold, from an office that is within a one-hundred (100) mile radius of the purchased law practice, except the seller may continue to practice law with the purchaser and may provide legal representation at no charge to indigent persons or to members of the seller's family;
-(b)  The entire practice, or the entire area of practice, is sold to one or more lawyers or law firms;
-(c)  Written notice is sent to each of the seller's clients regarding:
-(1)	the proposed sale, including the identity of the purchaser;
-(2)	the client's right to retain other counsel and to take possession of the client's files prior to the sale or at any time thereafter; and
-(3)	the fact that the client's consent to the transfer of the client's files and legal representation to the purchaser will be presumed if the client does not take any action or does not otherwise object within thirty (30) days of receipt of the notice.
-(d)  If the seller or the purchaser identifies a conflict of interest that prohibits the purchaser from representing the client, the seller's notice to the client shall advise the client to retain substitute counsel.
-(e)  If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file. In the event the court fails to grant a substitution of counsel in a matter, that matter shall not be included in the sale and the sale otherwise shall be unaffected.
-(f)  The fees charged clients shall not be increased by reason of the sale.
-(g)  The seller and purchaser may agree that the purchaser does not have to pay the entire sales price for the seller's law practice in one lump sum.  The seller and purchaser may enter into reasonable arrangements to finance the purchaser's acquisition of the seller's law practice without violating Rules 1.5(e) and 5.4(a).  The seller, however, shall have no say regarding the purchaser's conduct of the law practice.
+
+(a) The seller ceases to engage in the private practice of law, or in the area of practice that has been sold, from an office that is within a one-hundred (100) mile radius of the purchased law practice, except the seller may continue to practice law with the purchaser and may provide legal representation at no charge to indigent persons or to members of the seller's family;
+
+(b) The entire practice, or the entire area of practice, is sold to one or more lawyers or law firms;
+
+(c) Written notice is sent to each of the seller's clients regarding:
+
+	(1)	the proposed sale, including the identity of the purchaser;
+
+	(2)	the client's right to retain other counsel and to take possession of the client's files prior to the sale or at any time thereafter; and
+
+	(3)	the fact that the client's consent to the transfer of the client's files and legal representation to the purchaser will be presumed if the client does not take any action or does not otherwise object within thirty (30) days of receipt of the notice.
+
+(d) If the seller or the purchaser identifies a conflict of interest that prohibits the purchaser from representing the client, the seller's notice to the client shall advise the client to retain substitute counsel.
+
+(e) If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file. In the event the court fails to grant a substitution of counsel in a matter, that matter shall not be included in the sale and the sale otherwise shall be unaffected.
+
+(f) The fees charged clients shall not be increased by reason of the sale.
+
+(g) The seller and purchaser may agree that the purchaser does not have to pay the entire sales price for the seller's law practice in one lump sum. The seller and purchaser may enter into reasonable arrangements to finance the purchaser's acquisition of the seller's law practice without violating Rules 1.5(e) and 5.4(a). The seller, however, shall have no say regarding the purchaser's conduct of the law practice.
 
 ##### Comment
 
 [1] The practice of law is a profession, not merely a business. Clients are not commodities that can be purchased and sold at will. Pursuant to this Rule, when a lawyer or an entire firm ceases to practice and other lawyers or firms take over the representation, the selling lawyer or firm may obtain compensation for the reasonable value of the practice as may withdrawing principals of law firms. See Rules 5.4 and 5.6.
+
 Termination of Practice by the Seller
+
 [2] The requirement that all of the private practice be sold is satisfied if the seller in good faith makes the entire practice available for sale to the purchasers. The fact that a number of the seller's clients decide not to be represented by the purchasers but take their matters elsewhere, therefore, does not result in a violation. Return to private practice as a result of an unanticipated change in circumstances does not necessarily result in a violation. For example, a lawyer who has sold the practice to accept an appointment to judicial office does not violate the requirement that the sale be attendant to cessation of practice if the lawyer later resumes private practice upon being defeated in a contested or a retention election for the office.
+
 [3] The requirement that the seller cease to engage in the private practice of law does not prohibit employment as an independent contract lawyer or an employee for the practice. Permitting the seller to continue to work for the practice will assist in the smooth transition of cases and will provide mentoring to new lawyers. The requirement that the seller cease private practice also does not prohibit employment as a lawyer on the staff of a public agency or a legal services entity that provides legal services to the poor, or as in-house counsel to a business. Similarly, the Rule allows the seller to provide pro bono representation to indigent persons on his own initiative and to provide legal representation to family members without charge.
+
 See also 98 Formal Ethics Opinion 6 (1998) (requirements in rule relative to sale of law practice to lawyer who is stranger to the firm do not apply to the sale of law practice to lawyer who is a current employee of firm).
+
 [4] The Rule permits a sale attendant upon discontinuing the private practice of law from an office that is within a one-hundred (100) mile radius of the purchased practice. Its provisions, therefore, accommodate the lawyer who sells the practice upon the occasion of moving to another part of North Carolina or to another state.
+
 Sale of Entire Practice or Entire Area of Practice
+
 [5] The Rule requires that the seller's entire practice, or an entire area of practice, be sold. The prohibition against sale of less than the entire practice area protects those clients whose matters are less lucrative and who might find it difficult to secure other counsel if a sale could be limited to substantial fee-generating matters. The purchasers are required to undertake all client matters in the practice or practice area, subject to client consent. This requirement is satisfied, however, even if a purchaser is unable to undertake a particular client matter because of a conflict of interest.
+
 Client Confidences, Consent and Notice
+
 [6] Written notice of the proposed sale must be sent to all clients who are currently represented by the seller and to all former clients whose files will be transferred to the purchaser. Although it is not required by this rule, the placement of a notice of the proposed sale in a local newspaper of general circulation would supplement the effort to provide notice to clients as required by Paragraph (c) of the rule.
+
 [7] A lawyer or law firm ceasing to practice cannot be required to remain in practice because some clients cannot be given actual notice of the proposed purchase. Since these clients cannot themselves consent to the purchase or direct any other disposition of their files, the Rule requires an order from a court having jurisdiction authorizing their transfer or other disposition. The Court can be expected to determine whether reasonable efforts to locate the client have been exhausted, and whether the absent client's legitimate interests will be served by authorizing the transfer of the file so that the purchaser may continue the representation. Preservation of client confidences requires that the petition for a court order be considered in camera.
+
 [8] Negotiations between seller and prospective purchaser prior to disclosure of information relating to a specific representation of an identifiable client no more violate the confidentiality provisions of Rule 1.6 than do preliminary discussions concerning the possible association of another lawyer or mergers between firms, with respect to which client consent is not required. See Rule 1.6(b)(8). Providing the purchaser access to detailed information relating to the representation, such as the client's file, however, requires client consent. The Rule provides that before such information can be disclosed by the seller to the purchaser the client must be given actual written notice of the contemplated sale, including the identity of the purchaser, and must be told that the decision to consent or make other arrangements must be made within 30 days. If nothing is heard from the client within that time, consent to the sale is presumed.
+
 [9] All the elements of client autonomy, including the client's absolute right to discharge a lawyer and transfer the representation to another, survive the sale of the practice. The notice to clients must advise clients that they have a right to retain a lawyer other than the purchaser. In addition, the notice must inform clients that their right to counsel of their choice continues after the sale even though they consent to the transfer of the representation to the purchaser.
+
 Fee Arrangements Between Client and Purchaser
+
 [10] The sale may not be financed by increases in fees charged the clients of the practice. Existing agreements between the seller and the client as to fees and the scope of the work must be honored by the purchaser.
+
 Other Applicable Ethical Standards
+
 [11] Lawyers participating in the sale of a law practice are subject to the ethical standards applicable to involving another lawyer in the representation of a client. These include, for example, the seller's obligation to exercise competence in identifying a purchaser qualified to assume the practice and the purchaser's obligation to undertake the representation competently ( see Rule 1.1); the obligation to avoid disqualifying conflicts, and to secure the client's informed consent for those conflicts that can be agreed to ( see Rule 1.7 regarding conflicts and Rule 1.0(f) for the definition of informed consent); and the obligation to protect information relating to the representation (see Rules 1.6 and 1.9).
+
 [12] If approval of the substitution of the purchasing lawyer for the selling lawyer is required by the rules of any tribunal in which a matter is pending, such approval must be obtained before the matter can be included in the sale (see Rule 1.16).
+
 [13] After purchase, the law practice may retain the same name subject to the requirements of Rule 7.5. The seller's retirement or discontinuation of affiliation with the law practice must be indicated on letterhead and other communications as necessary to avoid misleading the public as to the seller's relationship to the law practice. If the seller becomes an independent contract lawyer or employee of the practice, the letterhead and other communications must indicate that the seller is no longer the owner of the firm; an "of counsel" designation would be sufficient to do so.
+
 Applicability of the Rule
+
 [14] This Rule applies to the sale of a law practice by representatives of a deceased, disabled or disappeared lawyer. Thus, the seller may be represented by a non-lawyer representative not subject to these Rules. Since, however, no lawyer may participate in a sale of a law practice which does not conform to the requirements of this Rule, the representatives of the seller as well as the purchasing lawyer can be expected to see to it that they are met.
+
 [15] Admission to or retirement from a law partnership or professional association, retirement plans and similar arrangements, and a sale of tangible assets of a law practice, do not constitute a sale or purchase governed by this Rule.
+
 [16] This Rule does not apply to the transfers of legal representation between lawyers when such transfers are unrelated to the sale of a practice.
 
 History Note:	Authority G.S. 84-23;
+
 Eff. July 24, 1997;
+
 Amendments Approved by the Supreme Court: September 22, 2016; October 2, 2014; November 16, 2006; March 1, 2003.
 
-Ethics Opinion Notes
+##### Ethics Opinion Notes
+
 98 Formal Ethics Opinion 6. Opinion rules that the requirements set forth in Rule 1.17 relative to the sale of a law practice to a lawyer who is a stranger to the firm do not apply to the sale of a law practice to lawyers who are current employees of the firm.
 
-# 27 NCAC 02 Rule 1.18	Duties to Prospective Client
-(a)  A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
-(b)  Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
-(c)  A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
-(d)  Representation is permissible if both the affected client and the prospective client have given informed consent, confirmed in writing, or:
-(1)	the disqualified lawyer is timely screened from any participation in the matter; and
-(2)	written notice is promptly given to the prospective client.
+## Rule 1.18 Duties to Prospective Client
+
+(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+
+(d) Representation is permissible if both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+
+	(1)	the disqualified lawyer is timely screened from any participation in the matter; and
+
+	(2)	written notice is promptly given to the prospective client.
 
 ##### Comment
 
-[1]  Prospective clients, like clients, may disclose information to a lawyer, place documents or other property in the lawyer's custody, or rely on the lawyer's advice. A lawyer's consultations with a prospective client usually are limited in time and depth and leave both the prospective client and the lawyer free (and sometimes required) to proceed no further. Hence, prospective clients should receive some but not all of the protection afforded clients.
-[2]  A person becomes a prospective client by consulting with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter. Whether communications, including written, oral, or electronic communications, constitute a consultation depends on the circumstances. For example, a consultation is likely to have occurred if a lawyer, either in person or through the lawyer's advertising in any medium, specifically requests or invites the submission of information about a potential representation without clear and reasonably understandable warnings and cautionary statements that limit the lawyer's obligations, and a person provides information in response. In such a situation, to avoid the creation of a duty to the person under this Rule, a lawyer has an affirmative obligation to warn the person that a communication with the lawyer will not create a client-lawyer relationship and information conveyed to the lawyer will not be confidential or privileged. See also Comment [4]. In contrast, a consultation does not occur if a person provides information to a lawyer in response to advertising that merely describes the lawyer's education, experience, areas of practice, and contact information, or provides legal information of general interest. Such a person is communicating information unilaterally to a lawyer, without any reasonable expectation that the lawyer is willing to discuss the possibility of forming a client-lawyer relationship, and is thus not a "prospective client." Moreover, a person who communicates with a lawyer for the purpose of disqualifying the lawyer is not a "prospective client." 
-[3]  It is often necessary for a prospective client to reveal information to the lawyer during an initial consultation prior to the decision about formation of a client-lawyer relationship. The lawyer often must learn such information to determine whether there is a conflict of interest with an existing client and whether the matter is one that the lawyer is willing to undertake. Paragraph (b) prohibits the lawyer from using or revealing that information, except as permitted by Rule 1.9, even if the client or lawyer decides not to proceed with the representation. The duty exists regardless of how brief the initial conference may be.
-[4]  In order to avoid acquiring disqualifying information from a prospective client, a lawyer considering whether or not to undertake a new matter should limit the initial consultation to only such information as reasonably appears necessary for that purpose. Where the information indicates that a conflict of interest or other reason for non-representation exists, the lawyer should so inform the prospective client or decline the representation. If the prospective client wishes to retain the lawyer, and if consent is possible under Rule 1.7, then consent from all affected present or former clients must be obtained before accepting the representation.
-[5]  A lawyer may condition a consultation with a prospective client on the person's informed consent that no information disclosed during the consultation will prohibit the lawyer from representing a different client in the matter. See Rule 1.0(f) for the definition of informed consent. If the agreement expressly so provides, the prospective client may also consent to the lawyer's subsequent use of information received from the prospective client.
-[6]  Even in the absence of an agreement, under paragraph (c), the lawyer is not prohibited from representing a client with interests adverse to those of the prospective client in the same or a substantially related matter unless the lawyer has received from the prospective client information that could be significantly harmful if used in the matter.
-[7]  Under paragraph (c), the prohibition in this Rule is imputed to other lawyers as provided in Rule 1.10, but, under paragraph (d), imputation may be avoided if the lawyer obtains the informed consent, confirmed in writing, of both the prospective and affected clients. In the alternative, imputation may be avoided if all disqualified lawyers are timely screened and written notice is promptly given to the prospective client. See Rule 1.0(l) (requirements for screening procedures). Paragraph (d)(1) does not prohibit the screened lawyer from receiving a salary or partnership share established by prior independent agreement nor does it specifically prohibit the receipt of a part of the fee from the screened matter. However, Rule 8.4(c) prohibits the screened lawyer from participating in the fee if such participation was impliedly or explicitly offered as an inducement to the lawyer to become associated with the firm.
-[8]  Notice, including a description of the screened lawyer's prior representation and of the screening procedures employed, generally should be given as soon as practicable after the need for screening becomes apparent. When disclosure is likely to significantly injure the client, a reasonable delay may be justified.
+[1] Prospective clients, like clients, may disclose information to a lawyer, place documents or other property in the lawyer's custody, or rely on the lawyer's advice. A lawyer's consultations with a prospective client usually are limited in time and depth and leave both the prospective client and the lawyer free (and sometimes required) to proceed no further. Hence, prospective clients should receive some but not all of the protection afforded clients.
+
+[2] A person becomes a prospective client by consulting with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter. Whether communications, including written, oral, or electronic communications, constitute a consultation depends on the circumstances. For example, a consultation is likely to have occurred if a lawyer, either in person or through the lawyer's advertising in any medium, specifically requests or invites the submission of information about a potential representation without clear and reasonably understandable warnings and cautionary statements that limit the lawyer's obligations, and a person provides information in response. In such a situation, to avoid the creation of a duty to the person under this Rule, a lawyer has an affirmative obligation to warn the person that a communication with the lawyer will not create a client-lawyer relationship and information conveyed to the lawyer will not be confidential or privileged. See also Comment [4]. In contrast, a consultation does not occur if a person provides information to a lawyer in response to advertising that merely describes the lawyer's education, experience, areas of practice, and contact information, or provides legal information of general interest. Such a person is communicating information unilaterally to a lawyer, without any reasonable expectation that the lawyer is willing to discuss the possibility of forming a client-lawyer relationship, and is thus not a "prospective client." Moreover, a person who communicates with a lawyer for the purpose of disqualifying the lawyer is not a "prospective client." 
+
+[3] It is often necessary for a prospective client to reveal information to the lawyer during an initial consultation prior to the decision about formation of a client-lawyer relationship. The lawyer often must learn such information to determine whether there is a conflict of interest with an existing client and whether the matter is one that the lawyer is willing to undertake. Paragraph (b) prohibits the lawyer from using or revealing that information, except as permitted by Rule 1.9, even if the client or lawyer decides not to proceed with the representation. The duty exists regardless of how brief the initial conference may be.
+
+[4] In order to avoid acquiring disqualifying information from a prospective client, a lawyer considering whether or not to undertake a new matter should limit the initial consultation to only such information as reasonably appears necessary for that purpose. Where the information indicates that a conflict of interest or other reason for non-representation exists, the lawyer should so inform the prospective client or decline the representation. If the prospective client wishes to retain the lawyer, and if consent is possible under Rule 1.7, then consent from all affected present or former clients must be obtained before accepting the representation.
+
+[5] A lawyer may condition a consultation with a prospective client on the person's informed consent that no information disclosed during the consultation will prohibit the lawyer from representing a different client in the matter. See Rule 1.0(f) for the definition of informed consent. If the agreement expressly so provides, the prospective client may also consent to the lawyer's subsequent use of information received from the prospective client.
+
+[6] Even in the absence of an agreement, under paragraph (c), the lawyer is not prohibited from representing a client with interests adverse to those of the prospective client in the same or a substantially related matter unless the lawyer has received from the prospective client information that could be significantly harmful if used in the matter.
+
+[7] Under paragraph (c), the prohibition in this Rule is imputed to other lawyers as provided in Rule 1.10, but, under paragraph (d), imputation may be avoided if the lawyer obtains the informed consent, confirmed in writing, of both the prospective and affected clients. In the alternative, imputation may be avoided if all disqualified lawyers are timely screened and written notice is promptly given to the prospective client. See Rule 1.0(l) (requirements for screening procedures). Paragraph (d)(1) does not prohibit the screened lawyer from receiving a salary or partnership share established by prior independent agreement nor does it specifically prohibit the receipt of a part of the fee from the screened matter. However, Rule 8.4(c) prohibits the screened lawyer from participating in the fee if such participation was impliedly or explicitly offered as an inducement to the lawyer to become associated with the firm.
+
+[8] Notice, including a description of the screened lawyer's prior representation and of the screening procedures employed, generally should be given as soon as practicable after the need for screening becomes apparent. When disclosure is likely to significantly injure the client, a reasonable delay may be justified.
+
 [9] For the duty of competence of a lawyer who gives assistance on the merits of a matter to a prospective client, see Rule 1.1. For a lawyer's duties when a prospective client entrusts valuables or papers to the lawyer's care, see Rule 1.15. For the special considerations when a prospective client has diminished capacity, see Rule 1.14.
 
 History Note:	Authority G.S. 84-23;
+
 Eff. March 1, 2003;
+
 Amended Eff. October 2, 2014.
 
-# 27 NCAC 02 Rule 1.19	Sexual Relations With Clients Prohibited
+## Rule 1.19 Sexual Relations With Clients Prohibited
 
 (a) A lawyer shall not have sexual relations with a current client of the lawyer.
 
 (b) Paragraph (a) shall not apply if a consensual sexual relationship existed between the lawyer and the client before the legal representation commenced.
+
 (c) A lawyer shall not require or demand sexual relations with a client incident to or as a condition of any professional representation.
+
 (d) For purposes of this rule, "sexual relations" means:
-(1)	Sexual intercourse; or
-(2)	Any touching of the sexual or other intimate parts of a person or causing such person to touch the sexual or other intimate parts of the lawyer for the purpose of arousing or gratifying the sexual desire of either party.
+
+	(1)	Sexual intercourse; or
+
+	(2)	Any touching of the sexual or other intimate parts of a person or causing such person to touch the sexual or other intimate parts of the lawyer for the purpose of arousing or gratifying the sexual desire of either party.
+
 (e) For purposes of this rule, "lawyer" means any lawyer who assists in the representation of the client but does not include other lawyers in a firm who provide no such assistance.
 
 ##### Comment
-
- 
 
 [1] Rule 1.7, the general rule on conflict of interest, has always prohibited a lawyer from representing a client when the lawyer's ability competently to represent the client may be impaired by the lawyer's other personal or professional commitments. Under the general rule on conflicts and the rule on prohibited transactions (Rule 1.8), relationships with clients, whether personal or financial, that affect a lawyer's ability to exercise his or her independent professional judgment on behalf of a client are closely scrutinized. The rules on conflict of interest have always prohibited the representation of a client if a sexual relationship with the client presents a significant danger to the lawyer's ability to represent the client adequately. The present rule clarifies that a sexual relationship with a client is damaging to the client-lawyer relationship and creates an impermissible conflict of interest that cannot be ameliorated by the consent of the client.
 
 Exploitation of the Lawyer's Fiduciary Position
 
 [2] The relationship between a lawyer and client is a fiduciary relationship in which the lawyer occupies the highest position of trust and confidence. The relationship is also inherently unequal. The client comes to a lawyer with a problem and puts his or her faith in the lawyer's special knowledge, skills, and ability to solve the client's problem. The same factors that led the client to place his or her trust and reliance in the lawyer also have the potential to place the lawyer in a position of dominance and the client in a position of vulnerability.
+
 [3] A sexual relationship between a lawyer and a client may involve unfair exploitation of the lawyer's fiduciary position. Because of the dependence that so often characterizes the attorney-client relationship, there is a significant possibility that a sexual relationship with a client resulted from the exploitation of the lawyer's dominant position and influence. Moreover, if a lawyer permits the otherwise benign and even recommended client reliance and trust to become the catalyst for a sexual relationship with a client, the lawyer violates one of the most basic ethical obligations; i.e., not to use the trust of the client to the client's disadvantage. This same principle underlies the rules prohibiting the use of client confidences to the disadvantage of the client and the rules that seek to ensure that lawyers do not take financial advantage of their clients. See Rules 1.6 and 1.8.
 
 Impairment of the Ability to Represent the Client Competently
@@ -1044,6 +1180,7 @@ No Prejudice to Client
 [5] The prohibition upon representing a client with whom a sexual relationship develops applies regardless of the absence of a showing of prejudice to the client and regardless of whether the relationship is consensual.
 
 Prior Consensual Relationship
+
 [6] Sexual relationships that predate the client-lawyer relationship are not prohibited. Issues relating to the exploitation of the fiduciary relationship and client dependency are not present when the sexual relationship exists prior to the commencement of the client-lawyer relationship. However, before proceeding with the representation in these circumstances, the lawyer should be confident that his or her ability to represent the client competently will not be impaired.
 
 No Imputed Disqualification

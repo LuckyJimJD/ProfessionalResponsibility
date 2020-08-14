@@ -15,12 +15,12 @@ output:
 
 ## Part 7: Information About Legal Services 
 
-### Rule 7.1: Communications Concerning a Lawyer's Services
+#### Rule 7.1: Communications Concerning a Lawyer's Services
 
 
 A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
+#### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 
 (a) A lawyer may communicate information regarding the lawyer’s services through any media.
@@ -49,7 +49,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (d) Any communication made under this Rule must include the name and contact information of at least one lawyer or law firm responsible for its content.
 
-### Rule 7.3 Solicitation of Clients
+#### Rule 7.3 Solicitation of Clients
 
 (a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
@@ -72,6 +72,6 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
+#### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.

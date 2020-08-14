@@ -13,7 +13,7 @@ affiliation: Elon Law School
 
 ## Competence
 
-#### Rule 1.1
+##### Rule 1.1
 
 "Competent representation requires the legal knowledge, skill, thoroughness and preparation necessary for the representation."
 
@@ -58,7 +58,7 @@ A lawyer must decline representation if the lawyer believes that she is not (and
 
 ## Diligence
 
-#### Rule 1.3
+##### Rule 1.3
 
 Opposition, obstruction, and personal inconvenience to the lawyer do not relieve the lawyer of this duty
 
@@ -70,7 +70,7 @@ Example: L repeatedly fails to meet discovery deadlines for no legitimate reason
 
 ## Communication
 
-#### Rule 1.4
+##### Rule 1.4
 
 Lawyer must promptly respond to client requests for information
 

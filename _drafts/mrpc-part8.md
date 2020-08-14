@@ -15,7 +15,7 @@ output:
 
 ## Part 8: Maintaining The Integrity of The Profession
 
-### Rule 8.1: Bar Admission & Disciplinary Matters
+#### Rule 8.1: Bar Admission & Disciplinary Matters
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
@@ -23,13 +23,13 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 (b) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
 
-### Rule 8.2: Judicial & Legal Officials
+#### Rule 8.2: Judicial & Legal Officials
 
 (a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 
 (b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-### Rule 8.3: Reporting Professional Misconduct
+#### Rule 8.3: Reporting Professional Misconduct
 
 (a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 
@@ -37,7 +37,7 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 (c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
 
-### Rule 8.4: Misconduct
+#### Rule 8.4: Misconduct
 
 It is professional misconduct for a lawyer to:
 
@@ -55,7 +55,7 @@ It is professional misconduct for a lawyer to:
 
 (g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
 
-### Rule 8.5: Disciplinary Authority; Choice of Law
+#### Rule 8.5: Disciplinary Authority; Choice of Law
 
 (a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
 

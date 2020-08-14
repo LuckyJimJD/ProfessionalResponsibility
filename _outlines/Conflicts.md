@@ -13,7 +13,7 @@ affiliation: Elon Law School
 
 ## Existence of a Conflict 
 
-#### Rule 1.7(a)
+##### Rule 1.7(a)
 
 > [ … ] A concurrent conflict of interest exists if: 
 > 
@@ -70,7 +70,7 @@ affiliation: Elon Law School
 
 ## Waiver
 
-#### Rule 1.7(b)
+##### Rule 1.7(b)
 
 - Conflict is waivable if:
 	- Lawyer reasonably believes that she will be able to provide competent and diligent representation to each client,
@@ -108,7 +108,7 @@ affiliation: Elon Law School
 
 ## Special Rule: Aggregate Settlements or Pleas 
 
-#### Rule 1.8(g)
+##### Rule 1.8(g)
 
 - Each client must give informed consent, in writing and signed by client
 - Must disclose 
@@ -119,7 +119,7 @@ affiliation: Elon Law School
 
 ## Disqualification
 
-#### Rule 1.9(a)
+##### Rule 1.9(a)
 
 - Lawyer may not represent a client in a matter if 
     - Lawyer formerly represented another client in the same or substantially related matter, **and**
@@ -149,7 +149,7 @@ affiliation: Elon Law School
 
 ## Information related to former representation
 
-#### Rule 1.9(c)
+##### Rule 1.9(c)
 
 - May not use information to former client’s disadvantage, unless
 	- The Rules would otherwise permit, or
@@ -164,27 +164,27 @@ Five years ago, L prepared a will for A. During this process, L learned a great 
 
 # Conflicts Between Lawyer & Client
 
-#### Rule 1.8(a)
+##### Rule 1.8(a)
 
 - Business dealings with, or financial interest adverse to, a client
 
-#### Rule 1.8(b)
+##### Rule 1.8(b)
 
 - Use of client information to client's disadvantage
 
-#### Rule 1.8(c)
+##### Rule 1.8(c)
 
 - Gifts from clients 
     - May not solicit
     - May not prepare instrument 
     - Exception for close relatives 
 
-#### Rule 1.8(d)
+##### Rule 1.8(d)
 
 - Literary or media rights based on information related to representation
     - May not negotiate or enter into agreement before representation is concluded
     
-#### Rule 1.8(e)
+##### Rule 1.8(e)
 
 - Financial assistance to client 
     - In connection with litigation 
@@ -192,7 +192,7 @@ Five years ago, L prepared a will for A. During this process, L learned a great 
         - Repayment may be contingent on outcome 
         - May pay costs and expenses for indigent client 
 
-#### Rule 1.8(h)
+##### Rule 1.8(h)
 
 - Lawyer's liability to client 
     - Agreement prospectively limiting malpractice liability
@@ -201,13 +201,13 @@ Five years ago, L prepared a will for A. During this process, L learned a great 
         - Must advise client in writing that seeking independent legal counsel is desirable, and 
         - Must give client reasonable opportunity to do so 
 
-#### Rule 1.8(i)
+##### Rule 1.8(i)
 
 - Proprietary interest in cause of action or subject matter of limitigation 
     - Attorney's lien permitted
     - Contingent fee permitted 
 
-#### Rule 1.8(j)
+##### Rule 1.8(j)
 
 - Sexual relationship with client 
     - Unless relationship existed before representation 
@@ -229,7 +229,7 @@ Five years ago, L prepared a will for A. During this process, L learned a great 
 
 ## Conflicts that Follow the Departing Lawyer
 
-#### Rule 1.9(b)
+##### Rule 1.9(b)
 
 - Same or substantially related matter
 - Current client’s interests are materially adverse to client of former firm
@@ -239,7 +239,7 @@ Waivable with informed written consent by *former* client
 
 ## Conflicts that a Departing Lawyer Leaves Behind
 
-#### Rule 1.10(b)
+##### Rule 1.10(b)
 
 - Firm may not represent a person with interests materially adverse to former lawyer’s client (not currently represented by Firm), if:
 	- Same or substantially related matter, and
@@ -249,7 +249,7 @@ Waivable with informed written consent by *former* client
 
 ## Scope of Restriction
 
-#### Rule 1.10(a)
+##### Rule 1.10(a)
 
 - Where one lawyer in firm is disqualified by conflict, all lawyers in the firm are disqualified
 - Exception:
@@ -273,7 +273,7 @@ _Note:_ Some jurisdictions permit screening to avoid imputation among lawyers in
 
 ## Conflicts Between Attorney & Client
 
-#### Rule 1.8(k)
+##### Rule 1.8(k)
 
 - Imputed
 	- Conflicts under Rule 1.8(a)-(i)

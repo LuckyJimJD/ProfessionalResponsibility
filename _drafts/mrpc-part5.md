@@ -15,7 +15,7 @@ output:
 
 ## Part 5: Law Firms and Associations 
 
-### Rule 5.1: Responsibilities of a Partner or Supervisory Lawyer
+#### Rule 5.1: Responsibilities of a Partner or Supervisory Lawyer
 
 
 (a) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
@@ -28,13 +28,13 @@ output:
 
  (2) the lawyer is a partner or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
  
-### Rule 5.2: Responsibilities of a Subordinate Lawyer
+#### Rule 5.2: Responsibilities of a Subordinate Lawyer
 
 (a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 
 (b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer's reasonable resolution of an arguable question of professional duty.
 
-### Rule 5.3: Responsibilities Regarding Nonlawyer Assistance
+#### Rule 5.3: Responsibilities Regarding Nonlawyer Assistance
 
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
@@ -48,7 +48,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
  (2) the lawyer is a partner or has comparable managerial authority in the law firm in which the person is employed, or has direct supervisory authority over the person, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-### Rule 5.4: Professional Independence of a Lawyer
+#### Rule 5.4: Professional Independence of a Lawyer
 
 (a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 
@@ -72,7 +72,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
  (3) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
-### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practice of Law
+#### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practice of Law
 
 (a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
 
@@ -104,7 +104,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
  (2) the person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction must be authorized to practice under this Rule by, in the exercise of its discretion, [the highest court of this jurisdiction].
 
-### Rule 5.6: Restrictions on Rights to Practice
+#### Rule 5.6: Restrictions on Rights to Practice
 
 A lawyer shall not participate in offering or making:
 
@@ -112,7 +112,7 @@ A lawyer shall not participate in offering or making:
 
 (b) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-### Rule 5.7: Responsibilities Regarding Law-related Services
+#### Rule 5.7: Responsibilities Regarding Law-related Services
 
 (a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 

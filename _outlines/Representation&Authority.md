@@ -77,7 +77,7 @@ Rule 1.15 (Client Property)
 
 # Allocation of Decision-Making Authority
 
-#### Rule 1.2(a)
+##### Rule 1.2(a)
 
 Client retains authority over crucial decisions regarding purposes & goals of representation
 
@@ -105,7 +105,7 @@ Heinz & Laumann, *Chicago Lawyers*
 
 ## Limited Scope of Representation
 
-#### Rule 1.2(c)
+##### Rule 1.2(c)
 
 A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent, e.g., The lawyer will handle the trial, but not any appeals
 
@@ -124,7 +124,7 @@ L’s standard retainer agreement contains the following clause: “Client agree
 
 ## Criminal or Fraudulent Conduct
 
-#### Rule 1.2(d)
+##### Rule 1.2(d)
 
 ##### Prohibited: 
 

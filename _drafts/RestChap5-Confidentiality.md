@@ -503,7 +503,7 @@ Comment:
 
 ###### d. The subsequent-proceeding exception to the co-client privilege. As stated in Subsection (2), in a subsequent proceeding in which former co-clients are adverse, one of them may not invoke the attorney-client privilege against the other with respect to communications involving either of them during the co-client relationship. That rule applies whether or not the co-client’s communication had been disclosed to the other during the co-client representation, unless they had otherwise agreed.
 
-###### Rules governing the co-client privilege are premised on an assumption that co-clients usually understand that all information is to be disclosed to all of them. Courts sometimes refer to this as a presumed intent that there should be no confidentiality between co-clients. Fairness and candor between the co-clients and with the lawyer generally precludes the lawyer from keeping information secret from any one of them, unless they have agreed otherwise (see § 60, Comment l).
+###### Rule s governing the co-client privilege are premised on an assumption that co-clients usually understand that all information is to be disclosed to all of them. Courts sometimes refer to this as a presumed intent that there should be no confidentiality between co-clients. Fairness and candor between the co-clients and with the lawyer generally precludes the lawyer from keeping information secret from any one of them, unless they have agreed otherwise (see § 60, Comment l).
 
 Illustration: 
 

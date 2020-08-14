@@ -13,7 +13,7 @@ affiliation: Elon Law School
 
 ## Meritorious Claims & Contentions 
 
-#### Rule 3.1: 
+##### Rule 3.1: 
 
 > A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
@@ -31,7 +31,7 @@ Cf. FRCP Rule 11(b)
 
 ## Expediting Litigation 
 
-#### Rule 3.2
+##### Rule 3.2
 
 > A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
@@ -41,7 +41,7 @@ Applies to all phases and aspects of litigation.
 
 ## Candor to the Tribunal
 
-#### Rule 3.3
+##### Rule 3.3
 
 > (a) A lawyer shall not knowingly:
 > 
@@ -85,7 +85,7 @@ _Rule 3.3, Comment 15:_
 
 ## Impartiality & Decorum of the Tribunal 
 
-##### Rule 3.5
+###### Rule 3.5
 
 > A lawyer shall not:
 > 
@@ -120,7 +120,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ## Trial Publicity
 
-#### Rule 3.6
+##### Rule 3.6
 
 > (a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 > 
@@ -161,7 +161,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ## Lawyer as Witness
 
-#### Rule 3.7
+##### Rule 3.7
 
 > (a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 > 
@@ -175,7 +175,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ## Special Responsibilities of Prosecutors
 
-#### Rule 3.8
+##### Rule 3.8
 
 > The prosecutor in a criminal case shall:
 > 
@@ -211,7 +211,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ##  Fairness to Opposing Parties
 
-#### Rule 3.4
+##### Rule 3.4
 
 > A lawyer shall not:
 > 
@@ -246,7 +246,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ## Advocate in Non-Adjudicative Proceedings
 
-#### Rule 3.9
+##### Rule 3.9
 
 > A lawyer representing a client before a legislative body or administrative agency in a nonadjudicative proceeding shall disclose that the appearance is in a representative capacity and shall conform to the provisions of Rules 3.3(a) through (c), 3.4(a) through (c), and 3.5.
 
@@ -254,7 +254,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ### Truthfulness In Statements To Others
 
-#### Rule 4.1
+##### Rule 4.1
 
 > In the course of representing a client a lawyer shall not knowingly:
 > 
@@ -264,7 +264,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ### Communication With Person Represented By Counsel
 
-#### Rule 4.2
+##### Rule 4.2
 
 > In representing a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order.
 
@@ -278,13 +278,13 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ### Dealing With Unrepresented Person
 
-#### Rule 4.3
+##### Rule 4.3
 
 > In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer’s role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
 
 ### Respect For Rights Of Third Persons
 
-#### Rule 4.4
+##### Rule 4.4
 
 > (a)  In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
 > 

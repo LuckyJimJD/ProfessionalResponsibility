@@ -13,7 +13,7 @@ affiliation: Elon Law School
 
 ## Reasonable Fee
 
-#### Rule 1.5(a)
+##### Rule 1.5(a)
 
 Factors
 
@@ -35,7 +35,7 @@ Factors
 
 ## Communication of Fee
 
-#### Rule 1.5(b)
+##### Rule 1.5(b)
 
 Rule says “preferably in writing”. Some jurisdictions mandate written fee agreement
 
@@ -43,7 +43,7 @@ Fee agreement is (written or oral) contract, subject to rules of contract interp
 
 ## Contingent Fees
 
-#### Rule 1.5(c)
+##### Rule 1.5(c)
 
 - Must be in writing
 - Must explain method of calculation
@@ -71,7 +71,7 @@ Accrual of attorney’s claim varies by jurisdiction:
 
 ### Limits on Contingent Fees
 
-#### Rule 1.5(d)
+##### Rule 1.5(d)
 
 ##### Domestic relations 
 
@@ -88,7 +88,7 @@ Accrual of attorney’s claim varies by jurisdiction:
 
 ### With Other Lawyers
 
-#### Rule 1.5(e)
+##### Rule 1.5(e)
 
 - Must be proportionate to attorneys’ services (or each attorney assumed joint liability)
 - Client must consent in writing
@@ -96,7 +96,7 @@ Accrual of attorney’s claim varies by jurisdiction:
 
 ### With Non-Lawyers
 
-#### Rule 5.4(a)
+##### Rule 5.4(a)
 
 Splitting fees with non-lawyers is prohibited. 
 
@@ -179,7 +179,7 @@ Factors supporting reasonableness in this case:
 
 ### Lawyer holds client funds and property as fiduciary
 
-#### Rule 1.15
+##### Rule 1.15
 
 - Must keep client property separate from lawyer’s own property
 - Must keep records of client account funds and property
@@ -234,7 +234,7 @@ Most violations result from negligence, rather that intentional misconduct. Care
 
 ### Other client property
 
-#### Rule 1.15(a)
+##### Rule 1.15(a)
 
 Client property must be identified appropriately safeguarded. 
 

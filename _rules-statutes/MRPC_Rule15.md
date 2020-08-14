@@ -4,11 +4,11 @@ date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
 title: ABA Model Rules of Professional Conduct
-    
+  
 ---
 
-# Rule 1.15: Safekeeping Property
-   
+## Rule 1.15: Safekeeping Property
+  
 Client-Lawyer Relationship
 
 (a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
