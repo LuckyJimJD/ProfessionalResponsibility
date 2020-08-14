@@ -3,11 +3,10 @@ layout: statute
 
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
-subtitle: 27 NCAC 02
   
 ---
 
-﻿## Rule 1.00 Terminology
+﻿## Rule 1.00 — Terminology
 
 (a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
