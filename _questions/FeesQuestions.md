@@ -3,7 +3,7 @@ layout: page
 
 course: Professional Responsibility
 title: 'Review Questions: Attorney Fees & Client Property'
-    
+
 ---
 
 ### Question 1
@@ -23,11 +23,11 @@ Client would like to retain Lawyer to represent him in litigation.
 ### Question 2
 
 Attorney wants to make it easier for her clients to pay their bills for fees. Which of the following would be proper for Attorney?
-    
-- Accept credit cards.    
-- Arrange for clients to get bank loans.    
-- Install an ATM machine in Attorney’s lobby.    
-- Allow clients to make installment payments.    
+
+- Accept credit cards.
+- Arrange for clients to get bank loans.
+- Install an ATM machine in Attorney’s lobby.
+- Allow clients to make installment payments.
 - Accept livestock as payment.
 
 ### Question 3
@@ -51,7 +51,7 @@ Assuming this is the entire provision related to fees, is the agreement proper?
 ### Question 6
 
 A client was an experienced oil and gas developer. The client asked an attorney for representation in a suit to establish the client’s ownership of certain oil and gas royalties. The client did not have available the necessary funds to pay the attorney’s reasonable hourly rate for undertaking the case. The client proposed instead to pay the attorney an amount in cash equal to 20% of the value of the proceeds received from the first year royalties the client might recover as a result of the suit. The attorney accepted the proposal and took the case. Is the attorney subject to discipline?
-    
+
 a. Yes, because the agreement gave the attorney a proprietary interest in the client’s cause of action.
 
 b. Yes, unless the fee the attorney receives does not exceed that which the attorney would have received by charging a reasonable hourly rate.
@@ -63,7 +63,7 @@ d. No, because the attorney may contract with the client for a reasonable contin
 ### Question 7
 
 Which of the following domestic relation matters may an Attorney handle on a contingent fee basis:
-    
+
 a. An action to obtain a divorce.
 
 b. An action involving child custody.
@@ -81,7 +81,7 @@ Is Lawyer A entitled to a fee and, if so, how much?
 ### Question 9
 
 Client hires Lawyer A to represent Client in a real estate transaction. Lawyer A has little experience in real estate deals, so Lawyer A would like to refer the case to Lawyer B, who is an experienced real estate attorney in another law firm. Lawyer A, however, wants to share in the fees. 
-    
+
 - Assuming the overall fee is reasonable, may Lawyer A do so?
 - What if Lawyer B was a member of Lawyer A’s firm?
 
@@ -90,7 +90,7 @@ Client hires Lawyer A to represent Client in a real estate transaction. Lawyer A
 An attorney represented a client in a personal injury action against the driver of the car in which the client was injured while a passenger. The personal injury action was settled, and the attorney received a check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received a letter from a bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me.” 
 
 Is the attorney subject to discipline if she follows the client’s instructions?
-    
+
 a. Yes, if the client does not dispute the $900 debt to the bank.
 
 b. Yes, because the attorney knew that the client was planning to force the bank to sue him.
@@ -104,7 +104,7 @@ d. No, because the bank has no established right to the specific proceeds of the
 An attorney and her client entered into a written retainer and hourly fee agreement that required the client to pay $5,000 in advance of any services rendered by the attorney and that required the attorney to return any portion of the $5,000 that was not earned. The agreement further provided that the attorney would render monthly statements and withdraw her fees as billed. The agreement was silent as to whether the $5,000 advance was to be deposited in the attorney’s clients’ trust account or in a general account. The attorney deposited the entire fund in her clients’ trust account, which also contained the funds of other persons that had been entrusted to the attorney. Thereafter, the attorney rendered monthly progress reports and statements for services to the client after services were rendered, showing the balance of the client’s fee advance. However, the attorney did not withdraw any of the $5,000 advance until one year later when the matter was concluded to the client’s complete satisfaction. At that time, the attorney had billed the client reasonable legal fees of $4,500. The attorney wrote two checks on her clients’ trust account: one to herself for $4,500, which she deposited in her general office account, and one for $500 to the client.
 
 Was the attorney’s conduct proper?
-    
+
 a. Yes, because the attorney deposited the funds in her clients’ trust account.
 
 b. Yes, because the attorney rendered periodic and accurate billings.
@@ -142,7 +142,7 @@ Under what conditions, if at all, may Grant do so?
 Lawyer represents Client in a replevin action to recover Client’s $25,000 mink coat from Z. At 5:15 p.m. on Friday, Z’s lawyer delivers the mink coat to Lawyer’s office. Lawyer knows that Client is out of town until Monday. 
 
 What should Lawyer do with the coat?
-    
+
 a. Arrange for the coat to be kept by a secured fur storage company.
 
 b. Leave it in the law firm’s closet.
