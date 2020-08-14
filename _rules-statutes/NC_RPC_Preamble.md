@@ -7,8 +7,6 @@ subtitle: 27 NCAC 02
   
 ---
 
-﻿CHAPTER 02 - Rules of Professional Conduct of the NOrth Carolina State Bar
-
 ## Rule 0.1	Preamble: A Lawyer's Professional Responsibilities
 
 (a) A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system, and a public citizen having special responsibility for the quality of justice.
@@ -51,7 +49,7 @@ Eff. July 24, 1997;
 
 Amended Eff. November 16, 2006; February 27, 2003.
 
-## Rule 0.2	SCOPE
+## Rule 0.2 Scope
 
 (a) The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the rules are imperatives, cast in the terms “shall” or “shall not.” These define proper conduct for purposes of professional discipline. Others, generally cast in the term “may,” are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act, or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary, and partly constitutive and descriptive in that they define a lawyer’s professional role. Many of the Comments use the term “should.” Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
 
