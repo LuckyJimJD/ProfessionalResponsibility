@@ -24,6 +24,8 @@ collections:
     output: true 
   visuals:
     output: true
+  rules_statutes:
+    output: true
 
 footer_text: >
   Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
