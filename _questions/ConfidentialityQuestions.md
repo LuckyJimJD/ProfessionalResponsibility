@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Review Questions:  Review Questions–Confidentiality"
-author: Eric M. Fink
-affiliation: Elon Law School 
 
 ---
 

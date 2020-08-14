@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Practice Exam"
-author: 'Prof. Fink'
-affiliation: 'Elon Law School'
     
 ---
 

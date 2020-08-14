@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Review Questions: Law Firms & Unauthorized Practice of Law"
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 
@@ -67,6 +65,10 @@ affiliation: Elon Law School
     b. Manager, who is the office manager and not a member of the bar, is executive vice president of Law Firm.
 
     c. Widow, whose husband was a lawyer shareholder in Law Firm until his death two years ago, continues to hold husband’s shares in Law Firm until their child finishes law school.
+
+	d. All of the above.
+
+	e. None of the above. 
 
 8. Acton, a certified public accountant, has proposed to Attorney, a recognized specialist in the field of tax law, that Acton and Attorney form a partnership for the purpose of providing clients with tax-related legal and accounting services. Both Acton and Attorney have deserved reputations for being competent, honest, and trustworthy. Acton further proposes that the announcement of the proposed partnership, the firm stationery, and all public directory listings clearly state that Acton is a certified public accountant and that Attorney is a lawyer. Is Attorney subject to discipline if he enters into the proposed partnership with Acton?
     
@@ -133,8 +135,8 @@ affiliation: Elon Law School
 
 17. The Applebaum Law Firm’s estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
     
-    a. What duties does the Applebaum firm owe to its estate planning clients?
+    a) What duties does the Applebaum firm owe to its estate planning clients?
 
-    b. May the Applebaum firm sell only those clients with assets below $1 million?
+    b) May the Applebaum firm sell only those clients with assets below $1 million?
 
-    c. May the Becker firm defray the acquisition costs by raising fees on clients it receives from Applebaum?
+    c) May the Becker firm defray the acquisition costs by raising fees on clients it receives from Applebaum?

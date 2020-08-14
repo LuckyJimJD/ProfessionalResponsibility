@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Review Questions: Duties to Courts, Opposing Parties, & Others 
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

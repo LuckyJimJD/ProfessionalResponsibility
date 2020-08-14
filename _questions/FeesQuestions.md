@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Review Questions: Attorney Fees & Client Property"
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

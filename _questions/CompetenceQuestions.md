@@ -1,10 +1,8 @@
 ---
-layout: note
+layout: exam
 
 course: Professional Responsibility
 title: "Review Questions: Competence, Diligence, & Communication"
-author: Eric M. Fink
-affiliation: Elon Law School 
 
 ---
 
@@ -14,6 +12,6 @@ affiliation: Elon Law School
 
 3. Lawyer, a partner in the Smith Law Firm, represents ABC Corp. in tax matters. ABC works with other companies (“customers”) to reduce their income tax exposure.  ABC has created a new type of transaction which purportedly has significant tax advantages. ABC would like to market this new transaction to its customers. In order to make the new transaction more appealing to customers, ABC has asked Lawyer to prepare an opinion letter in which Lawyer opines on the tax advantages. ABC will give this opinion letter to customers and potential customers.  
    
-  May Lawyer prepare the opinion letter?
+	a) May Lawyer prepare the opinion letter?
   
-  What should Lawyer do if she disagrees with ABC as to the tax advantages of the new transaction?
+	b) What should Lawyer do if she disagrees with ABC as to the tax advantages of the new transaction?
