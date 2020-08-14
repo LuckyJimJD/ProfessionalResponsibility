@@ -45,7 +45,7 @@ affiliation: Elon Law School
 - While those suits were pending, partner in firm represented plaintiff class in antitrust suit against manufacturers of oil drill bits. 
 - Firm notified Dresser that it might be joined as defendant in drill bits suit, but Dresser declined to replace firm as counsel in the two other suits. 
 
-##### Questions 
+###### Questions 
 
 - Is there a conflict under Rule 1.7(a)? 
   - If so, is the conflict waivable? 
