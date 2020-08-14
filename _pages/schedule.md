@@ -46,7 +46,7 @@ title: Schedule & Assignments
 
 #### Due September 25
 
-### Quiz: Maintaining an Ethical Law Practice
+##### Quiz: Maintaining an Ethical Law Practice
 
 ## Duties to Clients
 
@@ -87,7 +87,7 @@ title: Schedule & Assignments
 
 #### Due October 23
 
-### Quiz: Duties to Clients
+##### Quiz: Duties to Clients
 
 ## Duties to Courts, Opposing Parties, & Others
 
@@ -114,7 +114,7 @@ title: Schedule & Assignments
 
 #### Due November 20 
 
-### Quiz: Duties to Courts, Opposing Parties, & Others
+##### Quiz: Duties to Courts, Opposing Parties, & Others
 
 #### December 4
 
