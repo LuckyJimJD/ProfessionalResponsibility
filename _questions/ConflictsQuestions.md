@@ -116,14 +116,16 @@ Wanda, a partner in the Smith Law Firm, represents A in the case of A v. B. B as
 
 ### Question 15
 
-From 1999-2003, Lawyer was a partner at the Smith Law Firm. During that time, the Smith Law Firm represented A in A v. B. Lawyer played no role in the case and had no information about it. B is represented by the Jones Law Firm. While the case of A v. B was still pending, Lawyer left the Smith Law Firm and joined the Jones Law Firm. May Lawyer represent B in A v. B?
+Lawyer is a partner at the Smith Law Firm, which represents A in the case of A v. B. Lawyer has played no role in the case and had no information about it. While the case is still pending, Lawyer leaves the Smith Firm and joins the Jones Firm, which represents B in the suit between A and B. 
+
+- May Lawyer represent B in A v. B?
+- May other attorneys in the Jones Firm continue to represent B? 
 
 ### Question 16
 
-From 1999-2003, Lawyer was a partner at the Smith Law Firm. During that time, the Smith Law Firm represented A in A v. B. Lawyer was the lead trial attorney in the case. B is represented by the Jones Law Firm. While the case of A v. B was still pending, Lawyer left the Smith Law Firm and joined the Jones Law Firm.
+Same facts as the previous question, except that, before he left the Smith Firm, Lawyer was lead trial attorney for A in the case against B. 
 
-- May Lawyer represent B in A v. B?
-- May the Jones Law Firm continue to represent B in A v. B?
+How (if at all) does this change your answers? 
 
 ### Question 17
 
