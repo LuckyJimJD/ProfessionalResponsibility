@@ -12,7 +12,7 @@ title: Schedule & Assignments
 ### Professional Gatekeeping & Regulation
 
 - Casebook: Chapters 1-7
-- ABA Model Rules, Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
+- ABA Model Rules: Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
 
 ## Maintaining an Ethical Law Practice
 
