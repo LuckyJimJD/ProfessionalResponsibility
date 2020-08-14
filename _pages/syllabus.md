@@ -32,7 +32,7 @@ ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](ht
 
 Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
 
-The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, review questions, and links to the ABA Model Rules of Professional Conduct, the NC Rules of Professional Conduct, NC State Bar disciplinary committee decisions and ethics committee opnions, and other relevant material. 
+The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, review questions, and links to the ABA Model Rules and other relevant material. 
 
 # Policies
 
