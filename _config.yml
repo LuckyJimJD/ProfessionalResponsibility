@@ -16,23 +16,24 @@ email: efink@elon.edu
 phone: 336-279-9334
 
 collections: 
+  cases: 
+    output: true 
+  exams:
+    output: true
+  notes: 
+    output: true 
   outlines:
     output: true
   problems:
+    output: true 
+  questions:
     output: true
-  questions: 
+  readings: 
+    output: true 
+  statutes: 
     output: true 
   visuals:
     output: true
-  rules_statutes:
-    output: true
-
-footer_text: >
-  Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
-  <br> 
-  Original content licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
