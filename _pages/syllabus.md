@@ -17,6 +17,7 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: syllabus.tex
+    path: /assets/pdf/syllabus.pdf
   
 ---
 
@@ -59,7 +60,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
 # Schedule & Assignments
-
 
 ## Law as a Regulated Profession
 
@@ -125,7 +125,7 @@ The Law School honor code applies to all activities related to your law school s
 ### Confidentiality & Privileges
 
 - ABA Model Rules 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
-- NC Rules of Professional Conduct, [Rule 8.6](https://www.emfink.net/ProfessionalResponsibility/rules_statutes/NC_RPC_Section8.md)
+- NC Rules of Professional Conduct, [Rule 8.6](https://www.emfink.net/ProfessionalResponsibility/statutes/NC_RPC_Section8)
 - Casebook: Chapters 32, 33, 39
 
 #### October 19, 21, & 26
@@ -139,8 +139,8 @@ The Law School honor code applies to all activities related to your law school s
 
 ### Confidentiality & Conflicts Review 
 
-- [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem.html)
-- [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem.html)
+- [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem)
+- [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem)
 
 #### Due October 23
 
