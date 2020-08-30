@@ -4,8 +4,6 @@ date: 2020-05-28T09:00:00
 
 course: Professional Responsibility
 title: Duties to Courts, Opposing Parties, & Others
-author: Eric M. Fink
-affiliation: Elon Law School 
 
 ---
 

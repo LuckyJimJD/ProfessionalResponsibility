@@ -5,7 +5,7 @@ title: 'Professional Responsibility'
 title: "Review Questions: 'Final Exam: Model Rules of Professional Conduct'
 
 author: Eric M. Fink
-affiliation: Elon Law School 
+
 
 fontsize: 10pt
 geometry: top=1in,bottom=1in,left=.5in,right=.5in

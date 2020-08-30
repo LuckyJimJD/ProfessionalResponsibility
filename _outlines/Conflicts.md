@@ -4,8 +4,6 @@ date: 2020-05-28T08:00:00
 
 course: Professional Responsibility
 title: Conflicts of Interest
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

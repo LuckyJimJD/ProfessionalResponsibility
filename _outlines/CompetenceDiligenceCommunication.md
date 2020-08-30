@@ -4,8 +4,6 @@ date: 2020-05-28T06:00:00
 
 course: Professional Responsibility
 title: Duty of Care & Civil Liability
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

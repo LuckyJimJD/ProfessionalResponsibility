@@ -7,7 +7,7 @@ title: "Review Questions: ﻿Restatement (3d) of the Law Governing Lawyers
 copyright: "Copyright © 2000 by the American Law Institute."
 
 author: Eric M. Fink
-affiliation: Elon Law School 
+
 
 output: 
   pdf_document:

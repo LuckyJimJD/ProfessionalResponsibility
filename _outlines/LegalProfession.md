@@ -4,8 +4,6 @@ date: 2020-05-28T01:00:00
 
 course: Professional Responsibility
 title: Law as a Regulated Profession
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

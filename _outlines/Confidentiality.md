@@ -4,8 +4,6 @@ date: 2020-05-28T07:00:00
 
 course: Professional Responsibility
 title: Confidentiality & Privilege
-author: Eric M. Fink
-affiliation: Elon Law School 
     
 ---
 

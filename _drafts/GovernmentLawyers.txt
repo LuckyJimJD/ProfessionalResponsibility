@@ -4,7 +4,7 @@ date: 2020-05-27T23:00:00
 course: Professional Responsibility
 title: "Review Questions: Government Lawyers 
 author: Eric M. Fink
-affiliation: Elon Law School 
+
     
 ---
 
