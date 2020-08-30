@@ -1,19 +1,10 @@
 ---
-date: 2020-05-27T23:00:00
-
+layout: page 
 
 course: Professional Responsibility 
-title: "Review Questions: ﻿Restatement (3d) of the Law Governing Lawyers
-copyright: "Copyright © 2000 by the American Law Institute."
+title: "﻿Restatement (3d) of the Law Governing Lawyers"
+cite: "Copyright © 2000 by the American Law Institute."
 
-author: Eric M. Fink
-
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
-    
 ---
 # Contents 
 
