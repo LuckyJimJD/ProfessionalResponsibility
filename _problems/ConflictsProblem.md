@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: page
 
 course: Professional Responsibility
 title: Discussion Problem

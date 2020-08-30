@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resources/
-title: 'Additional Reading & Study Aids'
+permalink: /materials/
+title: 'Supplemental Reading & Study Aids'
 
 ---
 
