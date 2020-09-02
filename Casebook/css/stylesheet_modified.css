@@ -1,12 +1,12 @@
 
 
-@page { margin:14pt  0pt  16pt  0pt; } 
+@page { margin:15mm  40mm  15mm  40mm; } 
 body
 {
 margin-left:18pt;
 margin-right:18pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Start cover Page*/
 .cover
@@ -67,7 +67,7 @@ font-size:30pt;
 text-align:center;
 font-weight:normal;
 line-height:1.2em;
-font-family:"TrajanPro-Regular","Times New Roman",Times,serif;
+font-family:"TrajanPro-Regular","Cinzel","Times New Roman",Times,serif;
 }
 .chap_tit
 {
@@ -81,7 +81,7 @@ font-size:18pt;
 text-align:center;
 font-weight:normal;
 line-height:1.2em;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 }
 .chap_line
 {
@@ -94,7 +94,7 @@ text-indent:0pt;
 font-size:12pt;
 text-align:center;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .chap_linea
 {
@@ -107,7 +107,7 @@ text-indent:0pt;
 font-size:12pt;
 text-align:center;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .chap_line1
 {
@@ -120,7 +120,7 @@ text-indent:0pt;
 font-size:12pt;
 text-align:center;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .chap_tit1
 {
@@ -134,7 +134,7 @@ font-size:25pt;
 text-align:center;
 font-weight:normal;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .part_no
 {
@@ -148,7 +148,7 @@ font-size:25pt;
 text-align:center;
 font-weight:normal;
 line-height:1.2em;
-font-family:"TrajanPro-Regular","Times New Roman",Times,serif;
+font-family:"TrajanPro-Regular","Cinzel","Times New Roman",Times,serif;
 }
 .part_tit
 {
@@ -162,7 +162,7 @@ font-size:18pt;
 text-align:center;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .appendix
 {
@@ -175,7 +175,7 @@ text-indent:0pt;
 font-size:15pt;
 text-align:center;
 font-weight:bold;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .appendix1
 {
@@ -187,7 +187,7 @@ margin-left:0pt;
 text-indent:0pt;
 font-size:13pt;
 text-align:center;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Chapter Ends here*/
 /*Content Headers Starts here*/
@@ -203,7 +203,7 @@ text-align:left;
 font-size:14pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .exp
 {
@@ -222,7 +222,7 @@ padding-bottom:6pt;
 color:#5770ad;
 border-top:2px solid #dde2ee;
 border-bottom:2px solid #dde2ee;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .fur
 {
@@ -241,7 +241,7 @@ padding-bottom:6pt;
 color:#5770ad;
 border-top:2px solid #dde2ee;
 border-bottom:2px solid #dde2ee;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .add
 {
@@ -260,7 +260,7 @@ padding-bottom:6pt;
 color:#5770ad;
 border-top:2px solid #dde2ee;
 border-bottom:2px solid #dde2ee;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .sectionaa
 {
@@ -279,7 +279,7 @@ padding-bottom:6pt;
 color:#5770ad;
 border-top:2px solid #dde2ee;
 border-bottom:2px solid #dde2ee;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .exa
 {
@@ -296,7 +296,7 @@ line-height:1.2em;
 padding:3pt;
 color:white;
 background-color:#8e9fc8;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .sectiona
 {
@@ -321,7 +321,7 @@ text-align:center;
 font-size:14pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .section-1
 {
@@ -335,7 +335,7 @@ text-align:left;
 font-size:14pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .section1
 {
@@ -348,7 +348,7 @@ font-size:14pt;
 text-align:center;
 font-weight:normal;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .secsub
 {
@@ -387,7 +387,7 @@ margin-left:46pt;
 text-indent:-23pt;
 font-size:12pt;
 text-align:left;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 line-height:1.2em;
 }
 .secsub2a
@@ -400,7 +400,7 @@ margin-left:0pt;
 text-indent:0pt;
 font-size:13pt;
 text-align:left;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .secsub3
 {
@@ -412,7 +412,7 @@ text-indent:-24pt;
 font-size:12pt;
 text-align:left;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .secsub3a
 {
@@ -424,7 +424,7 @@ text-indent:25pt;
 font-size:12pt;
 text-align:left;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .secsub4
 {
@@ -436,7 +436,7 @@ text-indent:12pt;
 font-size:12pt;
 text-align:justify;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .secsub5
 {
@@ -448,7 +448,7 @@ text-indent:12pt;
 font-size:12pt;
 text-align:justify;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .app_section
 {
@@ -462,7 +462,7 @@ text-align:justify;
 font-size:13pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .app_section1
 {
@@ -476,7 +476,7 @@ text-align:center;
 font-size:13pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .center_hd
 {
@@ -487,7 +487,7 @@ margin-left:0pt;
 text-indent:0pt;
 font-size:13pt;
 text-align:center;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .center_hd1
 {
@@ -498,7 +498,7 @@ margin-left:0pt;
 text-indent:0pt;
 font-size:12pt;
 text-align:center;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Headers Ends here*/
 /*Content Paragraphs Starts here*/
@@ -513,7 +513,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .noindent-1
@@ -527,7 +527,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .noindent_sec
@@ -541,7 +541,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .example
@@ -555,7 +555,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .example_b
 {
@@ -568,7 +568,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .analysis
 {
@@ -581,7 +581,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .analysis-s
@@ -595,7 +595,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .noindent_hd
@@ -609,7 +609,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindentt
 {
@@ -622,7 +622,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-noindents
 {
@@ -635,7 +635,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindentb
 {
@@ -648,7 +648,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-Noindent
 {
@@ -660,7 +660,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-Head
 {
@@ -672,7 +672,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-Heads
 {
@@ -684,7 +684,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindent-k
 {
@@ -696,7 +696,7 @@ margin-left:15pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindenth
 {
@@ -708,7 +708,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindent1
 {
@@ -720,7 +720,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .noindent2
 {
@@ -732,7 +732,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_noindent
 {
@@ -744,7 +744,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .indent
 {
@@ -756,7 +756,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .Box3-Indent
@@ -769,7 +769,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-Indents
 {
@@ -782,7 +782,7 @@ text-indent:25pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-block
 {
@@ -795,7 +795,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-list
 {
@@ -807,7 +807,7 @@ margin-left:20pt;
 text-indent:-20pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-lists
 {
@@ -819,7 +819,7 @@ margin-left:18pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .indentt
 {
@@ -831,7 +831,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .indentb
 {
@@ -843,7 +843,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .indent1
 {
@@ -855,7 +855,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_indent
 {
@@ -867,7 +867,7 @@ margin-left:0pt;
 text-indent:12pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .top
 {
@@ -901,7 +901,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquote
 {
@@ -914,7 +914,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .blockquote_li
@@ -928,7 +928,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-block
 {
@@ -941,7 +941,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquotei
 {
@@ -953,7 +953,7 @@ margin-left:25pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquoteis
 {
@@ -965,7 +965,7 @@ margin-left:25pt;
 text-indent:25pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquote-k
 {
@@ -977,7 +977,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquote-k1
 {
@@ -989,7 +989,7 @@ margin-left:55pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquote1
 {
@@ -1001,7 +1001,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blockquote2
 {
@@ -1013,7 +1013,7 @@ margin-left:18pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bib
 {
@@ -1025,7 +1025,7 @@ margin-left:12pt;
 text-indent:-12pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bib_hd
 {
@@ -1037,7 +1037,7 @@ margin-left:12pt;
 text-indent:-12pt;
 text-align:left;
 font-size:14pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_alpha
 {
@@ -1050,7 +1050,7 @@ text-indent:-24pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_alpha1
 {
@@ -1063,7 +1063,7 @@ text-indent:-24pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box_squre
 {
@@ -1076,7 +1076,7 @@ text-indent:-11pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-alpha1
 {
@@ -1089,7 +1089,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-salpha
 {
@@ -1102,7 +1102,7 @@ text-indent:-20.5pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-alphas
 {
@@ -1115,7 +1115,7 @@ text-indent:-17pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-num
 {
@@ -1128,7 +1128,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-num8
 {
@@ -1141,7 +1141,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-numr
 {
@@ -1154,7 +1154,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-num3
 {
@@ -1167,7 +1167,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-num0
 {
@@ -1180,7 +1180,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-num01
 {
@@ -1193,7 +1193,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list-alpha0
 {
@@ -1206,7 +1206,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .an
 {
@@ -1218,7 +1218,7 @@ margin-left:97pt;
 text-indent:-73pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .an1
 {
@@ -1230,7 +1230,7 @@ margin-left:97pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .an2
 {
@@ -1242,7 +1242,7 @@ margin-left:98pt;
 text-indent:-74pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Paragraphs Ends here*/
 /*Content List Starts here*/
@@ -1256,7 +1256,7 @@ margin-left:45pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist-s
 {
@@ -1268,7 +1268,7 @@ margin-left:42pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist-s1
 {
@@ -1280,7 +1280,7 @@ margin-left:90pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist-n
 {
@@ -1292,7 +1292,7 @@ margin-left:18pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist-1
 {
@@ -1304,7 +1304,7 @@ margin-left:21pt;
 text-indent:-21pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist2
 {
@@ -1316,7 +1316,7 @@ margin-left:42pt;
 text-indent:-27pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist2-s
 {
@@ -1328,7 +1328,7 @@ margin-left:48pt;
 text-indent:-27pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3
 {
@@ -1340,7 +1340,7 @@ margin-left:46pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3-1
 {
@@ -1352,7 +1352,7 @@ margin-left:46pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3-2
 {
@@ -1364,7 +1364,7 @@ margin-left:48pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3-i
 {
@@ -1376,7 +1376,7 @@ margin-left:75pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3k
 {
@@ -1388,7 +1388,7 @@ margin-left:43pt;
 text-indent:-18.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist3a
 {
@@ -1400,7 +1400,7 @@ margin-left:52pt;
 text-indent:-29pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist8
 {
@@ -1412,7 +1412,7 @@ margin-left:46pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist8a
 {
@@ -1424,7 +1424,7 @@ margin-left:42pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist8b
 {
@@ -1436,7 +1436,7 @@ margin-left:42pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist4
 {
@@ -1448,7 +1448,7 @@ margin-left:72pt;
 text-indent:-26pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist4c
 {
@@ -1460,7 +1460,7 @@ margin-left:80pt;
 text-indent:-26pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist43
 {
@@ -1472,7 +1472,7 @@ margin-left:65pt;
 text-indent:-22pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist4aa
 {
@@ -1484,7 +1484,7 @@ margin-left:70pt;
 text-indent:-24pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist4i
 {
@@ -1496,7 +1496,7 @@ margin-left:90pt;
 text-indent:-20.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist7
 {
@@ -1508,7 +1508,7 @@ margin-left:72pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist1
 {
@@ -1520,7 +1520,7 @@ margin-left:24pt;
 text-indent:-24pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist5
 {
@@ -1532,7 +1532,7 @@ margin-left:46pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .nlist6
 {
@@ -1544,7 +1544,7 @@ margin-left:45pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alistk
 {
@@ -1556,7 +1556,7 @@ margin-left:47pt;
 text-indent:-22pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alistk1
 {
@@ -1568,7 +1568,7 @@ margin-left:44pt;
 text-indent:-17pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist
 {
@@ -1580,7 +1580,7 @@ margin-left:23pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .btn
 {
@@ -1592,7 +1592,7 @@ margin-left:41.5pt;
 text-indent:-15.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist2
 {
@@ -1604,7 +1604,7 @@ margin-left:66pt;
 text-indent:-22pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist2a
 {
@@ -1616,7 +1616,7 @@ margin-left:65pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist3a
 {
@@ -1628,7 +1628,7 @@ margin-left:65pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist7a
 {
@@ -1640,7 +1640,7 @@ margin-left:65pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist9a
 {
@@ -1652,7 +1652,7 @@ margin-left:60.5pt;
 text-indent:-17.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist4a
 {
@@ -1664,7 +1664,7 @@ margin-left:47pt;
 text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist1
 {
@@ -1677,7 +1677,7 @@ text-indent:-20pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist1n
 {
@@ -1690,7 +1690,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist1a
 {
@@ -1703,7 +1703,7 @@ text-indent:-20pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alist1a1
 {
@@ -1716,7 +1716,7 @@ text-indent:-20pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist1
 {
@@ -1728,7 +1728,7 @@ margin-left:44pt;
 text-indent:-19pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist2
 {
@@ -1740,7 +1740,7 @@ margin-left:44pt;
 text-indent:-19pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist2s
 {
@@ -1752,7 +1752,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist2ss
 {
@@ -1764,7 +1764,7 @@ margin-left:43pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist3
 {
@@ -1776,7 +1776,7 @@ margin-left:47.5pt;
 text-indent:-22.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .clist1
 {
@@ -1788,7 +1788,7 @@ margin-left:87pt;
 text-indent:-45pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .blist1a
 {
@@ -1800,7 +1800,7 @@ margin-left:43pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .qlist1
 {
@@ -1812,7 +1812,7 @@ margin-left:46pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .qlist1s
 {
@@ -1824,7 +1824,7 @@ margin-left:46pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .qlist2
 {
@@ -1836,7 +1836,7 @@ margin-left:71pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .qlist3
 {
@@ -1848,7 +1848,7 @@ margin-left:51pt;
 text-indent:-25.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull
 {
@@ -1861,7 +1861,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bull-n
@@ -1875,7 +1875,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bullk
@@ -1889,7 +1889,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bulln
 {
@@ -1902,7 +1902,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bulln1
 {
@@ -1915,7 +1915,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull0
 {
@@ -1928,7 +1928,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bull0-1
@@ -1942,7 +1942,7 @@ text-indent:-17pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bullm
@@ -1956,7 +1956,7 @@ text-indent:-12.5pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-bull
 {
@@ -1969,7 +1969,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-bulll
 {
@@ -1982,7 +1982,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box3-bull0
 {
@@ -1995,7 +1995,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull-1
 {
@@ -2008,7 +2008,7 @@ text-indent:-12.5pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull-2
 {
@@ -2021,7 +2021,7 @@ text-indent:-12.5pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull-s
 {
@@ -2034,7 +2034,7 @@ padding-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bull1
@@ -2048,7 +2048,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull1a
 {
@@ -2061,7 +2061,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bull10a
@@ -2075,7 +2075,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bull1b
@@ -2089,7 +2089,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull1b2
 {
@@ -2102,7 +2102,7 @@ text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bull2
 {
@@ -2114,7 +2114,7 @@ padding-left:180pt;
 text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list
 {
@@ -2126,7 +2126,7 @@ margin-left:33pt;
 text-indent:-20.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list1
 {
@@ -2138,7 +2138,7 @@ margin-left:32pt;
 text-indent:-21pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .list1-4
@@ -2151,7 +2151,7 @@ margin-left:52pt;
 text-indent:-20pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .list1-2
@@ -2165,7 +2165,7 @@ text-indent:-22pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list1-2a
 {
@@ -2178,7 +2178,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list1-1
 {
@@ -2191,7 +2191,7 @@ text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list1-1a
 {
@@ -2204,7 +2204,7 @@ text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list1n
 {
@@ -2217,7 +2217,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_isi
 {
@@ -2229,7 +2229,7 @@ margin-left:68.5pt;
 text-indent:-43.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_is
 {
@@ -2241,7 +2241,7 @@ margin-left:58pt;
 text-indent:-58pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_is2
 {
@@ -2253,7 +2253,7 @@ margin-left:59pt;
 text-indent:-59pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_is5
 {
@@ -2265,7 +2265,7 @@ margin-left:58pt;
 text-indent:-58pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_iss
 {
@@ -2277,7 +2277,7 @@ margin-left:66pt;
 text-indent:-66pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_iss4
 {
@@ -2289,7 +2289,7 @@ margin-left:61pt;
 text-indent:-61pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_isb
 {
@@ -2301,7 +2301,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_ise1
 {
@@ -2313,7 +2313,7 @@ margin-left:87pt;
 text-indent:-62pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .list_ise
 {
@@ -2325,7 +2325,7 @@ margin-left:77pt;
 text-indent:-52pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_list
 {
@@ -2337,7 +2337,7 @@ margin-left:24pt;
 text-indent:-12pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content List Ends here*/
 /*Content Box Starts here*/
@@ -2515,7 +2515,7 @@ text-indent:0pt;
 text-align:center;
 font-weight:bold;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .boxhead_b
 {
@@ -2527,7 +2527,7 @@ text-indent:0pt;
 text-align:center;
 font-weight:bold;
 font-size:14pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 div.titbox
 {
@@ -2553,7 +2553,7 @@ text-align:center;
 font-weight:bold;
 font-size:14pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .key-bull
 {
@@ -2566,7 +2566,7 @@ text-indent:-12pt;
 text-align:left;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .key-bull1
 {
@@ -2579,7 +2579,7 @@ text-indent:-12pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .key-bull2
 {
@@ -2592,7 +2592,7 @@ text-indent:-12pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-cen
 {
@@ -2605,7 +2605,7 @@ text-align:center;
 font-weight:bold;
 font-size:12pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .quick
 {
@@ -2618,7 +2618,7 @@ text-align:center;
 font-weight:bold;
 font-size:14pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 }
 .box2-h
 {
@@ -2631,7 +2631,7 @@ text-align:center;
 font-weight:bold;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box2-c1
 {
@@ -2644,7 +2644,7 @@ text-align:center;
 font-weight:bold;
 font-size:13pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box2-c2
 {
@@ -2657,7 +2657,7 @@ text-align:center;
 font-weight:bold;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box2-c3
 {
@@ -2670,7 +2670,7 @@ text-align:center;
 font-weight:bold;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box1-noindent
 {
@@ -2682,7 +2682,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-number
 {
@@ -2694,7 +2694,7 @@ text-indent:-22pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-number1
 {
@@ -2706,7 +2706,7 @@ text-indent:-22pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .number1
 {
@@ -2718,7 +2718,7 @@ text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box1-test
 {
@@ -2730,7 +2730,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-noindenth
 {
@@ -2742,7 +2742,7 @@ text-indent:-22pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-noindenth-s
 {
@@ -2754,7 +2754,7 @@ text-indent:-22pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-noindenthn
 {
@@ -2766,7 +2766,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .box1-noindenth0
@@ -2779,7 +2779,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .box1-noindenth1
@@ -2792,7 +2792,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-noindenth1-ss
 {
@@ -2804,7 +2804,7 @@ text-indent:-21pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 
@@ -2818,7 +2818,7 @@ text-indent:-25pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .box1-noindenth2a
@@ -2831,7 +2831,7 @@ text-indent:-25pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box1-noindenth2a1
 {
@@ -2843,7 +2843,7 @@ text-indent:-28pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .box1-noindenth3
@@ -2856,7 +2856,7 @@ text-indent:-25pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 
@@ -2872,7 +2872,7 @@ background-color:#e8ebf4;
 border:1px solid #204192;
 font-size:10pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box-noindent
 {
@@ -2897,7 +2897,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .blueli
@@ -2911,7 +2911,7 @@ text-indent:-20pt;
 text-align:justify;
 font-size:10.5pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 
 .box-indent
@@ -2924,7 +2924,7 @@ text-indent:10pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 .box-center1
 {
@@ -2936,7 +2936,7 @@ text-indent:10pt;
 text-align:center;
 font-size:10pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 div.blue1
 {
@@ -2950,7 +2950,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 div.blue2
 {
@@ -2964,7 +2964,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 float:left;
 width:40%;
 }
@@ -2980,7 +2980,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 float:left;
 width:40%;
 }
@@ -2996,7 +2996,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 div.blue2fR
 {
@@ -3010,7 +3010,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 div.blue2R
 {
@@ -3024,7 +3024,7 @@ padding:10pt 10pt 10pt 10pt;
 background-color:#e8ebf4;
 border:1px solid #204192;
 line-height:1.2em;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 float:right;
 width:40%;
 }
@@ -3038,7 +3038,7 @@ text-indent:0pt;
 text-align:left;
 font-weight:bold;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .Box1-Headc
 {
@@ -3050,7 +3050,7 @@ text-indent:0pt;
 text-align:center;
 font-weight:bold;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .boxhead1
 {
@@ -3062,7 +3062,7 @@ text-indent:0pt;
 text-align:left;
 font-size:12pt;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txt
 {
@@ -3075,7 +3075,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box_head1
 {
@@ -3088,7 +3088,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txt0
 {
@@ -3101,7 +3101,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txt_b
 {
@@ -3114,7 +3114,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txt_c
 {
@@ -3127,7 +3127,7 @@ text-indent:0pt;
 text-align:center;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txt1
 {
@@ -3139,7 +3139,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_txtind
 {
@@ -3151,7 +3151,7 @@ margin-left:0pt;
 text-indent:5pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_noindent
 {
@@ -3164,7 +3164,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_noindentt
 {
@@ -3177,7 +3177,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_noindents
 {
@@ -3190,7 +3190,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_noindentst
 {
@@ -3203,7 +3203,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_fyi
 {
@@ -3216,7 +3216,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box_headc
 {
@@ -3229,7 +3229,7 @@ text-indent:0pt;
 text-align:center;
 font-size:12pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box_hypo
 {
@@ -3242,7 +3242,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .bx_itxt
@@ -3255,7 +3255,7 @@ margin-left:0pt;
 text-indent:12pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_list
 {
@@ -3267,7 +3267,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_listk
 {
@@ -3279,7 +3279,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_list1
 {
@@ -3291,7 +3291,7 @@ margin-left:36pt;
 text-indent:-12pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_blockquote
 {
@@ -3303,7 +3303,7 @@ margin-left:24pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_blockquotesin
 {
@@ -3315,7 +3315,7 @@ margin-left:24pt;
 text-indent:24pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_blockquotes
 {
@@ -3327,7 +3327,7 @@ margin-left:24pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_blockquote1
 {
@@ -3339,7 +3339,7 @@ margin-left:24pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bx_blockquotein
 {
@@ -3351,7 +3351,7 @@ margin-left:24pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .box_head
@@ -3364,7 +3364,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .box_headleft
 {
@@ -3376,7 +3376,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .box_heada
@@ -3389,7 +3389,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Box Ends here*/
 /*Content Footnote Starts here*/
@@ -3404,7 +3404,7 @@ text-indent:0pt;
 text-align:justify;
 font-weight:normal;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 border-top:1px solid;
 width:10%;
 }
@@ -3418,7 +3418,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_txt3
 {
@@ -3430,7 +3430,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_txt
 {
@@ -3442,7 +3442,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_para
 {
@@ -3454,7 +3454,7 @@ margin-left:0pt;
 text-indent:15pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_ttxt
 {
@@ -3466,7 +3466,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_txt1
 {
@@ -3478,7 +3478,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_list
 {
@@ -3490,7 +3490,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_list1
 {
@@ -3502,7 +3502,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_tl
 {
@@ -3514,7 +3514,7 @@ margin-left:12pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_tr
 {
@@ -3526,7 +3526,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_tc
 {
@@ -3538,7 +3538,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_left
 {
@@ -3550,7 +3550,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_center
 {
@@ -3562,7 +3562,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_right
 {
@@ -3574,7 +3574,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_block
 {
@@ -3586,7 +3586,7 @@ margin-left:12pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fn_block1
 {
@@ -3598,7 +3598,7 @@ margin-left:12pt;
 text-indent:12pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Footnote Ends here*/
 /*Content Center/Left/Right/hang Styles Starts here*/
@@ -3613,7 +3613,7 @@ text-indent:0pt;
 text-align:center;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .centere
 {
@@ -3625,7 +3625,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .centera1
 {
@@ -3637,7 +3637,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"Swiss721BT",sans-serif;
+font-family:"Swiss721BT",Lato,sans-serif;
 }
 .centera
 {
@@ -3649,7 +3649,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"Swiss721BT",sans-serif;
+font-family:"Swiss721BT",Lato,sans-serif;
 }
 .center1
 {
@@ -3661,7 +3661,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .center2
 {
@@ -3673,7 +3673,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .star
 {
@@ -3685,7 +3685,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .stars
 {
@@ -3697,7 +3697,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .star1
 {
@@ -3709,7 +3709,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .right
 {
@@ -3721,7 +3721,7 @@ margin-left:250pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .right1
 {
@@ -3733,7 +3733,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .right2
 {
@@ -3745,7 +3745,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .left
 {
@@ -3757,7 +3757,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .left-s
 {
@@ -3769,7 +3769,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .hang
 {
@@ -3781,7 +3781,7 @@ margin-left:40pt;
 text-indent:-21pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .hangt
 {
@@ -3793,7 +3793,7 @@ margin-left:35pt;
 text-indent:-35pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .source3
 {
@@ -3805,7 +3805,7 @@ margin-left:51pt;
 text-indent:-51pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .source
 {
@@ -3817,7 +3817,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .source2
 {
@@ -3829,7 +3829,7 @@ margin-left:60pt;
 text-indent:-60pt;
 text-align:justify;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .source1
 {
@@ -3841,7 +3841,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .note
 {
@@ -3853,7 +3853,7 @@ margin-left:45pt;
 text-indent:-45pt;
 text-align:justify;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .note1
 {
@@ -3865,7 +3865,7 @@ margin-left:55pt;
 text-indent:-55pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .note2
 {
@@ -3877,7 +3877,7 @@ margin-left:51pt;
 text-indent:-51pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Center/Left/Right Ends here*/
 /*Content Miscellaneous Starts here*/
@@ -3996,12 +3996,12 @@ font-weight:bold;
 }
 span.bolda
 {
-font-family:"OptimaLTStd-Bold",sans-serif;
+font-family:"OptimaLTStd-Bold",Lato,sans-serif;
 font-weight:bold;
 }
 span.bold1
 {
-font-family:"UniversLTStd-Cn-SC700",sans-serif;
+font-family:"UniversLTStd-Cn-SC700",Lato,sans-serif;
 }
 
 
@@ -4024,7 +4024,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:13pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fig_cap1
 {
@@ -4036,7 +4036,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 span.strike
 {
@@ -4063,7 +4063,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 img.middle
 {
@@ -4083,7 +4083,7 @@ text-align:center;
 font-size:29pt;
 font-weight:normal;
 line-height:1em;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 }
 .half_title1
 {
@@ -4097,7 +4097,7 @@ text-align:center;
 font-size:18pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 }
 .other_tit
 {
@@ -4111,7 +4111,7 @@ text-align:center;
 font-size:16pt;
 font-weight:bold;
 line-height:1em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .editor
 {
@@ -4148,7 +4148,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .series
 {
@@ -4160,7 +4160,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:13pt;
-font-family:"Arial",sans-serif;
+font-family:"Arial",Lato,sans-serif;
 }
 .title
 {
@@ -4174,7 +4174,7 @@ text-align:center;
 font-size:24pt;
 font-weight:bold;
 line-height:1.2em;
-font-family:"PalatinoLinotype","Times New Roman",Times,serif;
+font-family:"PalatinoLinotype","Cormorant Garamond","Times New Roman",Times,serif;
 }
 .title1
 {
@@ -4200,7 +4200,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:14pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .edition1
 {
@@ -4212,7 +4212,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:14pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .byline
@@ -4225,7 +4225,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .author
 {
@@ -4238,7 +4238,7 @@ text-indent:0pt;
 text-align:center;
 font-weight:bold;
 font-size:16pt;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 }
 .author1
 {
@@ -4263,7 +4263,7 @@ text-indent:0pt;
 text-align:center;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bk_title
 {
@@ -4275,7 +4275,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:14pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bookid
 {
@@ -4287,7 +4287,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .logo
 {
@@ -4311,7 +4311,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .copy1
 {
@@ -4323,7 +4323,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .copy2
 {
@@ -4335,7 +4335,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .copy3
 {
@@ -4348,7 +4348,7 @@ text-indent:0pt;
 text-align:left;
 font-size:10pt;
 line-height:1.3em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .copy4
 {
@@ -4360,7 +4360,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .copy_img
 {
@@ -4384,7 +4384,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .dedi1
 {
@@ -4396,7 +4396,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .dedi2
 {
@@ -4408,7 +4408,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Front-Dedication-page Ends here*/
 /*Content Front-Table of Contents Start here*/
@@ -4434,7 +4434,7 @@ text-indent:0pt;
 text-align:center;
 font-size:18pt;
 padding-bottom:6pt;
-font-family:"AGaramondPro-Semibold","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold","Times New Roman",Times,serif;
 border-bottom:1px solid #000000;
 }
 .fm_title2
@@ -4448,7 +4448,7 @@ text-indent:0pt;
 text-align:center;
 font-size:18pt;
 font-weight: normal;
-font-family:"UniversLTStd-Cn-SC700",sans-serif;
+font-family:"UniversLTStd-Cn-SC700",Lato,sans-serif;
 border-top:1pt solid #5da2d3;
 border-bottom:1pt solid #5da2d3;
 padding-top:6pt;
@@ -4464,7 +4464,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:18pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .bm_title
 {
@@ -4476,7 +4476,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:16pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_right
 {
@@ -4488,7 +4488,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_right1
 {
@@ -4500,7 +4500,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_left
 {
@@ -4512,7 +4512,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_hang
 {
@@ -4524,7 +4524,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .fm_hang1
 {
@@ -4536,7 +4536,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_sec
 {
@@ -4548,7 +4548,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"Swiss721 BT",sans-serif;
+font-family:"Swiss721 BT",Lato,sans-serif;
 }
 .tocfm
 {
@@ -4561,7 +4561,7 @@ text-indent:0pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 .toc
@@ -4575,7 +4575,7 @@ text-indent:0pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tocbm
 {
@@ -4588,7 +4588,7 @@ text-indent:0pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toca
 {
@@ -4600,7 +4600,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tocaa
 {
@@ -4612,7 +4612,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tocb
 {
@@ -4624,7 +4624,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc-chap
 {
@@ -4637,7 +4637,7 @@ text-indent:-20pt;
 text-align:left;
 font-size:14pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 padding:0pt;
 }
 .toc-chap0
@@ -4663,7 +4663,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_topic
 {
@@ -4675,7 +4675,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_subtopic
 {
@@ -4687,7 +4687,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_part
 {
@@ -4700,7 +4700,7 @@ text-indent:0pt;
 text-align:left;
 font-size:13pt;
 line-height:1.2em;
-font-family:"OptimaLTStd-Bold",sans-serif;
+font-family:"OptimaLTStd-Bold",Lato,sans-serif;
 text-decoration:underline;
 }
 .toc_partfm
@@ -4727,7 +4727,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_cen
 {
@@ -4739,7 +4739,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_left
 {
@@ -4751,7 +4751,7 @@ margin-left:55pt;
 text-indent:-30pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc1
 {
@@ -4764,7 +4764,7 @@ text-indent:0pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc2
 {
@@ -4777,7 +4777,7 @@ text-indent:-20pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc-1
 {
@@ -4790,7 +4790,7 @@ text-indent:-19pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc1a
 {
@@ -4803,7 +4803,7 @@ text-indent:-19pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc2a
 {
@@ -4816,7 +4816,7 @@ text-indent:-19pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc3
 {
@@ -4829,7 +4829,7 @@ text-indent:-17pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc3a
 {
@@ -4842,7 +4842,7 @@ text-indent:-17pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc3a-s
 {
@@ -4855,7 +4855,7 @@ text-indent:-17pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc4
 {
@@ -4868,7 +4868,7 @@ text-indent:-17.5pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc4a
 {
@@ -4881,7 +4881,7 @@ text-indent:-17.5pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc5
 {
@@ -4894,7 +4894,7 @@ text-indent:-17.5pt;
 text-align:left;
 font-size:10pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tocc
 {
@@ -4919,7 +4919,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoca
 {
@@ -4931,7 +4931,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntocb
 {
@@ -4943,7 +4943,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .toc_chap
 {
@@ -4956,7 +4956,7 @@ text-indent:-44pt;
 text-align:left;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Semibold",serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold",serif;
 }
 .toc_chap1
 {
@@ -4969,7 +4969,7 @@ text-indent:-44pt;
 text-align:left;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Semibold",serif;
+font-family:"Cormorant Garamond","AGaramondPro-Semibold",serif;
 }
 .toc_chapfm
 {
@@ -4982,7 +4982,7 @@ text-indent:-62pt;
 text-align:left;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular",serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular",serif;
 }
 .toc_chapfm1
 {
@@ -4995,7 +4995,7 @@ text-indent:-62pt;
 text-align:left;
 font-size:12pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular",serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular",serif;
 }
 .ntoc_topic
 {
@@ -5007,7 +5007,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc_subtopic
 {
@@ -5019,7 +5019,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc_part
 {
@@ -5031,7 +5031,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc_subpart
 {
@@ -5043,7 +5043,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc_cen
 {
@@ -5055,7 +5055,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc_left
 {
@@ -5067,7 +5067,7 @@ margin-left:50pt;
 text-indent:-50pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc1
 {
@@ -5079,7 +5079,7 @@ margin-left:15pt;
 text-indent:-16pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc1a
 {
@@ -5091,7 +5091,7 @@ margin-left:0pt;
 text-indent:-80pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc2
 {
@@ -5103,7 +5103,7 @@ margin-left:22pt;
 text-indent:-22pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc2a
 {
@@ -5115,7 +5115,7 @@ margin-left:0pt;
 text-indent:-35pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ntoc3
 {
@@ -5127,7 +5127,7 @@ margin-left:36pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Content Front-Table of Contents Ends here*/
 /*Content Table Styles Start here*/
@@ -5167,7 +5167,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:13pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tab_cap1
 {
@@ -5179,7 +5179,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tab_img
 {
@@ -5201,7 +5201,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .th1
 {
@@ -5213,7 +5213,7 @@ margin-left:12pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .case
 {
@@ -5226,7 +5226,7 @@ text-indent:-15pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .caseb
 {
@@ -5239,7 +5239,7 @@ text-indent:0pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .case1
 {
@@ -5251,7 +5251,7 @@ margin-left:25pt;
 text-indent:-15pt;
 text-align:justify;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .abbr
 {
@@ -5263,7 +5263,7 @@ margin-left:35pt;
 text-indent:-35pt;
 text-align:justify;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .caset
 {
@@ -5276,7 +5276,7 @@ text-indent:-15pt;
 text-align:justify;
 font-size:11pt;
 line-height:1.2em;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tl
 {
@@ -5288,7 +5288,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tl1
 {
@@ -5300,7 +5300,7 @@ margin-left:10pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tl_hang
 {
@@ -5312,7 +5312,7 @@ margin-left:12pt;
 text-indent:-12pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tc
 {
@@ -5324,7 +5324,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ttr
 {
@@ -5336,7 +5336,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ttr1
 {
@@ -5348,7 +5348,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tab_list
 {
@@ -5360,7 +5360,7 @@ margin-left:24pt;
 text-indent:-12pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tab_list1
 {
@@ -5372,7 +5372,7 @@ margin-left:36pt;
 text-indent:-12pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tl_ap
 {
@@ -5384,7 +5384,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tl_ap1
 {
@@ -5396,7 +5396,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tlc_ap
 {
@@ -5408,7 +5408,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .tlr_ap
 {
@@ -5420,7 +5420,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 td.bl
 {
@@ -5489,10 +5489,11 @@ margin-right:0pt;
 margin-left:0pt;
 text-indent:0pt;
 text-align:center;
-font-size:22pt;
+font-size:12pt;
 font-style:normal;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
+page-break-before: always;
 }
 div.pagebreak
 {
@@ -5503,10 +5504,11 @@ margin-right:0pt;
 margin-left:0pt;
 text-indent:0pt;
 text-align:center;
-font-size:22pt;
+font-size:12pt;
 font-style:normal;
 font-weight:normal;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
+page-break-before: always;
 }
 /*Content Page number display End here*/
 /*Synopsis levels Start*/
@@ -5520,7 +5522,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_sec
 {
@@ -5532,7 +5534,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"Swiss721 BT",sans-serif;
+font-family:"Swiss721 BT",Lato,sans-serif;
 }
 .secmain
 {
@@ -5568,7 +5570,7 @@ margin-left:36pt;
 text-indent:-36pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_center
 {
@@ -5580,7 +5582,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_center1
 {
@@ -5592,7 +5594,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_tab
 {
@@ -5604,7 +5606,7 @@ margin-left:25pt;
 text-indent:-18pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_secsub1
 {
@@ -5616,7 +5618,7 @@ margin-left:25pt;
 text-indent:-18pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_secsub2
 {
@@ -5628,7 +5630,7 @@ margin-left:92pt;
 text-indent:-44pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_secsub3
 {
@@ -5640,7 +5642,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .syn_secsub4
 {
@@ -5652,7 +5654,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_sec
 {
@@ -5664,7 +5666,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"Swiss721 BT",sans-serif;
+font-family:"Swiss721 BT",Lato,sans-serif;
 }
 .min-syn_secmain
 {
@@ -5676,7 +5678,7 @@ margin-left:46pt;
 text-indent:-44pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_center
 {
@@ -5688,7 +5690,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_center1
 {
@@ -5700,7 +5702,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_secsub1
 {
@@ -5712,7 +5714,7 @@ margin-left:70pt;
 text-indent:-44pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_secsub2
 {
@@ -5724,7 +5726,7 @@ margin-left:92pt;
 text-indent:-44pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_secsub3
 {
@@ -5736,7 +5738,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .min-syn_secsub4
 {
@@ -5748,7 +5750,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:left;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 /*Synopsis levels End*/
 /*Start Index*/
@@ -5762,7 +5764,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:11pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .alpha
 {
@@ -5775,7 +5777,7 @@ text-indent:0pt;
 text-align:center;
 font-size:14pt;
 font-weight:bold;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .inda
 {
@@ -5787,7 +5789,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .ind1
 {
@@ -5799,7 +5801,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind1t
@@ -5812,7 +5814,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind1a
@@ -5825,7 +5827,7 @@ margin-left:15pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind2
@@ -5838,7 +5840,7 @@ margin-left:25pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind2a
@@ -5851,7 +5853,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind3
@@ -5864,7 +5866,7 @@ margin-left:35pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind3a
@@ -5877,7 +5879,7 @@ margin-left:35pt;
 text-indent:-15pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .ind4
@@ -5890,12 +5892,12 @@ margin-left:45pt;
 text-indent:-15pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 span.ind
 {
-font-family:"Swiss721 BT",sans-serif;
+font-family:"Swiss721 BT",Lato,sans-serif;
 font-weight:bold;
 }
 /*End Index*/
@@ -5910,7 +5912,7 @@ margin-left:20pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12.5pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 .chap_right
 {
@@ -5922,7 +5924,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 
 
@@ -9635,7 +9637,7 @@ margin-left:0pt;
 text-indent:15pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_center
@@ -9648,7 +9650,7 @@ margin-left:0pt;
 text-indent:15pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_indents1
@@ -9661,7 +9663,7 @@ margin-left:15pt;
 text-indent:20pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_indents2
@@ -9674,7 +9676,7 @@ margin-left:35pt;
 text-indent:20pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_indents3
@@ -9687,7 +9689,7 @@ margin-left:57pt;
 text-indent:20pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_noindents1
@@ -9700,7 +9702,7 @@ margin-left:25pt;
 text-indent:0pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-center
@@ -9713,7 +9715,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .listm
@@ -9726,7 +9728,7 @@ margin-left:40pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-list
@@ -9739,7 +9741,7 @@ margin-left:10pt;
 text-indent:-10pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-list2
@@ -9752,7 +9754,7 @@ margin-left:32pt;
 text-indent:-8pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-list2t
@@ -9765,7 +9767,7 @@ margin-left:32pt;
 text-indent:-8pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-list1
@@ -9778,7 +9780,7 @@ margin-left:10pt;
 text-indent:-10pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-num
@@ -9791,7 +9793,7 @@ margin-left:15.5pt;
 text-indent:-15.5pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .box-num1
@@ -9804,7 +9806,7 @@ margin-left:15.5pt;
 text-indent:-15.5pt;
 text-align:left;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 div.cirboxlf
@@ -9837,7 +9839,7 @@ margin-left:16pt;
 text-indent:-16pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .footnotel
@@ -9850,7 +9852,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .list-alphaz
@@ -9863,7 +9865,7 @@ margin-left:40pt;
 text-indent:-17.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .list-roman
@@ -9876,7 +9878,7 @@ margin-left:65pt;
 text-indent:-21.5pt;
 text-align:left;
 font-size:10.5pt;
-font-family:"OptimaLTStd",sans-serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 line-height:1.2em;
 }
 .list-alpha2
@@ -9889,7 +9891,7 @@ margin-left:48pt;
 text-indent:-22.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .list-alpha3
@@ -9902,7 +9904,7 @@ margin-left:67pt;
 text-indent:-13pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .Blist-num
@@ -9915,7 +9917,7 @@ margin-left:40pt;
 text-indent:-15pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .noindentN
@@ -9928,7 +9930,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .rightR
@@ -9941,7 +9943,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .subtoc
@@ -9954,7 +9956,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .subtocz
@@ -9967,7 +9969,7 @@ margin-left:25pt;
 text-indent:-25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .subtoc1
@@ -9980,7 +9982,7 @@ margin-left:35.5pt;
 text-indent:-17.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .subtoc2
@@ -9993,7 +9995,7 @@ margin-left:50pt;
 text-indent:-15pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .subtocl
@@ -10006,7 +10008,7 @@ margin-left:18pt;
 text-indent:-18pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .rightR1
@@ -10019,7 +10021,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .rightR2
@@ -10032,7 +10034,7 @@ margin-left:0pt;
 text-indent:0pt;
 text-align:right;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bullz
@@ -10045,7 +10047,7 @@ margin-left:37pt;
 text-indent:-12.5pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .indentM
@@ -10058,7 +10060,7 @@ margin-left:0pt;
 text-indent:25pt;
 text-align:justify;
 font-size:12pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 
@@ -10074,7 +10076,7 @@ margin-left:7pt;
 text-indent:-7pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_bulls
@@ -10087,7 +10089,7 @@ margin-left:13.5pt;
 text-indent:-13.5pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_bulls11
@@ -10100,7 +10102,7 @@ margin-left:50.5pt;
 text-indent:-13.5pt;
 text-align:justify;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bx_centers
@@ -10113,7 +10115,7 @@ margin-left:15pt;
 text-indent:0pt;
 text-align:center;
 font-size:10pt;
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 line-height:1.2em;
 }
 .bl
@@ -10133,7 +10135,7 @@ text-indent:0pt;
 }
 span.font1
 {
-font-family:"AGaramondPro-Regular","Times New Roman",Times,serif;
+font-family:"Cormorant Garamond","AGaramondPro-Regular","Times New Roman",Times,serif;
 }
 span.clr
 {
@@ -10156,7 +10158,7 @@ text-indent:0pt;
 text-align:center;
 font-size:13pt;
 line-height:1.3em;
-font-family:"OptimaLTStd-Bold",sans-serif;
+font-family:"OptimaLTStd-Bold",Lato,sans-serif;
 }
 
 .listbnum
@@ -10169,11 +10171,10 @@ text-indent:-23pt;
 text-align:justify;
 font-size:12pt;
 line-height:1.2em;
-font-family:"OptimaLTStd",serif;
+font-family:"OptimaLTStd",Lato,sans-serif;
 }
 div.gray
 {
 background-color:#e6e7e8;
 padding:0.5em;
 }
-
