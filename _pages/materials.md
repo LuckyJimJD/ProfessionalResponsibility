@@ -120,9 +120,9 @@ title: 'Study Aids & Additional Reading'
 ### Competence, Ineffective Assistance, & Malpractice 
 
 - [U.S. v. Tucci-Jarraf](https://scholar.google.com/scholar_case?case=365662960054011369), 939 F.3d 790 (6th Cir. Sept. 24, 2019)
-- Wuournos v. State of Florida, Case No. SC00-1748 (Florida Sup. Ct.) 
-	- [Brief of Appellant]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellant.pdf) (Feb. 1, 2001)
-	- [Brief of Appellee]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellee.pdf) (Mar. 29, 2001)
+- Wuournos v. State of Florida, Case No. SC00-1748 (Florida Sup. Ct. 2001) 
+	- [Brief of Appellant]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellant.pdf)
+	- [Brief of Appellee]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellee.pdf) 
 
 ### Confidentialtiy 
 
