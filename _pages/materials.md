@@ -87,3 +87,52 @@ title: 'Study Aids & Additional Reading'
 - Julian Sarkar, [Letter to Wisconsin Office of Lawyer Regulation re: National Council of Bar Examiners]({{ site.baseurl }}/assets/materials/BarExam/SarkarLetter_Aug2020.pdf)(Aug. 12, 2020)
 - Donna Saadati-Soto and Pilar Margarita Hernández Escontrías and Julian Sarkar. [Does the Bar Exam Measure Competence? The Answer: We Have No Idea](https://www.jurist.org/commentary/2020/04/saadati-soto-escontrias-sarkar-bar-exam/), Jurist (April 21, 2020)
 - Stephanie Francis Ward, [A Better Bar Exam? Law Professors Weigh In On Whether Test Accurately Measures Skills Required for Law Practice](https://www.abajournal.com/web/article/building-a-better-bar-exam), ABA Journal (Jan. 8, 2020)
+
+### Attorney Discipline 
+
+- ABA Standing Committee on Professional Regulation, [2018 Survey on Lawyer Discipline Systems]({{ site.baseurl }}/assets/materials/AttorneyDiscipline/2018_SOLD.pdf)
+- Association of the Bar of the City of New York, Committee on Professional Ethics, [Formal Opinion 2015-5: Whether an Attorney May Threaten to File a Disciplinary Complaint Against Another Lawyer]({{ site.baseurl }}/assets/materials/AttorneyDiscipline/Cantwell_WithdrawalMotion.pdf)
+
+## Maintaining an Ethical Law Practice 
+
+### Accepting & Withdrawing from Representation 
+
+- Sines v. Kessler, No. 3:17-cv-00072 (W.D. Va.)
+	- Withdrawal of Counsel for Defendant Christopher Cantwell
+		- [Motion to Withdraw]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Motion.pdf) 
+		- [Brief in Support of Motion to Withdraw as Counsel for Defendant Cantwell]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Brief.pdf) 
+		- [Cantwell's Opposition]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Opposition.pdf) 
+		- [Plaintiff's Response]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Plaintiffs_Response.pdf) 
+		- [Cantwell's Reply]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Reply.pdf) 
+		- [Order Granting Motion to Withdraw]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal_Cantwell-Order.pdf) 
+	- Withdrawal of Counsel for Defendants National Socialist Movement & Nationalist Front 
+		- [Motion to Withdraw]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Motion.pdf) 
+		- [Plaitiffs' Opposition]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Plaintiffs_Oppositionpdf.pdf) 
+		- [Reply to Plaintiff's Opposition]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Reply-to_Plaintiffs_Opposition.pdf) 
+		- [Order Denying Motion to Withdraw]({{ site.baseurl }}/assets/materials/Establishing&TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Order.pdf) 
+
+### Client Funds & Property 
+
+- North Carolina State Bar, [Lawyer's Trust Account Handbook]({{ site.baseurl }}/assets/materials/ClientFunds&Property/TrustAccountHandbooks.pdf) (Nov. 2017)
+
+## Duties to Clients 
+
+### Competence, Ineffective Assistance, & Malpractice 
+
+- [U.S. v. Tucci-Jarraf](https://scholar.google.com/scholar_case?case=365662960054011369), 939 F.3d 790 (6th Cir. Sept. 24, 2019)
+- Wuournos v. State of Florida, Case No. SC00-1748 (Florida Sup. Ct.) 
+	- [Brief of Appellant]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellant.pdf) (Feb. 1, 2001)
+	- [Brief of Appellee]({{ site.baseurl }}/assets/materials/Competence/WuornosBrief_Appellee.pdf) (Mar. 29, 2001)
+
+### Confidentialtiy 
+
+- Adam Liptak, [When Law Prevents Righting a Wrong]({{ site.baseurl }}/assets/materials/Conflicts/Liptak_Cashwell.pdf), N.Y. Times (May 4, 2008)
+
+### Conflicts 
+
+- Campaign for Accountability, [Letter to Wisconsin Office of Lawyer Regulation re: Lane Ruhland]({{ site.baseurl }}/assets/materials/Conflicts/Ruhland_OLR.pdf) (Aug. 7, 2020)
+
+## Duties to Courts, Opposing Parties, & Others 
+
+- Lisa Bloom, [E-mails to Harvey Weinstein]({{ site.baseurl }}/assets/materials/Fairness/Bloom_Weinstein.pdf) 
+
