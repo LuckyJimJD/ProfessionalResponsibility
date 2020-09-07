@@ -1,4 +1,10 @@
-﻿Information About Legal Services 
+---
+layout: page
+
+course: Professional Responsibility
+title: 'Review Questions: Information About Legal Services'
+
+---
 
 # Questions
 
@@ -6,17 +12,13 @@
 
 A. Joshua may advertise that he practices therapeutic law. 
 B. Joshua may advertise the certification because he actually acquired it. 
-C. Joshua may advertise the certification as long as he identifies the Institute as the 
-organization that granted it. 
+C. Joshua may advertise the certification as long as he identifies the Institute as the organization that granted it. 
 D. Joshua may advertise the certification as long as his advertisement is not false or misleading 
 
-2. Wayne Youngblood is an attorney who wants to attract business in the following way. He 
-has a friend who works for a chiropractor. Wayne wants to make an agreement with the friend under which Wayne will hire the friend for $1000 to write an advertisement for Wayne every time the friend sends a patient to Wayne and that patient signs up as a client with Wayne. Which of the following most accurately describes the propriety of Wayne's plan under the Model Rules of Professional Conduct? 
+2. Wayne Youngblood is an attorney who wants to attract business in the following way. He has a friend who works for a chiropractor. Wayne wants to make an agreement with the friend under which Wayne will hire the friend for $1000 to write an advertisement for Wayne every time the friend sends a patient to Wayne and that patient signs up as a client with Wayne. Which of the following most accurately describes the propriety of Wayne's plan under the Model Rules of Professional Conduct? 
 
-A. Wayne may not execute this plan because he may not give anyone anything of value in 
-exchange for recommending his services. 
-B. Wayne may not execute this plan without the informed consent of the clients he obtains this 
-way. 
+A. Wayne may not execute this plan because he may not give anyone anything of value in exchange for recommending his services. 
+B. Wayne may not execute this plan without the informed consent of the clients he obtains this way. 
 C. Wayne may execute the plan because he is permitted to pay for advertising services. 
 D. Wayne may execute the plan as long as the referral arrangement is not exclusive.
 
@@ -24,16 +26,13 @@ D. Wayne may execute the plan as long as the referral arrangement is not exclusi
 
 A. Cathy may solicit the students because she is not motivated entirely by pecuniary gain. 
 B. Cathy may solicit the students because this is a civil rights case. 
-C. Cathy may not solicit the students because pecuniary gain is a significant motive for doing 
-so. 
+C. Cathy may not solicit the students because pecuniary gain is a significant motive for doing so. 
 D. Cathy may not solicit the students because they are not existing clients.
 
-4. Scott Clough is an attorney who wants to advertise that he was honorary chairman of the 
-local judge's recent successful reelection campaign. Which of the following statements most accurately describes Scott's obligations under the Model Rules of Professional Conduct? 
+4. Scott Clough is an attorney who wants to advertise that he was honorary chairman of the local judge's recent successful reelection campaign. Which of the following statements most accurately describes Scott's obligations under the Model Rules of Professional Conduct? 
 
 A. Scott may not use the advertisement because it is in poor taste. 
-B. Scott may not use this advertisement because it implies an ability to achieve results by 
-means that would violate the law. 
+B. Scott may not use this advertisement because it implies an ability to achieve results by means that would violate the law. 
 C. Scott may use the advertisement if he obtains the judge's permission to do so. 
 D. Scott may use this advertisement if it is true.
 
@@ -41,105 +40,72 @@ D. Scott may use this advertisement if it is true.
 
 A. Judy may send the message as long as it is not false or misleading. 
 B. Judy may send the message only to the parents who are close personal friends. 
-C. Judy may not send the message unless she includes the words, “Advertising Material” at the 
-beginning and end of the message to all recipients other than close personal friends. 
+C. Judy may not send the message unless she includes the words, “Advertising Material” at the beginning and end of the message to all recipients other than close personal friends. 
 D. Judy may not send the message because it would be improper solicitation.
 
 6. Robert Katz is an attorney whose firm specializes in receiverships of financial institutions. Frank has received a request from the Federal Deposit Insurance Corporation that asks his firm to submit a written proposal to represent the FDIC in a certain region for a certain period of time. Which of the following statements most accurately reflects Robert's options under the Model Rules of Professional Conduct?
 
 A. Robert may submit the written proposal. 
-B. Robert may submit the written proposal as long as it contains the words "advertising 
-material” on the outside of the envelope. 
-C. Robert may not submit the proposal unless he has a prior professional relationship with the 
-FDIC. 
+B. Robert may submit the written proposal as long as it contains the words "advertising material” on the outside of the envelope. 
+C. Robert may not submit the proposal unless he has a prior professional relationship with the FDIC. 
 D. Robert may not submit the proposal if pecuniary gain is a significant motivation.
 
-7. Joe Lemire is an attorney who is attempting to establish his practice in his hometown of 
-Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic.” Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
+7. Joe Lemire is an attorney who is attempting to establish his practice in his hometown of Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic.” Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
 
-A. Joe may use the trade name if he includes a disclaimer that makes it clear that his practice 
-is not a public legal aid agency. 
+A. Joe may use the trade name if he includes a disclaimer that makes it clear that his practice is not a public legal aid agency. 
 B. Joe may use the trade name as long as its offices are located in Centerville. 
 C. Joe may not practice law using a trade name. 
 D. Joe may use the trade name as long as the practice specializes in providing legal services 
 to low-income clients. 
 
-8.  Clarence & Madsen is a law firm that has applied to become the contract public defender 
-for the county. Under the contract, the county would pay the firm $20,000 per month in exchange for which the firm would represent all of the county's indigent criminal defendants. The contract is awarded by the chief judge of the state court. In the past election cycle, the firm contributed a significant amount of money to the reelection campaign of the chief judge. Which of the following statements most accurately describes the firm's options under the Model Rules of Professional Conduct? 
+8.  Clarence & Madsen is a law firm that has applied to become the contract public defender for the county. Under the contract, the county would pay the firm $20,000 per month in exchange for which the firm would represent all of the county's indigent criminal defendants. The contract is awarded by the chief judge of the state court. In the past election cycle, the firm contributed a significant amount of money to the reelection campaign of the chief judge. Which of the following statements most accurately describes the firm's options under the Model Rules of Professional Conduct? 
 
-A. The firm may not accept the contract because it made campaign contributions to the chief 
-judge. 
-B. The firm may not accept the contract if it made the contributions for the purpose of 
-obtaining or being considered for the contract. 
-C. The firm may accept the contract as long as the campaign contributions would not constitute 
-bribery or another crime. 
+A. The firm may not accept the contract because it made campaign contributions to the chief judge. 
+B. The firm may not accept the contract if it made the contributions for the purpose of obtaining or being considered for the contract. 
+C. The firm may accept the contract as long as the campaign contributions would not constitute bribery or another crime. 
 D. The firm may accept the contract.
 
-9. Aaron Chapman and Brian McCain are attorneys who were law school classmates. They 
-have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain.” Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
+9. Aaron Chapman and Brian McCain are attorneys who were law school classmates. They have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain.” Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
 
-A. The lawyers may describe themselves as Chapman & McCain because they share office 
-space. 
-B. The lawyers may describe themselves as Chapman & McCain because those are their real 
-names. 
-C. The lawyers may not describe themselves as Chapman & McCain because they are not 
-members of the same law firm. 
-D. The lawyers may not describe themselves as Chapman & McCain unless they inform all 
-prospective clients that they do not practice as a law firm. 
+A. The lawyers may describe themselves as Chapman & McCain because they share office space. 
+B. The lawyers may describe themselves as Chapman & McCain because those are their real names. 
+C. The lawyers may not describe themselves as Chapman & McCain because they are not members of the same law firm. 
+D. The lawyers may not describe themselves as Chapman & McCain unless they inform all prospective clients that they do not practice as a law firm. 
 
-10. Jesse Compton is an attorney who is considering whether he should participate in a 
-prepaid legal services plan owned and operated by a national company. He is concerned because he knows that employees of the plan personally contact people and ask them to become members. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Jesse's participation in the plan? 
+10. Jesse Compton is an attorney who is considering whether he should participate in a prepaid legal services plan owned and operated by a national company. He is concerned because he knows that employees of the plan personally contact people and ask them to become members. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Jesse's participation in the plan? 
 
-A. Jesse may participate in the plan as long as the prospective members being contacted are not 
-known to be in need of particular services covered by the plan. 
-B. Jesse may not participate because the plan is engaged in improper solicitation of prospective 
-clients. 
+A. Jesse may participate in the plan as long as the prospective members being contacted are not known to be in need of particular services covered by the plan. 
+B. Jesse may not participate because the plan is engaged in improper solicitation of prospective clients. 
 C. Jesse may participate in the plan because he does not own the plan or direct its activities. 
 D. Jesse may participate because he is not personally soliciting prospective clients.
 
-11. Antonio Vitale is an attorney who wants to increase the volume of new clients served by his 
-law firm, which specialize in representing people who have been involved in automobile accidents. Antonio wants to sign a contract to pay a local, non-profit referral service for including him on its roster of attorneys. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Antonio's plan? 
+11. Antonio Vitale is an attorney who wants to increase the volume of new clients served by his law firm, which specialize in representing people who have been involved in automobile accidents. Antonio wants to sign a contract to pay a local, non-profit referral service for including him on its roster of attorneys. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Antonio's plan? 
 
-A. Antonio may pay the referral service if the service has been approved by his state's 
-regulatory authority. 
-B. Antonio may pay the referral service as long as he is only paying its usual charges for 
-inclusion on the list. 
+A. Antonio may pay the referral service if the service has been approved by his state's regulatory authority. 
+B. Antonio may pay the referral service as long as he is only paying its usual charges for inclusion on the list. 
 C. Antonio may not pay the referral service. 
 D. Antonio may pay the referral service because he does not own or operate it himself.
 
-12. Mary Jane McCorkle is an attorney who specializes in personal injury cases for plaintiffs. 
-Mary Jane has a cousin, Gretchen, to whom she is very close. Gretchen's husband Patrick is a corporate lawyer who was recently injured in a collision with a gravel truck, Mary Jane wants to contact Patrick, whom she does not know, by telephone and offer to represent him for her usual fee. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Mary Jane's proposed course of conduct? 
+12. Mary Jane McCorkle is an attorney who specializes in personal injury cases for plaintiffs. Mary Jane has a cousin, Gretchen, to whom she is very close. Gretchen's husband Patrick is a corporate lawyer who was recently injured in a collision with a gravel truck, Mary Jane wants to contact Patrick, whom she does not know, by telephone and offer to represent him for her usual fee. Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Mary Jane's proposed course of conduct? 
 
 A. Mary Jane may not call Patrick because she is motivated by pecuniary gain. 
-B. Mary Jane may not call Patrick because she does not know him and has never represented 
-him. 
+B. Mary Jane may not call Patrick because she does not know him and has never represented him. 
 C. Mary Jane may call Patrick because she has a close family relationship with Patrick's wife. 
 D. Mary Jane may call Patrick because he is a lawyer.
 
-13. William Broughton is an attorney who recently paid AMERILAW, a trade publication, to 
-be included in the publication's list of “Best Lawyers in America." Under the Model Rules 
-of Professional Conduct, which of the following statements most accur 
-atements most accurately describes William's options regarding publication of this honor? 
+13. William Broughton is an attorney who recently paid AMERILAW, a trade publication, to be included in the publication's list of “Best Lawyers in America." Under the Model Rules of Professional Conduct, which of the following statements most accur atements most accurately describes William's options regarding publication of this honor? 
 
-A. William may advertise himself as one of the “AMERILAW Best Lawyers in America” 
-because it is true that he was on the list. 
-B. William may advertise himself as one of the “AMERILAW Best Lawyers in America” 
-because he has a constitutional right to advertise. 
-C. William may not advertise himself as one of the “AMERILAW Best Lawyers in America” 
-because the statement would be misleading. 
-D. William may not advertise himself as one of the "AMERILAW Best Lawyers in America” 
-because it is an implied comparison with other lawyers' services. 
+A. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because it is true that he was on the list. 
+B. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because he has a constitutional right to advertise. 
+C. William may not advertise himself as one of the “AMERILAW Best Lawyers in America” because the statement would be misleading. 
+D. William may not advertise himself as one of the "AMERILAW Best Lawyers in America” because it is an implied comparison with other lawyers' services. 
 
-14. Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go 
-the extra mile for a client.” He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER.” Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
+14. Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go the extra mile for a client.” He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER.” Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
 
-A. The advertisement is permissible because questions of taste are matters of speculation and 
-subjective judgment. 
+A. The advertisement is permissible because questions of taste are matters of speculation and subjective judgment. 
 B. The advertisement is permissible because it is not false or misleading. 
-C. The advertisement is impermissible because it brings disrepute to the legal profession and 
-the system of justice. 
-D. The advertisement is impermissible because it implies that Gustav can achieve results by 
-violating the rules of conduct or other law. 
+C. The advertisement is impermissible because it brings disrepute to the legal profession and the system of justice. 
+D. The advertisement is impermissible because it implies that Gustav can achieve results by violating the rules of conduct or other law. 
 
 15. Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny” and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
 
