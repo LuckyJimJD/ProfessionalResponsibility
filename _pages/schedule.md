@@ -22,6 +22,7 @@ title: Schedule & Assignments
 
 - ABA Model Rules 7.1-7.6
 - Casebook: Chapters 8-13
+- [Lawyer Advertisements](https://www.emfink.net/Presentations/slides/AttorneyAdvertising.html)
 
 #### September 9
 
