@@ -29,6 +29,7 @@ title: Schedule & Assignments
 ### The Attorney-Client Relationship
 
 - ABA Model Rules 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
+- [Restatement, Chap. 2](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap2)
 - Casebook: Chapters 15 & 16
 
 #### September 14 & 16
@@ -63,6 +64,7 @@ title: Schedule & Assignments
 ### Competence, Diligence, & Communication
 
 - ABA Model Rules 1.1, 1.2, 1.3, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
+- [Restatement, Chapter 4](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap4)
 - Casebook: Chapters 27–31
 
 #### October 7, 12, & 14
@@ -70,6 +72,7 @@ title: Schedule & Assignments
 ### Confidentiality & Privileges
 
 - ABA Model Rules 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
+- [Restatement, Chapter 5](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap5)
 - NC Rules of Professional Conduct, [Rule 8.6](https://www.emfink.net/ProfessionalResponsibility/statutes/NC_RPC_Section8)
 - Casebook: Chapters 32, 33, 39
 
