@@ -31,6 +31,11 @@ title: Schedule & Assignments
 - ABA Model Rules 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
 - [Restatement, Chap. 2](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap2)
 - Casebook: Chapters 15 & 16
+- Sines v. Kessler, No. 17-cv-0072-NKM (W.D. Va.)
+	- [Motion to Withdraw as Attorney for Defendants NSM & NF](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Motion.pdf)
+	- [Plaintiffs Opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Opposition.pdf)
+	- [Reply to Plaintiffs' Opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Reply.pdf)
+	- [Decision & Order](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Order.pdf)
 
 #### September 14 & 16
 
