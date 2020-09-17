@@ -76,8 +76,7 @@ title: 'Review Questions: Information About Legal Services'
 
 	c. Joe may not practice law using a trade name. 
 
-	d. Joe may use the trade name as long as the practice specializes in providing legal services 
-to low-income clients. 
+	d. Joe may use the trade name as long as the practice specializes in providing legal services to low-income clients. 
 
 8.  Clarence & Madsen is a law firm that has applied to become the contract public defender for the county. Under the contract, the county would pay the firm $20,000 per month in exchange for which the firm would represent all of the county's indigent criminal defendants. The contract is awarded by the chief judge of the state court. In the past election cycle, the firm contributed a significant amount of money to the reelection campaign of the chief judge. Which of the following statements most accurately describes the firm's options under the Model Rules of Professional Conduct? 
 
