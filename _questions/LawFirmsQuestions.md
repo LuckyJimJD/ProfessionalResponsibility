@@ -40,7 +40,7 @@ b. The individual partners of Applebaum & Becker are subject to discipline for f
 
 c. Associate is subject to discipline for incompetent representation.
 
-d. Both the firm and Associate are subject to civil liability for Client’s loss.
+d. The partners and Associate are subject to civil liability for Client’s loss.
 
 ### Question 4
 
@@ -125,13 +125,13 @@ b. Yes, because the office manager is paid by Bank.
 
 c. No, because a nonlawyer will be advising the law firm on fees and time charges.
 
-d. No, because Bank will be involved in the practice of law.
+d. No, because Bank's employee is involved in management of the law firm, without supervision by the firm's attorneys.
 
 ### Question 12
 
 Attorney is a member of the bar and a salaried employee of the trust department of Bank. As part of his duties, he prepares a monthly newsletter concerning wills and taxes which Bank sends to all of its customers. The newsletter contains a recommendation to the customer to review his or her will in light of information contained therein and, if the customer has any questions, to bring the will to Bank’s trust department where a non-lawyer trust officer will answer any questions without charge. If the trust officer is unable to answer the customer’s questions, the trust officer refers the customer to Attorney. 
 
-Is Attorney subject to discipline for the foregoing?
+Is Attorney subject to discipline?
 
 ### Question 13
 
