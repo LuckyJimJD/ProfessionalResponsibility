@@ -13,7 +13,7 @@ module Jekyll
     end
 
     def render(context)
-        "<div class='epigraph'><blockquote><p>#{@text[0]}</p>"+
+        "<div class='epigraph'><blockquote><p>#{@text[0]}"+
         "<footer>#{@text[1]}, "+"<cite>#{@text[2]}</cite></footer></blockquote></div>"
     end
   end

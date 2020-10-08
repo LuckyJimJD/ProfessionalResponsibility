@@ -11,14 +11,14 @@ title: 'Study Aids & Additional Reading'
 
 {% for outline in site.outlines %}
 <p><a href="{{ site.baseurl }}{{ outline.url }}">{{ outline.title }}</a>
-</p>
+
 {% endfor %}
 
 ## Review Questions
 
 {% for question in site.questions %}
 <p><a href="{{ site.baseurl }}{{ question.url }}">{{ question.title }}</a>
-</p>
+
 {% endfor %}
 
 ## CALI 

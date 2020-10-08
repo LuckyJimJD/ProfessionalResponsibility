@@ -9,7 +9,7 @@ module Jekyll
     end
 
     def render(context)
-      "<label for='#{@text[0]}' class='margin-toggle'> &#8853;</label><input type='checkbox' id='#{@text[0]}' class='margin-toggle'/><span class='marginnote'>#{@text[1]} </span>"
+      "<label for='#{@text[0]}' class='margin-toggle'> &#8853;</label><input type='checkbox' id='#{@text[0]}' class='margin-toggle'/><span class='marginnote'>#{@text[1]} "
     end
   end
 end

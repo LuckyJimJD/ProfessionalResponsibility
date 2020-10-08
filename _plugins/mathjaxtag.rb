@@ -16,7 +16,7 @@ class MathJaxEndBlockTag < Liquid::Tag
   end
 class MathJaxEndInlineTag < Liquid::Tag
     def render(context)
-      '</script></span>'
+      '</script>'
     end
   end  
 end

@@ -3,7 +3,7 @@ $("script[type='math/tex']").replaceWith(
     var tex = $(this).text();
     return "<span class=\"inline-equation\">" +
            katex.renderToString(tex) +
-           "</span>";
+           "";
 });
 
 $("script[type='math/tex; mode=display']").replaceWith(
