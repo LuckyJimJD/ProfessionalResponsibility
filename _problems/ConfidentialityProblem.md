@@ -24,3 +24,4 @@ About ten years later, Cashwell commits suicide in prison. Hunt remains in priso
 _Does MRPC Rule 1.6 permit you to reveal Cashwell's admission of sole responsbility to Hunt's attorney now that Cashwell is dead?_ 
 
 _Does NC Rule 8.6 permit or require disclosure?_
+
