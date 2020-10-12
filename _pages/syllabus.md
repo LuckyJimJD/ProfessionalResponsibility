@@ -143,7 +143,7 @@ The Law School honor code applies to all activities related to your law school s
 - [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem)
 - [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem)
 
-#### Due October 23
+#### Due October 31
 
 ##### Quiz: Duties to Clients
 
@@ -170,7 +170,7 @@ The Law School honor code applies to all activities related to your law school s
 - ABA Model Rules 1.6, 3.5, 4.1 4.2, 4.3
 - Casebook: Chapters 51-54
 
-#### Due November 20 
+#### Due November 21
 
 ##### Quiz: Duties to Courts, Opposing Parties, & Others
 
