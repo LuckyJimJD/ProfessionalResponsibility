@@ -80,6 +80,7 @@ title: Schedule & Assignments
 - [Restatement, Chapter 5](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap5)
 - NC Rules of Professional Conduct, [Rule 8.6](https://www.emfink.net/ProfessionalResponsibility/statutes/NC_RPC_Section8)
 - Casebook: Chapters 32, 33, 39
+- [Confidentiality & Privileges Comparison](https://www.emfink.net/ProfessionalResponsibility/visuals/ConfidentialityPrivilegeComparison.pdf)
 
 #### October 19, 21, & 26
 
