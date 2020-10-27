@@ -15,7 +15,7 @@ Meanwhile, Enrique Cesares is laid off from his job, and he asks Álvaro whether
 
 > For some time, the writing of the novel was put on hold. Álvaro spared no effort in studying Enrique Cesares’ case. He obtained all the relevant information, examined it carefully, studied it, revised it several times, checked the case against other analogous ones. He arrived at the conclusion that, in effect, it would be possible to appeal against the [layoff], with a virtual guarantee of success. In the worst case, the severance pay the company should be obliged to provide if the dismissal was carried out was almost double the paltry sum his neighbor had been offered. 
 >   
-> One the situation was clarified, he reflected cautiously. He considered two options:
+> Once the situation was clarified, he reflected cautiously. He considered two options:
 >   
 > a) If he appealed the dismissal it was very likely Cesares would manage to keep his job or, at least, that the damage would be far less—on the hypothesis that the company might choose to resort to a paragraph of the law which stated that they had no obligation to readmit a dismissed employee to his post. In this case—Álvaro continues—I will have won Cesares’ gratitude, but I will also have lost time and money, since I have no intention of sinking so low as to charge him a fee.
 >   
