@@ -54,7 +54,8 @@ permalink: /articles/:title
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock', admin]
+exclude: ['Gemfile.lock', admin, .admin]
+keep_files: [.admin]
 post:
   template: _post.txt
   extension: md
