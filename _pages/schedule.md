@@ -5,128 +5,116 @@ title: Schedule & Assignments
 
 ---
 
-## Law as a Regulated Profession
+## 1. Law as a Regulated Profession
 
-#### August 31
+#### August 30
+
+### What Makes Law a Profession? 
+
+- Andrew Abbott, *The System of Professions: An Essay on the Division of Expert Labor*, pp. X-X (1988)
+- Kathi Weeks, *The Problem with Work: Feminism, Marxism, Antiwork Politics, & Postwork Imaginaries* (2011:74)
+
+#### September 1
 
 ### Professional Gatekeeping & Regulation
 
-- ABA Model Rules: Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
-- Casebook: Chapters 1-7
+- NC Rules of Professional Conduct: Preamble & Scope; Rules 1.0, 5.1-5.7, 8.1-8.5
+- [NC Gen. Stat., Chap. 84: Attorneys-at-Law](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84.html)
+- CASES 
 
-## Maintaining an Ethical Law Practice
+## 2. The Attorney-Client Relationship
 
-#### September 2 & 7
+#### September 1
 
 ### Advertising & Solicitation
 
-- ABA Model Rules 7.1-7.6
+- NC Rules of Professional Conduct: Rules 7.1-7.6
 - Casebook: Chapters 8-13
 - [Lawyer Advertisements](https://www.emfink.net/Presentations/slides/AttorneyAdvertising.html)
 
-#### September 9
+#### September 6 & 8
 
-### The Attorney-Client Relationship
+### Establishing and Terminating Representation 
 
-- ABA Model Rules 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
+- NC Rules of Professional Conduct: Rules 1.8(f), 1.13, 1.14, 1.16, 1.18, 4.2, 6.1, 6.2, 6.3
 - [Restatement, Chap. 2](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap2)
-- Casebook: Chapters 15 & 16
+- CASES
 - Sines v. Kessler, No. 17-cv-0072-NKM (W.D. Va.)
 	- [Motion to Withdraw as Attorney for Defendants NSM & NF](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Motion.pdf)
 	- [Plaintiffs Opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Opposition.pdf)
 	- [Reply to Plaintiffs' Opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Reply.pdf)
 	- [Decision & Order](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Order.pdf)
 
-#### September 14 & 16
+#### September 13 & 15
 
 ### Attorney Fees & Client Property
 
-- ABA Model Rules 1.5, 1.8, 1.15
-- Casebook: Chapters 17 & 18
+- NC Rules of Professional Conduct: Rules 1.5, 1.8, 1.15
+- CASES
 
-#### September 21 & 23
+#### September 20 & 22
 
 ### Law Firms
 
-- Casebook: Chapters 19-24
-- ABA Model Rules 5.1-5.7
+- NC Rules of Professional Conduct: Rules 5.1-5.7
+- CASES
 
-#### Due September 25
-
-##### Quiz: Maintaining an Ethical Law Practice
-
-## Duties to Clients
-
-#### September 28
+#### September 27
 
 ### Scope of Representation & Authority
 
-- ABA Model Rule 1.2
-- Casebook: Chapters 25 & 26
+- NC Rules of Professional Conduct: Rule 1.2
+- CASES
 
-#### September 30 & October 5
+#### September 29 & October 4
 
 ### Competence, Diligence, & Communication
 
-- ABA Model Rules 1.1, 1.2, 1.3, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
+- NC Rules of Professional Conduct: Rules 1.1, 1.2, 1.3, 1.4, 1.6, 1.13, 1.14, 1.16, 2.1
 - [Restatement, Chapter 4](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap4)
-- Casebook: Chapters 27–31
+- CASES 
 
-#### October 7, 12, & 14
+#### October 6, 11, & 13
 
 ### Confidentiality & Privileges
 
-- ABA Model Rules 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b)
+- NC Rules of Professional Conduct: Rules 1.6, 1.9(c), 1.13, 1.14, 1.18, 4.4(b), 8.6
 - [Restatement, Chapter 5](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap5)
-- NC Rules of Professional Conduct, [Rule 8.6](https://www.emfink.net/ProfessionalResponsibility/statutes/NC_RPC_Section8)
-- Casebook: Chapters 32, 33, 39
-- [Confidentiality & Privileges Comparison](https://www.emfink.net/ProfessionalResponsibility/visuals/ConfidentialityPrivilegeComparison.pdf)
+- CASES 
 
-#### October 19, 21, & 26
+#### October 18, 20, & 25
 
 ### Conflicts of Interest
 
-- ABA Model Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
-- Casebook: Chapters 34-38, 40
+- NC Rules of Professional Conduct: Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18, 6.4, 6.5
+- CASES 
 
-#### October 28 
+#### October 27
 
 ### Confidentiality & Conflicts Review 
 
-- [Discussion Problem: Confidentiality](https://www.emfink.net/ProfessionalResponsibility/problems/ConfidentialityProblem)
-- [Discussion Problem: Conflicts](https://www.emfink.net/ProfessionalResponsibility/problems/ConflictsProblem)
-
-#### Due October 31
-
-##### Quiz: Duties to Clients
 
 ## Duties to Courts, Opposing Parties, & Others
 
-#### November 2 & 4
+#### November 2 & 3
 
 ### Good Faith & Fairness Toward Opposing Parties
 
-- ABA Model Rules 3.1-3.9
+- NC Rules of Professional Conduct: Rules 3.1-3.9
 - Casebook: Chapters 43, 44, 46, 49
 
-#### November 9 & 11 
+#### November 8 & 10
 
 ### Maintaining the Integrity of the Tribunal
 
-- ABA Model Rules 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
+- NC Rules of Professional Conduct: Rules 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
 - Casebook: Chapters 45, 47, 48, & 49
 
-#### November 16 & 18
+#### November 15 & 17
 
 ### Interactions with Persons Other Than Clients
 
-- ABA Model Rules 1.6, 3.5, 4.1 4.2, 4.3
+- NC Rules of Professional Conduct: Rules 1.6, 3.5, 4.1 4.2, 4.3
 - Casebook: Chapters 51-54
 
-#### Due November 21
-
-##### Quiz: Duties to Courts, Opposing Parties, & Others
-
-#### December 4
-
-## Final Exam 
+#### November 22

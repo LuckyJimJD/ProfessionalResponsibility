@@ -4,7 +4,7 @@ title: Professional Responsibility
 description:  # leave blank if you don't want to display a description 
 name: Eric M. Fink
 
-last_updated: 7 January 2021 # leave blank if you don't want to display last updated
+last_updated: 13 May 2021 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -22,6 +22,8 @@ collections:
     output: true 
   exams:
     output: true
+  rules:
+    output: true
   notes: 
     output: true 
   outlines:
@@ -31,6 +33,8 @@ collections:
   questions:
     output: true
   readings: 
+    output: true 
+  restatement: 
     output: true 
   statutes: 
     output: true 

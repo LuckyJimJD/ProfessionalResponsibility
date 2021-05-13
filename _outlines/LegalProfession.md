@@ -135,7 +135,7 @@ A person licensed to engage in the practice of law
 
 #### Practice of Law
 
-NCGS § 84-2.1
+NCGS § 84-2.1 
 
 > The phrase ‘practice law’ … is defined to be performing any legal service for any other person, firm or corporation, with or without compensation, specifically including the preparation or aiding in the preparation of deeds, mortgages, wills, trust instruments, inventories, accounts or reports of guardians, trustees, administrators or executors, or preparing or aiding in the preparation of any petitions or orders in any probate or court proceeding; abstracting or passing upon titles, the preparation and filing of petitions for use in any court, including administrative tribunals and other judicial or quasi-judicial bodies, or assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation: Provided, that the above reference to particular acts … shall … be construed to include the foregoing particular acts, as well as all other acts within the general definition. The phrase ‘practice law’ does not encompass the writing of memoranda of understanding or other mediation summaries by mediators at community mediation centers ….
 

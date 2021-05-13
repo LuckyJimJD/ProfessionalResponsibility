@@ -11,13 +11,9 @@ This course is intended to acquaint students with the organization and regulatio
 
 # Course Material
 
-Leah Christensen & Brooks Holland, Learning Professional Responsibility (2d ed., West Academic 2018) ("Casebook")
-
-ABA Model Rules of Professional Conduct (2018) (Online at the [`ABA website`](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents.html) and various print editions)
+All required readings (cases, rules, and other material) are available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has subject outlines, review questions, and links to other relevant material. 
 
 Suggested supplement (optional): Grace M. Giesel, Mastering Professional Responsibility (2d ed., Carolina Acad. Press 2015)
-
-The course website, [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/), has subject outlines, review questions, and links to the ABA Model Rules and other relevant material. 
 
 # Policies
 
