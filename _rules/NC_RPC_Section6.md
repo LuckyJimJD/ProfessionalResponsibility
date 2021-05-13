@@ -7,7 +7,7 @@ subtitle: 'Section 6—Public Service'
     
 ---
 
-## Rule 6.1 — Voluntary Pro Bono Publico Service
+# Rule 6.1 — Voluntary Pro Bono Publico Service
 
 Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer should aspire to render at least 50 hours of pro bono publico legal services per year. In fulfilling this responsibility, the lawyer should:
 
@@ -27,9 +27,9 @@ Every lawyer has a professional responsibility to provide legal services to thos
 
 In addition, a lawyer should voluntarily contribute financial support to organizations that provide legal services to persons of limited means.
 
-## Rule 6.2 — Reserved
+# Rule 6.2 — Reserved
 
-## Rule 6.3 — Membership in Legal Services Organizations
+# Rule 6.3 — Membership in Legal Services Organizations
 
 A lawyer may serve as a director, officer or member of a legal services organization, apart from the law firm in which the lawyer practices, notwithstanding that the organization serves persons having interests adverse to a client of the lawyer. The lawyer shall not knowingly participate in a decision or action of the organization:
 
@@ -37,11 +37,11 @@ A lawyer may serve as a director, officer or member of a legal services organiza
 > 
 (2)	where the decision or action could have a material adverse effect on the representation of a client of the organization whose interests are adverse to a client of the lawyer.
 
-## Rule 6.4 — Law Reform Activities Affecting Client Interests
+# Rule 6.4 — Law Reform Activities Affecting Client Interests
 
 A lawyer may serve as a director, officer or member of an organization involved in reform of the law or its administration notwithstanding that the reform may affect the interests of a client of the lawyer. When the lawyer knows that the interests of a client may be materially benefited by a decision in which the lawyer participates, the lawyer shall disclose that fact but need not identify the client.
 
-## Rule 6.5 — Limited Legal Services Programs
+# Rule 6.5 — Limited Legal Services Programs
 
 (a) A lawyer who, under the auspices of a program sponsored by a nonprofit organization or court, provides short-term limited legal services to a client without expectation by either the lawyer or the client that the lawyer will provide continuing representation in the matter:
 
@@ -51,7 +51,7 @@ A lawyer may serve as a director, officer or member of an organization involved 
 
 (b) Except as provided in paragraph (a)(2), Rule 1.10 is inapplicable to a representation governed by this Rule.
 
-## Rule 6.6 — Action as a Public Official
+# Rule 6.6 — Action as a Public Official
 
 A lawyer who holds public office shall not:
 

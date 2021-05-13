@@ -7,11 +7,11 @@ subtitle: 'Section 1—Client-Lawyer Relationship'
     
 ---
 
-## Rule 1.1 — Competence
+# Rule 1.1 — Competence
 
 A lawyer shall not handle a legal matter that the lawyer knows or should know he or she is not competent to handle without associating with a lawyer who is competent to handle the matter. Competent representation requires the legal knowledge, skill, thoroughness, and preparation reasonably necessary for the representation.
 
-## Rule 1.2 — Scope of Representation and Allocation of Authority Between Client and Lawyer 
+# Rule 1.2 — Scope of Representation and Allocation of Authority Between Client and Lawyer 
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. 
 
@@ -27,11 +27,11 @@ A lawyer shall not handle a legal matter that the lawyer knows or should know he
 
 (d) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
 
-## Rule 1.3 — Diligence
+# Rule 1.3 — Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-## Rule 1.4 — Communication
+# Rule 1.4 — Communication
 
 (a) A lawyer shall:
 
@@ -47,7 +47,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-## Rule 1.5 — Fees
+# Rule 1.5 — Fees
 
 (a) A lawyer shall not make an agreement for, charge, or collect an illegal or clearly excessive fee or charge or collect a clearly excessive amount for expenses. The factors to be considered in determining whether a fee is clearly excessive include the following:
 
@@ -91,7 +91,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 > (2) participate in good faith in the fee dispute resolution process if the client submits a proper request.
 
-## Rule 1.6 — Confidentiality of Information 
+# Rule 1.6 — Confidentiality of Information 
 
 (a) A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
@@ -117,7 +117,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (d) The duty of confidentiality described in this Rule encompasses information received by a lawyer then acting as an agent of a lawyers' or judges' assistance program approved by the North Carolina State Bar or the North Carolina Supreme Court regarding another lawyer or judge seeking assistance or to whom assistance is being offered. For the purposes of this Rule, "client" refers to lawyers seeking assistance from lawyers' or judges' assistance programs approved by the North Carolina State Bar or the North Carolina Supreme Court.
 
-## Rule 1.7 — Conflict of Interrest: Current Clients 
+# Rule 1.7 — Conflict of Interrest: Current Clients 
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 
@@ -135,7 +135,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 > (4) each affected client gives informed consent, confirmed in writing.
 
-## Rule 1.8 — Conflict of Interest: Current Clients: Specific Rules
+# Rule 1.8 — Conflict of Interest: Current Clients: Specific Rules
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest directly adverse to a client unless:
 
@@ -181,7 +181,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i), that applies to any one of them shall apply to all of them. 
 
-## Rule 1.9 — Duties to Former Clients
+# Rule 1.9 — Duties to Former Clients
 
 (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 
@@ -199,7 +199,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 > (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-## Rule 1.10 — Imputation of Conflicts of Interest: General Rule
+# Rule 1.10 — Imputation of Conflicts of Interest: General Rule
 
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless the prohibition is based on a personal interest of the prohibited lawyer, including a prohibition under Rule 6.6, and the prohibition does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm.
 
@@ -219,7 +219,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 (e) The disqualification of lawyers associated in a firm with former or current government lawyers is governed by Rule 1.11.
 
-## Rule 1.11 — Special Conflicts of Interest for Former and Current Government Officers and Employees
+# Rule 1.11 — Special Conflicts of Interest for Former and Current Government Officers and Employees
 
 (a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 
@@ -251,7 +251,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 > (2) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
-## Rule 1.12 — Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
+# Rule 1.12 — Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
 
 (a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 
@@ -265,7 +265,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 (d) An arbitrator selected as a partisan of a party in a multimember arbitration panel is not prohibited from subsequently representing that party.
 
-## Rule 1.13 — Organization as Client
+# Rule 1.13 — Organization as Client
 
 (a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
@@ -281,7 +281,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 (g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
-## Rule 1.14 — Client With Diminished Capacity
+# Rule 1.14 — Client With Diminished Capacity
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -289,15 +289,15 @@ unless the former client gives informed consent, confirmed in writing.
 
 (c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
 
-## Rule 1.15[^1]
+# Rule 1.15[^1]
 
 [^1]: The NC Rules on safekeeping client propery and funds (1.15-1 through 1.15-4) are far more detailed than [ABA Model Rule 1.15]({{ site.baseurl }}/rules_statutes/MRPC_Rule15). Most significantly, the NC Rules include specific provisions regarding the management and auditing of client trust accounts, most of which are omitted here. 
 
-## Rule 1.15-1 — Definitions
+# Rule 1.15-1 — Definitions
 
 [ * * * ]
 
-## Rule 1.15-2 — General Rules
+# Rule 1.15-2 — General Rules
 
 (a) Entrusted Property. All entrusted property shall be identified, held, and maintained separate from the property of the lawyer, and shall be deposited, disbursed, and distributed only in accordance with this Rule 1.15.
 
@@ -338,16 +338,16 @@ unless the former client gives informed consent, confirmed in writing.
 [ * * * ]
 
 
-## Rule 1.15-3 — Records and Accountings
+# Rule 1.15-3 — Records and Accountings
 
 [ * * * ]
 
-## Rule 1.15-4 — Trust Account Management in a Multi-Member Firm 
+# Rule 1.15-4 — Trust Account Management in a Multi-Member Firm 
 
 [ * * * ]
 
 
-## Rule 1.16 — Declining or Terminating Representation
+# Rule 1.16 — Declining or Terminating Representation
 
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
@@ -381,7 +381,7 @@ unless the former client gives informed consent, confirmed in writing.
 
 (d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
 
-## Rule 1.17 — Sale of a Law Practice
+# Rule 1.17 — Sale of a Law Practice
 
 A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
 
@@ -405,7 +405,7 @@ A lawyer or a law firm may sell or purchase a law practice, or an area of law pr
 
 (g) The seller and purchaser may agree that the purchaser does not have to pay the entire sales price for the seller's law practice in one lump sum. The seller and purchaser may enter into reasonable arrangements to finance the purchaser's acquisition of the seller's law practice without violating Rules 1.5(e) and 5.4(a). The seller, however, shall have no say regarding the purchaser's conduct of the law practice.
 
-## Rule 1.18 — Duties to Prospective Client
+# Rule 1.18 — Duties to Prospective Client
 
 (a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 
@@ -419,7 +419,7 @@ A lawyer or a law firm may sell or purchase a law practice, or an area of law pr
 
 > (2) written notice is promptly given to the prospective client.
 
-## Rule 1.19 — Sexual Relations With Clients Prohibited
+# Rule 1.19 — Sexual Relations With Clients Prohibited
 
 (a) A lawyer shall not have sexual relations with a current client of the lawyer.
 

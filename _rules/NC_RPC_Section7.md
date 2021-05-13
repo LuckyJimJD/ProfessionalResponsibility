@@ -9,7 +9,7 @@ subtitle: 'Section 7—Information About Legal Services'
 
 
 
-## Rule 7.1	— Communications Concerning a Lawyer's Services
+# Rule 7.1	— Communications Concerning a Lawyer's Services
 
 (a) A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it:
 
@@ -21,7 +21,7 @@ subtitle: 'Section 7—Information About Legal Services'
 
 (b) A communication by a lawyer that contains a dramatization depicting a fictional situation is misleading unless it complies with paragraph (a) above and contains a conspicuous written or oral statement, at the beginning and the end of the communication, explaining that the communication contains a dramatization and does not depict actual events or real persons.
 
-## Rule 7.2	— Advertising
+# Rule 7.2	— Advertising
 
 (a) Subject to the requirements of Rules 7.1 and 7.3, a lawyer may advertise services through written, recorded or electronic communication, including public media.
 
@@ -55,7 +55,7 @@ subtitle: 'Section 7—Information About Legal Services'
 > > 
 > > (B)	explain the method by which the needs of the prospective client are matched with the qualifications of the recommended lawyer.
 
-## Rule 7.3	— Direct Contact With Potential Clients
+# Rule 7.3	— Direct Contact With Potential Clients
 
 (a) A lawyer shall not by in-person, live telephone, or real-time electronic contact solicit professional employment when a significant motive for the lawyer's doing so is the lawyer's pecuniary gain, unless the person contacted:
 
@@ -98,7 +98,7 @@ subtitle: 'Section 7—Information About Legal Services'
 
 > > > (ii) The contact does not involve coercion, duress, or harassment and the communication with the solicited person is not false, deceptive or misleading.
 
-## Rule 7.4	— Communication of Fields of Practice and Specialization
+# Rule 7.4	— Communication of Fields of Practice and Specialization
 
 (a) A lawyer may communicate the fact that the lawyer does or does not practice in particular fields of law.
 
@@ -112,7 +112,7 @@ subtitle: 'Section 7—Information About Legal Services'
 > 
 > (4) the name of the certifying organization is clearly identified in the communication.
 
-## Rule 7.5	— Firm Names and Letterheads
+# Rule 7.5	— Firm Names and Letterheads
 
 (a) A lawyer shall not use a firm name, letterhead, or other professional designation that violates Rule 7.1. A trade name may be used by a lawyer in private practice if it does not imply a connection with a government agency or with a public or charitable legal services organization and is not false or misleading in violation of Rule 7.1. Every trade name used by a law firm shall be registered with the North Carolina State Bar for a determination of whether the name is misleading. 
 
@@ -124,4 +124,4 @@ subtitle: 'Section 7—Information About Legal Services'
 
 (e) Lawyers may state or imply that they practice in a partnership or other professional organization only when that is the fact.
 
-## Rule 7.6	— Reserved
+# Rule 7.6	— Reserved

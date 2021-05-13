@@ -7,7 +7,7 @@ subtitle: 'Section 5—Law Firms & Associations'
     
 ---
 
-## Rule 5.1 — Responsibilities of Principals, Managers, and Supervisory Lawyers
+# Rule 5.1 — Responsibilities of Principals, Managers, and Supervisory Lawyers
 
 (a) A principal in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority, shall make reasonable efforts to ensure that the firm or the organization has in effect measures giving reasonable assurance that all lawyers in the firm or the organization conform to the Rules of Professional Conduct.
 
@@ -19,13 +19,13 @@ subtitle: 'Section 5—Law Firms & Associations'
 > 
 > (2) the lawyer is a principal or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action to avoid the consequences.
 
-## Rule 5.2 — Responsibilities of a Subordinate Lawyer
+# Rule 5.2 — Responsibilities of a Subordinate Lawyer
 
 (a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 
 (b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer’s reasonable resolution of an arguable question of professional duty.
 
-## Rule 5.3 — Responsibilities Regarding Nonlawyer Assistants
+# Rule 5.3 — Responsibilities Regarding Nonlawyer Assistants
 
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
@@ -39,7 +39,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 > 
 > (2) the lawyer is a principal or has comparable managerial authority in the law firm or organization in which the person is employed, or has direct supervisory authority over the nonlawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action to avoid the consequences.
 
-## Rule 5.4 — Professional Independence of a Lawyer
+# Rule 5.4 — Professional Independence of a Lawyer
 
 (a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 
@@ -65,7 +65,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 > 
 > (2) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
-## Rule 5.5 — Unauthorized Practice of Law
+# Rule 5.5 — Unauthorized Practice of Law
 
 (a) A lawyer shall not practice law in a jurisdiction where doing so violates the regulation of the legal profession in that jurisdiction.
 
@@ -113,7 +113,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 (i) For the purposes of Paragraph (d), the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and are subject to effective regulation and discipline by a duly constituted professional body or a public authority.
 
-## Rule 5.6 — Restrictions on Right to Practice
+# Rule 5.6 — Restrictions on Right to Practice
 
 A lawyer shall not participate in offering or making:
 
@@ -121,7 +121,7 @@ A lawyer shall not participate in offering or making:
  
 (b)	an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-## Rule 5.7 — Responsibilities Regarding Law-Related Services
+# Rule 5.7 — Responsibilities Regarding Law-Related Services
 
 (a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 

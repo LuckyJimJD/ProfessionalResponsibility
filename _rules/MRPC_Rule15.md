@@ -1,6 +1,5 @@
 ---
 layout: statute
-date: 2020-05-28T03:00:00
 
 course: Professional Responsibility
 title: ABA Model Rules of Professional Conduct
