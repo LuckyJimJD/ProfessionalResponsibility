@@ -7,7 +7,9 @@ title: Course Information
 
 # Description
 
-This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
+This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct[^a1331217] and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the Multistate Professional Responsibility Examination (MPRE), but will not cover all of the topics tested on that exam.
+
+[^a1331217]: Because the ABA Model Rules are protected by copyright, the course materials use the NC Rules of Professional Conduct, which closely follow the ABA Model Rules in most respects. Significant differences between the NC Rules and the ABA Model Rules are noted in the course materials. 
 
 # Course Material
 

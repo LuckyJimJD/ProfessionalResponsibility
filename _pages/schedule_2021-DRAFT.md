@@ -22,17 +22,24 @@ title: Schedule & Assignments
 - [NC Gen. Stat., Chap. 84: Attorneys-at-Law](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84.html)
 - CASES 
 
-## 2. The Attorney-Client Relationship
+#### September 6
 
-#### September 1
+### Law Firms
+
+- NC Rules of Professional Conduct: Rules 5.1-5.7
+- CASES
+
+#### September 8
 
 ### Advertising & Solicitation
 
 - NC Rules of Professional Conduct: Rules 7.1-7.6
-- Casebook: Chapters 8-13
+- CASES
 - [Lawyer Advertisements](https://www.emfink.net/Presentations/slides/AttorneyAdvertising.html)
 
-#### September 6 & 8
+## 2. The Attorney-Client Relationship
+
+#### September 13
 
 ### Establishing and Terminating Representation 
 
@@ -45,28 +52,31 @@ title: Schedule & Assignments
 	- [Reply to Plaintiffs' Opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Reply.pdf)
 	- [Decision & Order](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Sines_Kessler-Withdrawal-NSM-Order.pdf)
 
-#### September 13 & 15
+#### September 15
 
 ### Attorney Fees & Client Property
 
 - NC Rules of Professional Conduct: Rules 1.5, 1.8, 1.15
 - CASES
 
-#### September 20 & 22
-
-### Law Firms
-
-- NC Rules of Professional Conduct: Rules 5.1-5.7
-- CASES
-
-#### September 27
+#### September 20
 
 ### Scope of Representation & Authority
 
 - NC Rules of Professional Conduct: Rule 1.2
 - CASES
 
-#### September 29 & October 4
+#### September 22
+
+### Units 1 & 2 Review
+
+#### September 23-26
+
+##### Quiz: Units 1 & 2 
+
+## 3. Duties to Clients 
+
+#### September 27 & 29
 
 ### Competence, Diligence, & Communication
 
@@ -74,7 +84,7 @@ title: Schedule & Assignments
 - [Restatement, Chapter 4](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap4)
 - CASES 
 
-#### October 6, 11, & 13
+#### October 4, 6, & 11
 
 ### Confidentiality & Privileges
 
@@ -82,7 +92,7 @@ title: Schedule & Assignments
 - [Restatement, Chapter 5](https://www.emfink.net/ProfessionalResponsibility/statutes/Restatement_Chap5)
 - CASES 
 
-#### October 18, 20, & 25
+#### October 13, 18, 20, & 25
 
 ### Conflicts of Interest
 
@@ -91,30 +101,39 @@ title: Schedule & Assignments
 
 #### October 27
 
-### Confidentiality & Conflicts Review 
+### Unit 3 Review 
 
+#### October 28-31
 
-## Duties to Courts, Opposing Parties, & Others
+##### Quiz: Unit 3 
 
-#### November 2 & 3
+## 4. Duties to Courts, Opposing Parties, & Others
+
+#### November 1 & 3
 
 ### Good Faith & Fairness Toward Opposing Parties
 
 - NC Rules of Professional Conduct: Rules 3.1-3.9
-- Casebook: Chapters 43, 44, 46, 49
+- CASES
 
 #### November 8 & 10
 
 ### Maintaining the Integrity of the Tribunal
 
 - NC Rules of Professional Conduct: Rules 1.2(d), 1.6, 3.1, 3.3, 3.4(b), 4.1, 8.4
-- Casebook: Chapters 45, 47, 48, & 49
+- CASES
 
 #### November 15 & 17
 
 ### Interactions with Persons Other Than Clients
 
 - NC Rules of Professional Conduct: Rules 1.6, 3.5, 4.1 4.2, 4.3
-- Casebook: Chapters 51-54
+- CASES
 
 #### November 22
+
+### Unit 4 Review 
+
+#### November 23-26
+
+##### Quiz: Unit 4 
