@@ -3,8 +3,8 @@ layout: statute
 
 course: Professional Responsibility
 title: "Restatement (3d) of the Law Governing Lawyers"
-subtitle: "Chapter 5. Confidential Client Information
-author: "Copyright © 2000 by the American Law Institute. "
+subtitle: "Chapter 5. Confidential Client Information"
+author: "Copyright © 2000 by the American Law Institute."
   
 ---
 
