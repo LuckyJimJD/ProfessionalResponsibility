@@ -1,31 +1,429 @@
----
-layout: null
-nav_exclude: true
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Professional Responsibility</title>
+    <description></description>
+    <link>https://www.emfink.net/ProfessionalResponsibility/</link>
+    <atom:link href="https://www.emfink.net/ProfessionalResponsibility/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Jun 2021 14:19:38 -0400</pubDate>
+    <lastBuildDate>Tue, 22 Jun 2021 14:19:38 -0400</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>About this Theme</title>
+        <description>&lt;p&gt;Akademický is a &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme for academic sites. It is based on &lt;a href=&quot;https://github.com/alshedivat/al-folio&quot;&gt;alshedivat/al-folio&lt;/a&gt;, and uses elements from &lt;a href=&quot;https://github.com/clayh53/tufte-jekyll&quot;&gt;clayh53/tufte-jekyll&lt;/a&gt; (figures, and side/margin notes in the style of &lt;a href=&quot;https://www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt; and &lt;a href=&quot;https://github.com/andhart/bijou&quot;&gt;andhart/bijou&lt;/a&gt; (table and button styles).&lt;/p&gt;
+
+&lt;h2 id=&quot;demos&quot;&gt;Demos&lt;/h2&gt;
+
+&lt;p&gt;Here are two sites using this theme:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://LuckyJimJD.github.io/ELonLaw/&quot;&gt;Personal site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://LuckyJimJD.github.io/CivilProcedure/&quot;&gt;Course site&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Aug 2020 09:15:00 -0400</pubDate>
+        <link>https://www.emfink.net/ProfessionalResponsibility/articles/About</link>
+        <guid isPermaLink="true">https://www.emfink.net/ProfessionalResponsibility/articles/About</guid>
+        
+        
+        <category>post</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Tufte-style Jekyll blog</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;The Tufte Jekyll theme  is an attempt to create a website design with the look and feel of Edward Tufte’s books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.&lt;!--more--&gt; The idea for this project is essentially cribbed wholesale from Tufte and R Markdown’s Tufte Handout format&lt;label for=&quot;One&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;One&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;See &lt;a href=&quot;https://tufte-latex.github.io/tufte-latex/&quot;&gt;tufte-latex.github.io/tufte-latex/&lt;/a&gt; and &lt;a href=&quot;http://rmarkdown.rstudio.com/tufte_handout_format.html&quot;&gt;rmarkdown.rstudio.com/tufte_handout_format&lt;/a&gt;  This page is an adaptation of the &lt;a href=&quot;http://rmarkdown.rstudio.com/examples/tufte-handout.pdf&quot;&gt;Tufte Handout PDF&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-customizations&quot;&gt;Jekyll customizations&lt;/h2&gt;
+
+&lt;p&gt;This Jekyll blog theme is based on the github repository by Edward Tufte &lt;a href=&quot;https://github.com/edwardtufte/tufte-css&quot;&gt;here&lt;/a&gt;, which was orginally created by Dave Leipmann, but is now labeled under Edward Tufte’s moniker. I borrowed freely from the Tufte-CSS repo and have transformed many of the typographic and page-structural features into a set of custom Liquid tags that make creating content using this style much easier than writing straight HTML. Essentially, if you know markdown, and mix in a few custom Liquid tags, you can be creating a website with this document style in short order.&lt;/p&gt;
+
+&lt;p&gt;The remainder of this sample post is a self-documenting survey of the features of the Tufte-Jekyll theme. I have taken almost all of the sample content from the &lt;a href=&quot;https://github.com/edwardtufte/tufte-css&quot;&gt;Tufte-css&lt;/a&gt; repo and embedded it here to illustrate the parity in appearence between the two. The additional verbiage and commentary I have added is to document the custom &lt;em&gt;Liquid&lt;/em&gt; markup tags and other features that are bundled with this theme.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-sass-settings-file&quot;&gt;The SASS settings file&lt;/h3&gt;
+
+&lt;p&gt;I have taken much of the actual &lt;em&gt;Tufte-css&lt;/em&gt; files and modified them as necessary to accomodate the needs inherent in creating a Jekyll theme that has additional writing aids such as the Liquid tags. I have also turned the CSS file into a &lt;a href=&quot;http://sass-lang.com&quot;&gt;SASS&lt;/a&gt; file (the .scss type).  This means that you can alter things like font choices, text color, background color, and underlining style by changing values in this file. When the Jekyll site is built using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt; the settings in this file will be compiled into the customized CSS file that the site uses.&lt;/p&gt;
+
+&lt;p&gt;This file looks like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/* This file contains all the constants for colors and font styles */
+
+$body-font:   ETBembo, Palatino, &quot;Palatino Linotype&quot;, &quot;Palatino LT STD&quot;, &quot;Book Antiqua&quot;, Georgia, serif;
+// Note that Gill Sans is the top of the stack and corresponds to what is used in Tufte's books
+// However, it is not a free font, so if it is not present on the computer that is viewing the webpage
+// The free Google 'Lato' font is used instead. It is similar.
+$sans-font:  &quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, &quot;Lato&quot;, Calibri, sans-serif;
+$code-font: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;
+$url-font: &quot;Lucida Console&quot;, &quot;Lucida Sans Typewriter&quot;, Monaco, &quot;Bitstream Vera Sans Mono&quot;, monospace;
+$text-color: #111;
+$bg-color: #fffff8;
+$contrast-color: #a00000;
+$border-color: #333333;
+$link-style: color; // choices are 'color' or 'underline'. Default is color using $contrast-color set above
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Any of these values can be changed in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/_settings.scss&lt;/code&gt; file before the site is built. The default values are the ones from &lt;em&gt;tufte-css&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fundamentals&quot;&gt;Fundamentals&lt;/h2&gt;
+
+&lt;h3 id=&quot;color&quot;&gt;Color&lt;/h3&gt;
+
+&lt;p&gt;Although paper handouts obviously have a pure white background, the web is better served by the use of slightly off-white and off-black colors. I picked &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#fffff8&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#111111&lt;/code&gt; because they are nearly indistinguishable from their ‘pure’ cousins, but dial down the harsh contrast. Tufte’s books are a study in spare, minimalist design. In his book &lt;a href=&quot;http://www.edwardtufte.com/tufte/books_vdqi&quot;&gt;The Visual Display of Quantitative Information&lt;/a&gt;, he uses a red ink to add some visual punctuation to the buff colored paper and dark ink. In that spirit, links are styled using a similar red color.&lt;/p&gt;
+
+&lt;h3 id=&quot;headings&quot;&gt;Headings&lt;/h3&gt;
+
+&lt;p&gt;Tufte CSS uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; for the document title, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; with class &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt; for the document subtitle, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;h2&amp;gt;&lt;/code&gt; for section headings, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; for low-level headings. More specific headings are not encouraged. If you feel the urge to reach for a heading of level 4 or greater, consider redesigning your document:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[It is] notable that the Feynman lectures (3 volumes) write about all of physics in 1800 pages, using only 2 levels of hierarchical headings: chapters and A-level heads in the text. It also uses the methodology of &lt;em&gt;sentences&lt;/em&gt; which then cumulate sequentially into &lt;em&gt;paragraphs&lt;/em&gt;, rather than the grunts of bullet points. Undergraduate Caltech physics is very complicated material, but it didn’t require an elaborate hierarchy to organize.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;&lt;a href=&quot;http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB&quot;&gt;http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+
+&lt;p&gt;As a bonus, this excerpt regarding the use of headings provides an example of using block quotes. Markdown does not have a native &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt; shorthand, but real html can be sprinkled in with the Markdown text. In the previous example, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt; was preceded with a single return after the quotation itself. The previous blockquote was written in Markdown thusly:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Liquid&quot;&gt;[It is] notable that the Feynman lectures (3 volumes) write about all of physics in 1800 pages, using only 2 levels of hierarchical headings: chapters and A-level heads in the text. It also uses the methodology of *sentences* which then cumulate sequentially into *paragraphs*, rather than the grunts of bullet points. Undergraduate Caltech physics is very complicated material, but it didn’t require an elaborate hierarchy to organize.
+&amp;lt;cite&amp;gt;[http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB)&amp;lt;/cite&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;In his later books &lt;label for=&quot;two&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;two&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;a href=&quot;http://www.edwardtufte.com/tufte/books_be&quot;&gt;http://www.edwardtufte.com/tufte/books_be&lt;/a&gt; , Tufte starts each section with a bit of vertical space, a non-indented paragraph, and sets the first few words of the sentence in small caps. To accomplish this using this style, enclose the sentence fragment you want styled with small caps in a custom Liquid tag called ‘newthought’ like so:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Liquid&quot;&gt;{% newthought 'In his later books' %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
+
+&lt;p&gt;In print, Tufte uses the proprietary Monotype Bembo&lt;label for=&quot;3&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;See Tufte’s comment in the &lt;a href=&quot;http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Vt&quot;&gt;Tufte book fonts&lt;/a&gt; thread.  font. A similar effect is achieved in digital formats with the now open-source ETBembo, which Tufte-Jekyll supplies with a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@font-face&lt;/code&gt; reference to a .ttf file. Thanks to &lt;a href=&quot;https://github.com/daveliepmann/tufte-css/commit/0a810a7d5f4707941c6f9fe99a53ec41f50a5c00&quot;&gt;Linjie Ding&lt;/a&gt;, italicized text uses the ETBembo Italic font instead of mechanically skewing the characters. In case ETBembo somehow doesn’t work, Tufte CSS degrades gracefully to other serif fonts like Palatino and Georgia. Notice that Tufte CSS includes separate font files for &lt;strong&gt;bold&lt;/strong&gt; (strong) and &lt;em&gt;italic&lt;/em&gt; (emphasis), instead of relying on the browser to mechanically transform the text. This is typographic best practice. It’s also really important. Thus concludes my unnecessary use of em and strong for the purpose of example.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Code snippets ape GitHub’s font selection using Microsoft’s &lt;a href=&quot;http://www.microsoft.com/typography/ClearTypeFonts.mspx&quot;&gt;&lt;em&gt;Consolas&lt;/em&gt;&lt;/a&gt; and the sans-serif font uses Tufte’s choice of Gill Sans. Since this is not a free font, and some systems will not have it installed, the free google font &lt;a href=&quot;https://www.google.com/fonts/specimen/Lato&quot;&gt;&lt;em&gt;Lato&lt;/em&gt;&lt;/a&gt; is designated as a fallback.&lt;/p&gt;
+
+&lt;h2 id=&quot;epigraphs&quot;&gt;Epigraphs&lt;/h2&gt;
+
+&lt;div class=&quot;epigraph&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The English language . . . becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts.&lt;footer&gt;George Orwell, &lt;cite&gt; &quot;Politics and the English Language&quot; &lt;/cite&gt;&lt;/footer&gt;&amp;lt;/blockquote&amp;gt;&amp;lt;/div&amp;gt;
+
+&lt;div class=&quot;epigraph&quot;&gt;&lt;blockquote&gt;&lt;p&gt;For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.&lt;footer&gt;Richard P. Feynman, &lt;cite&gt; “What Do You Care What Other People Think?” &lt;/cite&gt;&lt;/footer&gt;&amp;lt;/blockquote&amp;gt;&amp;lt;/div&amp;gt;
+
+
+
+If you’d like to introduce your page or a section of your page with some quotes, use epigraphs. The two examples above show how they are styled. Epigraph elements are modeled after chapter epigraphs in Tufte’s books (particularly *Beautiful Evidence*). The [Tufte-css](https://github.com/edwardtufte/tufte-css) gitub repository has detailed instructions on how to achieve this using HTML elements. As an easier alternative, the *Tufte-jekyll* theme uses custom *Liquid tag* pairs that allow the writer to embed elements such as epigraphs in the middle of the regular Markdown text being edited. 
+
+In order to use an epigraph in a page or section, type this:
+
+```{% epigraph 'text of citation' 'author of citation' 'citation source'  %}```
+
+to produce this:
+
+&lt;div class=&quot;epigraph&quot;&gt;&lt;blockquote&gt;&lt;p&gt;I do not paint things, I paint only the differences between things.&lt;footer&gt;Henri Matisse, &lt;cite&gt;Henri Matisse Dessins: thèmes et variations, 1943&lt;/cite&gt;&lt;/footer&gt;&amp;lt;/blockquote&amp;gt;&amp;lt;/div&amp;gt;
+
+&lt;div class=&quot;epigraph&quot;&gt;&lt;blockquote&gt;&lt;p&gt; &quot;How did you go bankrupt?&quot; Two ways. Gradually, then suddenly.&lt;footer&gt;Ernest Hemingway, &lt;cite&gt; &quot;The Sun Also Rises&quot; &lt;/cite&gt;&lt;/footer&gt;&amp;lt;/blockquote&amp;gt;&amp;lt;/div&amp;gt;
+
+### Lists
+
+Tufte points out that while lists have valid uses, they tend to promote ineffective writing habits due to their “lack of syntactic and intellectual discipline”. He is particularly critical of hierarchical and bullet-pointed lists. So before reaching for an HTML list element, ask yourself:
+
+* Does this list actually have to be represented using an HTML ul or ol element?
+* Would my idea be better expressed as sentences in paragraphs?
+* Is my message causally complex enough to warrant a flow diagram instead?
+
+This is but a small subset of a proper overview of the topic of lists in communication. A better way to understand Tufte’s thoughts on lists would be to read “The Cognitive Style of PowerPoint: Pitching Out Corrupts Within,” a chapter in Tufte’s book *Beautiful Evidence*, excerpted at some length by Tufte himself [on his website](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002QF). The whole piece is information-dense and therefore difficult to summarize. He speaks to web design specifically, but in terms of examples and principles rather than as a set of simple do-this, don’t-do-that prescriptions. It is well worth reading in full for that reason alone.
+
+For these reasons, Tufte CSS encourages caution before reaching for a list element, and by default removes the bullet points from unordered lists.
+
+## Figures
+
+### Margin Figures
+
+&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;&amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/ProfessionalResponsibility/assets/img/rhino.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*.
+
+Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the ```_plugins``` directory like so:
+
+```{% marginfigure 'mf-id-whatever' 'assets/img/rhino.png' 'F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*.'  %}```.
+
+Note that this tag has *three* parameters. The first is an arbitrary id. This parameter can be named anything as long as it is unique to this post. The second parameter is the path to the image. And the final parameter is whatever caption you want to be displayed with the figure.  All parameters *must* be enclosed in quotes for this simple liquid tag to work! 
+
+In this example, the *Liquid* marginfigure tag was inserted *before* the paragraph so that it aligns with the beginning of the paragraph. On small screens, the image will collapse into a small symbol: &lt;span class=&quot;contrast &quot;&gt;&amp;#8853; at the location it has been inserted in the manuscript. Clicking on it will open the image.
+
+### Full Width Figures
+
+If you need a full-width image or figure, another custom liquid tag is available to use. Oddly enough, it is named 'fullwidth', and this markup:
+
+```{% fullwidth 'assets/img/napoleons-march.png' 'Napoleon's March *(Edward Tufte’s English translation)*'  %}```
+
+Yields this:
+
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/ProfessionalResponsibility/assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon’s March &lt;em&gt;(Edward Tufte’s English translation)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+### Main Column Figures
+
+Besides margin and full width figures, you can of course also include figures constrained to the main column. Yes, you guessed it, a custom liquid tag rides to the rescue once again:
+
+```{% maincolumn 'assets/img/export-imports.png' 'From Edward Tufte, *Visual Display of Quantitative Information*, page 92'  %}```
+
+yields this:
+
+&lt;figure&gt;&lt;img src=&quot;/ProfessionalResponsibility/assets/img/exports-imports.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;From Edward Tufte, &lt;em&gt;Visual Display of Quantitative Information&lt;/em&gt;, page 92&lt;/figcaption&gt;&lt;/figure&gt;
+
+## Sidenotes and Margin notes
+
+One of the most prominent and distinctive features of Tufte's style is the extensive use of sidenotes and margin notes. Perhaps you have noticed their use in this document already. You are very astute.
+
+There is a wide margin to provide ample room for sidenotes and small figures. There exists a slight semantic distinction between *sidenotes* and *marginnotes*.
+
+### Sidenotes
+
+Sidenotes&lt;label for=&quot;sn-id-whatever&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-id-whatever&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;This is a sidenote and *displays a superscript*  display a superscript. The *sidenote* Liquid tag contains two components. The first is an identifier allowing the sidenote to be targeted by the twitchy index fingers of mobile device users so that all the yummy sidenote goodness is revealed when the superscript is tapped. The second components is the actual content of the sidenote. Both of these components should be enclosed in single quotes. Note that we are using the CSS 'counter' trick to automagically keep track of the number sequence on each page or post. On small screens, the sidenotes disappear and when the superscript is clicked, a side note will open below the content, which can then be closed with a similar click. Here is the markup for the sidenote at the beginning of this paragraph:
+
+```{% sidenote 'sn-id-whatever' 'This is a sidenote and *displays a superscript*'%}```
+
+### Margin notes
+
+Margin notes&lt;label for=&quot;mn-id-whatever&quot; class=&quot;margin-toggle&quot;&gt; &amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-id-whatever&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;This is a margin note *without* a superscript  are similar to sidenotes, but do not display a superscript. The *marginnnote* Liquid tags has the same two components as the *sidenote* tag. Anything can be placed in a margin note. Well, anything that is an inline element. Block level elements can make the Kramdown parser do strange things. On small screens, the margin notes disappear and this symbol: &lt;span class=&quot;contrast &quot;&gt;&amp;#8853; pops up. When clicked, it will open the margin note below the content, which can then be closed with a similar click. The Markdown content has a similar sort of markup as a sidenote, but without a number involved:
+
+```{% marginnote 'mn-id-whatever' 'This is a margin note *without* a superscript' %}```
+
+## Equations
+
+The Markdown parser being used by this Jekyll theme is Kramdown, which contains some built-in [Mathjax](//www.mathjax.org) support. Both inline and block-level mathematical figures can be added to the content.
+
+For instance, the following inline sequence:
+
+*When $$ a \ne 0 $$, there are two solutions to $$ ax^2 + bx + c = 0 $$*
+
+is written by enclosing a Mathjax expression within *a matching pair of double dollar signs: ```$$```*:
+
+```When $$ a \ne 0 $$, there are two solutions to $$ ax^2 + bx + c = 0 $$```
+
+Similarly, this block-level Mathjax expression:
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+is written by enclosing the expression within a pair of ```$$``` with an empty line above and below:
+
+```$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$```
+
+
+You can get pretty fancy, for instance, the wave equation's nabla is no big thing:
+
+$$ \frac{\partial^2 y}{\partial t^2}= c^2\nabla^2u $$
+
+
+All of the standard &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;a&lt;/sup&gt;T&lt;sub&gt;e&lt;/sub&gt;X equation markup is available to use inside these block tags.
+
+Please note that the block-level Mathjax expressions *must* be on their own line, separated from content above and below the block by a blank line for the Kramdown parser and the Mathjax javascript to play nicely with one another.
+
+The Mathjax integration is tricky, and some things such as the inline matrix notation simply do not work well unless allowances are made for using the notation for a small matrix. Bottom line: If you are using this to document mathematics, be super careful to isolate your &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;a&lt;/sup&gt;T&lt;sub&gt;e&lt;/sub&gt;X blocks by blank lines!  
+
+## Tables
+
+Tables are, frankly,  a pain in the ass to create. That said, they often are one of the best methods for presenting data. Tabular data are normally presented with right-aligned numbers, left-aligned text, and minimal grid lines.
+
+Note that when writing Jekyll Markdown content, there will often be a need to get some dirt under your fingernails and stoop to writing a little honest-to-god html. Yes, all that hideous ```&lt;table&gt;..&lt;thead&gt;..&lt;th&gt;``` nonsense. *And* you must wrap the unholy mess in a ```&lt;div class=&quot;table-wrapper&quot;&gt;``` tag to ensure that the table stays centered in the main content column.
+
+Tables are designed with an ```overflow:scroll``` property to create slider bars when the viewport is narrow. This is so that you do not collapse all your beautiful data into a jumble of letters and numbers when you view it on your smartphone.
+
+&lt;label for=&quot;table-1-id&quot; class=&quot;margin-toggle&quot;&gt; &amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;table-1-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;*Table 1*: A table with default style formatting 
+&lt;div class=&quot;table-wrapper&quot;&gt;
+  &lt;table class=&quot;table-alpha&quot; id=&quot;newspaper-tone&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;left&quot;&gt;Content and tone of front-page articles in 94 U.S. newspapers, October and November, 1974&lt;/th&gt;
+        &lt;th class=&quot;left&quot;&gt;Number of articles&lt;/th&gt;
+        &lt;th&gt;Percent of articles with negative criticism of specific person or policy&lt;/th&gt;&lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Watergate: defendants and prosecutors, Ford’s pardon of Nixon&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;537&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;49%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Inflation, high cost of living&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;415&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;28%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Government competence: costs, quality, salaries of public employees&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;322&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;30%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Confidence in government: power of special interests, trust in political leaders, dishonesty in politics&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;266&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;52%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Government power: regulation of business, secrecy, control of CIA and FBI&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;154&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;42%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Crime&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;123&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number r&quot;&gt;30%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Race&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;103&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;25%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Unemployment&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;100&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;13%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;text&quot;&gt;Shortages: energy, food&lt;/td&gt;
+        &lt;td&gt;&lt;div class=&quot;number&quot;&gt;68&lt;/div&gt;&lt;/td&gt;
+        &lt;td class=&quot;c&quot;&gt;&lt;div class=&quot;number&quot;&gt;16%&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+This is not the One True Table. Such a style does not exist. One must craft each data table with custom care to the narrative one is telling with that specific data. So take this not as “the table style to use”, but rather as “a table style to start from”. From here, use principles to guide you: avoid chartjunk, optimize the data-ink ratio (“within reason”, as Tufte says), and “mobilize every graphical element, perhaps several times over, to show the data.&lt;label for=&quot;table-id&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;table-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Page 139, *The Visual Display of Quantitative Information*, Edward Tufte 2001.  Furthermore, one must know when to reach for more complex data presentation tools, like a custom graphic or a JavaScript charting library.
+
+As an example of alternative table styles, academic publications written in &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;a&lt;/sup&gt;T&lt;sub&gt;e&lt;/sub&gt;X often rely on the ```booktabs``` package to produce clean, clear tables. Similar results can be achieved in Tufte CSS with the ```booktabs``` class, as demonstrated in this table:
+
+&lt;label for=&quot;table-2-id&quot; class=&quot;margin-toggle&quot;&gt; &amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;table-2-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;*Table 2*: A table with booktabs style formatting 
+&lt;div class=&quot;table-wrapper&quot;&gt;
+&lt;table class=&quot;booktabs&quot;&gt;
+          &lt;thead&gt;
+            &lt;tr&gt;&lt;th colspan=&quot;2&quot; class=&quot;cmid&quot;&gt;Items&lt;/th&gt;&lt;th class=&quot;nocmid&quot;&gt;&lt;/th&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;th class=&quot;l&quot;&gt;Animal&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;th class=&quot;r&quot;&gt;Price ($)&lt;/th&gt;&lt;/tr&gt;
+          &lt;/thead&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;&lt;td&gt;Gnat&lt;/td&gt;     &lt;td&gt;per gram&lt;/td&gt;&lt;td class=&quot;r&quot;&gt;13.65&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;/td&gt;         &lt;td&gt;each&lt;/td&gt;    &lt;td class=&quot;r&quot;&gt;0.01&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Gnu&lt;/td&gt;      &lt;td&gt;stuffed&lt;/td&gt; &lt;td class=&quot;r&quot;&gt;92.50&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Emu&lt;/td&gt;      &lt;td&gt;stuffed&lt;/td&gt; &lt;td class=&quot;r&quot;&gt;33.33&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Armadillo&lt;/td&gt;&lt;td&gt;frozen&lt;/td&gt;  &lt;td class=&quot;r&quot;&gt;8.99&lt;/td&gt;&lt;/tr&gt;
+          &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+The table above was written in HTML as follows:
+
+```
+&lt;div class=&quot;table-wrapper&quot;&gt;
+&lt;table class=&quot;booktabs&quot;&gt;
+          &lt;thead&gt;
+            &lt;tr&gt;&lt;th colspan=&quot;2&quot; class=&quot;cmid&quot;&gt;Items&lt;/th&gt;&lt;th class=&quot;nocmid&quot;&gt;&lt;/th&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;th class=&quot;l&quot;&gt;Animal&lt;/th&gt;&lt;th&gt;Description&amp;lt;/th class=&quot;r&quot;&amp;gt;&lt;th&gt;Price ($)&lt;/th&gt;&amp;lt;/tr&amp;gt;
+          &amp;lt;/thead&amp;gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;&lt;td&gt;Gnat&lt;/td&gt;     &lt;td&gt;per gram&lt;/td&gt;&lt;td class=&quot;r&quot;&gt;13.65&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;/td&gt;         &lt;td&gt;each&lt;/td&gt;    &lt;td class=&quot;r&quot;&gt;0.01&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Gnu&lt;/td&gt;      &lt;td&gt;stuffed&lt;/td&gt; &lt;td class=&quot;r&quot;&gt;92.50&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Emu&lt;/td&gt;      &lt;td&gt;stuffed&lt;/td&gt; &lt;td class=&quot;r&quot;&gt;33.33&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Armadillo&lt;/td&gt;&lt;td&gt;frozen&lt;/td&gt;  &lt;td class=&quot;r&quot;&gt;8.99&lt;/td&gt;&lt;/tr&gt;
+          &lt;/tbody&gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;
+```
+
+
+&lt;span class=&quot;newthought&quot;&gt;I like this style of table,   so I have made it the default for unstyled tables. This allows use of the [*Markdown Extra*](https://michelf.ca/projects/php-markdown/extra/) features built into the [*Kramdown*](http://kramdown.gettalong.org/parser/kramdown.html) parser. Here is a table created using the Markdown Extra table syntax to make a nice table which has the side benefit of being human readable in the raw Markdown file:
+
+&lt;label for=&quot;tableID-3&quot; class=&quot;margin-toggle&quot;&gt; &amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;tableID-3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Table 3: a table created with *Markdown Extra* markup using only the default table styling 
+
+|                 |mpg  | cyl  |  disp  |   hp   |  drat  | wt  |
+|:----------------|----:|-----:|-------:|-------:|-------:|----:|
+|Mazda RX4        |21   |6     |160     |110     |3.90    |2.62 |
+|Mazda RX4 Wag    |21   |6     |160     |110     |3.90    |2.88 |
+|Datsun 710       |22.8 |4     |108     |93      |3.85    |2.32 |
+|Hornet 4 Drive   |21.4 |6     |258     |110     |3.08    |3.21 |
+|Hornet Sportabout|18.7 |8     |360     |175     |3.15    |3.44 |
+|Valiant          |18.1 |6     |160     |105     |2.76    |3.46 |
+
+
+Using the following Markdown formatting:
+
+```
+|                 |mpg  | cyl  |  disp  |   hp   |  drat  | wt  |
+|:----------------|----:|-----:|-------:|-------:|-------:|----:|
+|Mazda RX4        |21   |6     |160     |110     |3.90    |2.62 |
+|Mazda RX4 Wag    |21   |6     |160     |110     |3.90    |2.88 |
+|Datsun 710       |22.8 |4     |108     |93      |3.85    |2.32 |
+etc...
+```
+
+The following is a more simple table, showing the Markdown-style table markup. Remember to label the table with a *marginnote* Liquid tag, and you *must* separate the label from the table with a single blank line. This markup:
+
+```
+{% marginnote 'Table-ID4' 'Table 4: a simple table showing left, center, and right alignment of table headings and data'  %}
+
+|**Left** |**Center**|**Right**|
+|:--------|:--------:|--------:|
+ Aardvarks|         1|$3.50
+       Cat|   5      |$4.23
+  Dogs    |3         |$5.29
+```
+
+Yields this table:
+
+&lt;label for=&quot;Table-ID4&quot; class=&quot;margin-toggle&quot;&gt; &amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;Table-ID4&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Table 4: a simple table showing left, center, and right alignment of table headings and data 
+
+|**Left** |**Center**|**Right**|
+|:--------|:--------:|--------:|
+ Aardvarks|         1|$3.50
+       Cat|   5      |$4.23
+  Dogs    |3         |$5.29
+
+
+## Code
+
+Code samples use a monospace font using the 'code' class. The Kramdown parser has the 'GFM' option enabled, which stands for 'Github Flavored Markdown', and this means that both inline code such as ```#include &lt;stdio.h&gt;``` and blocks of code can be delimited by surrounding them with 3 backticks:
+
+```
+(map tufte-style all-the-things)
+```
+is created by the following markup:
+&lt;pre&gt;&lt;code&gt;```(map tufte-style all-the-things)```&lt;/code&gt;&lt;/pre&gt;
+
+To get the code highlighted in the language of your choice like so:
+
+
+``` ruby
+module Jekyll
+  class RenderFullWidthTag &amp;lt; Liquid::Tag
+  require &quot;shellwords&quot;
+
+    def initialize(tag_name, text, tokens)
+      super
+      @text = text.shellsplit
+    end
+
+    def render(context)
+      &quot;&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;#{@text[0]}&quot; /&gt;&lt;/div&gt; &quot; +
+      &quot;&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;#{@text[1]}&quot;
+    end
+  end
+end
+
+Liquid::Template.register_tag('fullwidth', Jekyll::RenderFullWidthTag)
+```
+
+Enclose the code block in three backticks, followed by a space and then the language name, like this:
+
+&lt;pre&gt; &lt;code&gt;``` ruby
+    module Jekyll
+    blah, blah...
+   ```&lt;/code&gt; &lt;/pre&gt;
+
+
+&lt;/span&gt;&lt;/p&gt;&lt;/stdio.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/th&gt;&lt;/thead&gt;&lt;/table&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2020 05:46:04 -0400</pubDate>
+        <link>https://www.emfink.net/ProfessionalResponsibility/articles/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">https://www.emfink.net/ProfessionalResponsibility/articles/tufte-style-jekyll-blog</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
+    
   </channel>
 </rss>
