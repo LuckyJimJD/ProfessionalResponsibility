@@ -12,7 +12,6 @@ title: Schedule & Assignments
 ### What Makes Law a Profession? 
 
 - Andrew Abbott, *The System of Professions: An Essay on the Division of Expert Labor*, pp. X-X (1988)
-- Kathi Weeks, *The Problem with Work: Feminism, Marxism, Antiwork Politics, & Postwork Imaginaries* (2011:74)
 
 #### September 1
 
